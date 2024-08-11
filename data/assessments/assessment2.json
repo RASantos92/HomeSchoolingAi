@@ -1,0 +1,622 @@
+[
+    {
+        "assesment_test_number": 1,
+        "subjects": [
+            {
+                "questionNumber": 1,
+                "scenario": "",
+                "question": "What is the value of x in the equation 3x + 5 = 20?",
+                "options": [
+                    "1) 5",
+                    "2) 10",
+                    "3) 15",
+                    "4) 20"
+                ],
+                "explanation": "To solve for x, subtract 5 from both sides to get 3x = 15. Then divide both sides by 3, resulting in x = 5.",
+                "answer": "1) 5",
+                "grade_level": "9",
+                "subject": "Mathematics"
+            },
+            {
+                "questionNumber": 2,
+                "scenario": "",
+                "question": "Which of the following is the correct factorization of the expression x^2 - 5x + 6?",
+                "options": [
+                    "1) (x - 2)(x - 3)",
+                    "2) (x - 1)(x - 6)",
+                    "3) (x + 2)(x + 3)",
+                    "4) (x - 3)(x - 2)"
+                ],
+                "explanation": "The expression can be factored into (x - 2)(x - 3) because -2 and -3 are the roots that multiply to 6 and add to -5.",
+                "answer": "1) (x - 2)(x - 3)",
+                "grade_level": "9",
+                "subject": "Mathematics"
+            },
+            {
+                "questionNumber": 3,
+                "scenario": "",
+                "question": "What is the area of a triangle with a base of 10 cm and a height of 5 cm?",
+                "options": [
+                    "1) 25 cm\u00b2",
+                    "2) 30 cm\u00b2",
+                    "3) 35 cm\u00b2",
+                    "4) 50 cm\u00b2"
+                ],
+                "explanation": "The area of a triangle is calculated with the formula (1/2) * base * height. Here it is (1/2) * 10 * 5 = 25 cm\u00b2.",
+                "answer": "1) 25 cm\u00b2",
+                "grade_level": "9",
+                "subject": "Mathematics"
+            },
+            {
+                "questionNumber": 4,
+                "scenario": "",
+                "question": "The sum of the angles in a triangle is always:",
+                "options": [
+                    "1) 90 degrees",
+                    "2) 180 degrees",
+                    "3) 360 degrees",
+                    "4) 270 degrees"
+                ],
+                "explanation": "By geometry, the sum of the internal angles in any triangle always equals 180 degrees.",
+                "answer": "2) 180 degrees",
+                "grade_level": "9",
+                "subject": "Mathematics"
+            },
+            {
+                "questionNumber": 5,
+                "scenario": "",
+                "question": "What is the solution to the inequality 2x - 3 > 7?",
+                "options": [
+                    "1) x > 5",
+                    "2) x < 5",
+                    "3) x \u2265 5",
+                    "4) x \u2264 5"
+                ],
+                "explanation": "Start by adding 3 to both sides, giving us 2x > 10, then dividing by 2 gives x > 5.",
+                "answer": "1) x > 5",
+                "grade_level": "9",
+                "subject": "Mathematics"
+            },
+            {
+                "questionNumber": 6,
+                "scenario": "",
+                "question": "What is 12% of 150?",
+                "options": [
+                    "1) 12",
+                    "2) 15",
+                    "3) 18",
+                    "4) 20"
+                ],
+                "explanation": "To calculate 12% of 150, multiply 150 by 0.12. Thus, 150 * 0.12 = 18.",
+                "answer": "3) 18",
+                "grade_level": "9",
+                "subject": "Mathematics"
+            },
+            {
+                "questionNumber": 7,
+                "scenario": "",
+                "question": "If the function f(x) = 2x + 3, what is f(4)?",
+                "options": [
+                    "1) 8",
+                    "2) 10",
+                    "3) 11",
+                    "4) 12"
+                ],
+                "explanation": "Replace x with 4 in the function: f(4) = 2(4) + 3 = 8 + 3 = 11.",
+                "answer": "3) 11",
+                "grade_level": "9",
+                "subject": "Mathematics"
+            },
+            {
+                "questionNumber": 8,
+                "scenario": "",
+                "question": "What is the slope of the line that passes through the points (2,3) and (4,7)?",
+                "options": [
+                    "1) 1",
+                    "2) 2",
+                    "3) 3",
+                    "4) 4"
+                ],
+                "explanation": "Slope is calculated by (y2 - y1) / (x2 - x1). So it\u2019s (7-3)/(4-2) = 4/2 = 2.",
+                "answer": "2) 2",
+                "grade_level": "9",
+                "subject": "Mathematics"
+            },
+            {
+                "questionNumber": 9,
+                "scenario": "",
+                "question": "Which of the following is a prime number?",
+                "options": [
+                    "1) 9",
+                    "2) 15",
+                    "3) 23",
+                    "4) 25"
+                ],
+                "explanation": "A prime number is only divisible by 1 and itself. Among the options, only 23 fits this definition.",
+                "answer": "3) 23",
+                "grade_level": "9",
+                "subject": "Mathematics"
+            },
+            {
+                "questionNumber": 10,
+                "scenario": "",
+                "question": "What is the greatest common factor (GCF) of 36 and 60?",
+                "options": [
+                    "1) 6",
+                    "2) 12",
+                    "3) 18",
+                    "4) 24"
+                ],
+                "explanation": "The GCF of 36 and 60 is 12, as it is the largest number that divides both 36 and 60 evenly.",
+                "answer": "2) 12",
+                "grade_level": "9",
+                "subject": "Mathematics"
+            }
+        ]
+    },
+    {
+        "assesment_test_number": 1,
+        "subjects": [
+            {
+                "questionNumber": 1,
+                "scenario": "",
+                "question": "What is the main theme of the novel 'To Kill a Mockingbird'?",
+                "options": [
+                    "1) Racial injustice",
+                    "2) Economic prosperity",
+                    "3) Friendship",
+                    "4) Adventure"
+                ],
+                "explanation": "The main theme of 'To Kill a Mockingbird' is racial injustice, which is explored through the experiences of Scout Finch and her father Atticus.",
+                "answer": "1) Racial injustice",
+                "grade_level": "9",
+                "subject": "Language Arts"
+            },
+            {
+                "questionNumber": 2,
+                "scenario": "",
+                "question": "Which literary device involves giving human qualities to non-human entities?",
+                "options": [
+                    "1) Metaphor",
+                    "2) Personification",
+                    "3) Alliteration",
+                    "4) Hyperbole"
+                ],
+                "explanation": "Personification is a literary device that gives human traits to animals, inanimate objects, or abstract concepts.",
+                "answer": "2) Personification",
+                "grade_level": "9",
+                "subject": "Language Arts"
+            },
+            {
+                "questionNumber": 3,
+                "scenario": "",
+                "question": "In poetry, what is the term for the rhyme scheme of 'ABAB'?",
+                "options": [
+                    "1) Couplet",
+                    "2) Quatrain",
+                    "3) Free verse",
+                    "4) Sonnet"
+                ],
+                "explanation": "ABAB describes a quatrain rhyme scheme where the first and third lines rhyme with each other, and the second and fourth lines rhyme with each other.",
+                "answer": "2) Quatrain",
+                "grade_level": "9",
+                "subject": "Language Arts"
+            },
+            {
+                "questionNumber": 4,
+                "scenario": "",
+                "question": "What is the primary purpose of a thesis statement in an essay?",
+                "options": [
+                    "1) To provide background information",
+                    "2) To introduce a literary device",
+                    "3) To state the main argument or point",
+                    "4) To summarize the conclusion"
+                ],
+                "explanation": "The thesis statement is crucial as it states the main argument or point of the essay, guiding the reader on its direction.",
+                "answer": "3) To state the main argument or point",
+                "grade_level": "9",
+                "subject": "Language Arts"
+            },
+            {
+                "questionNumber": 5,
+                "scenario": "",
+                "question": "Which of the following best defines 'foreshadowing'?",
+                "options": [
+                    "1) A sudden twist in the plot",
+                    "2) A hint of future events in the story",
+                    "3) A character's internal conflict",
+                    "4) The introduction of a new character"
+                ],
+                "explanation": "Foreshadowing is a literary device that gives an indication or hint of what is to come later in the story.",
+                "answer": "2) A hint of future events in the story",
+                "grade_level": "9",
+                "subject": "Language Arts"
+            },
+            {
+                "questionNumber": 6,
+                "scenario": "",
+                "question": "Identify the correct definition of a metaphor.",
+                "options": [
+                    "1) A comparison using 'like' or 'as'",
+                    "2) An exaggeration for effect",
+                    "3) A direct comparison between two unrelated things",
+                    "4) A reference to another literary work"
+                ],
+                "explanation": "A metaphor is a figure of speech that makes a direct comparison between two unrelated things without using 'like' or 'as'.",
+                "answer": "3) A direct comparison between two unrelated things",
+                "grade_level": "9",
+                "subject": "Language Arts"
+            },
+            {
+                "questionNumber": 7,
+                "scenario": "",
+                "question": "Which of the following is an example of an allegorical story?",
+                "options": [
+                    "1) 'Animal Farm' by George Orwell",
+                    "2) 'Moby Dick' by Herman Melville",
+                    "3) 'Romeo and Juliet' by William Shakespeare",
+                    "4) 'The Great Gatsby' by F. Scott Fitzgerald"
+                ],
+                "explanation": "'Animal Farm' by George Orwell is an allegorical story that uses animals to represent the Russian Revolution and critiques totalitarianism.",
+                "answer": "1) 'Animal Farm' by George Orwell",
+                "grade_level": "9",
+                "subject": "Language Arts"
+            },
+            {
+                "questionNumber": 8,
+                "scenario": "",
+                "question": "What is the significance of the setting in a story?",
+                "options": [
+                    "1) It influences the plot and character relationships",
+                    "2) It has no impact on the story",
+                    "3) It is just the time period of the story",
+                    "4) It only describes the characters"
+                ],
+                "explanation": "The setting can greatly influence the plot, character relationships, and the overall mood of a story.",
+                "answer": "1) It influences the plot and character relationships",
+                "grade_level": "9",
+                "subject": "Language Arts"
+            },
+            {
+                "questionNumber": 9,
+                "scenario": "",
+                "question": "In the context of literary analysis, what does the term 'tone' refer to?",
+                "options": [
+                    "1) The viewpoint of the writer",
+                    "2) The author's attitude toward the subject",
+                    "3) The characters' feelings",
+                    "4) The storyline's structure"
+                ],
+                "explanation": "Tone refers to the author's attitude toward the subject or the audience, conveyed through language and style.",
+                "answer": "2) The author's attitude toward the subject",
+                "grade_level": "9",
+                "subject": "Language Arts"
+            },
+            {
+                "questionNumber": 10,
+                "scenario": "",
+                "question": "What role does irony play in literature?",
+                "options": [
+                    "1) It introduces conflict",
+                    "2) It provides comic relief",
+                    "3) It creates a contrast between expectation and reality",
+                    "4) It develops the plot"
+                ],
+                "explanation": "Irony plays a role in creating a contrast between what is expected and what actually occurs, adding depth to the story and provoking thought.",
+                "answer": "3) It creates a contrast between expectation and reality",
+                "grade_level": "9",
+                "subject": "Language Arts"
+            }
+        ]
+    },
+    {
+        "assesment_test_number": 1,
+        "subjects": [
+            {
+                "questionNumber": 1,
+                "scenario": "In a chemistry experiment, what happens to the temperature of a substance during a phase change?",
+                "question": "What happens to the temperature of a substance during a phase change?",
+                "options": [
+                    "1) It remains constant.",
+                    "2) It increases.",
+                    "3) It decreases.",
+                    "4) It varies randomly."
+                ],
+                "explanation": "During a phase change, the temperature of a substance remains constant as energy is used to change the phase rather than increase the temperature.",
+                "answer": "1) It remains constant.",
+                "grade_level": "9",
+                "subject": "Science"
+            },
+            {
+                "questionNumber": 2,
+                "scenario": "In physics, the motion of a ball thrown into the air can be described.",
+                "question": "What type of energy does the ball have when it reaches its highest point?",
+                "options": [
+                    "1) Kinetic energy.",
+                    "2) Potential energy.",
+                    "3) Thermal energy.",
+                    "4) Chemical energy."
+                ],
+                "explanation": "At the highest point, the ball's velocity is zero, meaning its kinetic energy is at a minimum, while its potential energy is at maximum due to its height.",
+                "answer": "2) Potential energy.",
+                "grade_level": "9",
+                "subject": "Science"
+            },
+            {
+                "questionNumber": 3,
+                "scenario": "In biology, understanding ecosystems is important for environmental science.",
+                "question": "What do we call the group of different species that live together in one area?",
+                "options": [
+                    "1) Population.",
+                    "2) Community.",
+                    "3) Ecosystem.",
+                    "4) Habitat."
+                ],
+                "explanation": "A community is defined as all the different species that inhabit a particular area, while a population refers to just one species.",
+                "answer": "2) Community.",
+                "grade_level": "9",
+                "subject": "Science"
+            },
+            {
+                "questionNumber": 4,
+                "scenario": "A chemical reaction involves the transformation of reactants into products.",
+                "question": "What is the term for the substance formed as a result of a chemical reaction?",
+                "options": [
+                    "1) Catalysts.",
+                    "2) Reactants.",
+                    "3) Products.",
+                    "4) Substrates."
+                ],
+                "explanation": "The substances produced by the reaction are known as products; reactants are the substances that undergo change.",
+                "answer": "3) Products.",
+                "grade_level": "9",
+                "subject": "Science"
+            },
+            {
+                "questionNumber": 5,
+                "scenario": "In earth science, weathering plays a role in shaping the landscape.",
+                "question": "What is the breakdown of rocks into smaller particles without changing their chemical composition called?",
+                "options": [
+                    "1) Erosion.",
+                    "2) Weathering.",
+                    "3) Sedimentation.",
+                    "4) Lithification."
+                ],
+                "explanation": "Weathering is the process that breaks down rocks into smaller particles through physical or chemical means, without altering their composition.",
+                "answer": "2) Weathering.",
+                "grade_level": "9",
+                "subject": "Science"
+            },
+            {
+                "questionNumber": 6,
+                "scenario": "Energy transformations are observed in various systems.",
+                "question": "What is the main source of energy for Earth's atmosphere?",
+                "options": [
+                    "1) Geothermal energy.",
+                    "2) Solar energy.",
+                    "3) Wind energy.",
+                    "4) Nuclear energy."
+                ],
+                "explanation": "Solar energy is the primary energy source for the Earth's atmosphere, driving weather and climate processes.",
+                "answer": "2) Solar energy.",
+                "grade_level": "9",
+                "subject": "Science"
+            },
+            {
+                "questionNumber": 7,
+                "scenario": "In genetics, organisms inherit traits from their parents.",
+                "question": "What is the term for an organism's physical appearance?",
+                "options": [
+                    "1) Genotype.",
+                    "2) Phenotype.",
+                    "3) Allele.",
+                    "4) Gene."
+                ],
+                "explanation": "Phenotype refers to the observable physical characteristics of an organism, which are influenced by its genotype and environment.",
+                "answer": "2) Phenotype.",
+                "grade_level": "9",
+                "subject": "Science"
+            },
+            {
+                "questionNumber": 8,
+                "scenario": "Understanding the structure of the atom is fundamental in chemistry.",
+                "question": "What subatomic particle has a positive charge?",
+                "options": [
+                    "1) Electron.",
+                    "2) Proton.",
+                    "3) Neutron.",
+                    "4) Photon."
+                ],
+                "explanation": "Protons are positively charged particles found in the nucleus of an atom, while electrons have a negative charge and neutrons are neutral.",
+                "answer": "2) Proton.",
+                "grade_level": "9",
+                "subject": "Science"
+            },
+            {
+                "questionNumber": 9,
+                "scenario": "The water cycle demonstrates the movement of water through different phases.",
+                "question": "What process involves water vapor turning back into liquid water?",
+                "options": [
+                    "1) Evaporation.",
+                    "2) Condensation.",
+                    "3) Precipitation.",
+                    "4) Transpiration."
+                ],
+                "explanation": "Condensation is the process in which water vapor cools and changes back into liquid water, forming clouds or dew.",
+                "answer": "2) Condensation.",
+                "grade_level": "9",
+                "subject": "Science"
+            },
+            {
+                "questionNumber": 10,
+                "scenario": "In physics, forces can affect the motion of objects.",
+                "question": "What law states that an object at rest stays at rest unless acted upon by an external force?",
+                "options": [
+                    "1) Newton's First Law of Motion.",
+                    "2) Newton's Second Law of Motion.",
+                    "3) Newton's Third Law of Motion.",
+                    "4) Law of Conservation of Energy."
+                ],
+                "explanation": "Newton's First Law of Motion states that an object will not change its motion unless a force acts on it, which is also known as the law of inertia.",
+                "answer": "1) Newton's First Law of Motion.",
+                "grade_level": "9",
+                "subject": "Science"
+            }
+        ]
+    },
+    {
+        "assesment_test_number": 1,
+        "subjects": [
+            {
+                "questionNumber": 1,
+                "scenario": "",
+                "question": "What was the main cause of the American Civil War?",
+                "options": [
+                    "1) Slavery",
+                    "2) Economic Differences",
+                    "3) States' Rights",
+                    "4) Foreign Influence"
+                ],
+                "explanation": "The main cause of the American Civil War was the issue of slavery, particularly the Southern states' desire to maintain the institution of slavery against the growing abolitionist sentiment in the North.",
+                "answer": "1) Slavery",
+                "grade_level": "9",
+                "subject": "Social Studies"
+            },
+            {
+                "questionNumber": 2,
+                "scenario": "",
+                "question": "Which document officially ended the American Revolutionary War?",
+                "options": [
+                    "1) The Treaty of Paris (1783)",
+                    "2) The Declaration of Independence",
+                    "3) The Articles of Confederation",
+                    "4) The Constitution"
+                ],
+                "explanation": "The Treaty of Paris signed in 1783 officially ended the American Revolutionary War and recognized American independence from Britain.",
+                "answer": "1) The Treaty of Paris (1783)",
+                "grade_level": "9",
+                "subject": "Social Studies"
+            },
+            {
+                "questionNumber": 3,
+                "scenario": "",
+                "question": "Which of the following best describes the purpose of the Bill of Rights?",
+                "options": [
+                    "1) To outline the powers of Congress",
+                    "2) To protect individual liberties",
+                    "3) To establish the judiciary",
+                    "4) To define the executive branch"
+                ],
+                "explanation": "The Bill of Rights was created to protect the individual liberties of American citizens and limit government power over them.",
+                "answer": "2) To protect individual liberties",
+                "grade_level": "9",
+                "subject": "Social Studies"
+            },
+            {
+                "questionNumber": 4,
+                "scenario": "",
+                "question": "What was the significance of the Emancipation Proclamation?",
+                "options": [
+                    "1) It granted women the right to vote",
+                    "2) It freed all slaves in Confederate states",
+                    "3) It ended the Civil War",
+                    "4) It established the 13th Amendment"
+                ],
+                "explanation": "The Emancipation Proclamation issued by Abraham Lincoln in 1863 declared the freedom of all slaves in the Confederate states, which was a pivotal moment in the Civil War.",
+                "answer": "2) It freed all slaves in Confederate states",
+                "grade_level": "9",
+                "subject": "Social Studies"
+            },
+            {
+                "questionNumber": 5,
+                "scenario": "",
+                "question": "What was the main outcome of the Treaty of Versailles (1919)?",
+                "options": [
+                    "1) The start of World War II",
+                    "2) German reparations and territorial losses",
+                    "3) The formation of the League of Nations",
+                    "4) The end of the Cold War"
+                ],
+                "explanation": "The Treaty of Versailles imposed heavy reparations and territorial losses on Germany after World War I, significantly shaping the political landscape of Europe.",
+                "answer": "2) German reparations and territorial losses",
+                "grade_level": "9",
+                "subject": "Social Studies"
+            },
+            {
+                "questionNumber": 6,
+                "scenario": "",
+                "question": "Which movement sought to promote social reforms such as women's suffrage and labor rights in the late 19th and early 20th century?",
+                "options": [
+                    "1) The Civil Rights Movement",
+                    "2) The Progressive Movement",
+                    "3) The Enlightenment",
+                    "4) The Cold War"
+                ],
+                "explanation": "The Progressive Movement aimed to address various social issues such as women's suffrage, labor rights, and corruption in government.",
+                "answer": "2) The Progressive Movement",
+                "grade_level": "9",
+                "subject": "Social Studies"
+            },
+            {
+                "questionNumber": 7,
+                "scenario": "",
+                "question": "Which geographic factor most affected the development of early Mesopotamian civilizations?",
+                "options": [
+                    "1) Mountains",
+                    "2) Rivers",
+                    "3) Deserts",
+                    "4) Forests"
+                ],
+                "explanation": "The presence of rivers in Mesopotamia, particularly the Tigris and Euphrates, provided water for irrigation, facilitating agriculture and the growth of civilizations.",
+                "answer": "2) Rivers",
+                "grade_level": "9",
+                "subject": "Social Studies"
+            },
+            {
+                "questionNumber": 8,
+                "scenario": "",
+                "question": "The Cold War was primarily a struggle between which two nations?",
+                "options": [
+                    "1) USA and China",
+                    "2) USA and Russia (Soviet Union)",
+                    "3) France and Germany",
+                    "4) USA and Japan"
+                ],
+                "explanation": "The Cold War was predominantly a geopolitical tension between the United States and the Soviet Union, characterized by ideological conflict.",
+                "answer": "2) USA and Russia (Soviet Union)",
+                "grade_level": "9",
+                "subject": "Social Studies"
+            },
+            {
+                "questionNumber": 9,
+                "scenario": "",
+                "question": "What was one of the primary causes of the Great Depression?",
+                "options": [
+                    "1) Overproduction and stock market crash",
+                    "2) The end of World War II",
+                    "3) The Civil Rights Movement",
+                    "4) The Industrial Revolution"
+                ],
+                "explanation": "The Great Depression was largely caused by overproduction, leading to a stock market crash in 1929, which in turn resulted in massive unemployment and economic collapse.",
+                "answer": "1) Overproduction and stock market crash",
+                "grade_level": "9",
+                "subject": "Social Studies"
+            },
+            {
+                "questionNumber": 10,
+                "scenario": "",
+                "question": "Which amendment to the United States Constitution granted women the right to vote?",
+                "options": [
+                    "1) 15th Amendment",
+                    "2) 19th Amendment",
+                    "3) 24th Amendment",
+                    "4) 26th Amendment"
+                ],
+                "explanation": "The 19th Amendment, ratified in 1920, granted women the legal right to vote in the United States.",
+                "answer": "2) 19th Amendment",
+                "grade_level": "9",
+                "subject": "Social Studies"
+            }
+        ]
+    }
+]
