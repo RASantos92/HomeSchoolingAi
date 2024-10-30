@@ -1,0 +1,219 @@
+[
+    {
+        "days": [
+            {
+                "day_name": "Monday",
+                "subjects": [
+                    {
+                        "subject_name": "Language Arts",
+                        "subject_topic": "Summarizing Texts",
+                        "subject_daily_intro": "Today, we will delve into the essential skill of summarizing texts. This will involve identifying key ideas and conveying them concisely.",
+                        "subject_daily_sub_topics": [],
+                        "subject_topic_daily_summary": "By the end of the session, you will have learned how to pinpoint main ideas in various texts and how to summarize them effectively."
+                    },
+                    {
+                        "subject_name": "Mathematics",
+                        "subject_topic": "Factors and Multiples",
+                        "subject_daily_intro": "In Mathematics today, we will explore the concepts of factors and multiples, which are foundational to understanding number relationships.",
+                        "subject_daily_sub_topics": [],
+                        "subject_topic_daily_summary": "You will learn how to identify factors and multiples, which will help you simplify problems and enhance your arithmetic skills."
+                    },
+                    {
+                        "subject_name": "Science",
+                        "subject_topic": "Measurements and Units",
+                        "subject_daily_intro": "Today's Science lesson will focus on measurements and units, essential for conducting experiments and understanding scientific data.",
+                        "subject_daily_sub_topics": [],
+                        "subject_topic_daily_summary": "You will become familiar with various measurement systems and understand how to apply appropriate units in different contexts."
+                    },
+                    {
+                        "subject_name": "Social Studies",
+                        "subject_topic": "Social Science Research Methods",
+                        "subject_daily_intro": "In Social Studies, we will begin our exploration of research methods used in social sciences, which are crucial for investigating social phenomena.",
+                        "subject_daily_sub_topics": [],
+                        "subject_topic_daily_summary": "You will learn about different methodologies in social science research, including qualitative and quantitative approaches."
+                    }
+                ]
+            },
+            {
+                "day_name": "Tuesday",
+                "subjects": [
+                    {
+                        "subject_name": "Language Arts",
+                        "subject_topic": "Summarizing Texts",
+                        "subject_daily_intro": "Continuing from yesterday, we will practice summarizing different types of texts, focusing on extracting key details.",
+                        "subject_daily_sub_topics": [
+                            "Identifying Main Ideas",
+                            "Paraphrasing Techniques"
+                        ],
+                        "subject_topic_daily_summary": "Today, you will enhance your summarization skills by identifying main ideas and practicing effective paraphrasing."
+                    },
+                    {
+                        "subject_name": "Mathematics",
+                        "subject_topic": "Factors and Multiples",
+                        "subject_daily_intro": "Building on our previous lesson, we will apply factors and multiples in problem-solving scenarios.",
+                        "subject_daily_sub_topics": [
+                            "Prime Numbers",
+                            "Finding Common Factors"
+                        ],
+                        "subject_topic_daily_summary": "By the end of today's lesson, you should be able to solve problems involving factors and multiples, including identifying prime numbers."
+                    },
+                    {
+                        "subject_name": "Science",
+                        "subject_topic": "Measurements and Units",
+                        "subject_daily_intro": "We'll further explore measurements and units today, focusing on converting between different units.",
+                        "subject_daily_sub_topics": [
+                            "Conversion Techniques",
+                            "Accuracy in Measurements"
+                        ],
+                        "subject_topic_daily_summary": "You will learn how to convert between different measurement units accurately, which is crucial in scientific practices."
+                    },
+                    {
+                        "subject_name": "Social Studies",
+                        "subject_topic": "Social Science Research Methods",
+                        "subject_daily_intro": "Today, we will explore various types of social science research, continuing from our initial discussions on methodologies.",
+                        "subject_daily_sub_topics": [
+                            "Survey Research",
+                            "Case Studies"
+                        ],
+                        "subject_topic_daily_summary": "You will learn about specific research methods, such as survey research and case studies, used to gather information in social sciences."
+                    }
+                ]
+            },
+            {
+                "day_name": "Wednesday",
+                "subjects": [
+                    {
+                        "subject_name": "Language Arts",
+                        "subject_topic": "Summarizing Texts",
+                        "subject_daily_intro": "In Language Arts, we will focus on summarizing longer texts and understanding their structure.",
+                        "subject_daily_sub_topics": [
+                            "Summarizing Essays",
+                            "Analyzing Arguments"
+                        ],
+                        "subject_topic_daily_summary": "Today, you'll practice summarizing essays and recognizing the structures that support arguments within texts."
+                    },
+                    {
+                        "subject_name": "Mathematics",
+                        "subject_topic": "Factors and Multiples",
+                        "subject_daily_intro": "Today, we will solve exercises involving factors and multiples, and reinforce our understanding of their applications.",
+                        "subject_daily_sub_topics": [
+                            "Word Problems",
+                            "Patterns in Multiples"
+                        ],
+                        "subject_topic_daily_summary": "You will apply your knowledge of factors and multiples to solve word problems and identify patterns."
+                    },
+                    {
+                        "subject_name": "Science",
+                        "subject_topic": "Measurements and Units",
+                        "subject_daily_intro": "We will look at practical applications of measurements and units in conducting experiments in Science.",
+                        "subject_daily_sub_topics": [
+                            "Using Measurement Tools",
+                            "Data Collection"
+                        ],
+                        "subject_topic_daily_summary": "By the end of today, you will understand how to use various measurement tools and the importance of data collection in experiments."
+                    },
+                    {
+                        "subject_name": "Social Studies",
+                        "subject_topic": "Social Science Research Methods",
+                        "subject_daily_intro": "Continuing our examination of research methods, we will discuss how to evaluate sources in social studies.",
+                        "subject_daily_sub_topics": [
+                            "Evaluating Credibility",
+                            "Ethics in Research"
+                        ],
+                        "subject_topic_daily_summary": "You will learn how to assess the credibility of sources and understand ethical considerations in research methods."
+                    }
+                ]
+            },
+            {
+                "day_name": "Thursday",
+                "subjects": [
+                    {
+                        "subject_name": "Language Arts",
+                        "subject_topic": "Summarizing Texts",
+                        "subject_daily_intro": "Today, we will review and apply summarization techniques through a group of selected texts.",
+                        "subject_daily_sub_topics": [
+                            "Text Features",
+                            "Visual Aids in Summarization"
+                        ],
+                        "subject_topic_daily_summary": "You will practice summarizing selected texts using different techniques and learn about the role of text features."
+                    },
+                    {
+                        "subject_name": "Mathematics",
+                        "subject_topic": "Factors and Multiples",
+                        "subject_daily_intro": "We will apply our knowledge of factors and multiples to analyze patterns and sequences in mathematical problems.",
+                        "subject_daily_sub_topics": [
+                            "Geometric Patterns",
+                            "Using Multiples"
+                        ],
+                        "subject_topic_daily_summary": "By completing today's tasks, you'll be skilled in identifying patterns and sequences utilizing factors and multiples."
+                    },
+                    {
+                        "subject_name": "Science",
+                        "subject_topic": "Measurements and Units",
+                        "subject_daily_intro": "Today's focus will be on conducting simple experiments requiring measurement, emphasizing accuracy and reporting results.",
+                        "subject_daily_sub_topics": [
+                            "Experiment Design",
+                            "Data Analysis"
+                        ],
+                        "subject_topic_daily_summary": "You will design simple experiments that require accurate measurements and analyze the results based on your understanding."
+                    },
+                    {
+                        "subject_name": "Social Studies",
+                        "subject_topic": "Social Science Research Methods",
+                        "subject_daily_intro": "In Social Studies, we\u2019ll discuss how to write a research proposal and present findings from social studies research.",
+                        "subject_daily_sub_topics": [
+                            "Components of a Proposal",
+                            "Presenting Data"
+                        ],
+                        "subject_topic_daily_summary": "You will learn how to structure a research proposal and present findings clearly based on our earlier discussions."
+                    }
+                ]
+            },
+            {
+                "day_name": "Friday",
+                "subjects": [
+                    {
+                        "subject_name": "Language Arts",
+                        "subject_topic": "Summarizing Texts",
+                        "subject_daily_intro": "Today, we will review everything we have learned about summarizing texts throughout the week and take a quiz to test your understanding.",
+                        "subject_daily_sub_topics": [
+                            "Peer Review",
+                            "Feedback on Summaries"
+                        ],
+                        "subject_topic_daily_summary": "At the end of today, you will have a clear understanding of summarizing texts and will engage in peer feedback."
+                    },
+                    {
+                        "subject_name": "Mathematics",
+                        "subject_topic": "Factors and Multiples",
+                        "subject_daily_intro": "Today will be our review and application day for factors and multiples, including a quiz at the end to assess your understanding.",
+                        "subject_daily_sub_topics": [
+                            "Real-Life Applications",
+                            "Quiz Preparations"
+                        ],
+                        "subject_topic_daily_summary": "You will solidify your understanding of factors and multiples through discussion and a quiz."
+                    },
+                    {
+                        "subject_name": "Science",
+                        "subject_topic": "Measurements and Units",
+                        "subject_daily_intro": "In Science, we\u2019ll review our measurement techniques and apply them in a final project to synthesize your learning this week.",
+                        "subject_daily_sub_topics": [
+                            "Project Presentation",
+                            "Feedback on Experiments"
+                        ],
+                        "subject_topic_daily_summary": "You will present your measurement projects, demonstrating your understanding of units and accuracy in data reporting."
+                    },
+                    {
+                        "subject_name": "Social Studies",
+                        "subject_topic": "Social Science Research Methods",
+                        "subject_daily_intro": "Concluding our week, we will review social science research methods and conduct a quiz on the methods learned.",
+                        "subject_daily_sub_topics": [
+                            "Discussion on Research Ethics",
+                            "Final Project Prep"
+                        ],
+                        "subject_topic_daily_summary": "You will consolidate your understanding of social science research methods through a quiz and discussions on ethical research."
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,622 @@
+[
+    {
+        "assesment_test_number": 1,
+        "subjects": [
+            {
+                "questionNumber": 1,
+                "question": "What is the value of x in the equation 2x + 3 = 11?",
+                "options": [
+                    "1) 1",
+                    "2) 4",
+                    "3) 5",
+                    "4) 7"
+                ],
+                "explanation": "To solve for x, subtract 3 from both sides: 2x = 8. Then divide by 2: x = 4.",
+                "answer": "2) 4",
+                "grade_level": "9",
+                "subject": "Mathematics",
+                "subject_topic": "Algebra"
+            },
+            {
+                "questionNumber": 2,
+                "question": "What is the area of a triangle with a base of 8 cm and a height of 5 cm?",
+                "options": [
+                    "1) 20 cm\u00b2",
+                    "2) 30 cm\u00b2",
+                    "3) 40 cm\u00b2",
+                    "4) 50 cm\u00b2"
+                ],
+                "explanation": "The area of a triangle is calculated using the formula: Area = (base * height) / 2 = (8 * 5) / 2 = 20 cm\u00b2.",
+                "answer": "1) 20 cm\u00b2",
+                "grade_level": "9",
+                "subject": "Mathematics",
+                "subject_topic": "Geometry"
+            },
+            {
+                "questionNumber": 3,
+                "question": "Which of the following is a prime number?",
+                "options": [
+                    "1) 15",
+                    "2) 22",
+                    "3) 29",
+                    "4) 35"
+                ],
+                "explanation": "A prime number is a number greater than 1 that has no divisors other than 1 and itself. 29 is the only prime number among the options.",
+                "answer": "3) 29",
+                "grade_level": "9",
+                "subject": "Mathematics",
+                "subject_topic": "Number Theory"
+            },
+            {
+                "questionNumber": 4,
+                "question": "If a circle has a radius of 7 cm, what is its circumference?",
+                "options": [
+                    "1) 14\u03c0 cm",
+                    "2) 21\u03c0 cm",
+                    "3) 28\u03c0 cm",
+                    "4) 49 cm"
+                ],
+                "explanation": "The circumference of a circle is calculated using the formula: Circumference = 2\u03c0r. Therefore, Circumference = 2\u03c0(7) = 14\u03c0 cm.",
+                "answer": "1) 14\u03c0 cm",
+                "grade_level": "9",
+                "subject": "Mathematics",
+                "subject_topic": "Geometry"
+            },
+            {
+                "questionNumber": 5,
+                "question": "What is the slope of the line represented by the equation y = 3x + 4?",
+                "options": [
+                    "1) 4",
+                    "2) 3",
+                    "3) -3",
+                    "4) -4"
+                ],
+                "explanation": "In the equation of a line y = mx + b, m represents the slope. Here, the slope is 3.",
+                "answer": "2) 3",
+                "grade_level": "9",
+                "subject": "Mathematics",
+                "subject_topic": "Linear Functions"
+            },
+            {
+                "questionNumber": 6,
+                "question": "What is the sum of the internal angles of a triangle?",
+                "options": [
+                    "1) 90 degrees",
+                    "2) 180 degrees",
+                    "3) 360 degrees",
+                    "4) 270 degrees"
+                ],
+                "explanation": "The sum of the internal angles in any triangle is always 180 degrees.",
+                "answer": "2) 180 degrees",
+                "grade_level": "9",
+                "subject": "Mathematics",
+                "subject_topic": "Geometry"
+            },
+            {
+                "questionNumber": 7,
+                "question": "What is the solution to the inequality 3x - 5 > 7?",
+                "options": [
+                    "1) x < 4",
+                    "2) x > 4",
+                    "3) x < 5",
+                    "4) x > 5"
+                ],
+                "explanation": "To solve the inequality, first add 5 to both sides: 3x > 12. Then divide by 3: x > 4.",
+                "answer": "2) x > 4",
+                "grade_level": "9",
+                "subject": "Mathematics",
+                "subject_topic": "Algebra"
+            },
+            {
+                "questionNumber": 8,
+                "question": "If you roll a standard six-sided die, what is the probability of rolling a number greater than 4?",
+                "options": [
+                    "1) 1/2",
+                    "2) 1/3",
+                    "3) 1/6",
+                    "4) 3/6"
+                ],
+                "explanation": "The numbers greater than 4 are 5 and 6, which means there are 2 favorable outcomes out of 6. Therefore, the probability is 2/6, which simplifies to 1/3.",
+                "answer": "2) 1/3",
+                "grade_level": "9",
+                "subject": "Mathematics",
+                "subject_topic": "Probability"
+            },
+            {
+                "questionNumber": 9,
+                "question": "What is the greatest common factor (GCF) of 12 and 16?",
+                "options": [
+                    "1) 2",
+                    "2) 4",
+                    "3) 8",
+                    "4) 12"
+                ],
+                "explanation": "The factors of 12 are 1, 2, 3, 4, 6, 12 and the factors of 16 are 1, 2, 4, 8, 16. The greatest common factor is 4.",
+                "answer": "2) 4",
+                "grade_level": "9",
+                "subject": "Mathematics",
+                "subject_topic": "Number Theory"
+            },
+            {
+                "questionNumber": 10,
+                "question": "What is the value of 2^3 + 4^2?",
+                "options": [
+                    "1) 12",
+                    "2) 20",
+                    "3) 28",
+                    "4) 16"
+                ],
+                "explanation": "Calculating the powers: 2^3 = 8 and 4^2 = 16. Adding those together gives you 8 + 16 = 24.",
+                "answer": "2) 24",
+                "grade_level": "9",
+                "subject": "Mathematics",
+                "subject_topic": "Exponents"
+            }
+        ]
+    },
+    {
+        "assesment_test_number": 1,
+        "subjects": [
+            {
+                "questionNumber": 1,
+                "question": "What is the main theme of the poem 'The Road Not Taken' by Robert Frost?",
+                "options": [
+                    "1) Choices and decisions",
+                    "2) Nature and environment",
+                    "3) Friendship and loyalty",
+                    "4) Love and romance"
+                ],
+                "explanation": "The main theme of 'The Road Not Taken' revolves around the choices we make in our life, reflecting on how these choices shape our future.",
+                "answer": "1) Choices and decisions",
+                "grade_level": "9",
+                "subject": "Language Arts",
+                "subject_topic": "Literary Analysis"
+            },
+            {
+                "questionNumber": 2,
+                "question": "Which of the following is an example of a metaphor?",
+                "options": [
+                    "1) She is the light of my life.",
+                    "2) It was raining cats and dogs.",
+                    "3) His words cut deeper than a knife.",
+                    "4) The wind howled through the trees."
+                ],
+                "explanation": "A metaphor directly compares one thing to another without using 'like' or 'as'. In option 1, 'light' is used metaphorically to imply the person's significance.",
+                "answer": "1) She is the light of my life.",
+                "grade_level": "9",
+                "subject": "Language Arts",
+                "subject_topic": "Figurative Language"
+            },
+            {
+                "questionNumber": 3,
+                "question": "What is the purpose of a thesis statement in an essay?",
+                "options": [
+                    "1) To summarize the essay",
+                    "2) To present the main argument",
+                    "3) To provide background information",
+                    "4) To introduce the conclusion"
+                ],
+                "explanation": "A thesis statement serves to present the main argument or claim of an essay, guiding the reader on what to expect.",
+                "answer": "2) To present the main argument",
+                "grade_level": "9",
+                "subject": "Language Arts",
+                "subject_topic": "Essay Composition"
+            },
+            {
+                "questionNumber": 4,
+                "question": "In which of the following sentences is the word 'affect' used correctly?",
+                "options": [
+                    "1) His speech will affect the audience.",
+                    "2) The affect of the scene was powerful.",
+                    "3) I hope there is no affect on my grades.",
+                    "4) She showed little affect in her response."
+                ],
+                "explanation": "'Affect' is a verb meaning to influence something. The correct usage in option 1 shows how the speech influences the audience.",
+                "answer": "1) His speech will affect the audience.",
+                "grade_level": "9",
+                "subject": "Language Arts",
+                "subject_topic": "Vocabulary Usage"
+            },
+            {
+                "questionNumber": 5,
+                "question": "What literary device is employed when the author gives human traits to non-human things?",
+                "options": [
+                    "1) Personification",
+                    "2) Alliteration",
+                    "3) Hyperbole",
+                    "4) Simile"
+                ],
+                "explanation": "Personification is the device used to give human characteristics to inanimate objects or abstract concepts.",
+                "answer": "1) Personification",
+                "grade_level": "9",
+                "subject": "Language Arts",
+                "subject_topic": "Literary Devices"
+            },
+            {
+                "questionNumber": 6,
+                "question": "Identify the tone of the following passage: 'It was a bright, sunny day, but Sarah felt a deep sense of dread.'",
+                "options": [
+                    "1) Joyful",
+                    "2) Nostalgic",
+                    "3) Foreboding",
+                    "4) Indifferent"
+                ],
+                "explanation": "The tone suggested by the contrast of a bright day with Sarah's feelings indicates a sense of foreboding or anxiety.",
+                "answer": "3) Foreboding",
+                "grade_level": "9",
+                "subject": "Language Arts",
+                "subject_topic": "Tone and Mood"
+            },
+            {
+                "questionNumber": 7,
+                "question": "What is a primary purpose of narrative writing?",
+                "options": [
+                    "1) To inform",
+                    "2) To argue",
+                    "3) To entertain",
+                    "4) To persuade"
+                ],
+                "explanation": "The primary purpose of narrative writing is to entertain the reader by telling a story, often including characters and events.",
+                "answer": "3) To entertain",
+                "grade_level": "9",
+                "subject": "Language Arts",
+                "subject_topic": "Types of Writing"
+            },
+            {
+                "questionNumber": 8,
+                "question": "Which of the following sentences is in the active voice?",
+                "options": [
+                    "1) The cake was baked by Mary.",
+                    "2) Mary baked the cake.",
+                    "3) The book was read by the students.",
+                    "4) The homework was completed by John."
+                ],
+                "explanation": "In the active voice, the subject performs the action of the verb. Option 2 shows Mary as the subject doing the action of baking.",
+                "answer": "2) Mary baked the cake.",
+                "grade_level": "9",
+                "subject": "Language Arts",
+                "subject_topic": "Grammar"
+            },
+            {
+                "questionNumber": 9,
+                "question": "What is the main idea of a text?",
+                "options": [
+                    "1) A detailed summary",
+                    "2) The central point or message",
+                    "3) A list of characters",
+                    "4) The author's background information"
+                ],
+                "explanation": "The main idea of a text refers to the central point or message that the author wants to convey to the reader.",
+                "answer": "2) The central point or message",
+                "grade_level": "9",
+                "subject": "Language Arts",
+                "subject_topic": "Reading Comprehension"
+            },
+            {
+                "questionNumber": 10,
+                "question": "Which of the following sentences uses correct punctuation?",
+                "options": [
+                    "1) I can't believe it's already Friday",
+                    "2) Its a beautiful day outside!",
+                    "3) She said, the meeting is at noon.",
+                    "4) Let's eat, Grandma!"
+                ],
+                "explanation": "Option 4 uses correct punctuation, properly clarifying that the speaker is inviting Grandma to eat, rather than suggesting to eat Grandma, which would have a very different meaning.",
+                "answer": "4) Let's eat, Grandma!",
+                "grade_level": "9",
+                "subject": "Language Arts",
+                "subject_topic": "Punctuation"
+            }
+        ]
+    },
+    {
+        "assesment_test_number": 1,
+        "subjects": [
+            {
+                "questionNumber": 1,
+                "question": "What is the primary function of the cell membrane?",
+                "options": [
+                    "1) To provide structural support",
+                    "2) To protect the nucleus",
+                    "3) To control the movement of substances in and out of the cell",
+                    "4) To assist in cell division"
+                ],
+                "explanation": "The cell membrane regulates what enters and exits the cell, maintaining homeostasis.",
+                "answer": "3) To control the movement of substances in and out of the cell",
+                "grade_level": "9",
+                "subject": "Science",
+                "subject_topic": "Cell Biology"
+            },
+            {
+                "questionNumber": 2,
+                "question": "Which gas is essential for photosynthesis?",
+                "options": [
+                    "1) Carbon dioxide",
+                    "2) Oxygen",
+                    "3) Nitrogen",
+                    "4) Methane"
+                ],
+                "explanation": "Photosynthesis requires carbon dioxide to produce glucose and oxygen as a byproduct.",
+                "answer": "1) Carbon dioxide",
+                "grade_level": "9",
+                "subject": "Science",
+                "subject_topic": "Photosynthesis"
+            },
+            {
+                "questionNumber": 3,
+                "question": "What type of bond is formed when two elements share electrons?",
+                "options": [
+                    "1) Ionic bond",
+                    "2) Hydrogen bond",
+                    "3) Covalent bond",
+                    "4) Metallic bond"
+                ],
+                "explanation": "A covalent bond is formed through the sharing of electrons between atoms.",
+                "answer": "3) Covalent bond",
+                "grade_level": "9",
+                "subject": "Science",
+                "subject_topic": "Chemical Bonds"
+            },
+            {
+                "questionNumber": 4,
+                "question": "What is Newton's second law of motion?",
+                "options": [
+                    "1) Every action has an equal and opposite reaction",
+                    "2) The acceleration of an object depends on the mass of the object and the amount of force applied",
+                    "3) An object in motion stays in motion unless acted upon by an external force",
+                    "4) Energy cannot be created or destroyed"
+                ],
+                "explanation": "Newton's second law of motion states that F = ma, where force equals mass times acceleration.",
+                "answer": "2) The acceleration of an object depends on the mass of the object and the amount of force applied",
+                "grade_level": "9",
+                "subject": "Science",
+                "subject_topic": "Physics"
+            },
+            {
+                "questionNumber": 5,
+                "question": "What is the pH level of pure water?",
+                "options": [
+                    "1) 0",
+                    "2) 3",
+                    "3) 7",
+                    "4) 14"
+                ],
+                "explanation": "Pure water has a neutral pH level of 7, indicating it is neither acidic nor basic.",
+                "answer": "3) 7",
+                "grade_level": "9",
+                "subject": "Science",
+                "subject_topic": "Chemistry"
+            },
+            {
+                "questionNumber": 6,
+                "question": "What is the main organ responsible for filtering blood in the human body?",
+                "options": [
+                    "1) Heart",
+                    "2) Liver",
+                    "3) Kidney",
+                    "4) Lungs"
+                ],
+                "explanation": "The kidneys filter waste products from the blood and produce urine.",
+                "answer": "3) Kidney",
+                "grade_level": "9",
+                "subject": "Science",
+                "subject_topic": "Human Anatomy"
+            },
+            {
+                "questionNumber": 7,
+                "question": "What is the primary component of the Earth's atmosphere?",
+                "options": [
+                    "1) Oxygen",
+                    "2) Hydrogen",
+                    "3) Nitrogen",
+                    "4) Carbon dioxide"
+                ],
+                "explanation": "Nitrogen makes up about 78% of the Earth's atmosphere, making it the primary component.",
+                "answer": "3) Nitrogen",
+                "grade_level": "9",
+                "subject": "Science",
+                "subject_topic": "Earth Science"
+            },
+            {
+                "questionNumber": 8,
+                "question": "Which of the following is a characteristic of life?",
+                "options": [
+                    "1) Growth and development",
+                    "2) Ability to reproduce",
+                    "3) Response to stimuli",
+                    "4) All of the above"
+                ],
+                "explanation": "All of the options listed are characteristics that define living organisms.",
+                "answer": "4) All of the above",
+                "grade_level": "9",
+                "subject": "Science",
+                "subject_topic": "Biology"
+            },
+            {
+                "questionNumber": 9,
+                "question": "Which structure in plant cells is responsible for photosynthesis?",
+                "options": [
+                    "1) Mitochondria",
+                    "2) Chloroplasts",
+                    "3) Ribosomes",
+                    "4) Nucleus"
+                ],
+                "explanation": "Chloroplasts contain chlorophyll, which is essential for the process of photosynthesis.",
+                "answer": "2) Chloroplasts",
+                "grade_level": "9",
+                "subject": "Science",
+                "subject_topic": "Plant Biology"
+            },
+            {
+                "questionNumber": 10,
+                "question": "What process involves the conversion of glucose into ATP in cells?",
+                "options": [
+                    "1) Fermentation",
+                    "2) Photosynthesis",
+                    "3) Cellular Respiration",
+                    "4) Glycolysis"
+                ],
+                "explanation": "Cellular respiration involves the breakdown of glucose to produce ATP, the energy molecule.",
+                "answer": "3) Cellular Respiration",
+                "grade_level": "9",
+                "subject": "Science",
+                "subject_topic": "Cellular Biology"
+            }
+        ]
+    },
+    {
+        "assesment_test_number": 1,
+        "subjects": [
+            {
+                "questionNumber": 1,
+                "question": "What was the primary cause of the American Civil War?",
+                "options": [
+                    "1) Industrial vs. Agricultural economy",
+                    "2) Disputes over foreign policy",
+                    "3) Expansion of slavery into new territories",
+                    "4) Civil rights for all citizens"
+                ],
+                "explanation": "The primary cause of the American Civil War was the disagreement over the expansion of slavery into new territories, which created tensions between free and slave states.",
+                "answer": "3) Expansion of slavery into new territories",
+                "grade_level": "9",
+                "subject": "Social Studies",
+                "subject_topic": "American History"
+            },
+            {
+                "questionNumber": 2,
+                "question": "Which document officially ended World War I?",
+                "options": [
+                    "1) Treaty of Versailles",
+                    "2) Treaty of Paris",
+                    "3) Treaty of Trianon",
+                    "4) Treaty of Rome"
+                ],
+                "explanation": "The Treaty of Versailles was signed in 1919 to formally end World War I and is most known for placing heavy reparations on Germany.",
+                "answer": "1) Treaty of Versailles",
+                "grade_level": "9",
+                "subject": "Social Studies",
+                "subject_topic": "World History"
+            },
+            {
+                "questionNumber": 3,
+                "question": "What is the significance of the Emancipation Proclamation?",
+                "options": [
+                    "1) It granted women the right to vote.",
+                    "2) It abolished slavery in Confederate states.",
+                    "3) It ended the American Revolutionary War.",
+                    "4) It initiated the Civil Rights Movement."
+                ],
+                "explanation": "The Emancipation Proclamation, issued by President Abraham Lincoln in 1863, declared that all slaves in Confederate-held territory were to be set free.",
+                "answer": "2) It abolished slavery in Confederate states.",
+                "grade_level": "9",
+                "subject": "Social Studies",
+                "subject_topic": "American History"
+            },
+            {
+                "questionNumber": 4,
+                "question": "Which civilization is known for creating the first written code of laws?",
+                "options": [
+                    "1) Babylonian",
+                    "2) Greek",
+                    "3) Roman",
+                    "4) Egyptian"
+                ],
+                "explanation": "The Babylonian civilization is known for the Code of Hammurabi, one of the earliest and most complete written legal codes, established around 1754 BC.",
+                "answer": "1) Babylonian",
+                "grade_level": "9",
+                "subject": "Social Studies",
+                "subject_topic": "Ancient Civilizations"
+            },
+            {
+                "questionNumber": 5,
+                "question": "What was the main purpose of the United Nations when it was founded in 1945?",
+                "options": [
+                    "1) To promote international trade",
+                    "2) To prevent future wars",
+                    "3) To establish a world government",
+                    "4) To spread democracy"
+                ],
+                "explanation": "The United Nations was founded in 1945 with the primary purpose of promoting peace and preventing future wars following the devastation of World War II.",
+                "answer": "2) To prevent future wars",
+                "grade_level": "9",
+                "subject": "Social Studies",
+                "subject_topic": "Global Governance"
+            },
+            {
+                "questionNumber": 6,
+                "question": "Which event sparked the beginning of the French Revolution in 1789?",
+                "options": [
+                    "1) The execution of Louis XVI",
+                    "2) The storming of the Bastille",
+                    "3) The signing of the Declaration of Rights of Man",
+                    "4) The formation of the National Assembly"
+                ],
+                "explanation": "The storming of the Bastille on July 14, 1789, is widely regarded as the event that sparked the French Revolution, symbolizing the uprising against the monarchy.",
+                "answer": "2) The storming of the Bastille",
+                "grade_level": "9",
+                "subject": "Social Studies",
+                "subject_topic": "French Revolution"
+            },
+            {
+                "questionNumber": 7,
+                "question": "What was the significance of the Magna Carta in 1215?",
+                "options": [
+                    "1) It established the Church of England.",
+                    "2) It limited the powers of the king.",
+                    "3) It was the first written constitution.",
+                    "4) It initiated the English Civil War."
+                ],
+                "explanation": "The Magna Carta, signed in 1215, was significant because it established the principle that the king's power was not absolute and that he was subject to the law.",
+                "answer": "2) It limited the powers of the king.",
+                "grade_level": "9",
+                "subject": "Social Studies",
+                "subject_topic": "Legal History"
+            },
+            {
+                "questionNumber": 8,
+                "question": "Who was the main author of the Declaration of Independence?",
+                "options": [
+                    "1) George Washington",
+                    "2) Benjamin Franklin",
+                    "3) Thomas Jefferson",
+                    "4) John Adams"
+                ],
+                "explanation": "Thomas Jefferson was the main author of the Declaration of Independence, which was adopted on July 4, 1776, asserting the American colonies' separation from Great Britain.",
+                "answer": "3) Thomas Jefferson",
+                "grade_level": "9",
+                "subject": "Social Studies",
+                "subject_topic": "American History"
+            },
+            {
+                "questionNumber": 9,
+                "question": "What ideology is characterized by the belief in the collective ownership of production and property?",
+                "options": [
+                    "1) Capitalism",
+                    "2) Socialism",
+                    "3) Liberalism",
+                    "4) Conservatism"
+                ],
+                "explanation": "Socialism is the political and economic ideology that advocates for collective or governmental ownership of the means of production and property, often aiming to reduce inequality.",
+                "answer": "2) Socialism",
+                "grade_level": "9",
+                "subject": "Social Studies",
+                "subject_topic": "Political Ideologies"
+            },
+            {
+                "questionNumber": 10,
+                "question": "What was the result of the Cold War?",
+                "options": [
+                    "1) The increase of global nuclear arsenals.",
+                    "2) The unification of Germany.",
+                    "3) The spread of democracy globally.",
+                    "4) The establishment of the United Nations."
+                ],
+                "explanation": "The result of the Cold War was a prolonged state of geopolitical tension between the Soviet Union and the United States, leading to an increase in global nuclear arsenals and ideological competition, despite ending without direct conflict.",
+                "answer": "1) The increase of global nuclear arsenals.",
+                "grade_level": "9",
+                "subject": "Social Studies",
+                "subject_topic": "Cold War"
+            }
+        ]
+    }
+]

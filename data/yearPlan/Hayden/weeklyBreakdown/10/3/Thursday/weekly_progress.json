@@ -1,0 +1,1083 @@
+{
+    "Monday": {},
+    "Tuesday": {},
+    "Wednesday": {},
+    "Thursday": {
+        "Language Arts+": [
+            {
+                "quiz_grade": 100.0,
+                "wrong_answers": [],
+                "attempt_number": 2,
+                "quiz": [
+                    {
+                        "question": "What is a subject-verb agreement error?",
+                        "options": [
+                            "1) When the subject and verb do not match in number",
+                            "2) When there is a misplaced modifier in a sentence",
+                            "4) When a verb tense is used incorrectly",
+                            "3) When two independent clauses are connected solely by a comma"
+                        ],
+                        "explanation": "A subject-verb agreement error occurs when the subject and verb do not match in number, which can lead to confusion in writing.",
+                        "answer": "1) When the subject and verb do not match in number"
+                    },
+                    {
+                        "question": "Which of the following is a recommended technique for improving your writing during self-editing?",
+                        "options": [
+                            "4) Editing without taking breaks",
+                            "1) Reading your text silently",
+                            "2) Reading through your text slowly and out loud",
+                            "3) Ignoring common errors"
+                        ],
+                        "explanation": "Reading your text slowly and out loud helps identify awkward phrasing and errors more effectively than silently reading.",
+                        "answer": "2) Reading through your text slowly and out loud"
+                    },
+                    {
+                        "question": "What is one common error that can cause confusion in writing, as mentioned in the lecture?",
+                        "options": [
+                            "1) Subject-verb agreement errors",
+                            "2) Sentence length",
+                            "4) Excessive adjectives",
+                            "3) Use of jargon"
+                        ],
+                        "explanation": "Subject-verb agreement errors may confuse readers when the subject and verb do not agree in number, leading to unclear writing.",
+                        "answer": "1) Subject-verb agreement errors"
+                    },
+                    {
+                        "question": "What is a useful way to approach the review of your own writing?",
+                        "options": [
+                            "3) Take a break after writing before editing",
+                            "2) Review your piece for grammar first, then content",
+                            "1) Skip the review if you feel confident",
+                            "4) Edit immediately after finishing your first draft"
+                        ],
+                        "explanation": "Taking a break after writing allows you to return with fresh eyes, which is a valuable self-editing strategy.",
+                        "answer": "3) Take a break after writing before editing"
+                    },
+                    {
+                        "question": "Which technique is suggested to focus on when self-editing writing?",
+                        "options": [
+                            "4) Avoiding any feedback loop",
+                            "1) Reviewing all errors simultaneously",
+                            "3) Only focusing on spelling mistakes",
+                            "2) Using a checklist of common errors"
+                        ],
+                        "explanation": "Using a checklist of common errors can help ensure systematic review and prevent missing critical mistakes during self-editing.",
+                        "answer": "2) Using a checklist of common errors"
+                    },
+                    {
+                        "question": "What does the lecture suggest about providing feedback during peer editing?",
+                        "options": [
+                            "1) Be harsh and direct",
+                            "4) Provide no feedback at all",
+                            "3) Start with positive feedback before suggesting improvements",
+                            "2) Focus only on what needs improvement"
+                        ],
+                        "explanation": "Starting with positive feedback can help build the confidence of the writer and create a constructive editing environment.",
+                        "answer": "3) Start with positive feedback before suggesting improvements"
+                    },
+                    {
+                        "question": "What is a misplaced modifier?",
+                        "options": [
+                            "3) An incorrect use of punctuation",
+                            "2) A word or phrase that is poorly placed causing confusion",
+                            "1) A sentence that does not have a verb",
+                            "4) A result of a sentence fragment"
+                        ],
+                        "explanation": "A misplaced modifier occurs when the modifier is positioned incorrectly in the sentence, leading to confusion about what it modifies.",
+                        "answer": "2) A word or phrase that is poorly placed causing confusion"
+                    },
+                    {
+                        "question": "What can you do to ensure clarity in your writing regarding verb tenses?",
+                        "options": [
+                            "3) Change tense in every paragraph",
+                            "2) Use the same tense consistently throughout your piece",
+                            "4) Avoid using any tenses",
+                            "1) Mix past and present tenses freely"
+                        ],
+                        "explanation": "Using the same verb tense consistently ensures clarity and maintains a clear timeline for the reader.",
+                        "answer": "2) Use the same tense consistently throughout your piece"
+                    },
+                    {
+                        "question": "How can peer editing improve your writing?",
+                        "options": [
+                            "4) It eliminates all errors instantly",
+                            "2) It provides insights from different perspectives",
+                            "1) It allows you to duplicate someone else's style",
+                            "3) It creates competition among peers"
+                        ],
+                        "explanation": "Peer editing provides insights from different perspectives, which can lead to improvements in writing quality and helps to refine your ideas.",
+                        "answer": "2) It provides insights from different perspectives"
+                    },
+                    {
+                        "question": "What is a recommended strategy for organizing the self-editing process?",
+                        "options": [
+                            "3) Change your writing style completely",
+                            "1) Review for grammar, then content, then punctuation",
+                            "4) Avoid reviewing content at all",
+                            "2) Edit just for spelling mistakes"
+                        ],
+                        "explanation": "A step-by-step approach to reviewing content, grammar, and punctuation makes the process manageable and less overwhelming.",
+                        "answer": "1) Review for grammar, then content, then punctuation"
+                    }
+                ]
+            }
+        ],
+        "Language Arts Advanced+": [
+            {
+                "quiz_grade": 90.0,
+                "wrong_answers": [
+                    6
+                ],
+                "attempt_number": 3,
+                "quiz": [
+                    {
+                        "question": "What type of narratives do fiction authors primarily create?",
+                        "options": [
+                            "2) Real-life events",
+                            "3) Worlds and characters that may not exist",
+                            "1) Factual accounts",
+                            "4) Informative essays"
+                        ],
+                        "explanation": "Fiction authors focus on creating worlds, characters, and narratives that may not exist in reality, distinguishing their work from non-fiction.",
+                        "answer": "3) Worlds and characters that may not exist"
+                    },
+                    {
+                        "question": "What storytelling technique is emphasized for non-fiction authors during the lecture?",
+                        "options": [
+                            "3) Using real-life anecdotes",
+                            "1) Character development",
+                            "2) Creating fictional plots",
+                            "4) Imaginative world-building"
+                        ],
+                        "explanation": "Non-fiction authors use real-life characters and events along with anecdotes and case studies to frame their narratives effectively.",
+                        "answer": "3) Using real-life anecdotes"
+                    },
+                    {
+                        "question": "According to the lecture, what should you consider when analyzing an author's purpose?",
+                        "options": [
+                            "3) The length of the narrative",
+                            "4) The setting of the story",
+                            "2) The number of characters in their work",
+                            "1) The emotional responses they aim to evoke"
+                        ],
+                        "explanation": "Understanding the emotional responses an author aims to evoke can enhance comprehension of their intended message and effectiveness.",
+                        "answer": "1) The emotional responses they aim to evoke"
+                    },
+                    {
+                        "question": "How can role-playing as authors enhance understanding of writing techniques?",
+                        "options": [
+                            "2) By allowing exploration of creative processes",
+                            "3) By focusing on writing outlines",
+                            "1) By practicing grammar skills",
+                            "4) By reducing the need for research"
+                        ],
+                        "explanation": "Role-playing encourages exploration of the creative processes behind writing, fostering empathy and deeper understanding of each genre's techniques.",
+                        "answer": "2) By allowing exploration of creative processes"
+                    },
+                    {
+                        "question": "What common writing element do both fiction and non-fiction authors share?",
+                        "options": [
+                            "3) Employing narrative techniques",
+                            "2) Consistent character development",
+                            "1) Utilizing biased information",
+                            "4) Writing exclusively for entertainment"
+                        ],
+                        "explanation": "Both genres utilize narrative techniques such as character development, although the materials and objectives may differ.",
+                        "answer": "3) Employing narrative techniques"
+                    },
+                    {
+                        "question": "Which question would be appropriate to ask a fiction author in an interview, based on the lecture?",
+                        "options": [
+                            "1) How do you fact-check your information?",
+                            "2) What inspires your characters?",
+                            "4) How do you ensure factual accuracy?",
+                            "3) What is your research process?"
+                        ],
+                        "explanation": "Asking a fiction author about their inspiration for characters delves into their creative process, a key focus in the lecture.",
+                        "answer": "2) What inspires your characters?"
+                    },
+                    {
+                        "question": "What aspect of non-fiction authorship was emphasized in relation to ensuring accuracy?",
+                        "options": [
+                            "2) Technical jargon usage",
+                            "3) Engaging narrative structure",
+                            "1) Crafting fictional scenarios",
+                            "4) The research process"
+                        ],
+                        "explanation": "The research process is critical for non-fiction authors to ensure that their narratives are accurate and engaging while based on factual information.",
+                        "answer": "4) The research process"
+                    },
+                    {
+                        "question": "Why is it important to analyze an author\u2019s writing purpose according to the lecture?",
+                        "options": [
+                            "1) It helps to memorize the text",
+                            "4) It focuses only on genre classification",
+                            "3) It allows for better spelling skills",
+                            "2) It enhances critical thinking and appreciation"
+                        ],
+                        "explanation": "Analyzing an author's purpose strengthens critical thinking skills and appreciation for literature by uncovering deeper meaning in their writing.",
+                        "answer": "2) It enhances critical thinking and appreciation"
+                    },
+                    {
+                        "question": "What type of writing aims to provoke thought or inspire as discussed in the lecture?",
+                        "options": [
+                            "3) Fiction",
+                            "2) Poetry",
+                            "4) Biographies",
+                            "1) Non-fiction"
+                        ],
+                        "explanation": "Fiction often aims to entertain, provoke thought, or inspire readers by engaging them with emotions and empathy through characters and stories.",
+                        "answer": "3) Fiction"
+                    },
+                    {
+                        "question": "In the context of the lecture, what do both fiction and non-fiction writers need to do to engage their readers?",
+                        "options": [
+                            "2) Use emotional storytelling techniques",
+                            "4) Focus on elaborate descriptions only",
+                            "3) Stick to dry presentations",
+                            "1) Provide comprehensive lists"
+                        ],
+                        "explanation": "Engaging readers requires the use of emotional storytelling techniques that resonate with audiences, whether in fiction or non-fiction.",
+                        "answer": "2) Use emotional storytelling techniques"
+                    }
+                ]
+            },
+            {
+                "quiz_grade": 90.0,
+                "wrong_answers": [
+                    6
+                ],
+                "attempt_number": 4,
+                "quiz": [
+                    {
+                        "question": "What type of narratives do fiction authors primarily create?",
+                        "options": [
+                            "2) Real-life events",
+                            "3) Worlds and characters that may not exist",
+                            "1) Factual accounts",
+                            "4) Informative essays"
+                        ],
+                        "explanation": "Fiction authors focus on creating worlds, characters, and narratives that may not exist in reality, distinguishing their work from non-fiction.",
+                        "answer": "3) Worlds and characters that may not exist"
+                    },
+                    {
+                        "question": "What storytelling technique is emphasized for non-fiction authors during the lecture?",
+                        "options": [
+                            "3) Using real-life anecdotes",
+                            "1) Character development",
+                            "2) Creating fictional plots",
+                            "4) Imaginative world-building"
+                        ],
+                        "explanation": "Non-fiction authors use real-life characters and events along with anecdotes and case studies to frame their narratives effectively.",
+                        "answer": "3) Using real-life anecdotes"
+                    },
+                    {
+                        "question": "According to the lecture, what should you consider when analyzing an author's purpose?",
+                        "options": [
+                            "3) The length of the narrative",
+                            "4) The setting of the story",
+                            "2) The number of characters in their work",
+                            "1) The emotional responses they aim to evoke"
+                        ],
+                        "explanation": "Understanding the emotional responses an author aims to evoke can enhance comprehension of their intended message and effectiveness.",
+                        "answer": "1) The emotional responses they aim to evoke"
+                    },
+                    {
+                        "question": "How can role-playing as authors enhance understanding of writing techniques?",
+                        "options": [
+                            "2) By allowing exploration of creative processes",
+                            "3) By focusing on writing outlines",
+                            "1) By practicing grammar skills",
+                            "4) By reducing the need for research"
+                        ],
+                        "explanation": "Role-playing encourages exploration of the creative processes behind writing, fostering empathy and deeper understanding of each genre's techniques.",
+                        "answer": "2) By allowing exploration of creative processes"
+                    },
+                    {
+                        "question": "What common writing element do both fiction and non-fiction authors share?",
+                        "options": [
+                            "3) Employing narrative techniques",
+                            "2) Consistent character development",
+                            "1) Utilizing biased information",
+                            "4) Writing exclusively for entertainment"
+                        ],
+                        "explanation": "Both genres utilize narrative techniques such as character development, although the materials and objectives may differ.",
+                        "answer": "3) Employing narrative techniques"
+                    },
+                    {
+                        "question": "Which question would be appropriate to ask a fiction author in an interview, based on the lecture?",
+                        "options": [
+                            "1) How do you fact-check your information?",
+                            "2) What inspires your characters?",
+                            "4) How do you ensure factual accuracy?",
+                            "3) What is your research process?"
+                        ],
+                        "explanation": "Asking a fiction author about their inspiration for characters delves into their creative process, a key focus in the lecture.",
+                        "answer": "2) What inspires your characters?"
+                    },
+                    {
+                        "question": "What aspect of non-fiction authorship was emphasized in relation to ensuring accuracy?",
+                        "options": [
+                            "2) Technical jargon usage",
+                            "3) Engaging narrative structure",
+                            "1) Crafting fictional scenarios",
+                            "4) The research process"
+                        ],
+                        "explanation": "The research process is critical for non-fiction authors to ensure that their narratives are accurate and engaging while based on factual information.",
+                        "answer": "4) The research process"
+                    },
+                    {
+                        "question": "Why is it important to analyze an author\u2019s writing purpose according to the lecture?",
+                        "options": [
+                            "1) It helps to memorize the text",
+                            "4) It focuses only on genre classification",
+                            "3) It allows for better spelling skills",
+                            "2) It enhances critical thinking and appreciation"
+                        ],
+                        "explanation": "Analyzing an author's purpose strengthens critical thinking skills and appreciation for literature by uncovering deeper meaning in their writing.",
+                        "answer": "2) It enhances critical thinking and appreciation"
+                    },
+                    {
+                        "question": "What type of writing aims to provoke thought or inspire as discussed in the lecture?",
+                        "options": [
+                            "3) Fiction",
+                            "2) Poetry",
+                            "4) Biographies",
+                            "1) Non-fiction"
+                        ],
+                        "explanation": "Fiction often aims to entertain, provoke thought, or inspire readers by engaging them with emotions and empathy through characters and stories.",
+                        "answer": "3) Fiction"
+                    },
+                    {
+                        "question": "In the context of the lecture, what do both fiction and non-fiction writers need to do to engage their readers?",
+                        "options": [
+                            "2) Use emotional storytelling techniques",
+                            "4) Focus on elaborate descriptions only",
+                            "3) Stick to dry presentations",
+                            "1) Provide comprehensive lists"
+                        ],
+                        "explanation": "Engaging readers requires the use of emotional storytelling techniques that resonate with audiences, whether in fiction or non-fiction.",
+                        "answer": "2) Use emotional storytelling techniques"
+                    }
+                ]
+            }
+        ],
+        "Mathematics+": [
+            {
+                "quiz_grade": 100.0,
+                "wrong_answers": [],
+                "attempt_number": 2,
+                "quiz": [
+                    {
+                        "question": "What role do percentages play in business reporting?",
+                        "options": [
+                            "1) They represent a complete absence of data.",
+                            "3) They only represent partial data, without any context.",
+                            "2) They allow stakeholders to understand performance relative to previous periods.",
+                            "4) They are irrelevant to business decisions."
+                        ],
+                        "explanation": "Percentages help stakeholders assess a company's performance over time by comparing figures more meaningfully.",
+                        "answer": "2) They allow stakeholders to understand performance relative to previous periods."
+                    },
+                    {
+                        "question": "How can the ratio of ingredients affect a recipe?",
+                        "options": [
+                            "4) Ratios in recipes are purely theoretical.",
+                            "3) It is only concerned with nutritional information.",
+                            "2) Changing the ratio can enhance flavors and textures.",
+                            "1) It has no effect on the outcome of the dish."
+                        ],
+                        "explanation": "The ratio of ingredients directly influences the flavor and texture of the resulting dish, reflecting the importance of ratios in cooking.",
+                        "answer": "2) Changing the ratio can enhance flavors and textures."
+                    },
+                    {
+                        "question": "What is a pie chart commonly used for in data representation?",
+                        "options": [
+                            "2) To depict the percentage of different categories in a whole.",
+                            "3) To identify individual data points.",
+                            "4) To compare two variables directly.",
+                            "1) To show trends over time."
+                        ],
+                        "explanation": "A pie chart visually represents the proportional parts of a whole, making it ideal for displaying percentages across categories.",
+                        "answer": "2) To depict the percentage of different categories in a whole."
+                    },
+                    {
+                        "question": "What insights can data analysis provide regarding consumer preferences?",
+                        "options": [
+                            "1) It has no relevance to product decisions.",
+                            "2) It solely focuses on historical data.",
+                            "4) It only measures sales without context.",
+                            "3) It helps guide advertising efforts toward popular products."
+                        ],
+                        "explanation": "Data analysis helps businesses understand consumer preferences, enabling targeted marketing for products that are favored by consumers.",
+                        "answer": "3) It helps guide advertising efforts toward popular products."
+                    },
+                    {
+                        "question": "Which type of graph is typically used to show performance changes over periods of time?",
+                        "options": [
+                            "2) Line graph",
+                            "1) Bar graph",
+                            "4) Histogram",
+                            "3) Pie chart"
+                        ],
+                        "explanation": "Line graphs are effective for showing trends and changes in data over time, making them suitable for performance analysis.",
+                        "answer": "2) Line graph"
+                    },
+                    {
+                        "question": "Why is visual representation of data important?",
+                        "options": [
+                            "4) It is only for aesthetic purposes.",
+                            "2) It obscures underlying trends.",
+                            "1) It complicates understanding data.",
+                            "3) It makes data easier to comprehend and interpret."
+                        ],
+                        "explanation": "Visual representations help simplify complex data, enabling quicker understanding and interpretation of key insights.",
+                        "answer": "3) It makes data easier to comprehend and interpret."
+                    },
+                    {
+                        "question": "What percentage indicates a drastic preference for one product over another, as per the discussed example?",
+                        "options": [
+                            "4) 100%",
+                            "3) 75%",
+                            "2) 25%",
+                            "1) 50%"
+                        ],
+                        "explanation": "A reported preference of 75% indicates a strong majority favoring one product, highlighting significant consumer preference.",
+                        "answer": "3) 75%"
+                    },
+                    {
+                        "question": "What does the term 'data analysis' refer to?",
+                        "options": [
+                            "4) The presentation of final decisions based on opinions.",
+                            "3) Simply summarizing the data without insights.",
+                            "1) The collection of raw data.",
+                            "2) The process of examining and interpreting data to extract useful insights."
+                        ],
+                        "explanation": "Data analysis involves evaluating and interpreting data to derive actionable insights that can drive decision-making processes.",
+                        "answer": "2) The process of examining and interpreting data to extract useful insights."
+                    },
+                    {
+                        "question": "When calculating percentages of a data set, what aspect is being summarized?",
+                        "options": [
+                            "4) Trends over time.",
+                            "3) The proportion each part has in relation to the whole.",
+                            "2) The relationship between two unrelated numbers.",
+                            "1) The entire data set without focus."
+                        ],
+                        "explanation": "Calculating percentages focuses on summarizing the contribution of individual parts relative to the total, providing clearer insights.",
+                        "answer": "3) The proportion each part has in relation to the whole."
+                    },
+                    {
+                        "question": "What is one conclusion drawn about the relationship between ratios and percentages?",
+                        "options": [
+                            "2) Ratios can be converted into percentages to understand parts of a whole.",
+                            "4) Ratios are irrelevant in data analysis.",
+                            "1) They are unrelated concepts.",
+                            "3) Percentages are only useful in theoretical scenarios."
+                        ],
+                        "explanation": "Ratios can be expressed as percentages, which helps in understanding how they represent parts of a total contextually in data analysis.",
+                        "answer": "2) Ratios can be converted into percentages to understand parts of a whole."
+                    }
+                ]
+            }
+        ],
+        "Mathematics Advanced+": [
+            {
+                "quiz_grade": 100.0,
+                "wrong_answers": [],
+                "attempt_number": 3,
+                "quiz": [
+                    {
+                        "question": "Which of the following best describes integers?",
+                        "options": [
+                            "1) Only positive numbers",
+                            "4) Only whole numbers",
+                            "3) Positive, negative, and zero",
+                            "2) Only negative numbers"
+                        ],
+                        "explanation": "Integers include all whole numbers that can be positive, negative, or zero.",
+                        "answer": "3) Positive, negative, and zero"
+                    },
+                    {
+                        "question": "What element in a game allows players to gain or lose points based on their performance?",
+                        "options": [
+                            "3) A scoring system based solely on time",
+                            "4) Team-based scores only",
+                            "2) Rules defining point deductions and gains",
+                            "1) A random number generator"
+                        ],
+                        "explanation": "A game can define point deductions and gains through specific rules, allowing players to manipulate their scores effectively.",
+                        "answer": "2) Rules defining point deductions and gains"
+                    },
+                    {
+                        "question": "In a competition focused on integer problems, what is a possible outcome for players who answer incorrectly?",
+                        "options": [
+                            "3) They lose points",
+                            "1) They earn bonus points",
+                            "4) They move on to the next question regardless",
+                            "2) They receive no consequences"
+                        ],
+                        "explanation": "In competitive scenarios, players typically lose points for incorrect answers to encourage accuracy and understanding.",
+                        "answer": "3) They lose points"
+                    },
+                    {
+                        "question": "Why might incorporating technology into learning about integers be beneficial?",
+                        "options": [
+                            "3) It eliminates all traditional methods",
+                            "4) It focuses solely on memorization",
+                            "1) It makes learning more difficult",
+                            "2) It can enhance student engagement"
+                        ],
+                        "explanation": "Technology can enhance engagement by providing interactive and entertaining mediums to learn complex concepts like integers.",
+                        "answer": "2) It can enhance student engagement"
+                    },
+                    {
+                        "question": "What concept does a leaderboard in a competitive practice help to establish?",
+                        "options": [
+                            "1) Individual collaboration",
+                            "3) Random scoring",
+                            "4) Irrelevant feedback",
+                            "2) Clear motivation for improvement"
+                        ],
+                        "explanation": "Leaderboards provide a clear motivation for improvement, by visually tracking players' progress and scores.",
+                        "answer": "2) Clear motivation for improvement"
+                    },
+                    {
+                        "question": "Which aspect of game design could be most helpful in teaching the order of operations?",
+                        "options": [
+                            "2) Creating a scoring system based on answering correctly",
+                            "3) A lengthy instruction manual",
+                            "1) The aesthetic appeal of the game",
+                            "4) Using only visuals and no language"
+                        ],
+                        "explanation": "A scoring system that rewards correct answers helps reinforce understanding of the order of operations through practical application.",
+                        "answer": "2) Creating a scoring system based on answering correctly"
+                    },
+                    {
+                        "question": "What is a beneficial strategy when conducting integer problem competitions?",
+                        "options": [
+                            "3) Encouraging team explanations on problem-solving",
+                            "1) Focusing on individual performance only",
+                            "4) Ignoring feedback from players",
+                            "2) Allowing players to work in complete silence"
+                        ],
+                        "explanation": "Encouraging team explanations fosters collaboration and enhances critical thinking skills among participants.",
+                        "answer": "3) Encouraging team explanations on problem-solving"
+                    },
+                    {
+                        "question": "How can challenges revolving around integers enhance learning?",
+                        "options": [
+                            "3) By providing irrelevant context",
+                            "1) By allowing students to avoid complex problems",
+                            "4) By emphasizing isolated practice only",
+                            "2) By promoting hands-on interactive experiences"
+                        ],
+                        "explanation": "Interactive experiences through challenges allow for deeper engagement and understanding of mathematical concepts like integers.",
+                        "answer": "2) By promoting hands-on interactive experiences"
+                    },
+                    {
+                        "question": "In integer-based games, what is a common feature regarding player scores?",
+                        "options": [
+                            "3) Scores do not impact game play",
+                            "1) Scores can only increase",
+                            "2) Scores can fluctuate positively and negatively",
+                            "4) Scores stay constant throughout the game"
+                        ],
+                        "explanation": "In integer-based games, scores can fluctuate positively when earning points and negatively when losing points, showcasing the concept of integers.",
+                        "answer": "2) Scores can fluctuate positively and negatively"
+                    },
+                    {
+                        "question": "What role does setting up a \u2018Math Corner\u2019 play in a fun learning environment?",
+                        "options": [
+                            "1) It discourages participation",
+                            "3) It enhances interest in math",
+                            "2) It restricts creativity",
+                            "4) It simplifies learning to a single approach"
+                        ],
+                        "explanation": "A \u2018Math Corner\u2019 filled with engaging materials encourages exploration and enhances interest in mathematical topics like integers.",
+                        "answer": "3) It enhances interest in math"
+                    }
+                ]
+            }
+        ],
+        "Science+": [
+            {
+                "quiz_grade": 90.0,
+                "wrong_answers": [
+                    2
+                ],
+                "attempt_number": 4,
+                "quiz": [
+                    {
+                        "question": "What is the main purpose of using interactive simulations in the context of atomic structure?",
+                        "options": [
+                            "3) To conduct chemical experiments",
+                            "1) To memorize the periodic table",
+                            "2) To visualize atomic interactions and properties",
+                            "4) To learn about molecular biology"
+                        ],
+                        "explanation": "Interactive simulations allow learners to visualize how atomic components interact and change, providing a deeper understanding of atomic structure.",
+                        "answer": "2) To visualize atomic interactions and properties"
+                    },
+                    {
+                        "question": "In modeling atoms, what do circles represent?",
+                        "options": [
+                            "3) Chemical bonds",
+                            "4) Energy levels",
+                            "2) Protons and Neutrons",
+                            "1) Electrons"
+                        ],
+                        "explanation": "In atomic models, circles are commonly used to denote protons and neutrons, while smaller circles represent electrons.",
+                        "answer": "2) Protons and Neutrons"
+                    },
+                    {
+                        "question": "What key concept is illustrated by the statement that 'chemical reactions occur when atoms and molecules come together to form new substances'?",
+                        "options": [
+                            "4) The periodic table",
+                            "3) The electron cloud model",
+                            "1) Atomic theory",
+                            "2) The law of conservation of mass"
+                        ],
+                        "explanation": "This concept demonstrates that during chemical reactions, atoms are rearranged to form different substances, showcasing their interactions.",
+                        "answer": "1) Atomic theory"
+                    },
+                    {
+                        "question": "Which of the following best describes chemical reactions as discussed in the lecture?",
+                        "options": [
+                            "3) They involve the breaking and forming of bonds between atoms.",
+                            "4) They cannot be observed through simulations.",
+                            "1) They can occur without changing the composition of substances.",
+                            "2) They are solely dependent on external temperature changes."
+                        ],
+                        "explanation": "Chemical reactions involve the rearrangement of atoms, where bonds break and new bonds form, highlighting atomic interactions.",
+                        "answer": "3) They involve the breaking and forming of bonds between atoms."
+                    },
+                    {
+                        "question": "What does changing the number of electrons in an atom affect?",
+                        "options": [
+                            "1) The atomic number",
+                            "3) The charge and chemical properties of the atom",
+                            "4) The number of protons",
+                            "2) The mass number"
+                        ],
+                        "explanation": "Adding or removing electrons alters the charge of the atom, impacting its chemical properties, such as its reactivity.",
+                        "answer": "3) The charge and chemical properties of the atom"
+                    },
+                    {
+                        "question": "Why is the concept of conservation of mass important in observing chemical reactions?",
+                        "options": [
+                            "3) It explains that the total mass of reactants equals the total mass of products.",
+                            "2) It means that atoms can be created or destroyed in a reaction.",
+                            "4) It indicates that energy is conserved in chemical reactions.",
+                            "1) It ensures that reactions can happen spontaneously."
+                        ],
+                        "explanation": "Conservation of mass states that in a chemical reaction, the sum of the masses of the reactants is equal to the sum of the masses of the products, affirming the constant number of atoms.",
+                        "answer": "3) It explains that the total mass of reactants equals the total mass of products."
+                    },
+                    {
+                        "question": "Which aspect of atomic structure do simulations help us explore?",
+                        "options": [
+                            "4) The interactions between different atomic components",
+                            "3) The movement of atoms in different states of matter",
+                            "1) The color of elements",
+                            "2) The temperature fluctuations of atoms"
+                        ],
+                        "explanation": "Simulations provide insights into how different atomic components, such as protons, neutrons, and electrons, interact and change during processes.",
+                        "answer": "4) The interactions between different atomic components"
+                    },
+                    {
+                        "question": "Which part of an atom is responsible for determining the element type?",
+                        "options": [
+                            "4) Molecules",
+                            "3) Protons",
+                            "2) Electrons",
+                            "1) Neutrons"
+                        ],
+                        "explanation": "The number of protons in an atom's nucleus defines its atomic number, which determines the type of element it is.",
+                        "answer": "3) Protons"
+                    },
+                    {
+                        "question": "In the context of the lecture, how are practical applications of atomic structure highlighted?",
+                        "options": [
+                            "2) They are only applicable in scientific research.",
+                            "4) They emphasize historical experiments in chemistry.",
+                            "3) They demonstrate the relevance of chemistry in everyday life and various careers.",
+                            "1) They are unrelated to fields like cooking and sewing."
+                        ],
+                        "explanation": "The discussion on practical applications emphasizes how understanding atomic structure is crucial for fields such as engineering and medicine.",
+                        "answer": "3) They demonstrate the relevance of chemistry in everyday life and various careers."
+                    },
+                    {
+                        "question": "What method is suggested for creating detailed models of atoms?",
+                        "options": [
+                            "3) Using symbols and abstract representations of particles.",
+                            "1) Using physical materials to build the models.",
+                            "2) Drawing models on paper.",
+                            "4) Building 3D structures with software applications."
+                        ],
+                        "explanation": "The lecture suggests using symbols to represent different particles in atoms, simplifying the process of modeling atomic structure.",
+                        "answer": "3) Using symbols and abstract representations of particles."
+                    }
+                ]
+            }
+        ],
+        "Social Studies+": [
+            {
+                "quiz_grade": 100.0,
+                "wrong_answers": [],
+                "attempt_number": 2,
+                "quiz": [
+                    {
+                        "question": "What geographical feature is considered the key to Mesopotamia's success as the 'Cradle of Civilization'?",
+                        "options": [
+                            "4) The Amazon River",
+                            "3) The Tigris and Euphrates Rivers",
+                            "1) The Nile River",
+                            "2) The Indus River"
+                        ],
+                        "explanation": "The Tigris and Euphrates Rivers provided fertile land which allowed for the development of agriculture and complex societies in Mesopotamia.",
+                        "answer": "3) The Tigris and Euphrates Rivers"
+                    },
+                    {
+                        "question": "In Ancient Egypt, who was considered both the political and divine ruler?",
+                        "options": [
+                            "3) A King",
+                            "4) A General",
+                            "2) A Priest",
+                            "1) A Pharaoh"
+                        ],
+                        "explanation": "The Pharaoh was believed to be a god on earth, embodying both political and religious authority in Ancient Egypt.",
+                        "answer": "1) A Pharaoh"
+                    },
+                    {
+                        "question": "Which civilization is recognized for its advanced urban planning, including sophisticated drainage systems?",
+                        "options": [
+                            "1) Ancient Egypt",
+                            "2) The Indus Valley Civilization",
+                            "3) Mesopotamia",
+                            "4) The Shang Dynasty"
+                        ],
+                        "explanation": "The Indus Valley Civilization is noted for its advanced urban planning with well-organized cities such as Harappa and Mohenjo-daro.",
+                        "answer": "2) The Indus Valley Civilization"
+                    },
+                    {
+                        "question": "What was a notable feature of ancient Chinese governance during the Shang Dynasty?",
+                        "options": [
+                            "4) Democracy",
+                            "2) The Mandate of Heaven",
+                            "3) Codes of Law",
+                            "1) City-states"
+                        ],
+                        "explanation": "The Mandate of Heaven was a significant concept that justified the ruler's authority by suggesting it was divinely sanctioned.",
+                        "answer": "2) The Mandate of Heaven"
+                    },
+                    {
+                        "question": "How did the governance in Mesopotamia differ from that of Ancient Egypt?",
+                        "options": [
+                            "1) Mesopotamia had a feudal system, while Egypt was centralized",
+                            "3) Mesopotamia consisted of city-states, while Egypt was centralized under a Pharaoh",
+                            "2) Mesopotamia was centralized under a Pharaoh",
+                            "4) Both had the same governance structure"
+                        ],
+                        "explanation": "Mesopotamia was characterized by independent city-states governed by kings, whereas Ancient Egypt was centralized under the authority of the Pharaoh.",
+                        "answer": "3) Mesopotamia consisted of city-states, while Egypt was centralized under a Pharaoh"
+                    },
+                    {
+                        "question": "Which technological advancement was significant during the Shang Dynasty in ancient China?",
+                        "options": [
+                            "4) Written language",
+                            "1) The wheel",
+                            "2) Bronze casting",
+                            "3) Pyramid construction"
+                        ],
+                        "explanation": "Bronze casting was a significant technological advancement during the Shang Dynasty, contributing to their economic prosperity through improved tools and weapons.",
+                        "answer": "2) Bronze casting"
+                    },
+                    {
+                        "question": "What influenced the decline of the Indus Valley Civilization, according to discussions on climate change and resources?",
+                        "options": [
+                            "1) Invasions by other cultures",
+                            "3) Lack of trade",
+                            "4) Poor writing systems",
+                            "2) Climate change and resource management issues"
+                        ],
+                        "explanation": "Discussions suggest the decline may have been influenced by climate change and resource management challenges, highlighting sustainability issues.",
+                        "answer": "2) Climate change and resource management issues"
+                    },
+                    {
+                        "question": "What was a shared characteristic of governance in both Mesopotamia and Egypt?",
+                        "options": [
+                            "4) Direct democracy",
+                            "1) Separation of religion and politics",
+                            "3) Integration of religion into governance",
+                            "2) Bureaucratic structures"
+                        ],
+                        "explanation": "Both Mesopotamia and Egypt integrated religious authority into their political structures, with rulers often seen as divine or appointed by the gods.",
+                        "answer": "3) Integration of religion into governance"
+                    },
+                    {
+                        "question": "Which trade route is mentioned as a vital connection for ancient civilizations?",
+                        "options": [
+                            "4) The Spice Route",
+                            "2) The Incense Route",
+                            "1) The Silk Road",
+                            "3) The Roman Roads"
+                        ],
+                        "explanation": "The Silk Road was essential for trade and cultural exchange between ancient civilizations, influencing ideas and technology.",
+                        "answer": "1) The Silk Road"
+                    },
+                    {
+                        "question": "What legacy of ancient civilizations is still noticeable in modern governance?",
+                        "options": [
+                            "4) Clan-based governance",
+                            "1) A focus on trade",
+                            "2) The development of seniority systems",
+                            "3) Codes of Law and bureaucratic structures"
+                        ],
+                        "explanation": "Ancient civilizations laid the foundations for modern societal organization through the establishment of laws and structured governance.",
+                        "answer": "3) Codes of Law and bureaucratic structures"
+                    }
+                ]
+            }
+        ],
+        "American History+": [
+            {
+                "quiz_grade": 90.0,
+                "wrong_answers": [
+                    6
+                ],
+                "attempt_number": 3,
+                "quiz": [
+                    {
+                        "question": "What type of timeline will we create for the Colonial America lesson?",
+                        "options": [
+                            "2) Circular",
+                            "4) Interactive",
+                            "1) Linear",
+                            "3) Hierarchical"
+                        ],
+                        "explanation": "We will create a linear timeline to capture key events from the 1600s to the mid-1700s.",
+                        "answer": "1) Linear"
+                    },
+                    {
+                        "question": "What is one method discussed for enhancing timelines visually?",
+                        "options": [
+                            "2) Using only text descriptions",
+                            "3) Organizing events alphabetically",
+                            "1) Incorporating pictures and symbols",
+                            "4) Creating a digital presentation"
+                        ],
+                        "explanation": "Incorporating pictures of symbols and key figures helps make timelines more engaging and aids in memory retention.",
+                        "answer": "1) Incorporating pictures and symbols"
+                    },
+                    {
+                        "question": "Why is understanding chronology emphasized in the lesson?",
+                        "options": [
+                            "4) It replaces the need for detailed notes.",
+                            "3) It allows for easy memorization of dates.",
+                            "2) It simplifies historical narratives.",
+                            "1) It helps to recognize the sequence of events."
+                        ],
+                        "explanation": "Understanding chronology helps recognize the temporal relationships among events, clarifying how they lead to later occurrences.",
+                        "answer": "1) It helps to recognize the sequence of events."
+                    },
+                    {
+                        "question": "How can we assess our timeline once it is completed?",
+                        "options": [
+                            "3) By comparing it to existing textbooks.",
+                            "2) By showing it to peers for feedback.",
+                            "4) By writing an essay about it.",
+                            "1) By analyzing patterns and asking critical questions."
+                        ],
+                        "explanation": "We can assess our timelines by analyzing patterns such as the frequency of conflicts and shifts in governance, along with posing critical questions about them.",
+                        "answer": "1) By analyzing patterns and asking critical questions."
+                    },
+                    {
+                        "question": "What type of events does the scale of the timeline allow us to focus on?",
+                        "options": [
+                            "2) Only the most significant events in history.",
+                            "1) Specific themes or events without overwhelming ourselves.",
+                            "4) Events from various unrelated periods.",
+                            "3) Events within one year only."
+                        ],
+                        "explanation": "Establishing a scale allows us to focus on specific themes or events within defined time frames, making it more digestible.",
+                        "answer": "1) Specific themes or events without overwhelming ourselves."
+                    },
+                    {
+                        "question": "What historical period does our timeline cover in this lesson?",
+                        "options": [
+                            "4) From the founding of America to its independence.",
+                            "2) The 1700s to the 1800s.",
+                            "3) The 1500s to the 1600s.",
+                            "1) The 1600s to the mid-1700s."
+                        ],
+                        "explanation": "Our timeline specifically covers events from Colonial America, focusing on the period from the 1600s to the mid-1700s.",
+                        "answer": "1) The 1600s to the mid-1700s."
+                    },
+                    {
+                        "question": "What is an example of an event we might include in our Colonial America timeline according to the lecture?",
+                        "options": [
+                            "4) The American Civil War.",
+                            "3) The invention of the cotton gin.",
+                            "2) The founding of the Massachusetts Bay Colony.",
+                            "1) The signing of the Declaration of Independence."
+                        ],
+                        "explanation": "An example event we might include is the founding of the Massachusetts Bay Colony, which is significant in the context of Colonial America.",
+                        "answer": "2) The founding of the Massachusetts Bay Colony."
+                    },
+                    {
+                        "question": "Which factor is important when deciding on events to include in a timeline?",
+                        "options": [
+                            "2) The color of the sources presenting the information.",
+                            "3) The publication date of historical documents.",
+                            "1) The impact and relevance of events to the broader historical narrative.",
+                            "4) Whether events had a minimal effect on society."
+                        ],
+                        "explanation": "Choosing events based on their impact and relevance to the broader narrative helps to create a meaningful and informative timeline.",
+                        "answer": "1) The impact and relevance of events to the broader historical narrative."
+                    },
+                    {
+                        "question": "What benefit does incorporating visuals in a timeline provide?",
+                        "options": [
+                            "1) It transforms the timeline into a colorful display.",
+                            "4) It eliminates the need for explanations.",
+                            "3) It serves as a distraction from the text.",
+                            "2) It makes the timeline more engaging and reinforces memory."
+                        ],
+                        "explanation": "Incorporating visuals in a timeline makes it more engaging and helps reinforce the memory of the events presented, aiding in understanding.",
+                        "answer": "2) It makes the timeline more engaging and reinforces memory."
+                    },
+                    {
+                        "question": "What is one of the main focuses when discussing events that led to the American Revolution?",
+                        "options": [
+                            "2) The weather conditions during those events.",
+                            "3) The economic status of each colony.",
+                            "1) The cultural and social elements alongside political ones.",
+                            "4) The geographic locations of key battles."
+                        ],
+                        "explanation": "Understanding the cultural and social elements alongside political ones is crucial for comprehending the events that led to the American Revolution.",
+                        "answer": "1) The cultural and social elements alongside political ones."
+                    }
+                ]
+            },
+            {
+                "quiz_grade": 100.0,
+                "wrong_answers": [],
+                "attempt_number": 4,
+                "quiz": [
+                    {
+                        "question": "What type of timeline will we create for the Colonial America lesson?",
+                        "options": [
+                            "2) Circular",
+                            "4) Interactive",
+                            "1) Linear",
+                            "3) Hierarchical"
+                        ],
+                        "explanation": "We will create a linear timeline to capture key events from the 1600s to the mid-1700s.",
+                        "answer": "1) Linear"
+                    },
+                    {
+                        "question": "What is one method discussed for enhancing timelines visually?",
+                        "options": [
+                            "2) Using only text descriptions",
+                            "3) Organizing events alphabetically",
+                            "1) Incorporating pictures and symbols",
+                            "4) Creating a digital presentation"
+                        ],
+                        "explanation": "Incorporating pictures of symbols and key figures helps make timelines more engaging and aids in memory retention.",
+                        "answer": "1) Incorporating pictures and symbols"
+                    },
+                    {
+                        "question": "Why is understanding chronology emphasized in the lesson?",
+                        "options": [
+                            "4) It replaces the need for detailed notes.",
+                            "3) It allows for easy memorization of dates.",
+                            "2) It simplifies historical narratives.",
+                            "1) It helps to recognize the sequence of events."
+                        ],
+                        "explanation": "Understanding chronology helps recognize the temporal relationships among events, clarifying how they lead to later occurrences.",
+                        "answer": "1) It helps to recognize the sequence of events."
+                    },
+                    {
+                        "question": "How can we assess our timeline once it is completed?",
+                        "options": [
+                            "3) By comparing it to existing textbooks.",
+                            "2) By showing it to peers for feedback.",
+                            "4) By writing an essay about it.",
+                            "1) By analyzing patterns and asking critical questions."
+                        ],
+                        "explanation": "We can assess our timelines by analyzing patterns such as the frequency of conflicts and shifts in governance, along with posing critical questions about them.",
+                        "answer": "1) By analyzing patterns and asking critical questions."
+                    },
+                    {
+                        "question": "What type of events does the scale of the timeline allow us to focus on?",
+                        "options": [
+                            "2) Only the most significant events in history.",
+                            "1) Specific themes or events without overwhelming ourselves.",
+                            "4) Events from various unrelated periods.",
+                            "3) Events within one year only."
+                        ],
+                        "explanation": "Establishing a scale allows us to focus on specific themes or events within defined time frames, making it more digestible.",
+                        "answer": "1) Specific themes or events without overwhelming ourselves."
+                    },
+                    {
+                        "question": "What historical period does our timeline cover in this lesson?",
+                        "options": [
+                            "4) From the founding of America to its independence.",
+                            "2) The 1700s to the 1800s.",
+                            "3) The 1500s to the 1600s.",
+                            "1) The 1600s to the mid-1700s."
+                        ],
+                        "explanation": "Our timeline specifically covers events from Colonial America, focusing on the period from the 1600s to the mid-1700s.",
+                        "answer": "1) The 1600s to the mid-1700s."
+                    },
+                    {
+                        "question": "What is an example of an event we might include in our Colonial America timeline according to the lecture?",
+                        "options": [
+                            "4) The American Civil War.",
+                            "3) The invention of the cotton gin.",
+                            "2) The founding of the Massachusetts Bay Colony.",
+                            "1) The signing of the Declaration of Independence."
+                        ],
+                        "explanation": "An example event we might include is the founding of the Massachusetts Bay Colony, which is significant in the context of Colonial America.",
+                        "answer": "2) The founding of the Massachusetts Bay Colony."
+                    },
+                    {
+                        "question": "Which factor is important when deciding on events to include in a timeline?",
+                        "options": [
+                            "2) The color of the sources presenting the information.",
+                            "3) The publication date of historical documents.",
+                            "1) The impact and relevance of events to the broader historical narrative.",
+                            "4) Whether events had a minimal effect on society."
+                        ],
+                        "explanation": "Choosing events based on their impact and relevance to the broader narrative helps to create a meaningful and informative timeline.",
+                        "answer": "1) The impact and relevance of events to the broader historical narrative."
+                    },
+                    {
+                        "question": "What benefit does incorporating visuals in a timeline provide?",
+                        "options": [
+                            "1) It transforms the timeline into a colorful display.",
+                            "4) It eliminates the need for explanations.",
+                            "3) It serves as a distraction from the text.",
+                            "2) It makes the timeline more engaging and reinforces memory."
+                        ],
+                        "explanation": "Incorporating visuals in a timeline makes it more engaging and helps reinforce the memory of the events presented, aiding in understanding.",
+                        "answer": "2) It makes the timeline more engaging and reinforces memory."
+                    },
+                    {
+                        "question": "What is one of the main focuses when discussing events that led to the American Revolution?",
+                        "options": [
+                            "2) The weather conditions during those events.",
+                            "3) The economic status of each colony.",
+                            "1) The cultural and social elements alongside political ones.",
+                            "4) The geographic locations of key battles."
+                        ],
+                        "explanation": "Understanding the cultural and social elements alongside political ones is crucial for comprehending the events that led to the American Revolution.",
+                        "answer": "1) The cultural and social elements alongside political ones."
+                    }
+                ]
+            }
+        ]
+    },
+    "Friday": {}
+}

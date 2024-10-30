@@ -1,0 +1,251 @@
+[
+    {
+        "days": [
+            {
+                "day_name": "Monday",
+                "subjects": [
+                    {
+                        "subject_name": "Language Arts",
+                        "subject_topic": "Identifying Main Ideas",
+                        "subject_daily_intro": "Today, we will be focusing on identifying main ideas in various texts. This is an essential skill for comprehension that helps you understand the author's message.",
+                        "subject_daily_sub_topics": [
+                            "Distinguishing main ideas from details",
+                            "Understanding author's purpose",
+                            "Recognizing supporting details"
+                        ],
+                        "subject_topic_daily_summary": "By the end of today's lesson, you will be able to identify the main ideas in a text and differentiate them from supporting details."
+                    },
+                    {
+                        "subject_name": "Mathematics",
+                        "subject_topic": "Whole Numbers",
+                        "subject_daily_intro": "In our math class today, we will dive into operations with whole numbers, including addition, subtraction, multiplication, and division. These operations are fundamental for everyday calculations.",
+                        "subject_daily_sub_topics": [
+                            "Operations on whole numbers",
+                            "Order of operations",
+                            "Word problems involving whole numbers"
+                        ],
+                        "subject_topic_daily_summary": "Today, you will practice different operations involving whole numbers, enhancing your calculation skills."
+                    },
+                    {
+                        "subject_name": "Science",
+                        "subject_topic": "Lab Safety",
+                        "subject_daily_intro": "Today's focus is on lab safety. We will cover essential practices that ensure a safe learning environment during experiments and when handling equipment.",
+                        "subject_daily_sub_topics": [
+                            "Personal protective equipment",
+                            "Understanding MSDS",
+                            "Emergency procedures"
+                        ],
+                        "subject_topic_daily_summary": "You will learn about the importance of lab safety and the key practices to follow, ensuring you can conduct science safely."
+                    },
+                    {
+                        "subject_name": "Social Studies",
+                        "subject_topic": "Key Concepts in History",
+                        "subject_daily_intro": "In social studies today, we will explore key concepts in history, including important themes and events that shape our understanding of the past.",
+                        "subject_daily_sub_topics": [
+                            "Cause and effect in history",
+                            "Identifying historical significance",
+                            "Understanding different perspectives"
+                        ],
+                        "subject_topic_daily_summary": "Today's lesson will provide you with foundational knowledge about significant historical concepts and their relevance."
+                    }
+                ]
+            },
+            {
+                "day_name": "Tuesday",
+                "subjects": [
+                    {
+                        "subject_name": "Language Arts",
+                        "subject_topic": "Identifying Main Ideas",
+                        "subject_daily_intro": "Building on yesterday's lesson, we will continue practicing our skills in identifying main ideas, this time focusing on longer texts and articles.",
+                        "subject_daily_sub_topics": [
+                            "Analyzing paragraphs",
+                            "Summarizing texts",
+                            "Identifying biases"
+                        ],
+                        "subject_topic_daily_summary": "By the end of today, you will feel more confident in discerning main ideas and summarizing longer texts."
+                    },
+                    {
+                        "subject_name": "Mathematics",
+                        "subject_topic": "Whole Numbers",
+                        "subject_daily_intro": "Today, we will continue to practice whole number operations, focusing specifically on real-world applications and problem-solving strategies.",
+                        "subject_daily_sub_topics": [
+                            "Multi-step problems",
+                            "Using estimation",
+                            "Applications in daily life"
+                        ],
+                        "subject_topic_daily_summary": "You will enhance your understanding of whole numbers by applying them to practical problems."
+                    },
+                    {
+                        "subject_name": "Science",
+                        "subject_topic": "Lab Safety",
+                        "subject_daily_intro": "We'll take yesterday's lab safety lesson a step further by discussing specific lab exercises and the safety protocols associated with each.",
+                        "subject_daily_sub_topics": [
+                            "Conducting experiments safely",
+                            "Reporting accidents",
+                            "Proper equipment handling"
+                        ],
+                        "subject_topic_daily_summary": "You will consolidate your lab safety knowledge by learning practical applications relevant to upcoming experiments."
+                    },
+                    {
+                        "subject_name": "Social Studies",
+                        "subject_topic": "Key Concepts in History",
+                        "subject_daily_intro": "Today, we will explore additional key historical figures and events, building on what we discussed yesterday, to understand their impacts.",
+                        "subject_daily_sub_topics": [
+                            "Influential leaders",
+                            "Historical events timeline",
+                            "Cultural impacts"
+                        ],
+                        "subject_topic_daily_summary": "Today, you will gain a deeper understanding of pivotal moments in history and the key figures who influenced them."
+                    }
+                ]
+            },
+            {
+                "day_name": "Wednesday",
+                "subjects": [
+                    {
+                        "subject_name": "Language Arts",
+                        "subject_topic": "Identifying Main Ideas",
+                        "subject_daily_intro": "Today, we will reinforce the skill of identifying main ideas by comparing and contrasting different texts.",
+                        "subject_daily_sub_topics": [
+                            "Comparative analysis",
+                            "Textual evidence",
+                            "Discussion of themes"
+                        ],
+                        "subject_topic_daily_summary": "You will learn how to identify main ideas across different texts and discuss the underlying themes."
+                    },
+                    {
+                        "subject_name": "Mathematics",
+                        "subject_topic": "Whole Numbers",
+                        "subject_daily_intro": "We will further develop our skills in whole number operations today by tackling challenging word problems.",
+                        "subject_daily_sub_topics": [
+                            "Creative problem-solving",
+                            "Exploring patterns in numbers",
+                            "Number line applications"
+                        ],
+                        "subject_topic_daily_summary": "By the end of today's math session, you will feel adept at addressing more complex word problems involving whole numbers."
+                    },
+                    {
+                        "subject_name": "Science",
+                        "subject_topic": "Lab Safety",
+                        "subject_daily_intro": "Our focus will shift to evaluating case studies related to lab safety and discussing what went right or wrong in each situation.",
+                        "subject_daily_sub_topics": [
+                            "Case study analysis",
+                            "Discussion on mistakes",
+                            "Creating safety checklists"
+                        ],
+                        "subject_topic_daily_summary": "Today, you will critique real-life situations concerning lab safety, empowering you with the foresight to avoid similar mistakes."
+                    },
+                    {
+                        "subject_name": "Social Studies",
+                        "subject_topic": "Key Concepts in History",
+                        "subject_daily_intro": "Continuing from yesterday, we will focus on how different societies evolved and the major events that triggered change.",
+                        "subject_daily_sub_topics": [
+                            "Timeline creation",
+                            "Connections between events",
+                            "Impacts of technological advancements"
+                        ],
+                        "subject_topic_daily_summary": "You will understand how historical societies changed and evolved based on key events."
+                    }
+                ]
+            },
+            {
+                "day_name": "Thursday",
+                "subjects": [
+                    {
+                        "subject_name": "Language Arts",
+                        "subject_topic": "Identifying Main Ideas",
+                        "subject_daily_intro": "Today, we will practice identifying main ideas through group discussions of key points from various articles and literature.",
+                        "subject_daily_sub_topics": [
+                            "Peer feedback",
+                            "Discussion techniques",
+                            "Enhancing comprehension"
+                        ],
+                        "subject_topic_daily_summary": "You will enhance your ability to articulate main ideas confidently and gain insights from peer discussions."
+                    },
+                    {
+                        "subject_name": "Mathematics",
+                        "subject_topic": "Whole Numbers",
+                        "subject_daily_intro": "Today's math lesson focuses on reviewing all operations with whole numbers and preparing for a short assessment based on what you've learned this week.",
+                        "subject_daily_sub_topics": [
+                            "Review of operations",
+                            "Practice tests",
+                            "Math games"
+                        ],
+                        "subject_topic_daily_summary": "You will solidify your understanding of whole numbers by participating in review activities and practicing for future assessments."
+                    },
+                    {
+                        "subject_name": "Science",
+                        "subject_topic": "Lab Safety",
+                        "subject_daily_intro": "We'll wrap up our lab safety unit by discussing the importance of safety culture in laboratories and the role of each individual.",
+                        "subject_daily_sub_topics": [
+                            "Cultivating a safety culture",
+                            "Importance of communication",
+                            "Safety roles in lab settings"
+                        ],
+                        "subject_topic_daily_summary": "By the end of today's lesson, you'll understand how to apply individual responsibility to promote safety in scientific environments."
+                    },
+                    {
+                        "subject_name": "Social Studies",
+                        "subject_topic": "Key Concepts in History",
+                        "subject_daily_intro": "We will conclude our study of key concepts in history by discussing how historical lessons apply to modern society.",
+                        "subject_daily_sub_topics": [
+                            "Connecting past to present",
+                            "Lessons learned from history",
+                            "Social change movements"
+                        ],
+                        "subject_topic_daily_summary": "You will gain insights into how historical patterns can inform our understanding of current societal issues."
+                    }
+                ]
+            },
+            {
+                "day_name": "Friday",
+                "subjects": [
+                    {
+                        "subject_name": "Language Arts",
+                        "subject_topic": "Identifying Main Ideas",
+                        "subject_daily_intro": "Today marks our final day focused on identifying main ideas, where you will summarize what you\u2019ve learned through a project or presentation.",
+                        "subject_daily_sub_topics": [
+                            "Creating presentations",
+                            "Visual aids",
+                            "Engaging an audience"
+                        ],
+                        "subject_topic_daily_summary": "You will compile your understanding of main ideas into a presentation that showcases your skills."
+                    },
+                    {
+                        "subject_name": "Mathematics",
+                        "subject_topic": "Whole Numbers",
+                        "subject_daily_intro": "We will conduct a fun assessment on whole numbers today to check your understanding of the week's lessons.",
+                        "subject_daily_sub_topics": [
+                            "Review games",
+                            "Individual reflection",
+                            "Performance assessment"
+                        ],
+                        "subject_topic_daily_summary": "The assessment will cover operations with whole numbers, allowing you to demonstrate your progress in a supportive environment."
+                    },
+                    {
+                        "subject_name": "Science",
+                        "subject_topic": "Lab Safety",
+                        "subject_daily_intro": "Today, we will review everything learned about lab safety and take a short quiz to reinforce this important knowledge.",
+                        "subject_daily_sub_topics": [
+                            "Safety in practice",
+                            "Feedback on knowledge",
+                            "Importance of quizzes"
+                        ],
+                        "subject_topic_daily_summary": "Through the quiz and discussions, you\u2019ll reinforce your lab safety knowledge and prepare for future experiments."
+                    },
+                    {
+                        "subject_name": "Social Studies",
+                        "subject_topic": "Key Concepts in History",
+                        "subject_daily_intro": "For our final session, we will discuss how to apply the concepts learned in history to current events happening around the world today.",
+                        "subject_daily_sub_topics": [
+                            "Current events analysis",
+                            "Application of historical lessons",
+                            "Identifying trends"
+                        ],
+                        "subject_topic_daily_summary": "You will connect your historical knowledge to the present, understanding how lessons from the past can shape today's decisions."
+                    }
+                ]
+            }
+        ]
+    }
+]

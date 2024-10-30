@@ -1,0 +1,312 @@
+[
+    {
+        "assesment_test_number": 1,
+        "subjects": [
+            {
+                "questionNumber": 1,
+                "question": "What is the value of x in the equation 2x + 3 = 11?",
+                "options": [
+                    "1) 2",
+                    "2) 4",
+                    "3) 5",
+                    "4) 7"
+                ],
+                "explanation": "To solve for x, subtract 3 from both sides to get 2x = 8, then divide by 2 to find x = 4.",
+                "answer": "2) 4",
+                "grade_level": "5",
+                "subject": "Mathematics",
+                "subject_topic": "Algebra"
+            },
+            {
+                "questionNumber": 2,
+                "question": "What is 15% of 200?",
+                "options": [
+                    "1) 30",
+                    "2) 25",
+                    "3) 20",
+                    "4) 15"
+                ],
+                "explanation": "15% of 200 is calculated by multiplying 200 by 0.15, which equals 30.",
+                "answer": "1) 30",
+                "grade_level": "5",
+                "subject": "Mathematics",
+                "subject_topic": "Percentages"
+            },
+            {
+                "questionNumber": 3,
+                "question": "If a triangle has angles of 90 degrees and 45 degrees, what is the measure of the third angle?",
+                "options": [
+                    "1) 45 degrees",
+                    "2) 60 degrees",
+                    "3) 30 degrees",
+                    "4) 75 degrees"
+                ],
+                "explanation": "The sum of the angles in a triangle is 180 degrees. Therefore, 180 - (90 + 45) = 45 degrees.",
+                "answer": "1) 45 degrees",
+                "grade_level": "5",
+                "subject": "Mathematics",
+                "subject_topic": "Geometry"
+            },
+            {
+                "questionNumber": 4,
+                "question": "Which of the following is a prime number?",
+                "options": [
+                    "1) 4",
+                    "2) 6",
+                    "3) 11",
+                    "4) 12"
+                ],
+                "explanation": "A prime number is a number greater than 1 that has no positive divisors other than 1 and itself. 11 is a prime number.",
+                "answer": "3) 11",
+                "grade_level": "5",
+                "subject": "Mathematics",
+                "subject_topic": "Number theory"
+            },
+            {
+                "questionNumber": 5,
+                "question": "What is the mean of the following set of numbers: 2, 4, 6, 8, 10?",
+                "options": [
+                    "1) 5",
+                    "2) 6",
+                    "3) 7",
+                    "4) 8"
+                ],
+                "explanation": "The mean is calculated by adding all numbers (2+4+6+8+10=30) and dividing by the total count of numbers (30/5=6).",
+                "answer": "2) 6",
+                "grade_level": "5",
+                "subject": "Mathematics",
+                "subject_topic": "Statistics"
+            },
+            {
+                "questionNumber": 6,
+                "question": "Which expression represents '7 less than twice a number x'?",
+                "options": [
+                    "1) 2x - 7",
+                    "2) 7 - 2x",
+                    "3) 2x + 7",
+                    "4) 2x - 14"
+                ],
+                "explanation": "'Twice a number x' is represented as 2x. Therefore, '7 less than twice a number x' is 2x - 7.",
+                "answer": "1) 2x - 7",
+                "grade_level": "5",
+                "subject": "Mathematics",
+                "subject_topic": "Algebra"
+            },
+            {
+                "questionNumber": 7,
+                "question": "What is the greatest common factor (GCF) of 12 and 18?",
+                "options": [
+                    "1) 2",
+                    "2) 3",
+                    "3) 6",
+                    "4) 9"
+                ],
+                "explanation": "The GCF of 12 and 18 is 6, as it is the largest number that divides both evenly.",
+                "answer": "3) 6",
+                "grade_level": "5",
+                "subject": "Mathematics",
+                "subject_topic": "Number theory"
+            },
+            {
+                "questionNumber": 8,
+                "question": "If you roll a fair six-sided die, what is the probability of rolling an odd number?",
+                "options": [
+                    "1) 1/2",
+                    "2) 1/3",
+                    "3) 2/3",
+                    "4) 1/6"
+                ],
+                "explanation": "The odd numbers on a six-sided die are 1, 3, and 5, so there are 3 favorable outcomes out of 6 possible outcomes, which gives a probability of 3/6 = 1/2.",
+                "answer": "1) 1/2",
+                "grade_level": "5",
+                "subject": "Mathematics",
+                "subject_topic": "Probability"
+            },
+            {
+                "questionNumber": 9,
+                "question": "What is the area of a rectangle with a length of 8 units and a width of 3 units?",
+                "options": [
+                    "1) 11 square units",
+                    "2) 24 square units",
+                    "3) 32 square units",
+                    "4) 40 square units"
+                ],
+                "explanation": "Area of a rectangle is calculated by multiplying length by width. So, 8 * 3 = 24 square units.",
+                "answer": "2) 24 square units",
+                "grade_level": "5",
+                "subject": "Mathematics",
+                "subject_topic": "Geometry"
+            },
+            {
+                "questionNumber": 10,
+                "question": "What is the next number in the sequence: 2, 4, 8, 16, ...?",
+                "options": [
+                    "1) 20",
+                    "2) 24",
+                    "3) 32",
+                    "4) 40"
+                ],
+                "explanation": "The pattern in the sequence is that each number is multiplied by 2. Therefore, the next number after 16 is 16 * 2 = 32.",
+                "answer": "3) 32",
+                "grade_level": "5",
+                "subject": "Mathematics",
+                "subject_topic": "Sequences and Patterns"
+            }
+        ]
+    },
+    {
+        "assesment_test_number": 1,
+        "subjects": [
+            {
+                "questionNumber": 1,
+                "question": "What is the main idea of a story?",
+                "options": [
+                    "1) The central point or message in the text",
+                    "2) The characters and their names",
+                    "3) The total number of pages in the book",
+                    "4) A detailed description of the setting"
+                ],
+                "explanation": "The main idea is the central point or message that the author wants to convey in the text. It summarizes the key themes and concepts presented in the story.",
+                "answer": "1) The central point or message in the text",
+                "grade_level": "5",
+                "subject": "Language Arts",
+                "subject_topic": "Main Idea"
+            },
+            {
+                "questionNumber": 2,
+                "question": "Which of the following is a synonym for 'happy'?",
+                "options": [
+                    "1) Sad",
+                    "2) Joyful",
+                    "3) Angry",
+                    "4) Tired"
+                ],
+                "explanation": "A synonym is a word that has similar meaning to another word. 'Joyful' is a word that means the same as 'happy'.",
+                "answer": "2) Joyful",
+                "grade_level": "5",
+                "subject": "Language Arts",
+                "subject_topic": "Synonyms"
+            },
+            {
+                "questionNumber": 3,
+                "question": "What type of figurative language compares two unlike things using 'like' or 'as'?",
+                "options": [
+                    "1) Metaphor",
+                    "2) Simile",
+                    "3) Personification",
+                    "4) Hyperbole"
+                ],
+                "explanation": "A simile is a figure of speech that compares two different things using the words 'like' or 'as'.",
+                "answer": "2) Simile",
+                "grade_level": "5",
+                "subject": "Language Arts",
+                "subject_topic": "Figurative Language"
+            },
+            {
+                "questionNumber": 4,
+                "question": "Which of the following best describes the term 'setting' in a story?",
+                "options": [
+                    "1) The plot sequence",
+                    "2) The time and place in which a story occurs",
+                    "3) The moral lesson",
+                    "4) The main character's conflict"
+                ],
+                "explanation": "The setting refers to the time and place in which the events of a story take place, establishing its context.",
+                "answer": "2) The time and place in which a story occurs",
+                "grade_level": "5",
+                "subject": "Language Arts",
+                "subject_topic": "Setting"
+            },
+            {
+                "questionNumber": 5,
+                "question": "What is the purpose of the concluding paragraph in an essay?",
+                "options": [
+                    "1) To introduce new ideas",
+                    "2) To summarize the main points",
+                    "3) To list sources",
+                    "4) To provide detailed examples"
+                ],
+                "explanation": "The concluding paragraph of an essay serves to summarize the main points discussed and restate the thesis, giving the reader closure.",
+                "answer": "2) To summarize the main points",
+                "grade_level": "5",
+                "subject": "Language Arts",
+                "subject_topic": "Essay Structure"
+            },
+            {
+                "questionNumber": 6,
+                "question": "Which sentence uses a compound sentence structure?",
+                "options": [
+                    "1) I like pizza; I don't like salad.",
+                    "2) I enjoy reading books.",
+                    "3) The dog barked.",
+                    "4) She ran fast and won the race."
+                ],
+                "explanation": "A compound sentence contains at least two independent clauses. Option 1 is a compound sentence because it contains two separate clauses connected by a semicolon.",
+                "answer": "1) I like pizza; I don't like salad.",
+                "grade_level": "5",
+                "subject": "Language Arts",
+                "subject_topic": "Sentence Structure"
+            },
+            {
+                "questionNumber": 7,
+                "question": "What is a theme in literature?",
+                "options": [
+                    "1) The lesson or moral about life",
+                    "2) The author's biography",
+                    "3) The sequence of events in a story",
+                    "4) The physical description of characters"
+                ],
+                "explanation": "The theme is the underlying message or lesson that is conveyed through the story, often reflecting on broader human experiences.",
+                "answer": "1) The lesson or moral about life",
+                "grade_level": "5",
+                "subject": "Language Arts",
+                "subject_topic": "Theme"
+            },
+            {
+                "questionNumber": 8,
+                "question": "Which of the following sentences is an example of a declarative sentence?",
+                "options": [
+                    "1) Do you like ice cream?",
+                    "2) I enjoy playing football.",
+                    "3) Please turn off the lights.",
+                    "4) How interesting this book is!"
+                ],
+                "explanation": "A declarative sentence makes a statement or expresses an opinion. The sentence 'I enjoy playing football.' is a declarative sentence.",
+                "answer": "2) I enjoy playing football.",
+                "grade_level": "5",
+                "subject": "Language Arts",
+                "subject_topic": "Sentence Types"
+            },
+            {
+                "questionNumber": 9,
+                "question": "Which literary device gives human-like qualities to non-human things?",
+                "options": [
+                    "1) Alliteration",
+                    "2) Personification",
+                    "3) Hyperbole",
+                    "4) Oxymoron"
+                ],
+                "explanation": "Personification is a literary device where human characteristics are attributed to non-human things, making them relatable and vivid in a narrative.",
+                "answer": "2) Personification",
+                "grade_level": "5",
+                "subject": "Language Arts",
+                "subject_topic": "Literary Devices"
+            },
+            {
+                "questionNumber": 10,
+                "question": "What is the purpose of a thesis statement in an essay?",
+                "options": [
+                    "1) To tell a story",
+                    "2) To summarize each paragraph",
+                    "3) To present the main argument or point",
+                    "4) To ask a question"
+                ],
+                "explanation": "A thesis statement presents the main argument or point of an essay, guiding the direction and focus of the writing.",
+                "answer": "3) To present the main argument or point",
+                "grade_level": "5",
+                "subject": "Language Arts",
+                "subject_topic": "Thesis Statement"
+            }
+        ]
+    }
+]

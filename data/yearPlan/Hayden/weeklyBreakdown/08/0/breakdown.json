@@ -1,0 +1,236 @@
+[
+    {
+        "days": [
+            {
+                "day_name": "Monday",
+                "subjects": [
+                    {
+                        "subject_name": "Language Arts",
+                        "subject_topic": "Reading Comprehension",
+                        "subject_daily_intro": "Today, we will begin our exploration of reading comprehension. This involves understanding the main ideas, details, and inferencing from a text.",
+                        "subject_daily_sub_topics": [
+                            "Identifying main ideas",
+                            "Finding details",
+                            "Making inferences"
+                        ],
+                        "subject_topic_daily_summary": "In reading comprehension, you will learn to identify the main ideas of a passage, locate relevant details, and make inferences based on the text."
+                    },
+                    {
+                        "subject_name": "Mathematics",
+                        "subject_topic": "Number Systems",
+                        "subject_daily_intro": "In math class today, we will be working with number systems. This will include understanding different ways to represent numbers.",
+                        "subject_daily_sub_topics": [
+                            "Natural numbers",
+                            "Whole numbers",
+                            "Integers",
+                            "Rational numbers"
+                        ],
+                        "subject_topic_daily_summary": "You will learn about various number systems like natural numbers, whole numbers, integers, and rational numbers today."
+                    },
+                    {
+                        "subject_name": "Science",
+                        "subject_topic": "Scientific Method",
+                        "subject_daily_intro": "Today, we will discuss the scientific method, a systematic way to explore questions and conduct experiments.",
+                        "subject_daily_sub_topics": [
+                            "Stages of the scientific method",
+                            "Formulating hypotheses",
+                            "Conducting experiments"
+                        ],
+                        "subject_topic_daily_summary": "You will gain an understanding of the scientific method, learning its stages, how to formulate hypotheses, and the process of conducting experiments."
+                    },
+                    {
+                        "subject_name": "Social Studies",
+                        "subject_topic": "Introduction to Social Studies",
+                        "subject_daily_intro": "Today marks the start of our social studies journey. We will cover the basics and understand what social studies encompasses.",
+                        "subject_daily_sub_topics": [
+                            "Importance of social studies",
+                            "Key concepts in social studies"
+                        ],
+                        "subject_topic_daily_summary": "In social studies, you will learn about the significance of the subject and the key concepts that will guide your studies."
+                    }
+                ]
+            },
+            {
+                "day_name": "Tuesday",
+                "subjects": [
+                    {
+                        "subject_name": "Language Arts",
+                        "subject_topic": "Reading Comprehension",
+                        "subject_daily_intro": "Yesterday, we introduced reading comprehension. Today, we will practice by reading a passage and answering questions about it.",
+                        "subject_daily_sub_topics": [
+                            "Critical thinking in reading",
+                            "Summary writing"
+                        ],
+                        "subject_topic_daily_summary": "Today, you will apply your reading comprehension skills by reading a passage and demonstrating your understanding through answering questions and summarizing."
+                    },
+                    {
+                        "subject_name": "Mathematics",
+                        "subject_topic": "Number Systems",
+                        "subject_daily_intro": "Continuing from yesterday's introduction to number systems, we will dive deeper into integers and rational numbers today.",
+                        "subject_daily_sub_topics": [
+                            "Operations with integers",
+                            "Fractions and their decimal equivalents"
+                        ],
+                        "subject_topic_daily_summary": "You will learn about integers and rational numbers and practice operations involving them, including moving between fractions and decimals."
+                    },
+                    {
+                        "subject_name": "Science",
+                        "subject_topic": "Scientific Method",
+                        "subject_daily_intro": "Yesterday, we discussed the scientific method's basics. Today, we will focus on formulating hypotheses and designing an experiment.",
+                        "subject_daily_sub_topics": [
+                            "Creating a hypothesis",
+                            "Variables in experimental design"
+                        ],
+                        "subject_topic_daily_summary": "Today, you will be able to formulate a hypothesis based on observations and design an experiment, identifying variables involved."
+                    },
+                    {
+                        "subject_name": "Social Studies",
+                        "subject_topic": "Introduction to Social Studies",
+                        "subject_daily_intro": "Building on our introduction yesterday, we will examine the various fields within social studies today.",
+                        "subject_daily_sub_topics": [
+                            "Geography",
+                            "History",
+                            "Civics"
+                        ],
+                        "subject_topic_daily_summary": "You will explore different fields in social studies, including geography, history, and civics, understanding their roles and interconnections."
+                    }
+                ]
+            },
+            {
+                "day_name": "Wednesday",
+                "subjects": [
+                    {
+                        "subject_name": "Language Arts",
+                        "subject_topic": "Reading Comprehension",
+                        "subject_daily_intro": "On Tuesday, you practiced reading comprehension. Today, we will look at visual aids and their role in understanding texts.",
+                        "subject_daily_sub_topics": [
+                            "Using charts and graphs",
+                            "Identifying tone and mood"
+                        ],
+                        "subject_topic_daily_summary": "You will learn how visual aids complement text, and you'll practice identifying tone and mood in different readings."
+                    },
+                    {
+                        "subject_name": "Mathematics",
+                        "subject_topic": "Number Systems",
+                        "subject_daily_intro": "Yesterday, we focused on integers and rational numbers. Today's lesson will cover the concept of place value and its significance in different number systems.",
+                        "subject_daily_sub_topics": [
+                            "Decimal place value",
+                            "Expanded form"
+                        ],
+                        "subject_topic_daily_summary": "You will understand the concept of place value in different number systems and practice converting numbers into expanded form."
+                    },
+                    {
+                        "subject_name": "Science",
+                        "subject_topic": "Scientific Method",
+                        "subject_daily_intro": "We discussed creating a hypothesis yesterday. Today, we will cover conducting experiments and collecting data.",
+                        "subject_daily_sub_topics": [
+                            "Types of data",
+                            "Data representation methods"
+                        ],
+                        "subject_topic_daily_summary": "Today, you will learn the importance of conducting experiments properly and how to collect and represent data effectively."
+                    },
+                    {
+                        "subject_name": "Social Studies",
+                        "subject_topic": "Introduction to Social Studies",
+                        "subject_daily_intro": "Building further on yesterday's lesson about fields within social studies, let's explore specific historical events of interest.",
+                        "subject_daily_sub_topics": [
+                            "Major historical events",
+                            "Cultural impacts on societies"
+                        ],
+                        "subject_topic_daily_summary": "You will delve into key historical events and analyze their cultural impacts on societies as part of your social studies exploration."
+                    }
+                ]
+            },
+            {
+                "day_name": "Thursday",
+                "subjects": [
+                    {
+                        "subject_name": "Language Arts",
+                        "subject_topic": "Reading Comprehension",
+                        "subject_daily_intro": "Yesterday, we worked on visual aids; today, we will discuss summarizing and paraphrasing texts.",
+                        "subject_daily_sub_topics": [
+                            "Techniques for summarizing",
+                            "Paraphrasing exercises"
+                        ],
+                        "subject_topic_daily_summary": "You will practice techniques for summarizing and paraphrasing texts to enhance your understanding and retention."
+                    },
+                    {
+                        "subject_name": "Mathematics",
+                        "subject_topic": "Number Systems",
+                        "subject_daily_intro": "Continuing from our place value discussion, today\u2019s focus will be on the binary number system and its applications.",
+                        "subject_daily_sub_topics": [
+                            "Binary to decimal conversion",
+                            "Applications of binary in technology"
+                        ],
+                        "subject_topic_daily_summary": "You will learn about the binary number system and practice converting binary numbers to decimal while exploring its significance in technology."
+                    },
+                    {
+                        "subject_name": "Science",
+                        "subject_topic": "Scientific Method",
+                        "subject_daily_intro": "Today\u2019s lesson will build on collecting data from experiments. We will learn about analyzing results and drawing conclusions.",
+                        "subject_daily_sub_topics": [
+                            "Interpreting data",
+                            "Drawing conclusions"
+                        ],
+                        "subject_topic_daily_summary": "You will understand how to analyze experimental results and draw meaningful conclusions from the data you gathered."
+                    },
+                    {
+                        "subject_name": "Social Studies",
+                        "subject_topic": "Introduction to Social Studies",
+                        "subject_daily_intro": "We previously discussed cultural impacts; today, we will introduce global geography and its significance.",
+                        "subject_daily_sub_topics": [
+                            "Maps and globes",
+                            "Major world regions"
+                        ],
+                        "subject_topic_daily_summary": "You will gain insights into global geography, learning to read maps and identifying major world regions."
+                    }
+                ]
+            },
+            {
+                "day_name": "Friday",
+                "subjects": [
+                    {
+                        "subject_name": "Language Arts",
+                        "subject_topic": "Reading Comprehension",
+                        "subject_daily_intro": "This week, you\u2019ve learned a lot about reading comprehension. Today, we will review and assess what you've learned.",
+                        "subject_daily_sub_topics": [
+                            "Review exercises",
+                            "Assessment quiz"
+                        ],
+                        "subject_topic_daily_summary": "You will review key concepts in reading comprehension and undertake a short quiz to assess your understanding."
+                    },
+                    {
+                        "subject_name": "Mathematics",
+                        "subject_topic": "Number Systems",
+                        "subject_daily_intro": "Reflecting on this week's work with number systems, we will review and have a fun quiz to test your knowledge.",
+                        "subject_daily_sub_topics": [
+                            "Review exercises",
+                            "Knowledge quiz"
+                        ],
+                        "subject_topic_daily_summary": "You will revisit important concepts of number systems and take part in a quiz to demonstrate your understanding."
+                    },
+                    {
+                        "subject_name": "Science",
+                        "subject_topic": "Scientific Method",
+                        "subject_daily_intro": "This week has been about mastering the scientific method. Today, we will engage in a review session followed by an assessment.",
+                        "subject_daily_sub_topics": [
+                            "Review of concepts",
+                            "Practical example"
+                        ],
+                        "subject_topic_daily_summary": "You will review the steps of the scientific method and have an opportunity to demonstrate your knowledge through an assessment."
+                    },
+                    {
+                        "subject_name": "Social Studies",
+                        "subject_topic": "Introduction to Social Studies",
+                        "subject_daily_intro": "As this week concludes, we will review the key concepts from the introduction to social studies and conduct a final assessment.",
+                        "subject_daily_sub_topics": [
+                            "Important terms and definitions",
+                            "Final review"
+                        ],
+                        "subject_topic_daily_summary": "You will reflect on the key concepts from social studies this week and participate in an assessment to evaluate your knowledge."
+                    }
+                ]
+            }
+        ]
+    }
+]

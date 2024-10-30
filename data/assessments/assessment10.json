@@ -1,0 +1,622 @@
+[
+    {
+        "assesment_test_number": 1,
+        "subjects": [
+            {
+                "questionNumber": 1,
+                "question": "What is the value of x in the equation 2x + 3 = 11?",
+                "options": [
+                    "1) 1",
+                    "2) 4",
+                    "3) 5",
+                    "4) 8"
+                ],
+                "explanation": "To solve for x, first subtract 3 from both sides to get 2x = 8, then divide both sides by 2 to find x = 4.",
+                "answer": "2) 4",
+                "grade_level": "8",
+                "subject": "Mathematics",
+                "subject_topic": "Algebra"
+            },
+            {
+                "questionNumber": 2,
+                "question": "Which of the following is the area of a rectangle with length 5 units and width 3 units?",
+                "options": [
+                    "1) 8 square units",
+                    "2) 15 square units",
+                    "3) 5 square units",
+                    "4) 18 square units"
+                ],
+                "explanation": "The area of a rectangle is calculated by multiplying length by width. Here, 5 * 3 = 15.",
+                "answer": "2) 15 square units",
+                "grade_level": "8",
+                "subject": "Mathematics",
+                "subject_topic": "Geometry"
+            },
+            {
+                "questionNumber": 3,
+                "question": "What is the slope of the line represented by the equation y = 2x + 1?",
+                "options": [
+                    "1) 0",
+                    "2) 1",
+                    "3) 2",
+                    "4) -2"
+                ],
+                "explanation": "In the equation y = mx + b, m is the slope. Here, m = 2, so the slope is 2.",
+                "answer": "3) 2",
+                "grade_level": "8",
+                "subject": "Mathematics",
+                "subject_topic": "Linear Equations"
+            },
+            {
+                "questionNumber": 4,
+                "question": "If a triangle has angles of 90\u00b0 and 45\u00b0, what is the measure of the third angle?",
+                "options": [
+                    "1) 45\u00b0",
+                    "2) 90\u00b0",
+                    "3) 55\u00b0",
+                    "4) 60\u00b0"
+                ],
+                "explanation": "The sum of angles in a triangle is always 180\u00b0. Therefore, the third angle is 180 - (90 + 45) = 45\u00b0.",
+                "answer": "1) 45\u00b0",
+                "grade_level": "8",
+                "subject": "Mathematics",
+                "subject_topic": "Geometry"
+            },
+            {
+                "questionNumber": 5,
+                "question": "What is 15% of 200?",
+                "options": [
+                    "1) 30",
+                    "2) 25",
+                    "3) 35",
+                    "4) 15"
+                ],
+                "explanation": "To calculate 15% of 200, multiply 200 by 0.15 to get 30.",
+                "answer": "1) 30",
+                "grade_level": "8",
+                "subject": "Mathematics",
+                "subject_topic": "Percentages"
+            },
+            {
+                "questionNumber": 6,
+                "question": "Which equation represents the relationship of the area A of a circle with radius r?",
+                "options": [
+                    "1) A = 2\u03c0r",
+                    "2) A = \u03c0r^2",
+                    "3) A = r\u00b2",
+                    "4) A = \u03c0r"
+                ],
+                "explanation": "The area A of a circle is calculated using the formula A = \u03c0r\u00b2.",
+                "answer": "2) A = \u03c0r^2",
+                "grade_level": "8",
+                "subject": "Mathematics",
+                "subject_topic": "Geometry"
+            },
+            {
+                "questionNumber": 7,
+                "question": "Solve for x in the equation 3(x - 2) = 12.",
+                "options": [
+                    "1) 4",
+                    "2) 10",
+                    "3) 6",
+                    "4) 2"
+                ],
+                "explanation": "First, divide both sides by 3 to get x - 2 = 4. Adding 2 gives x = 6.",
+                "answer": "3) 6",
+                "grade_level": "8",
+                "subject": "Mathematics",
+                "subject_topic": "Algebra"
+            },
+            {
+                "questionNumber": 8,
+                "question": "What is the median of the following numbers: 3, 5, 7, 9, 11?",
+                "options": [
+                    "1) 5",
+                    "2) 7",
+                    "3) 9",
+                    "4) 3"
+                ],
+                "explanation": "To find the median, arrange the numbers in order and find the middle value. Here, the middle value is 7.",
+                "answer": "2) 7",
+                "grade_level": "8",
+                "subject": "Mathematics",
+                "subject_topic": "Statistics"
+            },
+            {
+                "questionNumber": 9,
+                "question": "Which of the following expressions represents the value of 3 raised to the power of 4?",
+                "options": [
+                    "1) 12",
+                    "2) 27",
+                    "3) 81",
+                    "4) 16"
+                ],
+                "explanation": "3 raised to the power of 4 equals 3 * 3 * 3 * 3 = 81.",
+                "answer": "3) 81",
+                "grade_level": "8",
+                "subject": "Mathematics",
+                "subject_topic": "Exponents"
+            },
+            {
+                "questionNumber": 10,
+                "question": "What is the volume of a cube with a side length of 4 units?",
+                "options": [
+                    "1) 12 cubic units",
+                    "2) 64 cubic units",
+                    "3) 16 cubic units",
+                    "4) 32 cubic units"
+                ],
+                "explanation": "The volume V of a cube is calculated with the formula V = s\u00b3. Thus, 4\u00b3 = 64.",
+                "answer": "2) 64 cubic units",
+                "grade_level": "8",
+                "subject": "Mathematics",
+                "subject_topic": "Volume"
+            }
+        ]
+    },
+    {
+        "assesment_test_number": 1,
+        "subjects": [
+            {
+                "questionNumber": 1,
+                "question": "What is the main idea of the following passage: 'Birds migrate south for the winter to find warmer temperatures and more food'?",
+                "options": [
+                    "1) Birds are the only animals that migrate",
+                    "2) Migration is a seasonal behavior among animals",
+                    "3) Warmer temperatures are good for birds",
+                    "4) Birds fly south to avoid bad weather"
+                ],
+                "explanation": "The main idea is that birds migrate for warmer temperatures and food, which indicates the second option is correct as it generalizes the behavior of migration.",
+                "answer": "2) Migration is a seasonal behavior among animals",
+                "grade_level": "8",
+                "subject": "Language Arts",
+                "subject_topic": "Main Idea"
+            },
+            {
+                "questionNumber": 2,
+                "question": "Which of the following sentences contains a metaphor?",
+                "options": [
+                    "1) The wind whispered through the trees.",
+                    "2) He is a lion on the battlefield.",
+                    "3) She ran as fast as lightning.",
+                    "4) The leaves danced in the breeze."
+                ],
+                "explanation": "A metaphor directly states that one thing is another, as in option 2 where he is compared to a lion without using like or as.",
+                "answer": "2) He is a lion on the battlefield.",
+                "grade_level": "8",
+                "subject": "Language Arts",
+                "subject_topic": "Figurative Language"
+            },
+            {
+                "questionNumber": 3,
+                "question": "Which of the following sentences is a compound sentence?",
+                "options": [
+                    "1) I enjoy reading, and I also like writing.",
+                    "2) The cat sits on the wall.",
+                    "3) My brother plays soccer on weekends.",
+                    "4) She was tired but decided to go for a walk."
+                ],
+                "explanation": "A compound sentence consists of two independent clauses connected by a conjunction. Options 1 and 4 contain conjunctions to connect two independent thoughts.",
+                "answer": "1) I enjoy reading, and I also like writing.",
+                "grade_level": "8",
+                "subject": "Language Arts",
+                "subject_topic": "Sentence Structure"
+            },
+            {
+                "questionNumber": 4,
+                "question": "What is the purpose of a thesis statement in an essay?",
+                "options": [
+                    "1) To introduce new ideas",
+                    "2) To express the opinion of the writer",
+                    "3) To summarize the entire essay",
+                    "4) To present evidence for arguments"
+                ],
+                "explanation": "The thesis statement clearly states the main argument or opinion in the essay, which is why option 2 is correct.",
+                "answer": "2) To express the opinion of the writer",
+                "grade_level": "8",
+                "subject": "Language Arts",
+                "subject_topic": "Essay Writing"
+            },
+            {
+                "questionNumber": 5,
+                "question": "What is the synonym for the word 'happy'?",
+                "options": [
+                    "1) Sad",
+                    "2) Angry",
+                    "3) Joyful",
+                    "4) Tired"
+                ],
+                "explanation": "A synonym is a word that has a similar meaning. The word 'joyful' has a meaning close to 'happy', making option 3 the correct answer.",
+                "answer": "3) Joyful",
+                "grade_level": "8",
+                "subject": "Language Arts",
+                "subject_topic": "Vocabulary"
+            },
+            {
+                "questionNumber": 6,
+                "question": "Which of the following sentences is in the passive voice?",
+                "options": [
+                    "1) The dog barked loudly.",
+                    "2) The cake was baked by Mary.",
+                    "3) Tom reads the book.",
+                    "4) She plays the piano beautifully."
+                ],
+                "explanation": "In the passive voice, the subject receives the action. Option 2 indicates that the cake (the subject) was acted upon by Mary.",
+                "answer": "2) The cake was baked by Mary.",
+                "grade_level": "8",
+                "subject": "Language Arts",
+                "subject_topic": "Voice in Writing"
+            },
+            {
+                "questionNumber": 7,
+                "question": "Identify the adverb in the following sentence: 'She quickly ran to the store.'",
+                "options": [
+                    "1) She",
+                    "2) Ran",
+                    "3) Quickly",
+                    "4) Store"
+                ],
+                "explanation": "An adverb modifies a verb, an adjective, or another adverb, often indicating how, when, where, or in what manner something is done. 'Quickly' modifies 'ran' in the sentence.",
+                "answer": "3) Quickly",
+                "grade_level": "8",
+                "subject": "Language Arts",
+                "subject_topic": "Parts of Speech"
+            },
+            {
+                "questionNumber": 8,
+                "question": "What is an antonym for the word 'difficult'?",
+                "options": [
+                    "1) Hard",
+                    "2) Easy",
+                    "3) Challenging",
+                    "4) Complicated"
+                ],
+                "explanation": "An antonym is a word that means the opposite of another word. In this case, 'easy' is the opposite of 'difficult'.",
+                "answer": "2) Easy",
+                "grade_level": "8",
+                "subject": "Language Arts",
+                "subject_topic": "Vocabulary"
+            },
+            {
+                "questionNumber": 9,
+                "question": "Which literary device is used in the phrase 'the stars danced playfully in the moonlit sky'?",
+                "options": [
+                    "1) Simile",
+                    "2) Personification",
+                    "3) Hyperbole",
+                    "4) Alliteration"
+                ],
+                "explanation": "Personification involves giving human traits to non-human things. In this case, stars cannot dance, but this phrase gives them a human-like quality.",
+                "answer": "2) Personification",
+                "grade_level": "8",
+                "subject": "Language Arts",
+                "subject_topic": "Figurative Language"
+            },
+            {
+                "questionNumber": 10,
+                "question": "What is the climax of a story?",
+                "options": [
+                    "1) The resolution of the problem",
+                    "2) The introduction of the characters",
+                    "3) The most intense point of the story",
+                    "4) The final argument between characters"
+                ],
+                "explanation": "The climax is the turning point or the most intense moment in the storyline where the main conflict reaches its peak, which corresponds with option 3.",
+                "answer": "3) The most intense point of the story",
+                "grade_level": "8",
+                "subject": "Language Arts",
+                "subject_topic": "Literary Elements"
+            }
+        ]
+    },
+    {
+        "assesment_test_number": 1,
+        "subjects": [
+            {
+                "questionNumber": 1,
+                "question": "What is the process by which plants use sunlight to synthesize foods with the help of chlorophyll called?",
+                "options": [
+                    "1) Respiration",
+                    "2) Photosynthesis",
+                    "3) Transpiration",
+                    "4) Fermentation"
+                ],
+                "explanation": "Photosynthesis is the process where plants convert light energy into chemical energy, specifically glucose, using carbon dioxide and water, primarily in their leaves through chlorophyll.",
+                "answer": "2) Photosynthesis",
+                "grade_level": "8",
+                "subject": "Science",
+                "subject_topic": "Biology"
+            },
+            {
+                "questionNumber": 2,
+                "question": "Which of the following is a fundamental concept of Newton's First Law of Motion?",
+                "options": [
+                    "1) For every action, there is an equal and opposite reaction.",
+                    "2) An object at rest stays at rest unless acted upon by an outside force.",
+                    "3) The acceleration of an object depends on the mass and the amount of force applied.",
+                    "4) Energy cannot be created or destroyed."
+                ],
+                "explanation": "Newton's First Law states that an object will not change its motion unless a force acts on it. This is about inertia\u2014objects tend to remain at rest or in uniform motion unless disturbed.",
+                "answer": "2) An object at rest stays at rest unless acted upon by an outside force.",
+                "grade_level": "8",
+                "subject": "Science",
+                "subject_topic": "Physics"
+            },
+            {
+                "questionNumber": 3,
+                "question": "What type of rock is formed by the cooling and solidification of magma or lava?",
+                "options": [
+                    "1) Sedimentary",
+                    "2) Igneous",
+                    "3) Metamorphic",
+                    "4) Organic"
+                ],
+                "explanation": "Igneous rocks are formed when magma or lava cools and solidifies. Sedimentary rocks are formed by the accumulation of sediment, and metamorphic rocks are transformed from other rocks through heat and pressure.",
+                "answer": "2) Igneous",
+                "grade_level": "8",
+                "subject": "Science",
+                "subject_topic": "Geology"
+            },
+            {
+                "questionNumber": 4,
+                "question": "Which of the following is a characteristic of an acid?",
+                "options": [
+                    "1) Tastes bitter",
+                    "2) Feels slippery",
+                    "3) Has a pH less than 7",
+                    "4) Turns blue litmus paper red"
+                ],
+                "explanation": "Acids have a pH less than 7 and they turn blue litmus paper red, indicating their acidic properties. Bases would have a pH greater than 7 and taste bitter.",
+                "answer": "3) Has a pH less than 7",
+                "grade_level": "8",
+                "subject": "Science",
+                "subject_topic": "Chemistry"
+            },
+            {
+                "questionNumber": 5,
+                "question": "In which part of the cell does cellular respiration primarily take place?",
+                "options": [
+                    "1) Cytoplasm",
+                    "2) Nucleus",
+                    "3) Mitochondria",
+                    "4) Cell membrane"
+                ],
+                "explanation": "Cellular respiration primarily occurs in the mitochondria, where the energy from food is converted into ATP. The cytoplasm does play a role in the initial steps, but the mitochondria are key for the majority of the process.",
+                "answer": "3) Mitochondria",
+                "grade_level": "8",
+                "subject": "Science",
+                "subject_topic": "Biology"
+            },
+            {
+                "questionNumber": 6,
+                "question": "What is the chemical formula for water?",
+                "options": [
+                    "1) CO2",
+                    "2) H2O",
+                    "3) O2",
+                    "4) H2SO4"
+                ],
+                "explanation": "The chemical formula for water is H2O, which indicates that each water molecule is composed of two hydrogen atoms bonded to one oxygen atom.",
+                "answer": "2) H2O",
+                "grade_level": "8",
+                "subject": "Science",
+                "subject_topic": "Chemistry"
+            },
+            {
+                "questionNumber": 7,
+                "question": "What is the main function of the roots of a plant?",
+                "options": [
+                    "1) Photosynthesis",
+                    "2) Absorption of water and nutrients",
+                    "3) Reproduction",
+                    "4) Respiration"
+                ],
+                "explanation": "The primary function of plant roots is to absorb water and nutrients from the soil. They also anchor the plant and help store energy, but absorption is their main role.",
+                "answer": "2) Absorption of water and nutrients",
+                "grade_level": "8",
+                "subject": "Science",
+                "subject_topic": "Biology"
+            },
+            {
+                "questionNumber": 8,
+                "question": "Which of the following best describes the term 'ecosystem'?",
+                "options": [
+                    "1) A community of living organisms and their environment interacting as a system.",
+                    "2) An area of land that is uninhabitable by life forms.",
+                    "3) A group of species that can interbreed.",
+                    "4) The physical and chemical components of the Earth."
+                ],
+                "explanation": "An ecosystem includes all living organisms in a particular area, along with the non-living components of their environment, functioning together as a system.",
+                "answer": "1) A community of living organisms and their environment interacting as a system.",
+                "grade_level": "8",
+                "subject": "Science",
+                "subject_topic": "Ecology"
+            },
+            {
+                "questionNumber": 9,
+                "question": "What occurs during the process of mitosis?",
+                "options": [
+                    "1) DNA replication occurs only.",
+                    "2) The cell divides into two identical daughter cells.",
+                    "3) Only the nucleus divides, and the cell remains the same size.",
+                    "4) Chromosomes are replicated twice."
+                ],
+                "explanation": "During mitosis, the process by which a cell divides, the chromosomes are separated into two identical sets, resulting in two daughter cells with the same genetic material as the parent cell.",
+                "answer": "2) The cell divides into two identical daughter cells.",
+                "grade_level": "8",
+                "subject": "Science",
+                "subject_topic": "Cell Biology"
+            },
+            {
+                "questionNumber": 10,
+                "question": "What is the most common gas in Earth's atmosphere?",
+                "options": [
+                    "1) Carbon Dioxide",
+                    "2) Oxygen",
+                    "3) Hydrogen",
+                    "4) Nitrogen"
+                ],
+                "explanation": "Nitrogen makes up about 78% of the Earth's atmosphere, making it the most abundant gas, while oxygen comprises about 21% and other gases are present in smaller amounts.",
+                "answer": "4) Nitrogen",
+                "grade_level": "8",
+                "subject": "Science",
+                "subject_topic": "Earth Science"
+            }
+        ]
+    },
+    {
+        "assesment_test_number": 1,
+        "subjects": [
+            {
+                "questionNumber": 1,
+                "question": "What was the main cause of the American Civil War?",
+                "options": [
+                    "1) Economic differences between the North and South",
+                    "2) The desire for westward expansion",
+                    "3) The issue of foreign alliances",
+                    "4) Disagreements over immigration policy"
+                ],
+                "explanation": "The main cause of the American Civil War was the economic differences between the North and South, particularly regarding slavery and its expansion into new territories.",
+                "answer": "1) Economic differences between the North and South",
+                "grade_level": "8",
+                "subject": "Social Studies",
+                "subject_topic": "American History"
+            },
+            {
+                "questionNumber": 2,
+                "question": "Which country did the United States gain independence from?",
+                "options": [
+                    "1) France",
+                    "2) Spain",
+                    "3) Great Britain",
+                    "4) Portugal"
+                ],
+                "explanation": "The United States gained independence from Great Britain after the Revolutionary War.",
+                "answer": "3) Great Britain",
+                "grade_level": "8",
+                "subject": "Social Studies",
+                "subject_topic": "American History"
+            },
+            {
+                "questionNumber": 3,
+                "question": "What is the supreme law of the land?",
+                "options": [
+                    "1) The Constitution",
+                    "2) The Declaration of Independence",
+                    "3) The Bill of Rights",
+                    "4) The Articles of Confederation"
+                ],
+                "explanation": "The supreme law of the land is the Constitution, which establishes the framework of the U.S. government and its laws.",
+                "answer": "1) The Constitution",
+                "grade_level": "8",
+                "subject": "Social Studies",
+                "subject_topic": "Government"
+            },
+            {
+                "questionNumber": 4,
+                "question": "Which of the following is a right guaranteed by the First Amendment?",
+                "options": [
+                    "1) The right to bear arms",
+                    "2) The right to a fair trial",
+                    "3) Freedom of speech",
+                    "4) The right to education"
+                ],
+                "explanation": "The First Amendment guarantees several rights, including the freedom of speech.",
+                "answer": "3) Freedom of speech",
+                "grade_level": "8",
+                "subject": "Social Studies",
+                "subject_topic": "Government"
+            },
+            {
+                "questionNumber": 5,
+                "question": "Which event marked the beginning of the Great Depression?",
+                "options": [
+                    "1) The stock market crash of 1929",
+                    "2) The Dust Bowl",
+                    "3) The end of World War I",
+                    "4) The New Deal"
+                ],
+                "explanation": "The Great Depression began with the stock market crash of 1929, which led to widespread economic failure.",
+                "answer": "1) The stock market crash of 1929",
+                "grade_level": "8",
+                "subject": "Social Studies",
+                "subject_topic": "Economic History"
+            },
+            {
+                "questionNumber": 6,
+                "question": "What was the primary objective of the Lewis and Clark expedition?",
+                "options": [
+                    "1) To establish trade with Native Americans",
+                    "2) To map and explore the newly acquired western territory",
+                    "3) To find a route to Asia",
+                    "4) To claim land for the Louisiana Purchase"
+                ],
+                "explanation": "The primary objective of the Lewis and Clark expedition was to map and explore the newly acquired western territory after the Louisiana Purchase.",
+                "answer": "2) To map and explore the newly acquired western territory",
+                "grade_level": "8",
+                "subject": "Social Studies",
+                "subject_topic": "Exploration"
+            },
+            {
+                "questionNumber": 7,
+                "question": "What was the impact of the Emancipation Proclamation?",
+                "options": [
+                    "1) It ended the Civil War",
+                    "2) It abolished slavery in Northern states",
+                    "3) It freed slaves in Confederate-held territory",
+                    "4) It led to the reunification of the states"
+                ],
+                "explanation": "The Emancipation Proclamation declared the freedom of all slaves in Confederate-held territory, though it did not immediately free all slaves in the U.S.",
+                "answer": "3) It freed slaves in Confederate-held territory",
+                "grade_level": "8",
+                "subject": "Social Studies",
+                "subject_topic": "Civil Rights"
+            },
+            {
+                "questionNumber": 8,
+                "question": "Which war was fought to stop the spread of communism in Asia?",
+                "options": [
+                    "1) World War I",
+                    "2) World War II",
+                    "3) The Korean War",
+                    "4) The Vietnam War"
+                ],
+                "explanation": "The Vietnam War was primarily fought to stop the spread of communism in Asia, especially following the fall of South Vietnam.",
+                "answer": "4) The Vietnam War",
+                "grade_level": "8",
+                "subject": "Social Studies",
+                "subject_topic": "Recent History"
+            },
+            {
+                "questionNumber": 9,
+                "question": "Who was the first president of the United States?",
+                "options": [
+                    "1) Thomas Jefferson",
+                    "2) George Washington",
+                    "3) John Adams",
+                    "4) James Madison"
+                ],
+                "explanation": "George Washington was the first president of the United States, serving from 1789 to 1797.",
+                "answer": "2) George Washington",
+                "grade_level": "8",
+                "subject": "Social Studies",
+                "subject_topic": "Founding Fathers"
+            },
+            {
+                "questionNumber": 10,
+                "question": "What is the main purpose of the United Nations?",
+                "options": [
+                    "1) To create global trade agreements",
+                    "2) To promote peace and security among nations",
+                    "3) To provide humanitarian aid",
+                    "4) To regulate international business"
+                ],
+                "explanation": "The main purpose of the United Nations is to promote peace and security among nations to prevent conflicts and foster international cooperation.",
+                "answer": "2) To promote peace and security among nations",
+                "grade_level": "8",
+                "subject": "Social Studies",
+                "subject_topic": "International Relations"
+            }
+        ]
+    }
+]

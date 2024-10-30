@@ -1,0 +1,622 @@
+[
+    {
+        "assesment_test_number": 1,
+        "subjects": [
+            {
+                "questionNumber": 1,
+                "question": "What is the sum of 25 and 37?",
+                "options": [
+                    "1) 52",
+                    "2) 62",
+                    "3) 72",
+                    "4) 82"
+                ],
+                "explanation": "To find the sum of two numbers, you simply add them together. 25 + 37 = 62.",
+                "answer": "2) 62",
+                "grade_level": "6",
+                "subject": "Mathematics",
+                "subject_topic": "Addition"
+            },
+            {
+                "questionNumber": 2,
+                "question": "What is the value of x in the equation 3x + 5 = 20?",
+                "options": [
+                    "1) 3",
+                    "2) 4",
+                    "3) 5",
+                    "4) 6"
+                ],
+                "explanation": "To solve for x, subtract 5 from both sides (3x = 15), then divide by 3 (x = 5).",
+                "answer": "3) 5",
+                "grade_level": "6",
+                "subject": "Mathematics",
+                "subject_topic": "Algebra"
+            },
+            {
+                "questionNumber": 3,
+                "question": "Which of the following fractions is equivalent to 2/4?",
+                "options": [
+                    "1) 1/2",
+                    "2) 2/3",
+                    "3) 3/4",
+                    "4) 4/5"
+                ],
+                "explanation": "2/4 can be simplified by dividing both the numerator and denominator by 2, resulting in 1/2.",
+                "answer": "1) 1/2",
+                "grade_level": "6",
+                "subject": "Mathematics",
+                "subject_topic": "Fractions"
+            },
+            {
+                "questionNumber": 4,
+                "question": "What is the area of a rectangle with a length of 10 units and a width of 4 units?",
+                "options": [
+                    "1) 14 square units",
+                    "2) 20 square units",
+                    "3) 40 square units",
+                    "4) 44 square units"
+                ],
+                "explanation": "The area is found by multiplying length by width: 10 * 4 = 40 square units.",
+                "answer": "3) 40 square units",
+                "grade_level": "6",
+                "subject": "Mathematics",
+                "subject_topic": "Geometry"
+            },
+            {
+                "questionNumber": 5,
+                "question": "What is the greatest common factor (GCF) of 12 and 16?",
+                "options": [
+                    "1) 1",
+                    "2) 2",
+                    "3) 4",
+                    "4) 6"
+                ],
+                "explanation": "The greatest common factor of 12 and 16 is 4, as it is the largest number that can divide both without remainder.",
+                "answer": "3) 4",
+                "grade_level": "6",
+                "subject": "Mathematics",
+                "subject_topic": "Factors"
+            },
+            {
+                "questionNumber": 6,
+                "question": "What is 15% of 200?",
+                "options": [
+                    "1) 20",
+                    "2) 25",
+                    "3) 30",
+                    "4) 35"
+                ],
+                "explanation": "To calculate 15% of 200, multiply 200 by 0.15, which equals 30.",
+                "answer": "3) 30",
+                "grade_level": "6",
+                "subject": "Mathematics",
+                "subject_topic": "Percentages"
+            },
+            {
+                "questionNumber": 7,
+                "question": "If 5x = 25, what is the value of x?",
+                "options": [
+                    "1) 3",
+                    "2) 4",
+                    "3) 5",
+                    "4) 6"
+                ],
+                "explanation": "To solve for x, divide both sides by 5 (x = 25/5), which equals 5.",
+                "answer": "3) 5",
+                "grade_level": "6",
+                "subject": "Mathematics",
+                "subject_topic": "Algebra"
+            },
+            {
+                "questionNumber": 8,
+                "question": "What is the result of 7 multiplied by (-3)?",
+                "options": [
+                    "1) -21",
+                    "2) 21",
+                    "3) -14",
+                    "4) 14"
+                ],
+                "explanation": "When multiplying a positive number by a negative number, the result is negative; therefore, 7 * (-3) = -21.",
+                "answer": "1) -21",
+                "grade_level": "6",
+                "subject": "Mathematics",
+                "subject_topic": "Multiplication"
+            },
+            {
+                "questionNumber": 9,
+                "question": "Which number is a prime number?",
+                "options": [
+                    "1) 9",
+                    "2) 11",
+                    "3) 15",
+                    "4) 25"
+                ],
+                "explanation": "A prime number is a natural number greater than 1 that cannot be formed by multiplying two smaller natural numbers. 11 is the only prime number here.",
+                "answer": "2) 11",
+                "grade_level": "6",
+                "subject": "Mathematics",
+                "subject_topic": "Number Theory"
+            },
+            {
+                "questionNumber": 10,
+                "question": "If a triangle has angles measuring 50\u00b0 and 60\u00b0, what is the measure of the third angle?",
+                "options": [
+                    "1) 70\u00b0",
+                    "2) 60\u00b0",
+                    "3) 50\u00b0",
+                    "4) 40\u00b0"
+                ],
+                "explanation": "The sum of the angles in a triangle is always 180\u00b0. Therefore, the third angle is 180\u00b0 - (50\u00b0 + 60\u00b0) = 70\u00b0.",
+                "answer": "1) 70\u00b0",
+                "grade_level": "6",
+                "subject": "Mathematics",
+                "subject_topic": "Geometry"
+            }
+        ]
+    },
+    {
+        "assesment_test_number": 1,
+        "subjects": [
+            {
+                "questionNumber": 1,
+                "question": "What is the main idea of a passage?",
+                "options": [
+                    "1) The overall topic of the text",
+                    "2) The details that support the text",
+                    "3) The conclusion of the text",
+                    "4) The opinions of the author"
+                ],
+                "explanation": "The main idea is the overall topic or primary point of a text, which summarizes what the text is about.",
+                "answer": "1) The overall topic of the text",
+                "grade_level": "6",
+                "subject": "Language Arts",
+                "subject_topic": "Reading Comprehension"
+            },
+            {
+                "questionNumber": 2,
+                "question": "Identify the correct use of a simile:",
+                "options": [
+                    "1) The wind whispered through the trees.",
+                    "2) He is a lion in battle.",
+                    "3) The stars were diamonds in the sky.",
+                    "4) She ran like the wind."
+                ],
+                "explanation": "A simile is a figure of speech comparing two different things using 'like' or 'as'. 'She ran like the wind' is a simile.",
+                "answer": "4) She ran like the wind.",
+                "grade_level": "6",
+                "subject": "Language Arts",
+                "subject_topic": "Figurative Language"
+            },
+            {
+                "questionNumber": 3,
+                "question": "Which sentence is an example of a compound sentence?",
+                "options": [
+                    "1) I like dogs; they are friendly.",
+                    "2) I like dogs because they are friendly.",
+                    "3) I like dogs, but they can be noisy.",
+                    "4) I like dogs."
+                ],
+                "explanation": "A compound sentence contains at least two independent clauses connected by a conjunction. 'I like dogs, but they can be noisy.' is a compound sentence.",
+                "answer": "3) I like dogs, but they can be noisy.",
+                "grade_level": "6",
+                "subject": "Language Arts",
+                "subject_topic": "Sentence Structure"
+            },
+            {
+                "questionNumber": 4,
+                "question": "Choose the sentence that is an example of a metaphor:",
+                "options": [
+                    "1) The classroom was a zoo.",
+                    "2) Every cloud has a silver lining.",
+                    "3) He is as brave as a lion.",
+                    "4) She sings like an angel."
+                ],
+                "explanation": "A metaphor compares two unlike things directly without using 'like' or 'as'. 'The classroom was a zoo' is a metaphor.",
+                "answer": "1) The classroom was a zoo.",
+                "grade_level": "6",
+                "subject": "Language Arts",
+                "subject_topic": "Figurative Language"
+            },
+            {
+                "questionNumber": 5,
+                "question": "What is a synonym for 'happy'?",
+                "options": [
+                    "1) Sad",
+                    "2) Joyful",
+                    "3) Angry",
+                    "4) Upset"
+                ],
+                "explanation": "A synonym is a word that has a similar meaning to another word. 'Joyful' is a synonym for 'happy'.",
+                "answer": "2) Joyful",
+                "grade_level": "6",
+                "subject": "Language Arts",
+                "subject_topic": "Vocabulary"
+            },
+            {
+                "questionNumber": 6,
+                "question": "Which of the following sentences contains an error in subject-verb agreement?",
+                "options": [
+                    "1) The dog barks loudly.",
+                    "2) The team are winning the game.",
+                    "3) She runs every day.",
+                    "4) They enjoy painting."
+                ],
+                "explanation": "Subject-verb agreement means the subject and verb must agree in number. 'The team are winning the game' is incorrect; it should be 'The team is winning the game'.",
+                "answer": "2) The team are winning the game.",
+                "grade_level": "6",
+                "subject": "Language Arts",
+                "subject_topic": "Grammar"
+            },
+            {
+                "questionNumber": 7,
+                "question": "What is the purpose of a conclusion in an essay?",
+                "options": [
+                    "1) To introduce new information",
+                    "2) To summarize the main points",
+                    "3) To provide a detailed analysis",
+                    "4) To confuse the reader."
+                ],
+                "explanation": "The conclusion of an essay summarizes the main points and provides closure to the argument presented.",
+                "answer": "2) To summarize the main points",
+                "grade_level": "6",
+                "subject": "Language Arts",
+                "subject_topic": "Essay Writing"
+            },
+            {
+                "questionNumber": 8,
+                "question": "Which word is an antonym of 'difficult'?",
+                "options": [
+                    "1) Easy",
+                    "2) Hard",
+                    "3) Complicated",
+                    "4) Heavy"
+                ],
+                "explanation": "An antonym is a word that has the opposite meaning of another word. 'Easy' is an antonym for 'difficult'.",
+                "answer": "1) Easy",
+                "grade_level": "6",
+                "subject": "Language Arts",
+                "subject_topic": "Vocabulary"
+            },
+            {
+                "questionNumber": 9,
+                "question": "What literary device is used in the phrase 'the calm before the storm'?",
+                "options": [
+                    "1) Hyperbole",
+                    "2) Irony",
+                    "3) Foreshadowing",
+                    "4) Oxymoron"
+                ],
+                "explanation": "This phrase suggests a peaceful period before upheaval, indicating foreshadowing of future conflict.",
+                "answer": "3) Foreshadowing",
+                "grade_level": "6",
+                "subject": "Language Arts",
+                "subject_topic": "Literary Devices"
+            },
+            {
+                "questionNumber": 10,
+                "question": "What is the theme of a story?",
+                "options": [
+                    "1) The sequence of events",
+                    "2) The moral or lesson",
+                    "3) The characters involved",
+                    "4) The setting of the story."
+                ],
+                "explanation": "The theme is the underlying message or lesson conveyed by the story, often related to the human experience.",
+                "answer": "2) The moral or lesson",
+                "grade_level": "6",
+                "subject": "Language Arts",
+                "subject_topic": "Literary Analysis"
+            }
+        ]
+    },
+    {
+        "assesment_test_number": 1,
+        "subjects": [
+            {
+                "questionNumber": 1,
+                "question": "What is the process by which plants make their own food using sunlight called?",
+                "options": [
+                    "1) Photosynthesis",
+                    "2) Respiration",
+                    "3) Digestion",
+                    "4) Germination"
+                ],
+                "explanation": "Photosynthesis is the process where green plants, algae, and some bacteria convert light energy, usually from the sun, into chemical energy in the form of glucose.",
+                "answer": "1) Photosynthesis",
+                "grade_level": "6",
+                "subject": "Science",
+                "subject_topic": "Life Science"
+            },
+            {
+                "questionNumber": 2,
+                "question": "Which of the following is the largest planet in our Solar System?",
+                "options": [
+                    "1) Earth",
+                    "2) Jupiter",
+                    "3) Saturn",
+                    "4) Mars"
+                ],
+                "explanation": "Jupiter is the largest planet in our solar system, known for its Great Red Spot and many moons.",
+                "answer": "2) Jupiter",
+                "grade_level": "6",
+                "subject": "Science",
+                "subject_topic": "Astronomy"
+            },
+            {
+                "questionNumber": 3,
+                "question": "What is the main gas found in the Earth's atmosphere?",
+                "options": [
+                    "1) Oxygen",
+                    "2) Nitrogen",
+                    "3) Carbon Dioxide",
+                    "4) Hydrogen"
+                ],
+                "explanation": "Nitrogen makes up about 78% of the Earth's atmosphere, making it the most abundant gas.",
+                "answer": "2) Nitrogen",
+                "grade_level": "6",
+                "subject": "Science",
+                "subject_topic": "Earth Science"
+            },
+            {
+                "questionNumber": 4,
+                "question": "What type of energy is stored in food?",
+                "options": [
+                    "1) Kinetic Energy",
+                    "2) Chemical Energy",
+                    "3) Thermal Energy",
+                    "4) Electrical Energy"
+                ],
+                "explanation": "Chemical energy is the energy stored in the bonds of chemical compounds, which is the case for food.",
+                "answer": "2) Chemical Energy",
+                "grade_level": "6",
+                "subject": "Science",
+                "subject_topic": "Physical Science"
+            },
+            {
+                "questionNumber": 5,
+                "question": "Which part of the plant is responsible for absorbing water and nutrients from the soil?",
+                "options": [
+                    "1) Stem",
+                    "2) Leaves",
+                    "3) Roots",
+                    "4) Flowers"
+                ],
+                "explanation": "Roots are the part of a plant that absorbs water and nutrients from the soil, anchoring the plant in place.",
+                "answer": "3) Roots",
+                "grade_level": "6",
+                "subject": "Science",
+                "subject_topic": "Life Science"
+            },
+            {
+                "questionNumber": 6,
+                "question": "What are the three states of matter?",
+                "options": [
+                    "1) Solid, Liquid, Gas",
+                    "2) Rock, Liquid, Gas",
+                    "3) Solid, Fluid, Air",
+                    "4) Solid, Liquid, Heat"
+                ],
+                "explanation": "The three states of matter are solid, liquid, and gas, each defined by distinct properties.",
+                "answer": "1) Solid, Liquid, Gas",
+                "grade_level": "6",
+                "subject": "Science",
+                "subject_topic": "Physical Science"
+            },
+            {
+                "questionNumber": 7,
+                "question": "What is the chemical formula for water?",
+                "options": [
+                    "1) H2O",
+                    "2) O2",
+                    "3) CO2",
+                    "4) H2"
+                ],
+                "explanation": "The chemical formula for water is H2O, indicating that each molecule consists of two hydrogen atoms and one oxygen atom.",
+                "answer": "1) H2O",
+                "grade_level": "6",
+                "subject": "Science",
+                "subject_topic": "Chemistry"
+            },
+            {
+                "questionNumber": 8,
+                "question": "Which organ in the human body is primarily responsible for pumping blood?",
+                "options": [
+                    "1) Brain",
+                    "2) Lungs",
+                    "3) Liver",
+                    "4) Heart"
+                ],
+                "explanation": "The heart is the organ that pumps blood throughout the human body, supplying oxygen and nutrients to tissues.",
+                "answer": "4) Heart",
+                "grade_level": "6",
+                "subject": "Science",
+                "subject_topic": "Human Body"
+            },
+            {
+                "questionNumber": 9,
+                "question": "What is an ecosystem?",
+                "options": [
+                    "1) A group of similar organisms",
+                    "2) A community of living organisms and their environment",
+                    "3) The study of living things",
+                    "4) A type of biome"
+                ],
+                "explanation": "An ecosystem is made up of a community of living organisms interacting with their physical environment.",
+                "answer": "2) A community of living organisms and their environment",
+                "grade_level": "6",
+                "subject": "Science",
+                "subject_topic": "Ecology"
+            },
+            {
+                "questionNumber": 10,
+                "question": "What mineral is essential for building strong bones and teeth?",
+                "options": [
+                    "1) Iron",
+                    "2) Calcium",
+                    "3) Potassium",
+                    "4) Sodium"
+                ],
+                "explanation": "Calcium is vital for maintaining strong bones and teeth, as well as proper function of the nervous and muscular systems.",
+                "answer": "2) Calcium",
+                "grade_level": "6",
+                "subject": "Science",
+                "subject_topic": "Health Science"
+            }
+        ]
+    },
+    {
+        "assesment_test_number": 1,
+        "subjects": [
+            {
+                "questionNumber": 1,
+                "question": "What is the capital city of the United States?",
+                "options": [
+                    "1) New York City",
+                    "2) Washington, D.C.",
+                    "3) Los Angeles",
+                    "4) Chicago"
+                ],
+                "explanation": "The capital city of the United States is Washington, D.C. It is where the President resides and where Congress meets.",
+                "answer": "2) Washington, D.C.",
+                "grade_level": "6",
+                "subject": "Social Studies",
+                "subject_topic": "Geography"
+            },
+            {
+                "questionNumber": 2,
+                "question": "Which document declared independence from Britain?",
+                "options": [
+                    "1) The Constitution",
+                    "2) The Declaration of Independence",
+                    "3) The Bill of Rights",
+                    "4) The Articles of Confederation"
+                ],
+                "explanation": "The Declaration of Independence was written in 1776 and declared the colonies' independence from British rule.",
+                "answer": "2) The Declaration of Independence",
+                "grade_level": "6",
+                "subject": "Social Studies",
+                "subject_topic": "U.S. History"
+            },
+            {
+                "questionNumber": 3,
+                "question": "What is a democracy?",
+                "options": [
+                    "1) A government ruled by a king",
+                    "2) A system of government by the people",
+                    "3) A form of government that is a dictatorship",
+                    "4) A society where people have no rights"
+                ],
+                "explanation": "A democracy is a system of government where the citizens exercise power by voting and have a say in their governance.",
+                "answer": "2) A system of government by the people",
+                "grade_level": "6",
+                "subject": "Social Studies",
+                "subject_topic": "Government"
+            },
+            {
+                "questionNumber": 4,
+                "question": "What ancient civilization built pyramids as tombs?",
+                "options": [
+                    "1) The Romans",
+                    "2) The Greeks",
+                    "3) The Egyptians",
+                    "4) The Mayans"
+                ],
+                "explanation": "The Egyptians built pyramids as tombs for their pharaohs, showcasing their architectural skills and beliefs about the afterlife.",
+                "answer": "3) The Egyptians",
+                "grade_level": "6",
+                "subject": "Social Studies",
+                "subject_topic": "Ancient Civilizations"
+            },
+            {
+                "questionNumber": 5,
+                "question": "Who was the first President of the United States?",
+                "options": [
+                    "1) Thomas Jefferson",
+                    "2) Abraham Lincoln",
+                    "3) George Washington",
+                    "4) John Adams"
+                ],
+                "explanation": "George Washington was the first President of the United States, serving from 1789 to 1797.",
+                "answer": "3) George Washington",
+                "grade_level": "6",
+                "subject": "Social Studies",
+                "subject_topic": "U.S. History"
+            },
+            {
+                "questionNumber": 6,
+                "question": "What is the main purpose of the United Nations?",
+                "options": [
+                    "1) To promote world peace and cooperation",
+                    "2) To create more wars",
+                    "3) To form alliances solely for trade",
+                    "4) To take over governments"
+                ],
+                "explanation": "The United Nations was created to promote international cooperation and to maintain peace and security among countries.",
+                "answer": "1) To promote world peace and cooperation",
+                "grade_level": "6",
+                "subject": "Social Studies",
+                "subject_topic": "International Relations"
+            },
+            {
+                "questionNumber": 7,
+                "question": "In which continent is the Amazon Rainforest primarily located?",
+                "options": [
+                    "1) Africa",
+                    "2) Asia",
+                    "3) North America",
+                    "4) South America"
+                ],
+                "explanation": "The Amazon Rainforest is primarily located in South America, covering parts of several countries including Brazil, Peru, and Colombia.",
+                "answer": "4) South America",
+                "grade_level": "6",
+                "subject": "Social Studies",
+                "subject_topic": "Geography"
+            },
+            {
+                "questionNumber": 8,
+                "question": "What is the importance of the Bill of Rights?",
+                "options": [
+                    "1) It collects taxes",
+                    "2) It outlines the first ten amendments of the Constitution",
+                    "3) It grants citizenship",
+                    "4) It establishes the executive branch"
+                ],
+                "explanation": "The Bill of Rights is important because it protects individual liberties by listing the first ten amendments to the Constitution, which ensure rights such as freedom of speech and religion.",
+                "answer": "2) It outlines the first ten amendments of the Constitution",
+                "grade_level": "6",
+                "subject": "Social Studies",
+                "subject_topic": "U.S. Government"
+            },
+            {
+                "questionNumber": 9,
+                "question": "Which famous document abolished slavery in the United States?",
+                "options": [
+                    "1) The Emancipation Proclamation",
+                    "2) The Declaration of Independence",
+                    "3) The Constitution",
+                    "4) The Bill of Rights"
+                ],
+                "explanation": "The Emancipation Proclamation, issued by Abraham Lincoln during the Civil War, declared that all slaves in the rebellious states were to be set free.",
+                "answer": "1) The Emancipation Proclamation",
+                "grade_level": "6",
+                "subject": "Social Studies",
+                "subject_topic": "U.S. History"
+            },
+            {
+                "questionNumber": 10,
+                "question": "What was the main cause of the Civil War in the United States?",
+                "options": [
+                    "1) Taxation",
+                    "2) Slavery",
+                    "3) Immigration",
+                    "4) Trade Issues"
+                ],
+                "explanation": "The main cause of the Civil War was slavery, as conflicts arose over the rights of states to allow slavery vs. the rights of individuals seeking freedom.",
+                "answer": "2) Slavery",
+                "grade_level": "6",
+                "subject": "Social Studies",
+                "subject_topic": "U.S. History"
+            }
+        ]
+    }
+]

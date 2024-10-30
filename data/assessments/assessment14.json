@@ -1,0 +1,157 @@
+[
+    {
+        "assesment_test_number": 1,
+        "subjects": [
+            {
+                "questionNumber": 1,
+                "question": "What is the value of 5 + 7 \u00d7 2?",
+                "options": [
+                    "1) 19",
+                    "2) 12",
+                    "3) 17",
+                    "4) 14"
+                ],
+                "explanation": "According to the order of operations (PEMDAS/BODMAS), you first multiply 7 by 2 to get 14, and then add 5 to get 19.",
+                "answer": "1) 19",
+                "grade_level": "5",
+                "subject": "Mathematics",
+                "subject_topic": "Order of Operations"
+            },
+            {
+                "questionNumber": 2,
+                "question": "Which of the following fractions is equivalent to 2/4?",
+                "options": [
+                    "1) 1/2",
+                    "2) 3/6",
+                    "3) 2/3",
+                    "4) 4/8"
+                ],
+                "explanation": "The fraction 2/4 simplifies to 1/2 when you divide the numerator and denominator by 2, and 4/8 also simplifies to 1/2.",
+                "answer": "1) 1/2",
+                "grade_level": "5",
+                "subject": "Mathematics",
+                "subject_topic": "Fractions"
+            },
+            {
+                "questionNumber": 3,
+                "question": "If x = 3, what is the value of 2x + 5?",
+                "options": [
+                    "1) 11",
+                    "2) 10",
+                    "3) 9",
+                    "4) 8"
+                ],
+                "explanation": "Substituting 3 for x gives 2(3) + 5 = 6 + 5 = 11.",
+                "answer": "1) 11",
+                "grade_level": "5",
+                "subject": "Mathematics",
+                "subject_topic": "Algebra"
+            },
+            {
+                "questionNumber": 4,
+                "question": "What is the area of a rectangle with a length of 7 cm and a width of 4 cm?",
+                "options": [
+                    "1) 28 cm\u00b2",
+                    "2) 24 cm\u00b2",
+                    "3) 30 cm\u00b2",
+                    "4) 20 cm\u00b2"
+                ],
+                "explanation": "The area of a rectangle is found by multiplying the length by the width. So, 7 cm \u00d7 4 cm = 28 cm\u00b2.",
+                "answer": "1) 28 cm\u00b2",
+                "grade_level": "5",
+                "subject": "Mathematics",
+                "subject_topic": "Area and Perimeter"
+            },
+            {
+                "questionNumber": 5,
+                "question": "What is the greatest common factor (GCF) of 12 and 16?",
+                "options": [
+                    "1) 4",
+                    "2) 2",
+                    "3) 3",
+                    "4) 6"
+                ],
+                "explanation": "The factors of 12 are 1, 2, 3, 4, 6, 12 and the factors of 16 are 1, 2, 4, 8, 16. The greatest common factor is 4.",
+                "answer": "1) 4",
+                "grade_level": "5",
+                "subject": "Mathematics",
+                "subject_topic": "Factors"
+            },
+            {
+                "questionNumber": 6,
+                "question": "Which decimal is equivalent to 3/5?",
+                "options": [
+                    "1) 0.6",
+                    "2) 0.5",
+                    "3) 0.4",
+                    "4) 0.3"
+                ],
+                "explanation": "To convert the fraction 3/5 to decimal, divide 3 by 5 which equals 0.6.",
+                "answer": "1) 0.6",
+                "grade_level": "5",
+                "subject": "Mathematics",
+                "subject_topic": "Decimal and Fractions"
+            },
+            {
+                "questionNumber": 7,
+                "question": "What is 15% of 200?",
+                "options": [
+                    "1) 30",
+                    "2) 25",
+                    "3) 15",
+                    "4) 10"
+                ],
+                "explanation": "To calculate 15% of 200, multiply 200 by 0.15, which results in 30.",
+                "answer": "1) 30",
+                "grade_level": "5",
+                "subject": "Mathematics",
+                "subject_topic": "Percentages"
+            },
+            {
+                "questionNumber": 8,
+                "question": "A triangle has sides measuring 3 cm, 4 cm, and 5 cm. What type of triangle is it?",
+                "options": [
+                    "1) Right triangle",
+                    "2) Equilateral",
+                    "3) Isosceles",
+                    "4) Scalene"
+                ],
+                "explanation": "A triangle with sides measuring 3, 4, and 5 cm follows the Pythagorean theorem, confirming that it is a right triangle.",
+                "answer": "1) Right triangle",
+                "grade_level": "5",
+                "subject": "Mathematics",
+                "subject_topic": "Geometry"
+            },
+            {
+                "questionNumber": 9,
+                "question": "What is the solution to the equation 3x = 12?",
+                "options": [
+                    "1) 4",
+                    "2) 3",
+                    "3) 2",
+                    "4) 1"
+                ],
+                "explanation": "To solve for x, divide both sides of the equation by 3. Thus, x = 12 / 3 = 4.",
+                "answer": "1) 4",
+                "grade_level": "5",
+                "subject": "Mathematics",
+                "subject_topic": "Algebra"
+            },
+            {
+                "questionNumber": 10,
+                "question": "How many degrees are in a right angle?",
+                "options": [
+                    "1) 90",
+                    "2) 180",
+                    "3) 360",
+                    "4) 45"
+                ],
+                "explanation": "A right angle is defined to be 90 degrees.",
+                "answer": "1) 90",
+                "grade_level": "5",
+                "subject": "Mathematics",
+                "subject_topic": "Angles"
+            }
+        ]
+    }
+]

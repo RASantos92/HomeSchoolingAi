@@ -1,0 +1,1823 @@
+{
+    "Monday": {},
+    "Tuesday": {
+        "Language Arts": [
+            {
+                "quiz_grade": 100.0,
+                "wrong_answers": [],
+                "attempt_number": 2,
+                "quiz": [
+                    {
+                        "question": "What does a character arc describe in a narrative?",
+                        "options": [
+                            "4) The author's writing style",
+                            "1) The setting of the story",
+                            "2) The transformation of a character",
+                            "3) The dialogue between characters"
+                        ],
+                        "explanation": "A character arc describes the transformation or inner journey of a character over the course of a story.",
+                        "answer": "2) The transformation of a character"
+                    },
+                    {
+                        "question": "Which of these is an example of a positive character arc?",
+                        "options": [
+                            "2) A character undergoing a journey of self-discovery",
+                            "4) A character who becomes increasingly dishonest",
+                            "3) A character who remains unchanged throughout the story",
+                            "1) A character retiring and living a quiet life"
+                        ],
+                        "explanation": "A positive character arc involves a character who grows or changes positively, such as through a journey of self-discovery.",
+                        "answer": "2) A character undergoing a journey of self-discovery"
+                    },
+                    {
+                        "question": "What is the outcome of a negative character arc?",
+                        "options": [
+                            "4) The character maintains a steady state",
+                            "1) The character excels in all endeavors",
+                            "2) The character discovers their true self",
+                            "3) The character strays from their values and declines"
+                        ],
+                        "explanation": "A negative character arc results in a character who declines or regresses, often due to their own flaws or destructive choices.",
+                        "answer": "3) The character strays from their values and declines"
+                    },
+                    {
+                        "question": "In Harry Potter, what type of character arc does Harry experience?",
+                        "options": [
+                            "1) Negative arc",
+                            "2) Flat arc",
+                            "4) No character arc",
+                            "3) Positive arc"
+                        ],
+                        "explanation": "Harry Potter experiences a positive character arc, growing from a timid boy into a confident young man.",
+                        "answer": "3) Positive arc"
+                    },
+                    {
+                        "question": "Which of the following statements is true about flat character arcs?",
+                        "options": [
+                            "3) Characters experience sorrowful declines",
+                            "4) Characters are always villains",
+                            "1) Characters change significantly throughout",
+                            "2) Characters remain fundamentally unchanged"
+                        ],
+                        "explanation": "Flat character arcs involve characters who do not change much over the course of the story.",
+                        "answer": "2) Characters remain fundamentally unchanged"
+                    },
+                    {
+                        "question": "What typically influences a character with a positive arc?",
+                        "options": [
+                            "4) Their lack of support from others",
+                            "1) Their inability to face challenges",
+                            "2) The lessons they learn along the way",
+                            "3) A constant state of confusion"
+                        ],
+                        "explanation": "Characters with a positive arc are typically influenced by the lessons learned from overcoming obstacles and challenges.",
+                        "answer": "2) The lessons they learn along the way"
+                    },
+                    {
+                        "question": "What is often a hallmark of a character with a negative arc?",
+                        "options": [
+                            "4) Finding inner peace",
+                            "2) Steady progress towards goals",
+                            "1) Personal growth and learning",
+                            "3) Making destructive choices"
+                        ],
+                        "explanation": "A hallmark of a negative character arc is that the character makes choices that lead to their own downfall or worsening situation.",
+                        "answer": "3) Making destructive choices"
+                    },
+                    {
+                        "question": "In which category would you classify characters who usually do not undergo significant change?",
+                        "options": [
+                            "1) Positive arcs",
+                            "2) Negative arcs",
+                            "4) Dynamic arcs",
+                            "3) Flat arcs"
+                        ],
+                        "explanation": "Characters that typically do not change significantly over the course of a story are classified as having flat arcs.",
+                        "answer": "3) Flat arcs"
+                    },
+                    {
+                        "question": "Which character from popular media is known for a negative character arc?",
+                        "options": [
+                            "4) Simba",
+                            "3) Katniss Everdeen",
+                            "2) Walter White",
+                            "1) Hermione Granger"
+                        ],
+                        "explanation": "Walter White from the television series is a well-known example of a negative character arc, as he degenerates into darker choices.",
+                        "answer": "2) Walter White"
+                    },
+                    {
+                        "question": "What is one of the main purposes of character arcs in stories?",
+                        "options": [
+                            "2) To show character growth",
+                            "3) To skip over narrative events",
+                            "4) To confuse the reader",
+                            "1) To add humor"
+                        ],
+                        "explanation": "One of the main purposes of character arcs is to show how characters grow or change, thereby enhancing the narrative and engaging the reader.",
+                        "answer": "2) To show character growth"
+                    }
+                ]
+            }
+        ],
+        "Language Arts Advanced": [
+            {
+                "quiz_grade": 100.0,
+                "wrong_answers": [],
+                "attempt_number": 3,
+                "quiz": [
+                    {
+                        "question": "What do character decisions reveal about a character in literature?",
+                        "options": [
+                            "1) Their age",
+                            "4) Their appearance",
+                            "2) Their educational background",
+                            "3) Their personalities and motivations"
+                        ],
+                        "explanation": "Character decisions serve as a reflection of their personalities, values, and motivations, showcasing the depth and complexity of their character throughout the story.",
+                        "answer": "3) Their personalities and motivations"
+                    },
+                    {
+                        "question": "How can supporting characters serve in relation to the main character?",
+                        "options": [
+                            "1) As distractions from the plot",
+                            "4) As the main focus of the story",
+                            "3) As background figures",
+                            "2) As foils that highlight the traits of the main character"
+                        ],
+                        "explanation": "Supporting characters often act as foils, providing contrasts that highlight the main character's traits and influencing their development throughout the narrative.",
+                        "answer": "2) As foils that highlight the traits of the main character"
+                    },
+                    {
+                        "question": "What effect can a supporting character have on the protagonist?",
+                        "options": [
+                            "3) They always agree with the protagonist.",
+                            "4) They distract the protagonist from their goals.",
+                            "1) They can lead the protagonist to make important choices.",
+                            "2) They serve no real purpose in the story."
+                        ],
+                        "explanation": "Supporting characters can act as catalysts for change, encouraging the protagonist to make significant decisions that advance their character arc and the storyline.",
+                        "answer": "1) They can lead the protagonist to make important choices."
+                    },
+                    {
+                        "question": "Which relationship dynamics can add layers to character development?",
+                        "options": [
+                            "3) Relationships between major and supporting characters",
+                            "4) Relationships that do not evolve",
+                            "1) Relationships between characters of the same gender only",
+                            "2) Relationships based solely on conflict"
+                        ],
+                        "explanation": "The relationships between major and supporting characters can provide depth and understanding to the characters' motivations and the overarching themes of the narrative.",
+                        "answer": "3) Relationships between major and supporting characters"
+                    },
+                    {
+                        "question": "How can character analysis contribute to understanding themes in literature?",
+                        "options": [
+                            "4) By emphasizing plot over character",
+                            "2) By revealing universal themes that resonate in our own lives",
+                            "3) By minimizing the role of supporting characters",
+                            "1) By focusing only on the main character's decisions"
+                        ],
+                        "explanation": "Character analysis can uncover universal themes and messages within a story, connecting the characters' experiences to broader human truths.",
+                        "answer": "2) By revealing universal themes that resonate in our own lives"
+                    },
+                    {
+                        "question": "What quality of supporting characters is often essential for driving the main character's growth?",
+                        "options": [
+                            "1) They must be less intelligent than the main character.",
+                            "2) They usually challenge the protagonist's beliefs.",
+                            "3) They are only present in the beginning of the story.",
+                            "4) They are always static and unchanging."
+                        ],
+                        "explanation": "Supporting characters frequently challenge the protagonist's beliefs, which forces them to confront their vulnerabilities and promotes significant character development.",
+                        "answer": "2) They usually challenge the protagonist's beliefs."
+                    },
+                    {
+                        "question": "In character analysis, why is it crucial to ask critical questions about characters?",
+                        "options": [
+                            "4) To limit the analysis to one aspect of their character",
+                            "3) To ignore their context",
+                            "2) To understand their development and motivations",
+                            "1) To judge them based on appearances only"
+                        ],
+                        "explanation": "Asking critical questions allows for a deeper understanding of characters, illuminating their internal conflicts and how various contexts influence their decisions and development.",
+                        "answer": "2) To understand their development and motivations"
+                    },
+                    {
+                        "question": "What example was given regarding complex relationships between characters in a popular book series?",
+                        "options": [
+                            "4) Elizabeth and Mr. Darcy from 'Pride and Prejudice'",
+                            "2) Harry Potter and Severus Snape from 'Harry Potter'",
+                            "1) Frodo and Sam from 'The Lord of the Rings'",
+                            "3) Katniss and Peeta from 'The Hunger Games'"
+                        ],
+                        "explanation": "The relationship between Harry Potter and Severus Snape was presented as an example of how a complex supporting character can significantly influence the main character's development and journey.",
+                        "answer": "2) Harry Potter and Severus Snape from 'Harry Potter'."
+                    },
+                    {
+                        "question": "What is a key factor that can add complexity to character analysis in literature?",
+                        "options": [
+                            "3) The historical and cultural context in which the character exists",
+                            "2) The length of the character's life",
+                            "1) The character's physical strength",
+                            "4) The popularity of the novel"
+                        ],
+                        "explanation": "Understanding the historical and cultural context is vital in character analysis as it informs a character's decisions, motivations, and the moral dilemmas they face in the story.",
+                        "answer": "3) The historical and cultural context in which the character exists"
+                    },
+                    {
+                        "question": "What should be the focus of character growth when analyzing literature?",
+                        "options": [
+                            "2) The complexities of their relationships and decisions",
+                            "4) The character's wealth and status",
+                            "3) The character's ability to follow the plot",
+                            "1) The character's conformity to societal norms"
+                        ],
+                        "explanation": "Character growth analysis should focus on the complexities of their relationships and decisions, as these aspects significantly influence their development throughout the narrative.",
+                        "answer": "2) The complexities of their relationships and decisions"
+                    }
+                ]
+            }
+        ],
+        "American History": [
+            {
+                "quiz_grade": 40.0,
+                "wrong_answers": [
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8
+                ],
+                "attempt_number": 4,
+                "quiz": [
+                    {
+                        "question": "What was a major concern of delegates during the Constitutional Convention regarding a strong central government?",
+                        "options": [
+                            "4) It would create more military power.",
+                            "1) It would abolish the Constitution.",
+                            "2) It would infringe upon individual rights.",
+                            "3) It would unify all states into one big state."
+                        ],
+                        "explanation": "Delegates feared that a strong central government might infringe upon the rights and liberties of individuals, leading to the demand for a Bill of Rights.",
+                        "answer": "2) It would infringe upon individual rights."
+                    },
+                    {
+                        "question": "In what year was the Bill of Rights ratified?",
+                        "options": [
+                            "1) 1787",
+                            "3) 1791",
+                            "2) 1789",
+                            "4) 1793"
+                        ],
+                        "explanation": "The Bill of Rights was ratified in 1791, following its proposal in 1789 as a response to calls for the protection of individual liberties.",
+                        "answer": "3) 1791"
+                    },
+                    {
+                        "question": "What rights does the First Amendment protect?",
+                        "options": [
+                            "1) Rights to bear arms.",
+                            "2) Rights related to religion and expression.",
+                            "3) Rights to a speedy trial.",
+                            "4) Rights against self-incrimination."
+                        ],
+                        "explanation": "The First Amendment protects freedoms concerning religion, expression, assembly, and the right to petition, ensuring individuals can freely express their thoughts and beliefs.",
+                        "answer": "2) Rights related to religion and expression."
+                    },
+                    {
+                        "question": "What does the Fifth Amendment protect individuals from?",
+                        "options": [
+                            "1) Excessive bail.",
+                            "4) Quartering of soldiers.",
+                            "2) Cruel and unusual punishment.",
+                            "3) Self-incrimination and double jeopardy."
+                        ],
+                        "explanation": "The Fifth Amendment protects individuals from self-incrimination, meaning they can't be compelled to testify against themselves, and it also includes protection against double jeopardy.",
+                        "answer": "3) Self-incrimination and double jeopardy."
+                    },
+                    {
+                        "question": "Which amendment guarantees the right to a trial by jury in civil cases?",
+                        "options": [
+                            "4) Eighth Amendment",
+                            "1) Fourth Amendment",
+                            "2) Sixth Amendment",
+                            "3) Seventh Amendment"
+                        ],
+                        "explanation": "The Seventh Amendment extends the right to a trial by jury to civil cases, ensuring that individuals have the right to have their disputes settled by a jury of their peers.",
+                        "answer": "3) Seventh Amendment."
+                    },
+                    {
+                        "question": "What is one of the main topics addressed by the Eighth Amendment?",
+                        "options": [
+                            "4) Right to bear arms",
+                            "2) Prohibition of cruel and unusual punishment",
+                            "1) Right to free speech",
+                            "3) Quartering of soldiers in homes"
+                        ],
+                        "explanation": "The Eighth Amendment prohibits excessive bail and cruel and unusual punishment, emphasizing humane treatment within the justice system.",
+                        "answer": "2) Prohibition of cruel and unusual punishment."
+                    },
+                    {
+                        "question": "What did the Third Amendment prevent regarding soldiers?",
+                        "options": [
+                            "1) It prevents excessive bail.",
+                            "4) It prevents unreasonable searches.",
+                            "2) It prevents the right to bear arms.",
+                            "3) It prevents quartering of soldiers in private homes without consent."
+                        ],
+                        "explanation": "The Third Amendment prohibits the quartering of soldiers in private homes without the owner's consent, a direct response to British military practices before the Revolution.",
+                        "answer": "3) It prevents quartering of soldiers in private homes without consent."
+                    },
+                    {
+                        "question": "What concept does the Ninth Amendment convey about rights?",
+                        "options": [
+                            "4) It emphasizes the importance of jury trials.",
+                            "3) It discusses the rights given to states.",
+                            "2) It states not all rights are enumerated in the Constitution.",
+                            "1) It lists important rights."
+                        ],
+                        "explanation": "The Ninth Amendment conveys that the enumeration of certain rights in the Constitution does not mean that other rights do not exist, recognizing the presence of unenumerated rights.",
+                        "answer": "2) It states not all rights are enumerated in the Constitution."
+                    },
+                    {
+                        "question": "Which amendment ensures that law enforcement must have a warrant based on probable cause before searching property?",
+                        "options": [
+                            "4) Sixth Amendment",
+                            "1) First Amendment",
+                            "2) Fifth Amendment",
+                            "3) Fourth Amendment"
+                        ],
+                        "explanation": "The Fourth Amendment protects against unreasonable searches and seizures and requires law enforcement to obtain a warrant based on probable cause before searching individuals' property.",
+                        "answer": "3) Fourth Amendment."
+                    },
+                    {
+                        "question": "What principle does the Tenth Amendment reinforce concerning governmental power?",
+                        "options": [
+                            "2) Powers reserved to the states and the people.",
+                            "4) Judicial powers.",
+                            "1) Powers reserved to the federal government only.",
+                            "3) Presidential powers."
+                        ],
+                        "explanation": "The Tenth Amendment reserves powers not delegated to the federal government to the states and the people, reinforcing the federal structure of the United States.",
+                        "answer": "2) Powers reserved to the states and the people."
+                    }
+                ]
+            }
+        ],
+        "Mathematics": [
+            {
+                "quiz_grade": 90.0,
+                "wrong_answers": [
+                    4
+                ],
+                "attempt_number": 2,
+                "quiz": [
+                    {
+                        "question": "If you owe $20 (represented as -20) and later earn $30, how much money do you have now?",
+                        "options": [
+                            "3) $30",
+                            "4) $0",
+                            "2) $20",
+                            "1) $10"
+                        ],
+                        "explanation": "To find your new balance, we add your debt to your earnings: -20 + 30 = 10. Therefore, you have $10.",
+                        "answer": "1) $10"
+                    },
+                    {
+                        "question": "What is the absolute value of -12?",
+                        "options": [
+                            "2) 12",
+                            "1) 0",
+                            "4) 1",
+                            "3) -12"
+                        ],
+                        "explanation": "The absolute value of a number is its distance from zero on the number line. Thus, |-12| = 12.",
+                        "answer": "2) 12"
+                    },
+                    {
+                        "question": "A submarine is at -300 meters below sea level. If it ascends 200 meters, what is the new depth?",
+                        "options": [
+                            "4) 100 meters",
+                            "1) -500 meters",
+                            "3) 200 meters",
+                            "2) -100 meters"
+                        ],
+                        "explanation": "Starting from -300 meters and moving upward by 200 meters means: -300 + 200 = -100. So, the submarine is at -100 meters.",
+                        "answer": "2) -100 meters"
+                    },
+                    {
+                        "question": "If a person is located 5 meters east and then moves 3 meters west, what is their final position relative to the starting point?",
+                        "options": [
+                            "3) 8 meters east",
+                            "1) 2 meters east",
+                            "4) 3 meters west",
+                            "2) 2 meters west"
+                        ],
+                        "explanation": "This can be calculated as: 5 + (-3) = 2. Therefore, they end up 2 meters east from the starting point.",
+                        "answer": "1) 2 meters east"
+                    },
+                    {
+                        "question": "What is the difference in elevation if someone is currently at 50 meters above sea level and then goes to -20 meters below sea level?",
+                        "options": [
+                            "1) 70 meters",
+                            "4) 80 meters",
+                            "2) 30 meters",
+                            "3) 20 meters"
+                        ],
+                        "explanation": "To find the difference: |50 - (-20)| = |50 + 20| = |70| = 70. Thus, the difference in elevation is 70 meters.",
+                        "answer": "1) 70 meters"
+                    },
+                    {
+                        "question": "How do we express 8 degrees below zero using integers?",
+                        "options": [
+                            "4) 0",
+                            "2) -8",
+                            "3) |8|",
+                            "1) 8"
+                        ],
+                        "explanation": "Temperatures below zero are represented by negative integers, so 8 degrees below zero is -8.",
+                        "answer": "2) -8"
+                    },
+                    {
+                        "question": "What is the absolute value of 0?",
+                        "options": [
+                            "4) -0",
+                            "1) 0",
+                            "3) 1",
+                            "2) -1"
+                        ],
+                        "explanation": "The absolute value of zero is simply zero because it is the distance from zero to itself. Thus, |0| = 0.",
+                        "answer": "1) 0"
+                    },
+                    {
+                        "question": "If your account balance is $40 and you spend $60, what will your new balance be represented in integers?",
+                        "options": [
+                            "2) -$20",
+                            "3) $100",
+                            "4) -$100",
+                            "1) $20"
+                        ],
+                        "explanation": "In this case, spending $60 from $40 results in a negative balance: 40 - 60 = -20. Your balance is -$20.",
+                        "answer": "2) -$20"
+                    },
+                    {
+                        "question": "Which of the following expressions represents a drop in temperature from 5 degrees to -3 degrees?",
+                        "options": [
+                            "3) |(-3) - 5|",
+                            "1) |5 - 3|",
+                            "4) |3 - 5|",
+                            "2) |5 - (-3)|"
+                        ],
+                        "explanation": "The correct expression to find the drop in temperature is |5 - (-3)| = |5 + 3| = |8| = 8 degrees. Therefore, the correct expression is |5 - (-3)|.",
+                        "answer": "2) |5 - (-3)|"
+                    },
+                    {
+                        "question": "If the temperature is currently at -10 degrees, and then it rises by 15 degrees, what would the new temperature be?",
+                        "options": [
+                            "3) -5 degrees",
+                            "4) 15 degrees",
+                            "1) 5 degrees",
+                            "2) 10 degrees"
+                        ],
+                        "explanation": "We calculate the new temperature by adding: -10 + 15 = 5 degrees. Therefore, the new temperature is 5 degrees.",
+                        "answer": "1) 5 degrees"
+                    }
+                ]
+            },
+            {
+                "quiz_grade": 100.0,
+                "wrong_answers": [],
+                "attempt_number": 3,
+                "quiz": [
+                    {
+                        "question": "If you owe $20 (represented as -20) and later earn $30, how much money do you have now?",
+                        "options": [
+                            "3) $30",
+                            "4) $0",
+                            "2) $20",
+                            "1) $10"
+                        ],
+                        "explanation": "To find your new balance, we add your debt to your earnings: -20 + 30 = 10. Therefore, you have $10.",
+                        "answer": "1) $10"
+                    },
+                    {
+                        "question": "What is the absolute value of -12?",
+                        "options": [
+                            "2) 12",
+                            "1) 0",
+                            "4) 1",
+                            "3) -12"
+                        ],
+                        "explanation": "The absolute value of a number is its distance from zero on the number line. Thus, |-12| = 12.",
+                        "answer": "2) 12"
+                    },
+                    {
+                        "question": "A submarine is at -300 meters below sea level. If it ascends 200 meters, what is the new depth?",
+                        "options": [
+                            "4) 100 meters",
+                            "1) -500 meters",
+                            "3) 200 meters",
+                            "2) -100 meters"
+                        ],
+                        "explanation": "Starting from -300 meters and moving upward by 200 meters means: -300 + 200 = -100. So, the submarine is at -100 meters.",
+                        "answer": "2) -100 meters"
+                    },
+                    {
+                        "question": "If a person is located 5 meters east and then moves 3 meters west, what is their final position relative to the starting point?",
+                        "options": [
+                            "3) 8 meters east",
+                            "1) 2 meters east",
+                            "4) 3 meters west",
+                            "2) 2 meters west"
+                        ],
+                        "explanation": "This can be calculated as: 5 + (-3) = 2. Therefore, they end up 2 meters east from the starting point.",
+                        "answer": "1) 2 meters east"
+                    },
+                    {
+                        "question": "What is the difference in elevation if someone is currently at 50 meters above sea level and then goes to -20 meters below sea level?",
+                        "options": [
+                            "1) 70 meters",
+                            "4) 80 meters",
+                            "2) 30 meters",
+                            "3) 20 meters"
+                        ],
+                        "explanation": "To find the difference: |50 - (-20)| = |50 + 20| = |70| = 70. Thus, the difference in elevation is 70 meters.",
+                        "answer": "1) 70 meters"
+                    },
+                    {
+                        "question": "How do we express 8 degrees below zero using integers?",
+                        "options": [
+                            "4) 0",
+                            "2) -8",
+                            "3) |8|",
+                            "1) 8"
+                        ],
+                        "explanation": "Temperatures below zero are represented by negative integers, so 8 degrees below zero is -8.",
+                        "answer": "2) -8"
+                    },
+                    {
+                        "question": "What is the absolute value of 0?",
+                        "options": [
+                            "4) -0",
+                            "1) 0",
+                            "3) 1",
+                            "2) -1"
+                        ],
+                        "explanation": "The absolute value of zero is simply zero because it is the distance from zero to itself. Thus, |0| = 0.",
+                        "answer": "1) 0"
+                    },
+                    {
+                        "question": "If your account balance is $40 and you spend $60, what will your new balance be represented in integers?",
+                        "options": [
+                            "2) -$20",
+                            "3) $100",
+                            "4) -$100",
+                            "1) $20"
+                        ],
+                        "explanation": "In this case, spending $60 from $40 results in a negative balance: 40 - 60 = -20. Your balance is -$20.",
+                        "answer": "2) -$20"
+                    },
+                    {
+                        "question": "Which of the following expressions represents a drop in temperature from 5 degrees to -3 degrees?",
+                        "options": [
+                            "3) |(-3) - 5|",
+                            "1) |5 - 3|",
+                            "4) |3 - 5|",
+                            "2) |5 - (-3)|"
+                        ],
+                        "explanation": "The correct expression to find the drop in temperature is |5 - (-3)| = |5 + 3| = |8| = 8 degrees. Therefore, the correct expression is |5 - (-3)|.",
+                        "answer": "2) |5 - (-3)|"
+                    },
+                    {
+                        "question": "If the temperature is currently at -10 degrees, and then it rises by 15 degrees, what would the new temperature be?",
+                        "options": [
+                            "3) -5 degrees",
+                            "4) 15 degrees",
+                            "1) 5 degrees",
+                            "2) 10 degrees"
+                        ],
+                        "explanation": "We calculate the new temperature by adding: -10 + 15 = 5 degrees. Therefore, the new temperature is 5 degrees.",
+                        "answer": "1) 5 degrees"
+                    }
+                ]
+            }
+        ],
+        "Mathematics Advanced": [
+            {
+                "quiz_grade": 60.0,
+                "wrong_answers": [
+                    0,
+                    2,
+                    3,
+                    9
+                ],
+                "attempt_number": 4,
+                "quiz": [
+                    {
+                        "question": "What is the first step to solving the equation 7x = 35?",
+                        "options": [
+                            "1) Multiply both sides by 7",
+                            "4) Subtract 7 from both sides",
+                            "2) Divide both sides by 7",
+                            "3) Add 35 to both sides"
+                        ],
+                        "explanation": "To isolate x in the equation 7x = 35, you need to divide both sides by 7. This gives you the value of x.",
+                        "answer": "2) Divide both sides by 7"
+                    },
+                    {
+                        "question": "In the equation x - 2 = 12, what is the operation you need to perform to solve for x?",
+                        "options": [
+                            "1) Add 2 to both sides",
+                            "4) Divide both sides by 2",
+                            "3) Multiply both sides by 2",
+                            "2) Subtract 2 from both sides"
+                        ],
+                        "explanation": "To isolate x in the equation x - 2 = 12, you need to add 2 to both sides. This will give you the correct value for x.",
+                        "answer": "1) Add 2 to both sides"
+                    },
+                    {
+                        "question": "What does the word 'sum' indicate when translating phrases into equations?",
+                        "options": [
+                            "4) Subtraction",
+                            "1) Multiplication",
+                            "2) Division",
+                            "3) Addition"
+                        ],
+                        "explanation": "The word 'sum' indicates the operation of addition when translating phrases into equations.",
+                        "answer": "3) Addition"
+                    },
+                    {
+                        "question": "If you earn $20 for each hour worked and want to make $200, what equation represents this situation?",
+                        "options": [
+                            "2) 20 + h = 200",
+                            "1) 20h = 200",
+                            "4) h + 20 = 200",
+                            "3) h - 20 = 200"
+                        ],
+                        "explanation": "The situation can be represented by the equation 20h = 200, where h is the number of hours worked to earn $200.",
+                        "answer": "1) 20h = 200"
+                    },
+                    {
+                        "question": "When translating the phrase 'the difference of a number and 5 is 15', what equation do you form?",
+                        "options": [
+                            "1) x - 5 = 15",
+                            "4) x - 15 = 5",
+                            "2) x + 5 = 15",
+                            "3) 5 - x = 15"
+                        ],
+                        "explanation": "The phrase 'the difference of a number and 5 is 15' can be represented by the equation x - 5 = 15, where x is the unknown number.",
+                        "answer": "1) x - 5 = 15"
+                    },
+                    {
+                        "question": "What is the result of checking your solution in the equation 4x = 20 if you found x = 5?",
+                        "options": [
+                            "3) True, 20 = 4(4)",
+                            "1) True, 4(5) = 20",
+                            "2) False, 4(5) = 15",
+                            "4) False, 5 + 4 = 20"
+                        ],
+                        "explanation": "Checking your solution involves substituting your found value back into the original equation. In this case, substituting 5 gives 4(5) = 20, which is true.",
+                        "answer": "1) True, 4(5) = 20"
+                    },
+                    {
+                        "question": "If a number is represented by x and you add 10 and get 20, which equation represents this problem?",
+                        "options": [
+                            "1) x + 10 = 20",
+                            "4) x + 20 = 10",
+                            "3) 10x = 20",
+                            "2) x - 10 = 20"
+                        ],
+                        "explanation": "The phrase 'a number plus 10 equals 20' translates to the equation x + 10 = 20.",
+                        "answer": "1) x + 10 = 20"
+                    },
+                    {
+                        "question": "What is the equation for the word problem: 'A number is 8 less than 20'?",
+                        "options": [
+                            "2) x + 8 = 20",
+                            "1) x - 8 = 20",
+                            "3) 20 - x = 8",
+                            "4) x - 20 = 8"
+                        ],
+                        "explanation": "The statement indicates that the number x is 8 less than 20, translating to the equation x = 20 - 8, or x - 8 = 20.",
+                        "answer": "1) x - 8 = 20"
+                    },
+                    {
+                        "question": "In solving the equation 5p = 100, what operation do you perform to isolate p?",
+                        "options": [
+                            "1) Subtract 5 from both sides",
+                            "3) Divide both sides by 5",
+                            "4) Multiply both sides by 5",
+                            "2) Add 5 to both sides"
+                        ],
+                        "explanation": "To isolate p in the equation 5p = 100, you divide both sides by 5, which gives you the value of p.",
+                        "answer": "3) Divide both sides by 5"
+                    },
+                    {
+                        "question": "What do we call the number that is being represented by the variable in an equation?",
+                        "options": [
+                            "2) Constant",
+                            "1) Coefficient",
+                            "4) Unknown",
+                            "3) Variable"
+                        ],
+                        "explanation": "The number represented by a variable in an equation is often referred to as the unknown, which we aim to find when solving equations.",
+                        "answer": "4) Unknown"
+                    }
+                ]
+            },
+            {
+                "quiz_grade": 70.0,
+                "wrong_answers": [
+                    0,
+                    1,
+                    4
+                ],
+                "attempt_number": 2,
+                "quiz": [
+                    {
+                        "question": "What is the first step to translate the phrase 'The product of a number and 3 is 12' into an equation?",
+                        "options": [
+                            "3) Let x represent the number and write 3 + x = 12",
+                            "4) Let x represent the number and write 3 - x = 12",
+                            "1) Let x represent the number and write x * 3 = 12",
+                            "2) Let x represent the number and write x + 3 = 12"
+                        ],
+                        "explanation": "To translate the phrase, we identify 'product' which indicates multiplication. Therefore, we let x represent the unknown number and formulate the equation as x * 3 = 12.",
+                        "answer": "1) The product of a number and 3 is 12 translates to x * 3 = 12."
+                    },
+                    {
+                        "question": "In the context of word problems, what does the word 'difference' indicate?",
+                        "options": [
+                            "3) Multiplication",
+                            "1) Addition",
+                            "2) Subtraction",
+                            "4) Division"
+                        ],
+                        "explanation": "The term 'difference' refers specifically to the result of a subtraction operation in mathematics.",
+                        "answer": "2) Difference indicates subtraction."
+                    },
+                    {
+                        "question": "After solving the equation 5x = 25, what is the next step to confirm your answer?",
+                        "options": [
+                            "3) Subtract 5 from both sides",
+                            "4) Divide by 5 again",
+                            "1) Multiply both sides by 5",
+                            "2) Check if x = 5 by substituting back into the initial equation"
+                        ],
+                        "explanation": "To verify your solution after solving for x, you should substitute the found value back into the original equation to check for accuracy.",
+                        "answer": "2) Check if x = 5 by substituting back into the initial equation."
+                    },
+                    {
+                        "question": "Which keyword would help indicate that you need to set up an equation using addition?",
+                        "options": [
+                            "4) Less than",
+                            "1) Product",
+                            "3) Quotient",
+                            "2) Sum"
+                        ],
+                        "explanation": "The word 'sum' directly suggests that there is an addition taking place, leading us to set up an addition equation.",
+                        "answer": "2) The keyword 'sum' indicates addition."
+                    },
+                    {
+                        "question": "In the equation x / 4 = 3, what operation do you need to perform to solve for x?",
+                        "options": [
+                            "3) Add 4 to both sides",
+                            "4) Divide both sides by 4",
+                            "1) Multiply both sides by 4",
+                            "2) Subtract 4 from both sides"
+                        ],
+                        "explanation": "To isolate x in this equation, we need to eliminate the division by multiplying both sides by 4.",
+                        "answer": "1) Multiply both sides by 4."
+                    },
+                    {
+                        "question": "What is the equation that represents the situation: 'You have x apples, and you give away 3 apples, leaving you with 5 apples'?",
+                        "options": [
+                            "4) x / 3 = 5",
+                            "2) x + 3 = 5",
+                            "3) 3x = 5",
+                            "1) x - 3 = 5"
+                        ],
+                        "explanation": "The situation describes giving away apples, which corresponds to subtraction. Thus, the equation should be x - 3 = 5.",
+                        "answer": "1) x - 3 = 5."
+                    },
+                    {
+                        "question": "How do we denote a variable that represents an unknown number in an equation?",
+                        "options": [
+                            "4) Writing equations without variables",
+                            "3) Using numbers only",
+                            "1) Using symbols like * or /",
+                            "2) Assigning letters like x or y"
+                        ],
+                        "explanation": "In algebra, variables are commonly represented by letters such as x or y to indicate numbers that we don\u2019t know yet.",
+                        "answer": "2) Assigning letters like x or y."
+                    },
+                    {
+                        "question": "When faced with a word problem, what is an effective strategy to solve it?",
+                        "options": [
+                            "2) Write down the numbers only",
+                            "3) Visualize or sketch the problem",
+                            "4) Skip the problem if it's challenging",
+                            "1) Memorize all operations"
+                        ],
+                        "explanation": "Visualizing or sketching out the word problem often helps clarify relationships and better formulate equations to solve it.",
+                        "answer": "3) Visualize or sketch the problem."
+                    },
+                    {
+                        "question": "What is the purpose of using the variable x in equations?",
+                        "options": [
+                            "1) To complicate the math",
+                            "4) To simplify calculations only",
+                            "3) To always make equations false",
+                            "2) To represent an unknown value"
+                        ],
+                        "explanation": "The variable x is used to represent an unknown value that we are trying to find through the equation.",
+                        "answer": "2) To represent an unknown value."
+                    },
+                    {
+                        "question": "What should be done after solving the equation 8 + x = 15?",
+                        "options": [
+                            "4) Do nothing because it's already solved",
+                            "3) Ignore the equation",
+                            "2) Verify your answer by substituting x back into the original equation",
+                            "1) Add 8 to both sides"
+                        ],
+                        "explanation": "It is essential to verify the answer after solving an equation by substituting the found value back into the equation to ensure it holds true.",
+                        "answer": "2) Verify your answer by substituting x back into the original equation."
+                    }
+                ]
+            },
+            {
+                "quiz_grade": 80.0,
+                "wrong_answers": [
+                    1,
+                    4
+                ],
+                "attempt_number": 3,
+                "quiz": [
+                    {
+                        "question": "What is the first step to translate the phrase 'The product of a number and 3 is 12' into an equation?",
+                        "options": [
+                            "3) Let x represent the number and write 3 + x = 12",
+                            "4) Let x represent the number and write 3 - x = 12",
+                            "1) Let x represent the number and write x * 3 = 12",
+                            "2) Let x represent the number and write x + 3 = 12"
+                        ],
+                        "explanation": "To translate the phrase, we identify 'product' which indicates multiplication. Therefore, we let x represent the unknown number and formulate the equation as x * 3 = 12.",
+                        "answer": "1) The product of a number and 3 is 12 translates to x * 3 = 12."
+                    },
+                    {
+                        "question": "In the context of word problems, what does the word 'difference' indicate?",
+                        "options": [
+                            "3) Multiplication",
+                            "1) Addition",
+                            "2) Subtraction",
+                            "4) Division"
+                        ],
+                        "explanation": "The term 'difference' refers specifically to the result of a subtraction operation in mathematics.",
+                        "answer": "2) Difference indicates subtraction."
+                    },
+                    {
+                        "question": "After solving the equation 5x = 25, what is the next step to confirm your answer?",
+                        "options": [
+                            "3) Subtract 5 from both sides",
+                            "4) Divide by 5 again",
+                            "1) Multiply both sides by 5",
+                            "2) Check if x = 5 by substituting back into the initial equation"
+                        ],
+                        "explanation": "To verify your solution after solving for x, you should substitute the found value back into the original equation to check for accuracy.",
+                        "answer": "2) Check if x = 5 by substituting back into the initial equation."
+                    },
+                    {
+                        "question": "Which keyword would help indicate that you need to set up an equation using addition?",
+                        "options": [
+                            "4) Less than",
+                            "1) Product",
+                            "3) Quotient",
+                            "2) Sum"
+                        ],
+                        "explanation": "The word 'sum' directly suggests that there is an addition taking place, leading us to set up an addition equation.",
+                        "answer": "2) The keyword 'sum' indicates addition."
+                    },
+                    {
+                        "question": "In the equation x / 4 = 3, what operation do you need to perform to solve for x?",
+                        "options": [
+                            "3) Add 4 to both sides",
+                            "4) Divide both sides by 4",
+                            "1) Multiply both sides by 4",
+                            "2) Subtract 4 from both sides"
+                        ],
+                        "explanation": "To isolate x in this equation, we need to eliminate the division by multiplying both sides by 4.",
+                        "answer": "1) Multiply both sides by 4."
+                    },
+                    {
+                        "question": "What is the equation that represents the situation: 'You have x apples, and you give away 3 apples, leaving you with 5 apples'?",
+                        "options": [
+                            "4) x / 3 = 5",
+                            "2) x + 3 = 5",
+                            "3) 3x = 5",
+                            "1) x - 3 = 5"
+                        ],
+                        "explanation": "The situation describes giving away apples, which corresponds to subtraction. Thus, the equation should be x - 3 = 5.",
+                        "answer": "1) x - 3 = 5."
+                    },
+                    {
+                        "question": "How do we denote a variable that represents an unknown number in an equation?",
+                        "options": [
+                            "4) Writing equations without variables",
+                            "3) Using numbers only",
+                            "1) Using symbols like * or /",
+                            "2) Assigning letters like x or y"
+                        ],
+                        "explanation": "In algebra, variables are commonly represented by letters such as x or y to indicate numbers that we don\u2019t know yet.",
+                        "answer": "2) Assigning letters like x or y."
+                    },
+                    {
+                        "question": "When faced with a word problem, what is an effective strategy to solve it?",
+                        "options": [
+                            "2) Write down the numbers only",
+                            "3) Visualize or sketch the problem",
+                            "4) Skip the problem if it's challenging",
+                            "1) Memorize all operations"
+                        ],
+                        "explanation": "Visualizing or sketching out the word problem often helps clarify relationships and better formulate equations to solve it.",
+                        "answer": "3) Visualize or sketch the problem."
+                    },
+                    {
+                        "question": "What is the purpose of using the variable x in equations?",
+                        "options": [
+                            "1) To complicate the math",
+                            "4) To simplify calculations only",
+                            "3) To always make equations false",
+                            "2) To represent an unknown value"
+                        ],
+                        "explanation": "The variable x is used to represent an unknown value that we are trying to find through the equation.",
+                        "answer": "2) To represent an unknown value."
+                    },
+                    {
+                        "question": "What should be done after solving the equation 8 + x = 15?",
+                        "options": [
+                            "4) Do nothing because it's already solved",
+                            "3) Ignore the equation",
+                            "2) Verify your answer by substituting x back into the original equation",
+                            "1) Add 8 to both sides"
+                        ],
+                        "explanation": "It is essential to verify the answer after solving an equation by substituting the found value back into the equation to ensure it holds true.",
+                        "answer": "2) Verify your answer by substituting x back into the original equation."
+                    }
+                ]
+            },
+            {
+                "quiz_grade": 90.0,
+                "wrong_answers": [
+                    4
+                ],
+                "attempt_number": 4,
+                "quiz": [
+                    {
+                        "question": "What is the first step to translate the phrase 'The product of a number and 3 is 12' into an equation?",
+                        "options": [
+                            "3) Let x represent the number and write 3 + x = 12",
+                            "4) Let x represent the number and write 3 - x = 12",
+                            "1) Let x represent the number and write x * 3 = 12",
+                            "2) Let x represent the number and write x + 3 = 12"
+                        ],
+                        "explanation": "To translate the phrase, we identify 'product' which indicates multiplication. Therefore, we let x represent the unknown number and formulate the equation as x * 3 = 12.",
+                        "answer": "1) The product of a number and 3 is 12 translates to x * 3 = 12."
+                    },
+                    {
+                        "question": "In the context of word problems, what does the word 'difference' indicate?",
+                        "options": [
+                            "3) Multiplication",
+                            "1) Addition",
+                            "2) Subtraction",
+                            "4) Division"
+                        ],
+                        "explanation": "The term 'difference' refers specifically to the result of a subtraction operation in mathematics.",
+                        "answer": "2) Difference indicates subtraction."
+                    },
+                    {
+                        "question": "After solving the equation 5x = 25, what is the next step to confirm your answer?",
+                        "options": [
+                            "3) Subtract 5 from both sides",
+                            "4) Divide by 5 again",
+                            "1) Multiply both sides by 5",
+                            "2) Check if x = 5 by substituting back into the initial equation"
+                        ],
+                        "explanation": "To verify your solution after solving for x, you should substitute the found value back into the original equation to check for accuracy.",
+                        "answer": "2) Check if x = 5 by substituting back into the initial equation."
+                    },
+                    {
+                        "question": "Which keyword would help indicate that you need to set up an equation using addition?",
+                        "options": [
+                            "4) Less than",
+                            "1) Product",
+                            "3) Quotient",
+                            "2) Sum"
+                        ],
+                        "explanation": "The word 'sum' directly suggests that there is an addition taking place, leading us to set up an addition equation.",
+                        "answer": "2) The keyword 'sum' indicates addition."
+                    },
+                    {
+                        "question": "In the equation x / 4 = 3, what operation do you need to perform to solve for x?",
+                        "options": [
+                            "3) Add 4 to both sides",
+                            "4) Divide both sides by 4",
+                            "1) Multiply both sides by 4",
+                            "2) Subtract 4 from both sides"
+                        ],
+                        "explanation": "To isolate x in this equation, we need to eliminate the division by multiplying both sides by 4.",
+                        "answer": "1) Multiply both sides by 4."
+                    },
+                    {
+                        "question": "What is the equation that represents the situation: 'You have x apples, and you give away 3 apples, leaving you with 5 apples'?",
+                        "options": [
+                            "4) x / 3 = 5",
+                            "2) x + 3 = 5",
+                            "3) 3x = 5",
+                            "1) x - 3 = 5"
+                        ],
+                        "explanation": "The situation describes giving away apples, which corresponds to subtraction. Thus, the equation should be x - 3 = 5.",
+                        "answer": "1) x - 3 = 5."
+                    },
+                    {
+                        "question": "How do we denote a variable that represents an unknown number in an equation?",
+                        "options": [
+                            "4) Writing equations without variables",
+                            "3) Using numbers only",
+                            "1) Using symbols like * or /",
+                            "2) Assigning letters like x or y"
+                        ],
+                        "explanation": "In algebra, variables are commonly represented by letters such as x or y to indicate numbers that we don\u2019t know yet.",
+                        "answer": "2) Assigning letters like x or y."
+                    },
+                    {
+                        "question": "When faced with a word problem, what is an effective strategy to solve it?",
+                        "options": [
+                            "2) Write down the numbers only",
+                            "3) Visualize or sketch the problem",
+                            "4) Skip the problem if it's challenging",
+                            "1) Memorize all operations"
+                        ],
+                        "explanation": "Visualizing or sketching out the word problem often helps clarify relationships and better formulate equations to solve it.",
+                        "answer": "3) Visualize or sketch the problem."
+                    },
+                    {
+                        "question": "What is the purpose of using the variable x in equations?",
+                        "options": [
+                            "1) To complicate the math",
+                            "4) To simplify calculations only",
+                            "3) To always make equations false",
+                            "2) To represent an unknown value"
+                        ],
+                        "explanation": "The variable x is used to represent an unknown value that we are trying to find through the equation.",
+                        "answer": "2) To represent an unknown value."
+                    },
+                    {
+                        "question": "What should be done after solving the equation 8 + x = 15?",
+                        "options": [
+                            "4) Do nothing because it's already solved",
+                            "3) Ignore the equation",
+                            "2) Verify your answer by substituting x back into the original equation",
+                            "1) Add 8 to both sides"
+                        ],
+                        "explanation": "It is essential to verify the answer after solving an equation by substituting the found value back into the equation to ensure it holds true.",
+                        "answer": "2) Verify your answer by substituting x back into the original equation."
+                    }
+                ]
+            }
+        ],
+        "Science": [
+            {
+                "quiz_grade": 80.0,
+                "wrong_answers": [
+                    1,
+                    6
+                ],
+                "attempt_number": 2,
+                "quiz": [
+                    {
+                        "question": "What needs to be done to balance a chemical equation?",
+                        "options": [
+                            "2) Adjust the coefficients in front of the compounds",
+                            "4) Use polynomials to define relationships",
+                            "3) Add new reactants or products",
+                            "1) Change the subscripts in the chemical formulas"
+                        ],
+                        "explanation": "To balance a chemical equation, we only adjust the coefficients in front of the compounds involved, ensuring that the number of atoms of each element on both sides is equal.",
+                        "answer": "2) Adjust the coefficients in front of the compounds"
+                    },
+                    {
+                        "question": "When balancing the equation for propane combustion, what is the total number of oxygen atoms needed on the product side?",
+                        "options": [
+                            "2) 10",
+                            "1) 6",
+                            "4) 8",
+                            "3) 4"
+                        ],
+                        "explanation": "In the balanced equation C\u2083H\u2088 + 5O\u2082 \u2192 3CO\u2082 + 4H\u2082O, we have 10 oxygen atoms total on the right side (6 from 3CO\u2082 and 4 from 4H\u2082O).",
+                        "answer": "2) 10"
+                    },
+                    {
+                        "question": "Why is it important to only change coefficients and not subscripts when balancing equations?",
+                        "options": [
+                            "3) To make equations easier to read",
+                            "2) Coefficients are irrelevant to reactions",
+                            "1) To avoid changing the identity of the compounds",
+                            "4) To follow the order of operations"
+                        ],
+                        "explanation": "Changing subscripts alters the identities of the compounds, which changes what the reaction is. Coefficients maintain the identities while adjusting the quantity.",
+                        "answer": "1) To avoid changing the identity of the compounds"
+                    },
+                    {
+                        "question": "What is the first product formed in the balanced combustion reaction of propane?",
+                        "options": [
+                            "2) Carbon dioxide (CO\u2082)",
+                            "4) Propane (C\u2083H\u2088)",
+                            "3) Oxygen gas (O\u2082)",
+                            "1) Water (H\u2082O)"
+                        ],
+                        "explanation": "In the complete combustion reaction of propane, the products formed are carbon dioxide (CO\u2082) and water (H\u2082O), with carbon dioxide being the first product listed when balancing the reaction.",
+                        "answer": "2) Carbon dioxide (CO\u2082)"
+                    },
+                    {
+                        "question": "In the equation C\u2083H\u2088 + O\u2082 \u2192 3CO\u2082 + 4H\u2082O, what does the coefficient 4 represent?",
+                        "options": [
+                            "3) The number of oxygen molecules",
+                            "4) The total number of atoms",
+                            "1) The number of water molecules produced",
+                            "2) The number of propane molecules"
+                        ],
+                        "explanation": "The coefficient 4 in front of H\u2082O indicates that four water molecules are produced from the combustion of propane.",
+                        "answer": "1) The number of water molecules produced"
+                    },
+                    {
+                        "question": "What is the total number of hydrogen atoms present on the left side of the unbalanced reaction C\u2083H\u2088 + O\u2082?",
+                        "options": [
+                            "4) 6",
+                            "1) 8",
+                            "3) 3",
+                            "2) 4"
+                        ],
+                        "explanation": "In propane (C\u2083H\u2088), there are 8 hydrogen atoms present on the left side of the unbalanced equation.",
+                        "answer": "1) 8"
+                    },
+                    {
+                        "question": "How many moles of oxygen gas (O\u2082) are needed in the balanced equation for the combustion of propane?",
+                        "options": [
+                            "1) 3",
+                            "3) 5",
+                            "4) 10",
+                            "2) 4"
+                        ],
+                        "explanation": "In the balanced equation C\u2083H\u2088 + 5O\u2082 \u2192 3CO\u2082 + 4H\u2082O, it takes 5 moles of O\u2082 to fully combust one mole of propane.",
+                        "answer": "3) 5"
+                    },
+                    {
+                        "question": "Which principle allows us to balance chemical equations?",
+                        "options": [
+                            "2) Law of Conservation of Mass",
+                            "1) Law of Partial Pressures",
+                            "4) Charles\u2019s Law",
+                            "3) Law of Definite Proportions"
+                        ],
+                        "explanation": "The Law of Conservation of Mass states that matter cannot be created or destroyed, providing the basis for balancing equations since the total mass of reactants must equal the total mass of products.",
+                        "answer": "2) Law of Conservation of Mass"
+                    },
+                    {
+                        "question": "In the reaction 2H\u2082 + O\u2082 \u2192 2H\u2082O, how many atoms of oxygen are present on the left side?",
+                        "options": [
+                            "3) 2",
+                            "4) 3",
+                            "2) 4",
+                            "1) 1"
+                        ],
+                        "explanation": "In the reaction 2H\u2082 + O\u2082 \u2192 2H\u2082O, there is only 1 molecule of O\u2082 on the left side, which contains 2 oxygen atoms.",
+                        "answer": "3) 2"
+                    },
+                    {
+                        "question": "Why is the balancing of chemical equations critical in chemistry?",
+                        "options": [
+                            "1) It makes chemistry look more complicated",
+                            "2) To ensure the reactions follow the given scientific law",
+                            "4) It helps to memorize formulas",
+                            "3) To prepare for advanced reactions only"
+                        ],
+                        "explanation": "Balancing chemical equations is critical because it ensures that the amounts of reactants convert to products without any loss or gain in mass, adhering to the Law of Conservation of Mass.",
+                        "answer": "2) To ensure the reactions follow the given scientific law"
+                    }
+                ]
+            },
+            {
+                "quiz_grade": 90.0,
+                "wrong_answers": [
+                    1
+                ],
+                "attempt_number": 3,
+                "quiz": [
+                    {
+                        "question": "What needs to be done to balance a chemical equation?",
+                        "options": [
+                            "2) Adjust the coefficients in front of the compounds",
+                            "4) Use polynomials to define relationships",
+                            "3) Add new reactants or products",
+                            "1) Change the subscripts in the chemical formulas"
+                        ],
+                        "explanation": "To balance a chemical equation, we only adjust the coefficients in front of the compounds involved, ensuring that the number of atoms of each element on both sides is equal.",
+                        "answer": "2) Adjust the coefficients in front of the compounds"
+                    },
+                    {
+                        "question": "When balancing the equation for propane combustion, what is the total number of oxygen atoms needed on the product side?",
+                        "options": [
+                            "2) 10",
+                            "1) 6",
+                            "4) 8",
+                            "3) 4"
+                        ],
+                        "explanation": "In the balanced equation C\u2083H\u2088 + 5O\u2082 \u2192 3CO\u2082 + 4H\u2082O, we have 10 oxygen atoms total on the right side (6 from 3CO\u2082 and 4 from 4H\u2082O).",
+                        "answer": "2) 10"
+                    },
+                    {
+                        "question": "Why is it important to only change coefficients and not subscripts when balancing equations?",
+                        "options": [
+                            "3) To make equations easier to read",
+                            "2) Coefficients are irrelevant to reactions",
+                            "1) To avoid changing the identity of the compounds",
+                            "4) To follow the order of operations"
+                        ],
+                        "explanation": "Changing subscripts alters the identities of the compounds, which changes what the reaction is. Coefficients maintain the identities while adjusting the quantity.",
+                        "answer": "1) To avoid changing the identity of the compounds"
+                    },
+                    {
+                        "question": "What is the first product formed in the balanced combustion reaction of propane?",
+                        "options": [
+                            "2) Carbon dioxide (CO\u2082)",
+                            "4) Propane (C\u2083H\u2088)",
+                            "3) Oxygen gas (O\u2082)",
+                            "1) Water (H\u2082O)"
+                        ],
+                        "explanation": "In the complete combustion reaction of propane, the products formed are carbon dioxide (CO\u2082) and water (H\u2082O), with carbon dioxide being the first product listed when balancing the reaction.",
+                        "answer": "2) Carbon dioxide (CO\u2082)"
+                    },
+                    {
+                        "question": "In the equation C\u2083H\u2088 + O\u2082 \u2192 3CO\u2082 + 4H\u2082O, what does the coefficient 4 represent?",
+                        "options": [
+                            "3) The number of oxygen molecules",
+                            "4) The total number of atoms",
+                            "1) The number of water molecules produced",
+                            "2) The number of propane molecules"
+                        ],
+                        "explanation": "The coefficient 4 in front of H\u2082O indicates that four water molecules are produced from the combustion of propane.",
+                        "answer": "1) The number of water molecules produced"
+                    },
+                    {
+                        "question": "What is the total number of hydrogen atoms present on the left side of the unbalanced reaction C\u2083H\u2088 + O\u2082?",
+                        "options": [
+                            "4) 6",
+                            "1) 8",
+                            "3) 3",
+                            "2) 4"
+                        ],
+                        "explanation": "In propane (C\u2083H\u2088), there are 8 hydrogen atoms present on the left side of the unbalanced equation.",
+                        "answer": "1) 8"
+                    },
+                    {
+                        "question": "How many moles of oxygen gas (O\u2082) are needed in the balanced equation for the combustion of propane?",
+                        "options": [
+                            "1) 3",
+                            "3) 5",
+                            "4) 10",
+                            "2) 4"
+                        ],
+                        "explanation": "In the balanced equation C\u2083H\u2088 + 5O\u2082 \u2192 3CO\u2082 + 4H\u2082O, it takes 5 moles of O\u2082 to fully combust one mole of propane.",
+                        "answer": "3) 5"
+                    },
+                    {
+                        "question": "Which principle allows us to balance chemical equations?",
+                        "options": [
+                            "2) Law of Conservation of Mass",
+                            "1) Law of Partial Pressures",
+                            "4) Charles\u2019s Law",
+                            "3) Law of Definite Proportions"
+                        ],
+                        "explanation": "The Law of Conservation of Mass states that matter cannot be created or destroyed, providing the basis for balancing equations since the total mass of reactants must equal the total mass of products.",
+                        "answer": "2) Law of Conservation of Mass"
+                    },
+                    {
+                        "question": "In the reaction 2H\u2082 + O\u2082 \u2192 2H\u2082O, how many atoms of oxygen are present on the left side?",
+                        "options": [
+                            "3) 2",
+                            "4) 3",
+                            "2) 4",
+                            "1) 1"
+                        ],
+                        "explanation": "In the reaction 2H\u2082 + O\u2082 \u2192 2H\u2082O, there is only 1 molecule of O\u2082 on the left side, which contains 2 oxygen atoms.",
+                        "answer": "3) 2"
+                    },
+                    {
+                        "question": "Why is the balancing of chemical equations critical in chemistry?",
+                        "options": [
+                            "1) It makes chemistry look more complicated",
+                            "2) To ensure the reactions follow the given scientific law",
+                            "4) It helps to memorize formulas",
+                            "3) To prepare for advanced reactions only"
+                        ],
+                        "explanation": "Balancing chemical equations is critical because it ensures that the amounts of reactants convert to products without any loss or gain in mass, adhering to the Law of Conservation of Mass.",
+                        "answer": "2) To ensure the reactions follow the given scientific law"
+                    }
+                ]
+            },
+            {
+                "quiz_grade": 90.0,
+                "wrong_answers": [
+                    1
+                ],
+                "attempt_number": 4,
+                "quiz": [
+                    {
+                        "question": "What needs to be done to balance a chemical equation?",
+                        "options": [
+                            "2) Adjust the coefficients in front of the compounds",
+                            "4) Use polynomials to define relationships",
+                            "3) Add new reactants or products",
+                            "1) Change the subscripts in the chemical formulas"
+                        ],
+                        "explanation": "To balance a chemical equation, we only adjust the coefficients in front of the compounds involved, ensuring that the number of atoms of each element on both sides is equal.",
+                        "answer": "2) Adjust the coefficients in front of the compounds"
+                    },
+                    {
+                        "question": "When balancing the equation for propane combustion, what is the total number of oxygen atoms needed on the product side?",
+                        "options": [
+                            "2) 10",
+                            "1) 6",
+                            "4) 8",
+                            "3) 4"
+                        ],
+                        "explanation": "In the balanced equation C\u2083H\u2088 + 5O\u2082 \u2192 3CO\u2082 + 4H\u2082O, we have 10 oxygen atoms total on the right side (6 from 3CO\u2082 and 4 from 4H\u2082O).",
+                        "answer": "2) 10"
+                    },
+                    {
+                        "question": "Why is it important to only change coefficients and not subscripts when balancing equations?",
+                        "options": [
+                            "3) To make equations easier to read",
+                            "2) Coefficients are irrelevant to reactions",
+                            "1) To avoid changing the identity of the compounds",
+                            "4) To follow the order of operations"
+                        ],
+                        "explanation": "Changing subscripts alters the identities of the compounds, which changes what the reaction is. Coefficients maintain the identities while adjusting the quantity.",
+                        "answer": "1) To avoid changing the identity of the compounds"
+                    },
+                    {
+                        "question": "What is the first product formed in the balanced combustion reaction of propane?",
+                        "options": [
+                            "2) Carbon dioxide (CO\u2082)",
+                            "4) Propane (C\u2083H\u2088)",
+                            "3) Oxygen gas (O\u2082)",
+                            "1) Water (H\u2082O)"
+                        ],
+                        "explanation": "In the complete combustion reaction of propane, the products formed are carbon dioxide (CO\u2082) and water (H\u2082O), with carbon dioxide being the first product listed when balancing the reaction.",
+                        "answer": "2) Carbon dioxide (CO\u2082)"
+                    },
+                    {
+                        "question": "In the equation C\u2083H\u2088 + O\u2082 \u2192 3CO\u2082 + 4H\u2082O, what does the coefficient 4 represent?",
+                        "options": [
+                            "3) The number of oxygen molecules",
+                            "4) The total number of atoms",
+                            "1) The number of water molecules produced",
+                            "2) The number of propane molecules"
+                        ],
+                        "explanation": "The coefficient 4 in front of H\u2082O indicates that four water molecules are produced from the combustion of propane.",
+                        "answer": "1) The number of water molecules produced"
+                    },
+                    {
+                        "question": "What is the total number of hydrogen atoms present on the left side of the unbalanced reaction C\u2083H\u2088 + O\u2082?",
+                        "options": [
+                            "4) 6",
+                            "1) 8",
+                            "3) 3",
+                            "2) 4"
+                        ],
+                        "explanation": "In propane (C\u2083H\u2088), there are 8 hydrogen atoms present on the left side of the unbalanced equation.",
+                        "answer": "1) 8"
+                    },
+                    {
+                        "question": "How many moles of oxygen gas (O\u2082) are needed in the balanced equation for the combustion of propane?",
+                        "options": [
+                            "1) 3",
+                            "3) 5",
+                            "4) 10",
+                            "2) 4"
+                        ],
+                        "explanation": "In the balanced equation C\u2083H\u2088 + 5O\u2082 \u2192 3CO\u2082 + 4H\u2082O, it takes 5 moles of O\u2082 to fully combust one mole of propane.",
+                        "answer": "3) 5"
+                    },
+                    {
+                        "question": "Which principle allows us to balance chemical equations?",
+                        "options": [
+                            "2) Law of Conservation of Mass",
+                            "1) Law of Partial Pressures",
+                            "4) Charles\u2019s Law",
+                            "3) Law of Definite Proportions"
+                        ],
+                        "explanation": "The Law of Conservation of Mass states that matter cannot be created or destroyed, providing the basis for balancing equations since the total mass of reactants must equal the total mass of products.",
+                        "answer": "2) Law of Conservation of Mass"
+                    },
+                    {
+                        "question": "In the reaction 2H\u2082 + O\u2082 \u2192 2H\u2082O, how many atoms of oxygen are present on the left side?",
+                        "options": [
+                            "3) 2",
+                            "4) 3",
+                            "2) 4",
+                            "1) 1"
+                        ],
+                        "explanation": "In the reaction 2H\u2082 + O\u2082 \u2192 2H\u2082O, there is only 1 molecule of O\u2082 on the left side, which contains 2 oxygen atoms.",
+                        "answer": "3) 2"
+                    },
+                    {
+                        "question": "Why is the balancing of chemical equations critical in chemistry?",
+                        "options": [
+                            "1) It makes chemistry look more complicated",
+                            "2) To ensure the reactions follow the given scientific law",
+                            "4) It helps to memorize formulas",
+                            "3) To prepare for advanced reactions only"
+                        ],
+                        "explanation": "Balancing chemical equations is critical because it ensures that the amounts of reactants convert to products without any loss or gain in mass, adhering to the Law of Conservation of Mass.",
+                        "answer": "2) To ensure the reactions follow the given scientific law"
+                    }
+                ]
+            }
+        ],
+        "Social Studies": [
+            {
+                "quiz_grade": 60.0,
+                "wrong_answers": [
+                    1,
+                    4,
+                    7,
+                    8
+                ],
+                "attempt_number": 2,
+                "quiz": [
+                    {
+                        "question": "What did Plato establish in Athens that is considered one of the earliest institutions of higher learning?",
+                        "options": [
+                            "3) The Forum",
+                            "1) The Academy",
+                            "2) The Senate",
+                            "4) The Library"
+                        ],
+                        "explanation": "Plato founded the Academy in Athens, which is one of the first institutions of higher learning in the Western world.",
+                        "answer": "1) The Academy"
+                    },
+                    {
+                        "question": "What theory did Plato introduce that suggests the material world is just a shadow of a higher reality?",
+                        "options": [
+                            "3) Theory of Evolution",
+                            "4) Theory of Knowledge",
+                            "2) Theory of Forms",
+                            "1) Theory of Relativity"
+                        ],
+                        "explanation": "Plato's Theory of Forms posits that the material world is a reflection of an unchanging, higher reality.",
+                        "answer": "2) Theory of Forms"
+                    },
+                    {
+                        "question": "Which Roman text codified laws that made them accessible to the public for the first time?",
+                        "options": [
+                            "3) The Magna Carta",
+                            "2) The Justinian Code",
+                            "1) The Twelve Tables",
+                            "4) The Code of Hammurabi"
+                        ],
+                        "explanation": "The Twelve Tables were crucial for codifying laws in Rome and making them public, protecting citizens' rights.",
+                        "answer": "1) The Twelve Tables"
+                    },
+                    {
+                        "question": "What significant political transition occurred in Rome around 509 BC?",
+                        "options": [
+                            "1) Transition from Empire to Republic",
+                            "2) Establishment of the Monarchy",
+                            "3) Transition from Republic to Empire",
+                            "4) Establishment of Democracy"
+                        ],
+                        "explanation": "Around 509 BC, Rome transitioned from a monarchy to a republic, introducing elected officials and checks on power.",
+                        "answer": "1) Transition from Empire to Republic"
+                    },
+                    {
+                        "question": "Who was one of the key figures in Roman philosophy that emphasized natural law and moral duty?",
+                        "options": [
+                            "2) Cicero",
+                            "3) Socrates",
+                            "1) Aristotle",
+                            "4) Plato"
+                        ],
+                        "explanation": "Cicero emphasized the importance of natural law and moral duty, significantly influencing later thoughts on human rights.",
+                        "answer": "2) Cicero"
+                    },
+                    {
+                        "question": "In Aristotle's work 'Politics', what types of government does he analyze?",
+                        "options": [
+                            "1) Monarchies and Oligarchies",
+                            "3) Democracies and Republics",
+                            "2) Monarchies, Aristocracies, and Democracies",
+                            "4) Autocracies and Technocracies"
+                        ],
+                        "explanation": "Aristotle analyzed different types of government including monarchies, aristocracies, and democracies in his work 'Politics'.",
+                        "answer": "2) Monarchies, Aristocracies, and Democracies"
+                    },
+                    {
+                        "question": "What philosophical approach did Socrates emphasize through his method of questioning?",
+                        "options": [
+                            "3) Critical Thinking",
+                            "4) Absolute Certainty",
+                            "2) Rhetorical Deception",
+                            "1) Empirical Observation"
+                        ],
+                        "explanation": "Socrates used the Socratic Method to encourage critical thinking and dialogue, engaging others in philosophical discussions.",
+                        "answer": "3) Critical Thinking"
+                    },
+                    {
+                        "question": "What concept introduced by the Roman Republic influences modern democratic principles?",
+                        "options": [
+                            "3) Separation of Powers",
+                            "2) Absolute Monarchy",
+                            "4) Centralized Government",
+                            "1) Divine Right"
+                        ],
+                        "explanation": "The Roman Republic introduced checks and balances, showcasing the separation of powers, an essential concept in modern democracies.",
+                        "answer": "3) Separation of Powers"
+                    },
+                    {
+                        "question": "Which philosopher's works laid the foundations for discussions on ethics and governance?",
+                        "options": [
+                            "4) Aristotle",
+                            "3) Socrates",
+                            "2) Plato",
+                            "1) Cicero"
+                        ],
+                        "explanation": "Socrates is considered one of the founders of Western philosophy, laying the groundwork for discussions on ethics and governance.",
+                        "answer": "3) Socrates"
+                    },
+                    {
+                        "question": "What is one legacy of Roman law that still guides legal systems today?",
+                        "options": [
+                            "3) The Code of Hammurabi",
+                            "2) The Concept of Natural Law",
+                            "4) The Presumption of Guilt",
+                            "1) The Right to Bear Arms"
+                        ],
+                        "explanation": "Roman law introduced the principle of 'innocent until proven guilty,' which continues to be a fundamental aspect of legal systems today.",
+                        "answer": "2) The Concept of Natural Law"
+                    }
+                ]
+            },
+            {
+                "quiz_grade": 40.0,
+                "wrong_answers": [
+                    1,
+                    4,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "attempt_number": 3,
+                "quiz": [
+                    {
+                        "question": "What did Plato establish in Athens that is considered one of the earliest institutions of higher learning?",
+                        "options": [
+                            "3) The Forum",
+                            "1) The Academy",
+                            "2) The Senate",
+                            "4) The Library"
+                        ],
+                        "explanation": "Plato founded the Academy in Athens, which is one of the first institutions of higher learning in the Western world.",
+                        "answer": "1) The Academy"
+                    },
+                    {
+                        "question": "What theory did Plato introduce that suggests the material world is just a shadow of a higher reality?",
+                        "options": [
+                            "3) Theory of Evolution",
+                            "4) Theory of Knowledge",
+                            "2) Theory of Forms",
+                            "1) Theory of Relativity"
+                        ],
+                        "explanation": "Plato's Theory of Forms posits that the material world is a reflection of an unchanging, higher reality.",
+                        "answer": "2) Theory of Forms"
+                    },
+                    {
+                        "question": "Which Roman text codified laws that made them accessible to the public for the first time?",
+                        "options": [
+                            "3) The Magna Carta",
+                            "2) The Justinian Code",
+                            "1) The Twelve Tables",
+                            "4) The Code of Hammurabi"
+                        ],
+                        "explanation": "The Twelve Tables were crucial for codifying laws in Rome and making them public, protecting citizens' rights.",
+                        "answer": "1) The Twelve Tables"
+                    },
+                    {
+                        "question": "What significant political transition occurred in Rome around 509 BC?",
+                        "options": [
+                            "1) Transition from Empire to Republic",
+                            "2) Establishment of the Monarchy",
+                            "3) Transition from Republic to Empire",
+                            "4) Establishment of Democracy"
+                        ],
+                        "explanation": "Around 509 BC, Rome transitioned from a monarchy to a republic, introducing elected officials and checks on power.",
+                        "answer": "1) Transition from Empire to Republic"
+                    },
+                    {
+                        "question": "Who was one of the key figures in Roman philosophy that emphasized natural law and moral duty?",
+                        "options": [
+                            "2) Cicero",
+                            "3) Socrates",
+                            "1) Aristotle",
+                            "4) Plato"
+                        ],
+                        "explanation": "Cicero emphasized the importance of natural law and moral duty, significantly influencing later thoughts on human rights.",
+                        "answer": "2) Cicero"
+                    },
+                    {
+                        "question": "In Aristotle's work 'Politics', what types of government does he analyze?",
+                        "options": [
+                            "1) Monarchies and Oligarchies",
+                            "3) Democracies and Republics",
+                            "2) Monarchies, Aristocracies, and Democracies",
+                            "4) Autocracies and Technocracies"
+                        ],
+                        "explanation": "Aristotle analyzed different types of government including monarchies, aristocracies, and democracies in his work 'Politics'.",
+                        "answer": "2) Monarchies, Aristocracies, and Democracies"
+                    },
+                    {
+                        "question": "What philosophical approach did Socrates emphasize through his method of questioning?",
+                        "options": [
+                            "3) Critical Thinking",
+                            "4) Absolute Certainty",
+                            "2) Rhetorical Deception",
+                            "1) Empirical Observation"
+                        ],
+                        "explanation": "Socrates used the Socratic Method to encourage critical thinking and dialogue, engaging others in philosophical discussions.",
+                        "answer": "3) Critical Thinking"
+                    },
+                    {
+                        "question": "What concept introduced by the Roman Republic influences modern democratic principles?",
+                        "options": [
+                            "3) Separation of Powers",
+                            "2) Absolute Monarchy",
+                            "4) Centralized Government",
+                            "1) Divine Right"
+                        ],
+                        "explanation": "The Roman Republic introduced checks and balances, showcasing the separation of powers, an essential concept in modern democracies.",
+                        "answer": "3) Separation of Powers"
+                    },
+                    {
+                        "question": "Which philosopher's works laid the foundations for discussions on ethics and governance?",
+                        "options": [
+                            "4) Aristotle",
+                            "3) Socrates",
+                            "2) Plato",
+                            "1) Cicero"
+                        ],
+                        "explanation": "Socrates is considered one of the founders of Western philosophy, laying the groundwork for discussions on ethics and governance.",
+                        "answer": "3) Socrates"
+                    },
+                    {
+                        "question": "What is one legacy of Roman law that still guides legal systems today?",
+                        "options": [
+                            "3) The Code of Hammurabi",
+                            "2) The Concept of Natural Law",
+                            "4) The Presumption of Guilt",
+                            "1) The Right to Bear Arms"
+                        ],
+                        "explanation": "Roman law introduced the principle of 'innocent until proven guilty,' which continues to be a fundamental aspect of legal systems today.",
+                        "answer": "2) The Concept of Natural Law"
+                    }
+                ]
+            },
+            {
+                "quiz_grade": 70.0,
+                "wrong_answers": [
+                    6,
+                    7,
+                    8
+                ],
+                "attempt_number": 4,
+                "quiz": [
+                    {
+                        "question": "What did Plato establish in Athens that is considered one of the earliest institutions of higher learning?",
+                        "options": [
+                            "3) The Forum",
+                            "1) The Academy",
+                            "2) The Senate",
+                            "4) The Library"
+                        ],
+                        "explanation": "Plato founded the Academy in Athens, which is one of the first institutions of higher learning in the Western world.",
+                        "answer": "1) The Academy"
+                    },
+                    {
+                        "question": "What theory did Plato introduce that suggests the material world is just a shadow of a higher reality?",
+                        "options": [
+                            "3) Theory of Evolution",
+                            "4) Theory of Knowledge",
+                            "2) Theory of Forms",
+                            "1) Theory of Relativity"
+                        ],
+                        "explanation": "Plato's Theory of Forms posits that the material world is a reflection of an unchanging, higher reality.",
+                        "answer": "2) Theory of Forms"
+                    },
+                    {
+                        "question": "Which Roman text codified laws that made them accessible to the public for the first time?",
+                        "options": [
+                            "3) The Magna Carta",
+                            "2) The Justinian Code",
+                            "1) The Twelve Tables",
+                            "4) The Code of Hammurabi"
+                        ],
+                        "explanation": "The Twelve Tables were crucial for codifying laws in Rome and making them public, protecting citizens' rights.",
+                        "answer": "1) The Twelve Tables"
+                    },
+                    {
+                        "question": "What significant political transition occurred in Rome around 509 BC?",
+                        "options": [
+                            "1) Transition from Empire to Republic",
+                            "2) Establishment of the Monarchy",
+                            "3) Transition from Republic to Empire",
+                            "4) Establishment of Democracy"
+                        ],
+                        "explanation": "Around 509 BC, Rome transitioned from a monarchy to a republic, introducing elected officials and checks on power.",
+                        "answer": "1) Transition from Empire to Republic"
+                    },
+                    {
+                        "question": "Who was one of the key figures in Roman philosophy that emphasized natural law and moral duty?",
+                        "options": [
+                            "2) Cicero",
+                            "3) Socrates",
+                            "1) Aristotle",
+                            "4) Plato"
+                        ],
+                        "explanation": "Cicero emphasized the importance of natural law and moral duty, significantly influencing later thoughts on human rights.",
+                        "answer": "2) Cicero"
+                    },
+                    {
+                        "question": "In Aristotle's work 'Politics', what types of government does he analyze?",
+                        "options": [
+                            "1) Monarchies and Oligarchies",
+                            "3) Democracies and Republics",
+                            "2) Monarchies, Aristocracies, and Democracies",
+                            "4) Autocracies and Technocracies"
+                        ],
+                        "explanation": "Aristotle analyzed different types of government including monarchies, aristocracies, and democracies in his work 'Politics'.",
+                        "answer": "2) Monarchies, Aristocracies, and Democracies"
+                    },
+                    {
+                        "question": "What philosophical approach did Socrates emphasize through his method of questioning?",
+                        "options": [
+                            "3) Critical Thinking",
+                            "4) Absolute Certainty",
+                            "2) Rhetorical Deception",
+                            "1) Empirical Observation"
+                        ],
+                        "explanation": "Socrates used the Socratic Method to encourage critical thinking and dialogue, engaging others in philosophical discussions.",
+                        "answer": "3) Critical Thinking"
+                    },
+                    {
+                        "question": "What concept introduced by the Roman Republic influences modern democratic principles?",
+                        "options": [
+                            "3) Separation of Powers",
+                            "2) Absolute Monarchy",
+                            "4) Centralized Government",
+                            "1) Divine Right"
+                        ],
+                        "explanation": "The Roman Republic introduced checks and balances, showcasing the separation of powers, an essential concept in modern democracies.",
+                        "answer": "3) Separation of Powers"
+                    },
+                    {
+                        "question": "Which philosopher's works laid the foundations for discussions on ethics and governance?",
+                        "options": [
+                            "4) Aristotle",
+                            "3) Socrates",
+                            "2) Plato",
+                            "1) Cicero"
+                        ],
+                        "explanation": "Socrates is considered one of the founders of Western philosophy, laying the groundwork for discussions on ethics and governance.",
+                        "answer": "3) Socrates"
+                    },
+                    {
+                        "question": "What is one legacy of Roman law that still guides legal systems today?",
+                        "options": [
+                            "3) The Code of Hammurabi",
+                            "2) The Concept of Natural Law",
+                            "4) The Presumption of Guilt",
+                            "1) The Right to Bear Arms"
+                        ],
+                        "explanation": "Roman law introduced the principle of 'innocent until proven guilty,' which continues to be a fundamental aspect of legal systems today.",
+                        "answer": "2) The Concept of Natural Law"
+                    }
+                ]
+            }
+        ]
+    },
+    "Wednesday": {},
+    "Thursday": {},
+    "Friday": {}
+}

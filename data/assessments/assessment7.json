@@ -1,0 +1,352 @@
+[
+    {
+        "assesment_test_number": 1,
+        "subjects": [
+            {
+                "questionNumber": 1,
+                "question": "What is the value of x in the equation 3x + 5 = 20?",
+                "options": [
+                    "1) 5",
+                    "2) 2",
+                    "3) 15",
+                    "4) 10"
+                ],
+                "explanation": "To find x, subtract 5 from both sides to get 3x = 15. Then, divide each side by 3 to get x = 5.",
+                "answer": "1) 5",
+                "grade_level": "9",
+                "subject": "Mathematics",
+                "subject_topic": "Algebra"
+            }
+        ]
+    },
+    {
+        "assesment_test_number": 1,
+        "subjects": [
+            {
+                "questionNumber": 1,
+                "question": "In the sentence 'The cat sat on the mat,' what part of speech is the word 'sat'?",
+                "options": [
+                    "1) Noun",
+                    "2) Verb",
+                    "3) Adjective",
+                    "4) Adverb"
+                ],
+                "explanation": "The word 'sat' describes the action of the subject (the cat), which makes it a verb.",
+                "answer": "2) Verb",
+                "grade_level": "9",
+                "subject": "Language Arts",
+                "subject_topic": "Parts of Speech"
+            }
+        ]
+    },
+    {
+        "assesment_test_number": 1,
+        "subjects": [
+            {
+                "questionNumber": 1,
+                "question": "What is the main function of the mitochondria in a cell?",
+                "options": [
+                    "1) To produce energy",
+                    "2) To synthesize proteins",
+                    "3) To store genetic material",
+                    "4) To transport materials"
+                ],
+                "explanation": "The mitochondria are known as the powerhouses of the cell because they produce energy in the form of ATP through cellular respiration.",
+                "answer": "1) To produce energy",
+                "grade_level": "9",
+                "subject": "Science",
+                "subject_topic": "Cell Biology"
+            },
+            {
+                "questionNumber": 2,
+                "question": "Which of the following is a primary consumer in an ecosystem?",
+                "options": [
+                    "1) A deer",
+                    "2) A lion",
+                    "3) A plant",
+                    "4) A fungus"
+                ],
+                "explanation": "Primary consumers are organisms that eat producers (plants). In this case, a deer eats plants, making it a primary consumer.",
+                "answer": "1) A deer",
+                "grade_level": "9",
+                "subject": "Science",
+                "subject_topic": "Ecology"
+            },
+            {
+                "questionNumber": 3,
+                "question": "What type of bond is formed when two atoms share electrons?",
+                "options": [
+                    "1) Ionic bond",
+                    "2) Covalent bond",
+                    "3) Metallic bond",
+                    "4) Hydrogen bond"
+                ],
+                "explanation": "A covalent bond is formed when two atoms share electrons, allowing them to achieve stability through shared pairs.",
+                "answer": "2) Covalent bond",
+                "grade_level": "9",
+                "subject": "Science",
+                "subject_topic": "Chemistry"
+            },
+            {
+                "questionNumber": 4,
+                "question": "Which part of the brain is responsible for regulating balance and coordination?",
+                "options": [
+                    "1) Cerebrum",
+                    "2) Cerebellum",
+                    "3) Brainstem",
+                    "4) Hippocampus"
+                ],
+                "explanation": "The cerebellum is responsible for balance and coordination, playing a key role in motor control.",
+                "answer": "2) Cerebellum",
+                "grade_level": "9",
+                "subject": "Science",
+                "subject_topic": "Human Anatomy"
+            },
+            {
+                "questionNumber": 5,
+                "question": "What is the chemical formula for water?",
+                "options": [
+                    "1) CO2",
+                    "2) H2O",
+                    "3) O2",
+                    "4) H2O2"
+                ],
+                "explanation": "Water is composed of two hydrogen atoms and one oxygen atom, which is represented by the chemical formula H2O.",
+                "answer": "2) H2O",
+                "grade_level": "9",
+                "subject": "Science",
+                "subject_topic": "Chemistry"
+            },
+            {
+                "questionNumber": 6,
+                "question": "Which of the following is NOT a function of the skeletal system?",
+                "options": [
+                    "1) Protecting internal organs",
+                    "2) Producing blood cells",
+                    "3) Storing calcium",
+                    "4) Producing hormones"
+                ],
+                "explanation": "The skeletal system does not produce hormones; that function is mainly associated with the endocrine system.",
+                "answer": "4) Producing hormones",
+                "grade_level": "9",
+                "subject": "Science",
+                "subject_topic": "Human Anatomy"
+            },
+            {
+                "questionNumber": 7,
+                "question": "In which type of rock are fossils most commonly found?",
+                "options": [
+                    "1) Igneous rock",
+                    "2) Metamorphic rock",
+                    "3) Sedimentary rock",
+                    "4) Volcanic rock"
+                ],
+                "explanation": "Fossils are most commonly found in sedimentary rock because it forms from the accumulation of sediment and can preserve organisms.",
+                "answer": "3) Sedimentary rock",
+                "grade_level": "9",
+                "subject": "Science",
+                "subject_topic": "Geology"
+            },
+            {
+                "questionNumber": 8,
+                "question": "What is the main source of energy for the Earth?",
+                "options": [
+                    "1) Geothermal energy",
+                    "2) Wind energy",
+                    "3) Solar energy",
+                    "4) Nuclear energy"
+                ],
+                "explanation": "The main source of energy for Earth is solar energy, which drives weather, photosynthesis, and the climate.",
+                "answer": "3) Solar energy",
+                "grade_level": "9",
+                "subject": "Science",
+                "subject_topic": "Earth Science"
+            },
+            {
+                "questionNumber": 9,
+                "question": "Which particle in an atom has a positive charge?",
+                "options": [
+                    "1) Neutron",
+                    "2) Electron",
+                    "3) Proton",
+                    "4) Nucleus"
+                ],
+                "explanation": "Protons are positively charged particles found in the nucleus of an atom, while neutrons are neutral and electrons have a negative charge.",
+                "answer": "3) Proton",
+                "grade_level": "9",
+                "subject": "Science",
+                "subject_topic": "Atomic Structure"
+            },
+            {
+                "questionNumber": 10,
+                "question": "Which process describes the change of a liquid to a gas?",
+                "options": [
+                    "1) Vaporization",
+                    "2) Condensation",
+                    "3) Sublimation",
+                    "4) Freezing"
+                ],
+                "explanation": "Vaporization is the process by which a liquid changes to a gas, typically through evaporation or boiling.",
+                "answer": "1) Vaporization",
+                "grade_level": "9",
+                "subject": "Science",
+                "subject_topic": "States of Matter"
+            }
+        ]
+    },
+    {
+        "assesment_test_number": 1,
+        "subjects": [
+            {
+                "questionNumber": 1,
+                "question": "What was the primary cause of the American Civil War?",
+                "options": [
+                    "1) Slavery",
+                    "2) Taxation",
+                    "3) Trade Disputes",
+                    "4) Territorial Expansion"
+                ],
+                "explanation": "The primary cause of the American Civil War was slavery, as tensions grew between the Northern and Southern states over the issue.",
+                "answer": "1) Slavery",
+                "grade_level": "9",
+                "subject": "Social Studies",
+                "subject_topic": "American History"
+            },
+            {
+                "questionNumber": 2,
+                "question": "Which document declared the independence of the 13 American colonies from British rule?",
+                "options": [
+                    "1) The Declaration of Independence",
+                    "2) The Constitution",
+                    "3) The Bill of Rights",
+                    "4) The Articles of Confederation"
+                ],
+                "explanation": "The Declaration of Independence, adopted on July 4, 1776, declared the colonies' independence from British rule.",
+                "answer": "1) The Declaration of Independence",
+                "grade_level": "9",
+                "subject": "Social Studies",
+                "subject_topic": "American History"
+            },
+            {
+                "questionNumber": 3,
+                "question": "What was the main purpose of the United Nations when it was established?",
+                "options": [
+                    "1) To promote peace and security",
+                    "2) To regulate international trade",
+                    "3) To settle territorial disputes",
+                    "4) To unite the world's religions"
+                ],
+                "explanation": "The United Nations was established primarily to promote peace and security among nations following World War II.",
+                "answer": "1) To promote peace and security",
+                "grade_level": "9",
+                "subject": "Social Studies",
+                "subject_topic": "Global Studies"
+            },
+            {
+                "questionNumber": 4,
+                "question": "What is the significance of the Magna Carta?",
+                "options": [
+                    "1) It limited the power of the monarchy.",
+                    "2) It established the English Parliament.",
+                    "3) It ended the Hundred Years' War.",
+                    "4) It started the English Civil War."
+                ],
+                "explanation": "The Magna Carta, signed in 1215, is significant because it limited the power of the monarchy and established the principle that everyone is subject to the law.",
+                "answer": "1) It limited the power of the monarchy.",
+                "grade_level": "9",
+                "subject": "Social Studies",
+                "subject_topic": "European History"
+            },
+            {
+                "questionNumber": 5,
+                "question": "Which event marked the beginning of the French Revolution?",
+                "options": [
+                    "1) The Storming of the Bastille",
+                    "2) The execution of Louis XVI",
+                    "3) The Reign of Terror",
+                    "4) The signing of the Treaty of Paris"
+                ],
+                "explanation": "The Storming of the Bastille on July 14, 1789, is often considered the event that marked the beginning of the French Revolution.",
+                "answer": "1) The Storming of the Bastille",
+                "grade_level": "9",
+                "subject": "Social Studies",
+                "subject_topic": "World History"
+            },
+            {
+                "questionNumber": 6,
+                "question": "What was one major consequence of the Industrial Revolution?",
+                "options": [
+                    "1) Urbanization",
+                    "2) Decrease in child labor",
+                    "3) Increase in agricultural jobs",
+                    "4) Rise of feudalism"
+                ],
+                "explanation": "One major consequence of the Industrial Revolution was urbanization, as people moved from rural areas to cities to work in factories.",
+                "answer": "1) Urbanization",
+                "grade_level": "9",
+                "subject": "Social Studies",
+                "subject_topic": "Economic History"
+            },
+            {
+                "questionNumber": 7,
+                "question": "Who was the first President of the United States?",
+                "options": [
+                    "1) George Washington",
+                    "2) Thomas Jefferson",
+                    "3) Abraham Lincoln",
+                    "4) John Adams"
+                ],
+                "explanation": "George Washington was the first President of the United States, serving from 1789 to 1797.",
+                "answer": "1) George Washington",
+                "grade_level": "9",
+                "subject": "Social Studies",
+                "subject_topic": "American Government"
+            },
+            {
+                "questionNumber": 8,
+                "question": "Which continent was particularly affected by European colonization in the 19th century?",
+                "options": [
+                    "1) Africa",
+                    "2) Asia",
+                    "3) Australia",
+                    "4) Antarctica"
+                ],
+                "explanation": "Africa was particularly affected by European colonization in the 19th century, leading to significant political and social changes.",
+                "answer": "1) Africa",
+                "grade_level": "9",
+                "subject": "Social Studies",
+                "subject_topic": "Colonial History"
+            },
+            {
+                "questionNumber": 9,
+                "question": "What was the primary goal of the Civil Rights Movement in the 1960s?",
+                "options": [
+                    "1) To end racial segregation and discrimination against African Americans",
+                    "2) To promote women\u2019s suffrage",
+                    "3) To reduce economic inequality",
+                    "4) To attain voting rights for all citizens"
+                ],
+                "explanation": "The primary goal of the Civil Rights Movement in the 1960s was to end racial segregation and discrimination against African Americans.",
+                "answer": "1) To end racial segregation and discrimination against African Americans",
+                "grade_level": "9",
+                "subject": "Social Studies",
+                "subject_topic": "Modern American History"
+            },
+            {
+                "questionNumber": 10,
+                "question": "What was a key reason for the Cold War between the United States and the Soviet Union?",
+                "options": [
+                    "1) Ideological differences",
+                    "2) Trade rivalry",
+                    "3) Colonial disputes",
+                    "4) Religious conflicts"
+                ],
+                "explanation": "A key reason for the Cold War was the ideological differences between the capitalist United States and the communist Soviet Union.",
+                "answer": "1) Ideological differences",
+                "grade_level": "9",
+                "subject": "Social Studies",
+                "subject_topic": "Contemporary History"
+            }
+        ]
+    }
+]

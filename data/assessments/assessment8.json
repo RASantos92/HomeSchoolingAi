@@ -1,0 +1,622 @@
+[
+    {
+        "assesment_test_number": 1,
+        "subjects": [
+            {
+                "questionNumber": 1,
+                "question": "What is the value of x in the equation 2x + 3 = 11?",
+                "options": [
+                    "1) 1",
+                    "2) 4",
+                    "3) 7",
+                    "4) 3"
+                ],
+                "explanation": "To solve for x, first subtract 3 from both sides to get 2x = 8. Then, divide both sides by 2 to find x = 4.",
+                "answer": "2) 4",
+                "grade_level": "9",
+                "subject": "Mathematics",
+                "subject_topic": "Algebra"
+            },
+            {
+                "questionNumber": 2,
+                "question": "Which of the following is the solution to the inequality 3x - 5 < 1?",
+                "options": [
+                    "1) x < 2",
+                    "2) x > 2",
+                    "3) x < 1",
+                    "4) x > 1"
+                ],
+                "explanation": "To solve the inequality, add 5 to both sides to get 3x < 6, then divide by 3 to find x < 2.",
+                "answer": "1) x < 2",
+                "grade_level": "9",
+                "subject": "Mathematics",
+                "subject_topic": "Inequalities"
+            },
+            {
+                "questionNumber": 3,
+                "question": "What is the area of a triangle with a base of 10 cm and a height of 5 cm?",
+                "options": [
+                    "1) 25 cm\u00b2",
+                    "2) 50 cm\u00b2",
+                    "3) 15 cm\u00b2",
+                    "4) 20 cm\u00b2"
+                ],
+                "explanation": "The area of a triangle is calculated by the formula: Area = 1/2 * base * height. Here, Area = 1/2 * 10 * 5 = 25 cm\u00b2.",
+                "answer": "1) 25 cm\u00b2",
+                "grade_level": "9",
+                "subject": "Mathematics",
+                "subject_topic": "Geometry"
+            },
+            {
+                "questionNumber": 4,
+                "question": "If the probability of an event occurring is 0.2, what is the probability of it not occurring?",
+                "options": [
+                    "1) 0.2",
+                    "2) 0.5",
+                    "3) 0.8",
+                    "4) 0.4"
+                ],
+                "explanation": "The probability of the event not occurring is given by 1 - P(event). Therefore, the probability of it not occurring = 1 - 0.2 = 0.8.",
+                "answer": "3) 0.8",
+                "grade_level": "9",
+                "subject": "Mathematics",
+                "subject_topic": "Probability"
+            },
+            {
+                "questionNumber": 5,
+                "question": "What is the slope of a line represented by the equation y = 3x + 2?",
+                "options": [
+                    "1) 2",
+                    "2) 0",
+                    "3) 3",
+                    "4) -3"
+                ],
+                "explanation": "In the slope-intercept form of a linear equation, y = mx + b, m represents the slope. Here, m = 3.",
+                "answer": "3) 3",
+                "grade_level": "9",
+                "subject": "Mathematics",
+                "subject_topic": "Linear Equations"
+            },
+            {
+                "questionNumber": 6,
+                "question": "Solve for y in the equation 4y - 12 = 8.",
+                "options": [
+                    "1) 5",
+                    "2) 6",
+                    "3) 4",
+                    "4) 2"
+                ],
+                "explanation": "Add 12 to both sides of the equation to get 4y = 20. Then, divide both sides by 4 to obtain y = 5.",
+                "answer": "1) 5",
+                "grade_level": "9",
+                "subject": "Mathematics",
+                "subject_topic": "Algebra"
+            },
+            {
+                "questionNumber": 7,
+                "question": "What is 15% of 200?",
+                "options": [
+                    "1) 30",
+                    "2) 25",
+                    "3) 20",
+                    "4) 15"
+                ],
+                "explanation": "To find 15% of 200, multiply 200 by 0.15 (15/100), which gives you 30.",
+                "answer": "1) 30",
+                "grade_level": "9",
+                "subject": "Mathematics",
+                "subject_topic": "Percentage"
+            },
+            {
+                "questionNumber": 8,
+                "question": "If the circumference of a circle is 31.4 cm, what is the radius? (Use \u03c0 = 3.14)",
+                "options": [
+                    "1) 5 cm",
+                    "2) 10 cm",
+                    "3) 15 cm",
+                    "4) 20 cm"
+                ],
+                "explanation": "The formula for circumference is C = 2\u03c0r. To find r, we can rearrange the formula to r = C / (2\u03c0). So, r = 31.4 / (2 * 3.14) = 5 cm.",
+                "answer": "1) 5 cm",
+                "grade_level": "9",
+                "subject": "Mathematics",
+                "subject_topic": "Geometry"
+            },
+            {
+                "questionNumber": 9,
+                "question": "What is the result of the expression 5^2 + 4^2?",
+                "options": [
+                    "1) 41",
+                    "2) 25",
+                    "3) 16",
+                    "4) 29"
+                ],
+                "explanation": "Calculate each square: 5^2 = 25 and 4^2 = 16. Then, add them together: 25 + 16 = 41.",
+                "answer": "1) 41",
+                "grade_level": "9",
+                "subject": "Mathematics",
+                "subject_topic": "Exponents"
+            },
+            {
+                "questionNumber": 10,
+                "question": "What is the value of x in the system of equations: 2x + 3y = 12 and x - y = 2?",
+                "options": [
+                    "1) 4",
+                    "2) 3",
+                    "3) 2",
+                    "4) 5"
+                ],
+                "explanation": "Using substitution or elimination method, you can find x = 4 after solving the system of equations.",
+                "answer": "1) 4",
+                "grade_level": "9",
+                "subject": "Mathematics",
+                "subject_topic": "Systems of Equations"
+            }
+        ]
+    },
+    {
+        "assesment_test_number": 1,
+        "subjects": [
+            {
+                "questionNumber": 1,
+                "question": "Which of the following best defines a metaphor?",
+                "options": [
+                    "1) A comparison using 'like' or 'as'",
+                    "2) A direct comparison between two unrelated things",
+                    "3) A repetition of consonant sounds",
+                    "4) A figure of speech that exaggerates events"
+                ],
+                "explanation": "A metaphor is a figure of speech that compares two different things by stating that one thing is another, thus highlighting similarities without using 'like' or 'as'.",
+                "answer": "2) A direct comparison between two unrelated things",
+                "grade_level": "9",
+                "subject": "Language Arts",
+                "subject_topic": "Figurative Language"
+            },
+            {
+                "questionNumber": 2,
+                "question": "What is the main purpose of a thesis statement in an essay?",
+                "options": [
+                    "1) To summarize the entire essay",
+                    "2) To introduce the subject of the essay",
+                    "3) To provide a clear argument or claim",
+                    "4) To reference sources used in the essay"
+                ],
+                "explanation": "A thesis statement serves as the focal point of an essay, outlining the author's stance or argument, thereby guiding the development of the essay.",
+                "answer": "3) To provide a clear argument or claim",
+                "grade_level": "9",
+                "subject": "Language Arts",
+                "subject_topic": "Essay Structure"
+            },
+            {
+                "questionNumber": 3,
+                "question": "Which sentence demonstrates correct subject-verb agreement?",
+                "options": [
+                    "1) The team are ready to play.",
+                    "2) The dogs runs in the park.",
+                    "3) The list of items are on the table.",
+                    "4) The cat naps on the couch."
+                ],
+                "explanation": "In sentence 4, 'The cat naps on the couch,' the singular subject 'cat' correctly matches with the singular verb 'naps'.",
+                "answer": "4) The cat naps on the couch.",
+                "grade_level": "9",
+                "subject": "Language Arts",
+                "subject_topic": "Grammar"
+            },
+            {
+                "questionNumber": 4,
+                "question": "What literary device is primarily used in the following sentence? 'The wind whispered through the trees.'",
+                "options": [
+                    "1) Alliteration",
+                    "2) Personification",
+                    "3) Simile",
+                    "4) Hyperbole"
+                ],
+                "explanation": "The sentence uses personification, as it gives human traits (whispering) to the non-human subject (wind).",
+                "answer": "2) Personification",
+                "grade_level": "9",
+                "subject": "Language Arts",
+                "subject_topic": "Figurative Language"
+            },
+            {
+                "questionNumber": 5,
+                "question": "Which of the following is an example of an inference?",
+                "options": [
+                    "1) The sky is cloudy, so it might rain.",
+                    "2) It is raining heavily outside.",
+                    "3) The sun is shining brightly today.",
+                    "4) He is eating his lunch."
+                ],
+                "explanation": "An inference is a conclusion based on evidence or reasoning. In option 1, the cloudy sky leads to the deduction that rain may occur.",
+                "answer": "1) The sky is cloudy, so it might rain.",
+                "grade_level": "9",
+                "subject": "Language Arts",
+                "subject_topic": "Reading Comprehension"
+            },
+            {
+                "questionNumber": 6,
+                "question": "What is the effect of using dialogue in a story?",
+                "options": [
+                    "1) To summarize the plot",
+                    "2) To develop characters and advance the plot",
+                    "3) To provide background information",
+                    "4) To describe settings in detail"
+                ],
+                "explanation": "Dialogue is used in narratives to show character interactions, reveal their personalities, and propel the story forward, making it engaging.",
+                "answer": "2) To develop characters and advance the plot",
+                "grade_level": "9",
+                "subject": "Language Arts",
+                "subject_topic": "Literary Devices"
+            },
+            {
+                "questionNumber": 7,
+                "question": "Identify the main theme of a story. What does it typically represent?",
+                "options": [
+                    "1) The setting of the story",
+                    "2) The lesson or moral of the story",
+                    "3) The character's perspective",
+                    "4) The story's plot twists"
+                ],
+                "explanation": "The theme of a story conveys its central idea, message, or moral lesson often applicable beyond just the narrative.",
+                "answer": "2) The lesson or moral of the story",
+                "grade_level": "9",
+                "subject": "Language Arts",
+                "subject_topic": "Literary Themes"
+            },
+            {
+                "questionNumber": 8,
+                "question": "Which punctuation mark is correctly used in this sentence? 'She said she was tired__ she needed a nap.'",
+                "options": [
+                    "1) , (comma)",
+                    "2) ; (semicolon)",
+                    "3) . (period)",
+                    "4) : (colon)"
+                ],
+                "explanation": "A semicolon connects closely related independent clauses and is appropriate here to link the two complete thoughts effectively.",
+                "answer": "2) ; (semicolon)",
+                "grade_level": "9",
+                "subject": "Language Arts",
+                "subject_topic": "Punctuation"
+            },
+            {
+                "questionNumber": 9,
+                "question": "What does it mean to analyze a text?",
+                "options": [
+                    "1) To enjoy the text as entertainment",
+                    "2) To summarize the text in your own words",
+                    "3) To examine and interpret its elements in depth",
+                    "4) To memorize the key details of the text"
+                ],
+                "explanation": "Analyzing a text involves breaking it down and examining its components, themes, structure, and meaning beyond surface level.",
+                "answer": "3) To examine and interpret its elements in depth",
+                "grade_level": "9",
+                "subject": "Language Arts",
+                "subject_topic": "Literary Analysis"
+            },
+            {
+                "questionNumber": 10,
+                "question": "In poetry, what does meter refer to?",
+                "options": [
+                    "1) The rhyme scheme used in the poem",
+                    "2) The emotional tone of the poem",
+                    "3) The rhythmic structure of a line of verse",
+                    "4) The type of imagery used"
+                ],
+                "explanation": "Meter refers to the structured rhythm of a poem, determined by the pattern of stressed and unstressed syllables in each line.",
+                "answer": "3) The rhythmic structure of a line of verse",
+                "grade_level": "9",
+                "subject": "Language Arts",
+                "subject_topic": "Poetry"
+            }
+        ]
+    },
+    {
+        "assesment_test_number": 1,
+        "subjects": [
+            {
+                "questionNumber": 1,
+                "question": "What is the process by which plants make their own food using sunlight called?",
+                "options": [
+                    "1) Photosynthesis",
+                    "2) Respiration",
+                    "3) Fermentation",
+                    "4) Transpiration"
+                ],
+                "explanation": "Photosynthesis is the process where green plants use sunlight to synthesize food from carbon dioxide and water. It is essential for the survival of most life on Earth since it is the foundation of the food chain.",
+                "answer": "1) Photosynthesis",
+                "grade_level": "9",
+                "subject": "Science",
+                "subject_topic": "Biology"
+            },
+            {
+                "questionNumber": 2,
+                "question": "What is the powerhouse of the cell?",
+                "options": [
+                    "1) Nucleus",
+                    "2) Mitochondria",
+                    "3) Ribosomes",
+                    "4) Endoplasmic Reticulum"
+                ],
+                "explanation": "The mitochondria are known as the powerhouse of the cell because they produce ATP, the energy currency of the cell, through cellular respiration.",
+                "answer": "2) Mitochondria",
+                "grade_level": "9",
+                "subject": "Science",
+                "subject_topic": "Cell Biology"
+            },
+            {
+                "questionNumber": 3,
+                "question": "Which of the following is a chemical change?",
+                "options": [
+                    "1) Ice melting",
+                    "2) Wood burning",
+                    "3) Water boiling",
+                    "4) Sugar dissolving"
+                ],
+                "explanation": "Wood burning is a chemical change because it results in the formation of new substances (ash, smoke, etc.) and cannot be reversed easily, unlike physical changes.",
+                "answer": "2) Wood burning",
+                "grade_level": "9",
+                "subject": "Science",
+                "subject_topic": "Chemistry"
+            },
+            {
+                "questionNumber": 4,
+                "question": "What is the main gas responsible for global warming?",
+                "options": [
+                    "1) Oxygen",
+                    "2) Carbon Dioxide",
+                    "3) Nitrogen",
+                    "4) Methane"
+                ],
+                "explanation": "Carbon Dioxide (CO2) is the main greenhouse gas contributing to global warming due to human activities like burning fossil fuels which increases its concentration in the atmosphere.",
+                "answer": "2) Carbon Dioxide",
+                "grade_level": "9",
+                "subject": "Science",
+                "subject_topic": "Environmental Science"
+            },
+            {
+                "questionNumber": 5,
+                "question": "What is Newton's second law of motion?",
+                "options": [
+                    "1) For every action, there is an equal and opposite reaction.",
+                    "2) An object in motion stays in motion unless acted upon by an external force.",
+                    "3) Force equals mass times acceleration (F=ma).",
+                    "4) Energy cannot be created or destroyed."
+                ],
+                "explanation": "Newton's second law states that the force acting on an object is equal to the mass of that object times its acceleration (F=ma). It describes how the velocity of an object changes when it is subjected to an external force.",
+                "answer": "3) Force equals mass times acceleration (F=ma).",
+                "grade_level": "9",
+                "subject": "Science",
+                "subject_topic": "Physics"
+            },
+            {
+                "questionNumber": 6,
+                "question": "What is the primary function of red blood cells?",
+                "options": [
+                    "1) To fight infection",
+                    "2) To carry oxygen",
+                    "3) To transport nutrients",
+                    "4) To clot blood"
+                ],
+                "explanation": "The primary function of red blood cells is to carry oxygen from the lungs to the rest of the body and return carbon dioxide from the body to the lungs.",
+                "answer": "2) To carry oxygen",
+                "grade_level": "9",
+                "subject": "Science",
+                "subject_topic": "Human Biology"
+            },
+            {
+                "questionNumber": 7,
+                "question": "Which part of the atom has a positive charge?",
+                "options": [
+                    "1) Electron",
+                    "2) Neutron",
+                    "3) Proton",
+                    "4) Nucleus"
+                ],
+                "explanation": "Protons are positively charged particles found in the nucleus of an atom. They determine the atomic number and the element's identity.",
+                "answer": "3) Proton",
+                "grade_level": "9",
+                "subject": "Science",
+                "subject_topic": "Chemistry"
+            },
+            {
+                "questionNumber": 8,
+                "question": "What is the importance of the water cycle?",
+                "options": [
+                    "1) It provides food for organisms.",
+                    "2) It helps regulate the Earth's temperature.",
+                    "3) It maintains atmospheric pressure.",
+                    "4) It ensures the circulation of nutrients."
+                ],
+                "explanation": "The water cycle is critical for regulating the Earth's climate and temperature by redistributing heat and moisture, which in turn supports ecosystems and human life.",
+                "answer": "2) It helps regulate the Earth's temperature.",
+                "grade_level": "9",
+                "subject": "Science",
+                "subject_topic": "Earth Science"
+            },
+            {
+                "questionNumber": 9,
+                "question": "Which organ is primarily responsible for filtering blood?",
+                "options": [
+                    "1) Heart",
+                    "2) Liver",
+                    "3) Kidney",
+                    "4) Lungs"
+                ],
+                "explanation": "The kidneys filter waste products from the blood, balancing electrolytes and regulating blood pressure, making them vital to the excretory system.",
+                "answer": "3) Kidney",
+                "grade_level": "9",
+                "subject": "Science",
+                "subject_topic": "Human Biology"
+            },
+            {
+                "questionNumber": 10,
+                "question": "What type of simple machine is a lever?",
+                "options": [
+                    "1) Pulley",
+                    "2) Inclined Plane",
+                    "3) Wheel and Axle",
+                    "4) Class of its own"
+                ],
+                "explanation": "A lever is a simple machine that consists of a rigid bar that pivots around a fixed point called the fulcrum. It is used to lift or move loads with less effort.",
+                "answer": "4) Class of its own",
+                "grade_level": "9",
+                "subject": "Science",
+                "subject_topic": "Physics"
+            }
+        ]
+    },
+    {
+        "assesment_test_number": 1,
+        "subjects": [
+            {
+                "questionNumber": 1,
+                "question": "What was the main cause of the American Civil War?",
+                "options": [
+                    "1) Slavery",
+                    "2) Economic differences",
+                    "3) States rights",
+                    "4) All of the above"
+                ],
+                "explanation": "The American Civil War was caused by a combination of factors, but the issue of slavery was the most significant, along with economic differences and states' rights.",
+                "answer": "4) All of the above",
+                "grade_level": "9",
+                "subject": "Social Studies",
+                "subject_topic": "American History"
+            },
+            {
+                "questionNumber": 2,
+                "question": "Which document declared the independence of the United States from Britain?",
+                "options": [
+                    "1) The Constitution",
+                    "2) The Bill of Rights",
+                    "3) The Declaration of Independence",
+                    "4) The Articles of Confederation"
+                ],
+                "explanation": "The Declaration of Independence, adopted in 1776, formally declared the 13 colonies' freedom from British rule.",
+                "answer": "3) The Declaration of Independence",
+                "grade_level": "9",
+                "subject": "Social Studies",
+                "subject_topic": "American History"
+            },
+            {
+                "questionNumber": 3,
+                "question": "Who was the first President of the United States?",
+                "options": [
+                    "1) George Washington",
+                    "2) Thomas Jefferson",
+                    "3) Abraham Lincoln",
+                    "4) John Adams"
+                ],
+                "explanation": "George Washington was unanimously elected as the first President of the United States in 1789.",
+                "answer": "1) George Washington",
+                "grade_level": "9",
+                "subject": "Social Studies",
+                "subject_topic": "American Government"
+            },
+            {
+                "questionNumber": 4,
+                "question": "Which global event was primarily caused by the assassination of Archduke Franz Ferdinand?",
+                "options": [
+                    "1) World War I",
+                    "2) World War II",
+                    "3) The Cold War",
+                    "4) The Great Depression"
+                ],
+                "explanation": "The assassination of Archduke Franz Ferdinand in 1914 triggered the outbreak of World War I due to existing alliances and tensions between nations.",
+                "answer": "1) World War I",
+                "grade_level": "9",
+                "subject": "Social Studies",
+                "subject_topic": "World History"
+            },
+            {
+                "questionNumber": 5,
+                "question": "What was one outcome of the Treaty of Versailles?",
+                "options": [
+                    "1) It ended the Cold War",
+                    "2) It started World War II",
+                    "3) It established the League of Nations",
+                    "4) It divided Germany into East and West"
+                ],
+                "explanation": "The Treaty of Versailles, which ended World War I, established the League of Nations as an international organization to promote peace.",
+                "answer": "3) It established the League of Nations",
+                "grade_level": "9",
+                "subject": "Social Studies",
+                "subject_topic": "World History"
+            },
+            {
+                "questionNumber": 6,
+                "question": "Which economic system is characterized by private ownership and the free market?",
+                "options": [
+                    "1) Socialism",
+                    "2) Communism",
+                    "3) Capitalism",
+                    "4) Feudalism"
+                ],
+                "explanation": "Capitalism is an economic system where the means of production are privately owned and operated for profit in a competitive market.",
+                "answer": "3) Capitalism",
+                "grade_level": "9",
+                "subject": "Social Studies",
+                "subject_topic": "Economics"
+            },
+            {
+                "questionNumber": 7,
+                "question": "What was the main effect of the Persian Gulf War?",
+                "options": [
+                    "1) The spread of democracy in Iraq",
+                    "2) The liberation of Kuwait",
+                    "3) Increased oil prices",
+                    "4) The fall of Saddam Hussein"
+                ],
+                "explanation": "The main effect of the Persian Gulf War in 1991 was the liberation of Kuwait from Iraqi occupation.",
+                "answer": "2) The liberation of Kuwait",
+                "grade_level": "9",
+                "subject": "Social Studies",
+                "subject_topic": "Modern History"
+            },
+            {
+                "questionNumber": 8,
+                "question": "Which amendment granted women the right to vote in the United States?",
+                "options": [
+                    "1) 15th Amendment",
+                    "2) 19th Amendment",
+                    "3) 24th Amendment",
+                    "4) 26th Amendment"
+                ],
+                "explanation": "The 19th Amendment, ratified in 1920, granted women the right to vote in the United States.",
+                "answer": "2) 19th Amendment",
+                "grade_level": "9",
+                "subject": "Social Studies",
+                "subject_topic": "American Government"
+            },
+            {
+                "questionNumber": 9,
+                "question": "Which civilization is known for its pyramids and pharaohs?",
+                "options": [
+                    "1) Mesopotamia",
+                    "2) Ancient Greece",
+                    "3) Ancient Egypt",
+                    "4) The Roman Empire"
+                ],
+                "explanation": "Ancient Egypt is known for its impressive pyramids and a pharaoh-based system of governance.",
+                "answer": "3) Ancient Egypt",
+                "grade_level": "9",
+                "subject": "Social Studies",
+                "subject_topic": "World History"
+            },
+            {
+                "questionNumber": 10,
+                "question": "What economic philosophy advocates for the government to control major industries?",
+                "options": [
+                    "1) Laissez-faire",
+                    "2) Capitalism",
+                    "3) Socialism",
+                    "4) Mercantilism"
+                ],
+                "explanation": "Socialism advocates for government control of major industries and wealth distribution to reduce inequality.",
+                "answer": "3) Socialism",
+                "grade_level": "9",
+                "subject": "Social Studies",
+                "subject_topic": "Economics"
+            }
+        ]
+    }
+]

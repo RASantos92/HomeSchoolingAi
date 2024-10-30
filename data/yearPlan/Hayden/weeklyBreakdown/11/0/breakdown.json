@@ -1,0 +1,387 @@
+[
+    {
+        "days": [
+            {
+                "day_name": "Monday",
+                "subjects": [
+                    {
+                        "subject_name": "Language Arts",
+                        "subject_topic": "Creative Writing",
+                        "subject_daily_intro": "Today, we'll dive into the exciting world of creative writing! We'll explore how to express your thoughts and feelings through storytelling. Since it's Monday, let's open our minds to creativity without referencing any previous lessons.",
+                        "subject_daily_sub_topics": [
+                            "Elements of a story",
+                            "Character creation",
+                            "Setting development"
+                        ],
+                        "subject_topic_daily_summary": "In creative writing, you will learn how to build engaging stories by focusing on elements like characters, setting, and plot structure."
+                    },
+                    {
+                        "subject_name": "Mathematics",
+                        "subject_topic": "Integers and Absolute Value",
+                        "subject_daily_intro": "In today's math lesson, we will explore integers, which are whole numbers that can be positive, negative or zero, and learn about absolute value, which represents the distance from zero on a number line.",
+                        "subject_daily_sub_topics": [
+                            "Number line representation",
+                            "Comparing integers",
+                            "Applications of absolute value"
+                        ],
+                        "subject_topic_daily_summary": "You will understand how to identify integers, calculate absolute values, and use them in real-world scenarios."
+                    },
+                    {
+                        "subject_name": "Language Arts Advanced",
+                        "subject_topic": "Character Analysis",
+                        "subject_daily_intro": "Today in Language Arts Advanced, we'll begin our journey into understanding characters in literature. We will learn how to analyze characters' motivations, actions, and relationships.",
+                        "subject_daily_sub_topics": [
+                            "Character traits",
+                            "Round vs. flat characters",
+                            "Dynamic vs. static characters"
+                        ],
+                        "subject_topic_daily_summary": "Character analysis helps you delve deeper into the actions and motivations of characters in stories, enhancing your reading comprehension."
+                    },
+                    {
+                        "subject_name": "Mathematics Advanced",
+                        "subject_topic": "Solving One-Step Equations",
+                        "subject_daily_intro": "In today's advanced math class, we'll learn how to solve one-step equations. This means finding the value of a variable using simple mathematical operations.",
+                        "subject_daily_sub_topics": [
+                            "Addition and subtraction to isolate variables",
+                            "Multiplication and division equations"
+                        ],
+                        "subject_topic_daily_summary": "You will be able to solve basic algebraic equations, laying the groundwork for more complex mathematical challenges."
+                    },
+                    {
+                        "subject_name": "Science",
+                        "subject_topic": "Chemical Reactions",
+                        "subject_daily_intro": "Welcome to today's science adventure! We will discover the basics of chemical reactions, focusing on the changes substances undergo when they react with one another.",
+                        "subject_daily_sub_topics": [
+                            "Reactants and products",
+                            "Balanced equations",
+                            "Types of chemical reactions"
+                        ],
+                        "subject_topic_daily_summary": "You will gain insight into how chemical reactions occur, learn to identify reactants and products, and explore different types of reactions."
+                    },
+                    {
+                        "subject_name": "Social Studies",
+                        "subject_topic": "Ancient Greece and Rome",
+                        "subject_daily_intro": "Today, we'll travel back in time to explore Ancient Greece and Rome. This foundational knowledge will help us understand historical and cultural influences today.",
+                        "subject_daily_sub_topics": [
+                            "Greek democracy",
+                            "Roman architecture",
+                            "Mythology origins"
+                        ],
+                        "subject_topic_daily_summary": "You will learn key aspects of Ancient Greek and Roman civilizations and their lasting impact on modern society."
+                    },
+                    {
+                        "subject_name": "American History",
+                        "subject_topic": "The Constitution",
+                        "subject_daily_intro": "In our American History lesson today, we will examine the U.S. Constitution, its significance, and the principles it establishes for our government.",
+                        "subject_daily_sub_topics": [
+                            "Bill of Rights",
+                            "Separation of powers",
+                            "Checks and balances"
+                        ],
+                        "subject_topic_daily_summary": "You will understand the structure and importance of the Constitution and how it shapes American democracy."
+                    }
+                ]
+            },
+            {
+                "day_name": "Tuesday",
+                "subjects": [
+                    {
+                        "subject_name": "Language Arts",
+                        "subject_topic": "Creative Writing",
+                        "subject_daily_intro": "Today we will build upon our previous session of creative writing by focusing on character development in our stories. Let's create relatable characters that resonate with our audience.",
+                        "subject_daily_sub_topics": [
+                            "Character arcs",
+                            "Dialogue in creative writing"
+                        ],
+                        "subject_topic_daily_summary": "You will learn how to develop complex characters and write compelling dialogue that enhances storytelling."
+                    },
+                    {
+                        "subject_name": "Mathematics",
+                        "subject_topic": "Integers and Absolute Value",
+                        "subject_daily_intro": "We're back to integers and absolute value! Today, we'll practice applying these concepts through various real-world problems.",
+                        "subject_daily_sub_topics": [
+                            "Word problems involving integers",
+                            "Absolute value in graphs"
+                        ],
+                        "subject_topic_daily_summary": "You will apply your understanding of integers and absolute value in practical contexts, reinforcing your learning."
+                    },
+                    {
+                        "subject_name": "Language Arts Advanced",
+                        "subject_topic": "Character Analysis",
+                        "subject_daily_intro": "In today's advanced Language Arts lesson, we'll delve deeper into character analysis by examining how characters evolve throughout a story. We'll look at some examples from literature.",
+                        "subject_daily_sub_topics": [
+                            "Analyzing character decisions",
+                            "Impact of supporting characters"
+                        ],
+                        "subject_topic_daily_summary": "You will explore the complexities of character growth and how external factors influence their decisions."
+                    },
+                    {
+                        "subject_name": "Mathematics Advanced",
+                        "subject_topic": "Solving One-Step Equations",
+                        "subject_daily_intro": "Welcome back! Today we're going to tackle more one-step equations and introduce some word problems that require us to set up and solve equations.",
+                        "subject_daily_sub_topics": [
+                            "Translating phrases into equations",
+                            "Real life applications of equations"
+                        ],
+                        "subject_topic_daily_summary": "You will improve your problem-solving skills by translating word problems into one-step equations and solving them accordingly."
+                    },
+                    {
+                        "subject_name": "Science",
+                        "subject_topic": "Chemical Reactions",
+                        "subject_daily_intro": "In continuation of our science lesson on chemical reactions, today we'll focus on balancing chemical equations. This is a crucial skill for understanding reactions.",
+                        "subject_daily_sub_topics": [
+                            "Law of Conservation of Mass",
+                            "Practice balancing equations"
+                        ],
+                        "subject_topic_daily_summary": "You will gain hands-on experience in balancing chemical equations, ensuring you know how to apply the Law of Conservation of Mass."
+                    },
+                    {
+                        "subject_name": "Social Studies",
+                        "subject_topic": "Ancient Greece and Rome",
+                        "subject_daily_intro": "Today we\u2019ll continue our exploration of Ancient Greece and Rome by focusing on their contributions to modern society in fields like government and philosophy.",
+                        "subject_daily_sub_topics": [
+                            "Philosophers of Ancient Greece",
+                            "Roman law and governance"
+                        ],
+                        "subject_topic_daily_summary": "You will learn about the influential philosophers and the legal systems that have shaped contemporary governance."
+                    },
+                    {
+                        "subject_name": "American History",
+                        "subject_topic": "The Constitution",
+                        "subject_daily_intro": "As we delve deeper into the Constitution, we'll examine the rights protected by the Bill of Rights and discuss why they are vital to American democracy.",
+                        "subject_daily_sub_topics": [
+                            "First Ten Amendments",
+                            "Historical context of the Bill of Rights"
+                        ],
+                        "subject_topic_daily_summary": "You will understand the significance of individual rights and the historical context that led to the Bill of Rights."
+                    }
+                ]
+            },
+            {
+                "day_name": "Wednesday",
+                "subjects": [
+                    {
+                        "subject_name": "Language Arts",
+                        "subject_topic": "Creative Writing",
+                        "subject_daily_intro": "In today's creative writing session, we will explore the importance of setting and how it influences the mood and tone of our stories.",
+                        "subject_daily_sub_topics": [
+                            "Types of settings",
+                            "Creating vivid descriptions"
+                        ],
+                        "subject_topic_daily_summary": "You will learn how to craft detailed descriptions of settings to enrich your storytelling experience."
+                    },
+                    {
+                        "subject_name": "Mathematics",
+                        "subject_topic": "Integers and Absolute Value",
+                        "subject_daily_intro": "Let's continue with our integers and absolute value lessons! Today, we'll explore how to compare and order integers on a number line.",
+                        "subject_daily_sub_topics": [
+                            "Ordering integers",
+                            "Absolute value inequalities"
+                        ],
+                        "subject_topic_daily_summary": "You will become proficient in comparing and ordering integers, reinforcing your understanding of their relationships."
+                    },
+                    {
+                        "subject_name": "Language Arts Advanced",
+                        "subject_topic": "Character Analysis",
+                        "subject_daily_intro": "Today we will use our skills in character analysis to examine a specific character from a literary work we will read together. Let's dive deep into their psyche.",
+                        "subject_daily_sub_topics": [
+                            "Motivation vs. action",
+                            "Character relationships"
+                        ],
+                        "subject_topic_daily_summary": "You will analyze an essential character in a story, probing into what drives their actions and decisions."
+                    },
+                    {
+                        "subject_name": "Mathematics Advanced",
+                        "subject_topic": "Solving One-Step Equations",
+                        "subject_daily_intro": "In today's advanced math class, we will continue practicing solving one-step equations, introducing equations with fractions this time.",
+                        "subject_daily_sub_topics": [
+                            "Applying fractions in equations",
+                            "Mixed numbers in equations"
+                        ],
+                        "subject_topic_daily_summary": "You will gain experience solving one-step equations with fractions, expanding your problem-solving toolkit."
+                    },
+                    {
+                        "subject_name": "Science",
+                        "subject_topic": "Chemical Reactions",
+                        "subject_daily_intro": "Welcome back to science! Today, we will observe and learn about different types of chemical reactions: synthesis, decomposition, and combustion.",
+                        "subject_daily_sub_topics": [
+                            "Examples of each type",
+                            "Real-life applications"
+                        ],
+                        "subject_topic_daily_summary": "You will explore various types of chemical reactions and their real-world applications, enhancing your understanding."
+                    },
+                    {
+                        "subject_name": "Social Studies",
+                        "subject_topic": "Ancient Greece and Rome",
+                        "subject_daily_intro": "Today, we'll explore the cultural aspects of Ancient Greece and Rome, such as art, literature, and religion, and how they influenced future generations.",
+                        "subject_daily_sub_topics": [
+                            "Mythology influences",
+                            "Literary contributions"
+                        ],
+                        "subject_topic_daily_summary": "You will learn how the art and literature of Ancient Greece and Rome laid the groundwork for Western culture."
+                    },
+                    {
+                        "subject_name": "American History",
+                        "subject_topic": "The Constitution",
+                        "subject_daily_intro": "As we continue our study of the Constitution, we'll examine the concept of checks and balances in the government and why it\u2019s necessary.",
+                        "subject_daily_sub_topics": [
+                            "Branches of government",
+                            "Examples of checks and balances in action"
+                        ],
+                        "subject_topic_daily_summary": "You will understand the importance of checks and balances in maintaining a fair and equitable government."
+                    }
+                ]
+            },
+            {
+                "day_name": "Thursday",
+                "subjects": [
+                    {
+                        "subject_name": "Language Arts",
+                        "subject_topic": "Creative Writing",
+                        "subject_daily_intro": "In today's creative writing class, we'll focus on plot structure, discussing how to outline a story and keep readers engaged until the end.",
+                        "subject_daily_sub_topics": [
+                            "Freytag's Pyramid",
+                            "Conflict and resolution"
+                        ],
+                        "subject_topic_daily_summary": "You will learn the fundamental elements of plot structure, which will help you craft more compelling stories."
+                    },
+                    {
+                        "subject_name": "Mathematics",
+                        "subject_topic": "Integers and Absolute Value",
+                        "subject_daily_intro": "Welcome back! Today we'll take a look at real-life applications of integers and absolute values, showing their uses in various fields.",
+                        "subject_daily_sub_topics": [
+                            "Sports statistics",
+                            "Temperature comparisons"
+                        ],
+                        "subject_topic_daily_summary": "You will see how integers and absolute values are applicable in everyday scenarios, providing context to what you've learned."
+                    },
+                    {
+                        "subject_name": "Language Arts Advanced",
+                        "subject_topic": "Character Analysis",
+                        "subject_daily_intro": "Today we introduce the concept of archetypes in character analysis, understanding that characters often embody specific roles within stories.",
+                        "subject_daily_sub_topics": [
+                            "Hero's journey",
+                            "Common archetypes"
+                        ],
+                        "subject_topic_daily_summary": "You will explore the idea of character archetypes and how they influence the way stories are told."
+                    },
+                    {
+                        "subject_name": "Mathematics Advanced",
+                        "subject_topic": "Solving One-Step Equations",
+                        "subject_daily_intro": "In our advanced math class, today is all about solving real-world problems using one-step equations. We'll go through several scenarios together.",
+                        "subject_daily_sub_topics": [
+                            "Applied mathematics",
+                            "Word problems with scenarios"
+                        ],
+                        "subject_topic_daily_summary": "You will enhance your skills in applying one-step equations to solve practical problems."
+                    },
+                    {
+                        "subject_name": "Science",
+                        "subject_topic": "Chemical Reactions",
+                        "subject_daily_intro": "Today, we will discuss factors affecting the rate of chemical reactions, such as temperature, concentration and catalysts.",
+                        "subject_daily_sub_topics": [
+                            "Collision theory",
+                            "Practical examples of rate changes"
+                        ],
+                        "subject_topic_daily_summary": "You will learn how different factors can speed up or slow down the rate of chemical reactions."
+                    },
+                    {
+                        "subject_name": "Social Studies",
+                        "subject_topic": "Ancient Greece and Rome",
+                        "subject_daily_intro": "In our focus on Ancient Greece and Rome, we will explore their philosophies and main contributors to Western thought, emphasizing their impact today.",
+                        "subject_daily_sub_topics": [
+                            "Key philosophers",
+                            "Influence of Greek and Roman democracy"
+                        ],
+                        "subject_topic_daily_summary": "You will understand how the philosophies of Ancient Greece and Rome continue to influence modern thought and governance."
+                    },
+                    {
+                        "subject_name": "American History",
+                        "subject_topic": "The Constitution",
+                        "subject_daily_intro": "As we conclude our focused study on the Constitution, we'll tie together what we learned about rights, governance, and historical influences to prepare for a summary assessment.",
+                        "subject_daily_sub_topics": [
+                            "Recap of key themes",
+                            "Preparation for assessment"
+                        ],
+                        "subject_topic_daily_summary": "You will consolidate your knowledge of the Constitution, preparing to demonstrate your understanding in our upcoming assessment."
+                    }
+                ]
+            },
+            {
+                "day_name": "Friday",
+                "subjects": [
+                    {
+                        "subject_name": "Language Arts",
+                        "subject_topic": "Creative Writing",
+                        "subject_daily_intro": "To wrap up our week in creative writing, today we'll work on drafting a short story using all the elements we've covered this week.",
+                        "subject_daily_sub_topics": [
+                            "Combining character, plot, and setting",
+                            "Peer feedback (self-assessed)"
+                        ],
+                        "subject_topic_daily_summary": "You will put your creative writing skills to the test by crafting a complete short story."
+                    },
+                    {
+                        "subject_name": "Mathematics",
+                        "subject_topic": "Integers and Absolute Value",
+                        "subject_daily_intro": "Today we will reflect on our lessons about integers and absolute value through a quiz that will help consolidate what you've learned this week.",
+                        "subject_daily_sub_topics": [
+                            "Review techniques",
+                            "Sample quiz problems"
+                        ],
+                        "subject_topic_daily_summary": "You will participate in a quiz to evaluate your understanding of integers and absolute values."
+                    },
+                    {
+                        "subject_name": "Language Arts Advanced",
+                        "subject_topic": "Character Analysis",
+                        "subject_daily_intro": "In our last advanced language arts class this week, we will reflect on the character analysis concepts learned and complete an analysis of a chosen character from a book or story.",
+                        "subject_daily_sub_topics": [
+                            "Character sketches",
+                            "Presenting analysis"
+                        ],
+                        "subject_topic_daily_summary": "You will finalize a character analysis project that highlights your understanding of character depth and narrative impact."
+                    },
+                    {
+                        "subject_name": "Mathematics Advanced",
+                        "subject_topic": "Solving One-Step Equations",
+                        "subject_daily_intro": "To conclude our week in mathematics, we will have a brief assessment on one-step equations to check your comprehension of the material covered this week.",
+                        "subject_daily_sub_topics": [
+                            "Practice problems",
+                            "Review of challenging equations"
+                        ],
+                        "subject_topic_daily_summary": "You will take an assessment to demonstrate your command of solving one-step equations."
+                    },
+                    {
+                        "subject_name": "Science",
+                        "subject_topic": "Chemical Reactions",
+                        "subject_daily_intro": "Today, we'll have a review session on chemical reactions, from types to reactions rates, leading to a quick quiz to assess knowledge.",
+                        "subject_daily_sub_topics": [
+                            "Review key terms",
+                            "Examples of reactions"
+                        ],
+                        "subject_topic_daily_summary": "You will consolidate your understanding of chemical reactions and their dynamics before a knowledge check."
+                    },
+                    {
+                        "subject_name": "Social Studies",
+                        "subject_topic": "Ancient Greece and Rome",
+                        "subject_daily_intro": "In our final day of social studies for the week, we will summarize what we have learned about Ancient Greece and Rome through a discussion, followed by a short quiz.",
+                        "subject_daily_sub_topics": [
+                            "Cultural highlights",
+                            "Key contributions"
+                        ],
+                        "subject_topic_daily_summary": "You will participate in a summary discussion and assessment that encapsulates your understanding of Ancient Greece and Rome."
+                    },
+                    {
+                        "subject_name": "American History",
+                        "subject_topic": "The Constitution",
+                        "subject_daily_intro": "As our week concludes, we will review the salient points about the Constitution and prepare for a final discussion about its relevance today.",
+                        "subject_daily_sub_topics": [
+                            "Modern implications",
+                            "Discussion questions"
+                        ],
+                        "subject_topic_daily_summary": "You will engage in a summary discussion on the Constitution and its lasting effects on contemporary society."
+                    }
+                ]
+            }
+        ]
+    }
+]

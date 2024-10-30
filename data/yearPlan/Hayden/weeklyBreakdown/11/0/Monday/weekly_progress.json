@@ -1,0 +1,2911 @@
+{
+    "Monday": {
+        "Language Arts": [
+            {
+                "quiz_grade": 100.0,
+                "wrong_answers": [],
+                "attempt_number": 2,
+                "quiz": [
+                    {
+                        "question": "Which of the following is NOT one of the key components of a story?",
+                        "options": [
+                            "4) Grammar",
+                            "1) Characters",
+                            "2) Setting",
+                            "3) Conflict"
+                        ],
+                        "explanation": "Grammar is important for writing well, but it is not a core element of storytelling itself, which includes characters, setting, and conflict.",
+                        "answer": "4) Grammar"
+                    },
+                    {
+                        "question": "What aspect of characters helps readers connect emotionally with the story?",
+                        "options": [
+                            "1) Setting",
+                            "2) Goals and motivations",
+                            "3) Plot points",
+                            "4) Dialogue"
+                        ],
+                        "explanation": "The goals and motivations of characters allow readers to understand and empathize with their journeys, making emotional connections stronger.",
+                        "answer": "2) Goals and motivations"
+                    },
+                    {
+                        "question": "In context to setting development, which factor is NOT typically considered?",
+                        "options": [
+                            "2) Character Age",
+                            "3) Geography",
+                            "1) Historical Context",
+                            "4) Timeframe"
+                        ],
+                        "explanation": "Character Age is not a direct part of setting development, which focuses on historical context, geography, and the timeframe of the story.",
+                        "answer": "2) Character Age"
+                    },
+                    {
+                        "question": "Why is it important for characters to have growth arcs in a story?",
+                        "options": [
+                            "4) To avoid conflict",
+                            "2) To ensure characters remain static",
+                            "1) To fill pages with content",
+                            "3) To engage readers through transformation"
+                        ],
+                        "explanation": "Growth arcs in characters are important because they engage readers by showing how experiences shape the characters, making the story more dynamic.",
+                        "answer": "3) To engage readers through transformation"
+                    },
+                    {
+                        "question": "Which of the following descriptions best represents an effective setting?",
+                        "options": [
+                            "3) The forest was alive with the whispers of the night under a silver moon, casting shadows on the mossy ground.",
+                            "2) It was cold outside.",
+                            "1) The moon was out.",
+                            "4) It was spring."
+                        ],
+                        "explanation": "The third option provides vivid imagery and sensory details that immerse the reader in the setting, making it more engaging and impactful.",
+                        "answer": "3) The forest was alive with the whispers of the night under a silver moon, casting shadows on the mossy ground."
+                    },
+                    {
+                        "question": "Which element of storytelling describes where and when the story takes place?",
+                        "options": [
+                            "1) Characters",
+                            "4) Plot",
+                            "3) Conflict",
+                            "2) Setting"
+                        ],
+                        "explanation": "The setting of a story provides key details about the geographical and temporal context in which the narrative unfolds, making it essential to the plot.",
+                        "answer": "2) Setting"
+                    },
+                    {
+                        "question": "What kind of details should you consider when creating a character?",
+                        "options": [
+                            "4) The color of their clothes",
+                            "1) Age of the character",
+                            "2) Their favorite food",
+                            "3) Their background and relationships"
+                        ],
+                        "explanation": "Understanding a character's background and relationships helps in crafting well-rounded characters that resonate with readers, beyond surface details like clothing or food preference.",
+                        "answer": "3) Their background and relationships"
+                    },
+                    {
+                        "question": "What technique can help ensure consistent portrayal of a character throughout a story?",
+                        "options": [
+                            "2) Plot outline",
+                            "3) Setting scale",
+                            "4) Theme analysis",
+                            "1) Character sketch"
+                        ],
+                        "explanation": "A character sketch allows writers to define who a character is at the beginning and how they change, thus maintaining consistency in portrayal during the narrative.",
+                        "answer": "1) Character sketch"
+                    },
+                    {
+                        "question": "In creating a character, which of the following is a critical aspect to consider regarding how they will operate within the story?",
+                        "options": [
+                            "3) Their favorite hobbies",
+                            "2) Their goals and motivations",
+                            "4) Their physical appearance",
+                            "1) Their occupation"
+                        ],
+                        "explanation": "The goals and motivations of a character are fundamental as they drive the character's actions and decisions, influencing the story's direction.",
+                        "answer": "2) Their goals and motivations"
+                    },
+                    {
+                        "question": "What is essential for descriptive language in storytelling?",
+                        "options": [
+                            "3) To confuse readers",
+                            "2) To evoke emotion and imagery",
+                            "1) To fill space",
+                            "4) To simplify the narrative"
+                        ],
+                        "explanation": "Descriptive language is crucial for creating vivid imagery and evoking emotions, making the narrative more engaging for readers, rather than just filling space.",
+                        "answer": "2) To evoke emotion and imagery"
+                    }
+                ]
+            }
+        ],
+        "Language Arts Advanced": [
+            {
+                "quiz_grade": 100.0,
+                "wrong_answers": [],
+                "attempt_number": 3,
+                "quiz": [
+                    {
+                        "question": "What are character traits?",
+                        "options": [
+                            "3) Events that happen in the story",
+                            "2) A sum of all actions a character takes",
+                            "1) Qualities or characteristics that define a character\u2019s nature",
+                            "4) The historical background of a character"
+                        ],
+                        "explanation": "Character traits refer to the qualities or characteristics that define a character's nature, including physical, emotional, or psychological aspects.",
+                        "answer": "1) Qualities or characteristics that define a character\u2019s nature"
+                    },
+                    {
+                        "question": "How do round characters differ from flat characters?",
+                        "options": [
+                            "4) Flat characters possess many traits as round characters",
+                            "1) Round characters are usually static, while flat characters are dynamic",
+                            "3) Round characters do not exist in literature",
+                            "2) Round characters are complex and undergo development, while flat characters are one-dimensional"
+                        ],
+                        "explanation": "Round characters are complex and undergo development, while flat characters are one-dimensional and represent a single trait or role.",
+                        "answer": "2) Round characters are complex and undergo development, while flat characters are one-dimensional"
+                    },
+                    {
+                        "question": "What is a notable feature of flat characters?",
+                        "options": [
+                            "2) They evolve throughout the story",
+                            "1) They are multi-dimensional and reflect human complexity",
+                            "4) They possess only one trait that is complex",
+                            "3) They usually serve specific functions and remain unchanged"
+                        ],
+                        "explanation": "Flat characters typically represent a single trait or role and do not undergo significant growth or change, making them easier to recognize.",
+                        "answer": "3) They usually serve specific functions and remain unchanged"
+                    },
+                    {
+                        "question": "Which of the following is a characteristic of dynamic characters?",
+                        "options": [
+                            "3) They are usually the protagonists",
+                            "4) They often represent societal stereotypes",
+                            "1) They maintain the same traits throughout the story",
+                            "2) They undergo significant internal changes during the story"
+                        ],
+                        "explanation": "Dynamic characters undergo significant internal changes throughout the story, reflecting personal growth or transformation.",
+                        "answer": "2) They undergo significant internal changes during the story"
+                    },
+                    {
+                        "question": "What role do static characters often play in a story?",
+                        "options": [
+                            "4) They complicate the plot",
+                            "1) They serve as the main character",
+                            "2) They highlight changes in dynamic characters",
+                            "3) They are the antagonists"
+                        ],
+                        "explanation": "Static characters remain largely unchanged throughout the narrative, often serving as a foil to dynamic characters and highlighting their transformations.",
+                        "answer": "2) They highlight changes in dynamic characters"
+                    },
+                    {
+                        "question": "Which example illustrates a dynamic character?",
+                        "options": [
+                            "4) Sherlock Holmes",
+                            "3) Miss Havisham",
+                            "1) Ebenezer Scrooge",
+                            "2) The wicked stepmother"
+                        ],
+                        "explanation": "Ebenezer Scrooge is a prime example of a dynamic character, as he changes from a miser to a generous man throughout \"A Christmas Carol.\"",
+                        "answer": "1) Ebenezer Scrooge"
+                    },
+                    {
+                        "question": "What is the main trait of round characters in literature?",
+                        "options": [
+                            "4) They are always the hero",
+                            "3) They do not interact with others",
+                            "1) They have a single, clear motive",
+                            "2) They possess a variety of traits and undergo development"
+                        ],
+                        "explanation": "Round characters have a variety of traits and undergo development, making them complex and relatable, much like real people.",
+                        "answer": "2) They possess a variety of traits and undergo development"
+                    },
+                    {
+                        "question": "How can character traits influence a narrative's plot?",
+                        "options": [
+                            "4) By summarizing the story",
+                            "2) By driving characters' interactions and decisions",
+                            "3) By introducing new characters",
+                            "1) By providing a setting"
+                        ],
+                        "explanation": "Character traits influence a narrative\u2019s plot by driving how characters interact and make decisions, which shapes the overall story arc.",
+                        "answer": "2) By driving characters' interactions and decisions"
+                    },
+                    {
+                        "question": "Which character from literature can be classified as a flat character?",
+                        "options": [
+                            "1) Elizabeth Bennet from \"Pride and Prejudice\"",
+                            "2) Ebenezer Scrooge from \"A Christmas Carol\"",
+                            "3) A wicked stepmother in fairy tales",
+                            "4) Jay Gatsby from \"The Great Gatsby\""
+                        ],
+                        "explanation": "Flat characters, such as the wicked stepmother in fairy tales, typically represent a single trait without complex development.",
+                        "answer": "3) A wicked stepmother in fairy tales"
+                    },
+                    {
+                        "question": "In the context of character analysis, what does complexity in a character refer to?",
+                        "options": [
+                            "1) The character\u2019s background",
+                            "4) Their role as the antagonist",
+                            "2) Their emotional depth and multifaceted nature",
+                            "3) The simplicity of their goals"
+                        ],
+                        "explanation": "Complexity in a character refers to their emotional depth and multifaceted nature, which provides richness to their portrayal in the narrative.",
+                        "answer": "2) Their emotional depth and multifaceted nature"
+                    }
+                ]
+            }
+        ],
+        "American History": [
+            {
+                "quiz_grade": 40.0,
+                "wrong_answers": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    7
+                ],
+                "attempt_number": 4,
+                "quiz": [
+                    {
+                        "question": "What document replaced the Articles of Confederation?",
+                        "options": [
+                            "3) The Federalist Papers",
+                            "4) The Treaty of Paris",
+                            "1) The Declaration of Independence",
+                            "2) The U.S. Constitution"
+                        ],
+                        "explanation": "The U.S. Constitution replaced the Articles of Confederation as it established a stronger national government.",
+                        "answer": "2) The U.S. Constitution"
+                    },
+                    {
+                        "question": "What principle ensures that governmental powers are divided among different branches?",
+                        "options": [
+                            "1) Popular Sovereignty",
+                            "4) Federalism",
+                            "3) Separation of Powers",
+                            "2) Checks and Balances"
+                        ],
+                        "explanation": "Separation of Powers is the principle that divides government powers among different branches to prevent abuse of power.",
+                        "answer": "3) Separation of Powers"
+                    },
+                    {
+                        "question": "How many amendments make up the Bill of Rights?",
+                        "options": [
+                            "2) 12",
+                            "1) 10",
+                            "3) 15",
+                            "4) 27"
+                        ],
+                        "explanation": "The Bill of Rights comprises the first 10 amendments to the U.S. Constitution, which are designed to protect individual liberties.",
+                        "answer": "1) 10"
+                    },
+                    {
+                        "question": "Which branch of government is established by Article II of the Constitution?",
+                        "options": [
+                            "3) The Judicial Branch",
+                            "4) The Administrative Branch",
+                            "2) The Executive Branch",
+                            "1) The Legislative Branch"
+                        ],
+                        "explanation": "Article II of the Constitution establishes the Executive Branch, which includes the President and Vice President.",
+                        "answer": "2) The Executive Branch"
+                    },
+                    {
+                        "question": "What does Article III of the Constitution establish?",
+                        "options": [
+                            "3) The Judicial Branch",
+                            "1) The Legislative Branch",
+                            "4) The Constitutional Convention",
+                            "2) The Executive Branch"
+                        ],
+                        "explanation": "Article III establishes the Judicial Branch, which is responsible for interpreting laws and includes the Supreme Court.",
+                        "answer": "3) The Judicial Branch"
+                    },
+                    {
+                        "question": "What does the Fourth Amendment protect against?",
+                        "options": [
+                            "4) Freedom of Assembly",
+                            "1) Freedom of Speech",
+                            "2) Unreasonable Searches and Seizures",
+                            "3) Cruel and Unusual Punishments"
+                        ],
+                        "explanation": "The Fourth Amendment protects citizens against unreasonable searches and seizures, requiring law enforcement to have probable cause.",
+                        "answer": "2) Unreasonable Searches and Seizures"
+                    },
+                    {
+                        "question": "What concept refers to the ability of one branch of government to limit the powers of another branch?",
+                        "options": [
+                            "2) Checks and Balances",
+                            "4) Expressed Powers",
+                            "1) Federalism",
+                            "3) Judicial Review"
+                        ],
+                        "explanation": "Checks and Balances is the concept that allows each branch of government to limit the powers of the others to maintain a balance.",
+                        "answer": "2) Checks and Balances"
+                    },
+                    {
+                        "question": "Which amendment prohibits excessive bail and cruel and unusual punishments?",
+                        "options": [
+                            "2) Fourth Amendment",
+                            "3) Eighth Amendment",
+                            "1) First Amendment",
+                            "4) Tenth Amendment"
+                        ],
+                        "explanation": "The Eighth Amendment prohibits excessive bail, fines, and cruel and unusual punishments, ensuring a fair judicial process.",
+                        "answer": "3) Eighth Amendment"
+                    },
+                    {
+                        "question": "What is stated in the Preamble of the Constitution?",
+                        "options": [
+                            "2) The rights of citizens",
+                            "3) The purpose of the Constitution",
+                            "4) The amendment process",
+                            "1) The structure of government"
+                        ],
+                        "explanation": "The Preamble outlines the purpose of the Constitution, which includes forming a more perfect union and ensuring liberty.",
+                        "answer": "3) The purpose of the Constitution"
+                    },
+                    {
+                        "question": "Who were concerned about the potential power of the new government and advocated for the Bill of Rights?",
+                        "options": [
+                            "1) Federalists",
+                            "4) Nationalists",
+                            "2) Anti-Federalists",
+                            "3) Loyalists"
+                        ],
+                        "explanation": "Anti-Federalists were concerned about the new government's power and advocated for the inclusion of the Bill of Rights to protect individual liberties.",
+                        "answer": "2) Anti-Federalists"
+                    }
+                ]
+            },
+            {
+                "quiz_grade": 50.0,
+                "wrong_answers": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    6
+                ],
+                "attempt_number": 2,
+                "quiz": [
+                    {
+                        "question": "What document replaced the Articles of Confederation?",
+                        "options": [
+                            "2) The U.S. Constitution",
+                            "4) The Federalist Papers",
+                            "1) The Declaration of Independence",
+                            "3) The Bill of Rights"
+                        ],
+                        "explanation": "The U.S. Constitution replaced the Articles of Confederation, which were ineffective in providing a strong national government.",
+                        "answer": "2) The U.S. Constitution"
+                    },
+                    {
+                        "question": "When was the Bill of Rights adopted?",
+                        "options": [
+                            "4) 1776",
+                            "2) 1791",
+                            "3) 1789",
+                            "1) 1787"
+                        ],
+                        "explanation": "The Bill of Rights was adopted in 1791 and comprises the first ten amendments to the Constitution.",
+                        "answer": "2) 1791"
+                    },
+                    {
+                        "question": "Who makes up the Judicial Branch according to the U.S. Constitution?",
+                        "options": [
+                            "1) The President and Vice President",
+                            "3) The Supreme Court and lower courts",
+                            "2) The House of Representatives",
+                            "4) Congress"
+                        ],
+                        "explanation": "The Judicial Branch is established by Article III and consists of the Supreme Court and any lower courts created by Congress.",
+                        "answer": "3) The Supreme Court and lower courts"
+                    },
+                    {
+                        "question": "What principle ensures that no single branch of government becomes too powerful?",
+                        "options": [
+                            "4) Democracy",
+                            "1) Federalism",
+                            "2) Popular Sovereignty",
+                            "3) Separation of Powers"
+                        ],
+                        "explanation": "Separation of Powers is a principle that divides government powers among different branches to prevent any one branch from becoming too powerful.",
+                        "answer": "3) Separation of Powers"
+                    },
+                    {
+                        "question": "What does the First Amendment guarantee?",
+                        "options": [
+                            "4) Protection against excessive bail",
+                            "1) Rights of the accused",
+                            "2) Freedom of speech and religion",
+                            "3) Right to a fair trial"
+                        ],
+                        "explanation": "The First Amendment protects freedoms including speech, press, religion, assembly, and petition, which are essential to democratic participation.",
+                        "answer": "2) Freedom of speech and religion"
+                    },
+                    {
+                        "question": "What is required for law enforcement to conduct a search involving the Fourth Amendment?",
+                        "options": [
+                            "3) Probable cause and a warrant",
+                            "1) An arrest warrant",
+                            "4) Written consent",
+                            "2) A public announcement"
+                        ],
+                        "explanation": "The Fourth Amendment requires law enforcement to have probable cause and a warrant to conduct searches to protect against unreasonable searches and seizures.",
+                        "answer": "3) Probable cause and a warrant"
+                    },
+                    {
+                        "question": "Which of the following amendments prohibits cruel and unusual punishment?",
+                        "options": [
+                            "3) Fourth Amendment",
+                            "4) Sixth Amendment",
+                            "2) Eighth Amendment",
+                            "1) First Amendment"
+                        ],
+                        "explanation": "The Eighth Amendment prohibits excessive bail, fines, and cruel and unusual punishments, ensuring humane treatment in the justice system.",
+                        "answer": "2) Eighth Amendment"
+                    },
+                    {
+                        "question": "What does the Preamble of the Constitution outline?",
+                        "options": [
+                            "4) The duties of the President",
+                            "2) The powers of Congress",
+                            "1) The rights of the states",
+                            "3) The purpose of the Constitution"
+                        ],
+                        "explanation": "The Preamble outlines the purpose of the Constitution, including forming a more perfect union and securing the blessings of liberty.",
+                        "answer": "3) The purpose of the Constitution"
+                    },
+                    {
+                        "question": "How many amendments has the U.S. Constitution been amended?",
+                        "options": [
+                            "4) 33",
+                            "2) 15",
+                            "3) 27",
+                            "1) 10"
+                        ],
+                        "explanation": "The U.S. Constitution has been amended 27 times to reflect changing needs and values in society.",
+                        "answer": "3) 27"
+                    },
+                    {
+                        "question": "Which branch of government is primarily responsible for making laws?",
+                        "options": [
+                            "2) Executive Branch",
+                            "4) Administrative Branch",
+                            "1) Legislative Branch",
+                            "3) Judicial Branch"
+                        ],
+                        "explanation": "The Legislative Branch, as established in Article I of the Constitution, is responsible for making laws and is bicameral with the House of Representatives and the Senate.",
+                        "answer": "1) Legislative Branch"
+                    }
+                ]
+            },
+            {
+                "quiz_grade": 50.0,
+                "wrong_answers": [
+                    1,
+                    2,
+                    3,
+                    6,
+                    7
+                ],
+                "attempt_number": 3,
+                "quiz": [
+                    {
+                        "question": "What document replaced the Articles of Confederation?",
+                        "options": [
+                            "2) The U.S. Constitution",
+                            "4) The Federalist Papers",
+                            "1) The Declaration of Independence",
+                            "3) The Bill of Rights"
+                        ],
+                        "explanation": "The U.S. Constitution replaced the Articles of Confederation, which were ineffective in providing a strong national government.",
+                        "answer": "2) The U.S. Constitution"
+                    },
+                    {
+                        "question": "When was the Bill of Rights adopted?",
+                        "options": [
+                            "4) 1776",
+                            "2) 1791",
+                            "3) 1789",
+                            "1) 1787"
+                        ],
+                        "explanation": "The Bill of Rights was adopted in 1791 and comprises the first ten amendments to the Constitution.",
+                        "answer": "2) 1791"
+                    },
+                    {
+                        "question": "Who makes up the Judicial Branch according to the U.S. Constitution?",
+                        "options": [
+                            "1) The President and Vice President",
+                            "3) The Supreme Court and lower courts",
+                            "2) The House of Representatives",
+                            "4) Congress"
+                        ],
+                        "explanation": "The Judicial Branch is established by Article III and consists of the Supreme Court and any lower courts created by Congress.",
+                        "answer": "3) The Supreme Court and lower courts"
+                    },
+                    {
+                        "question": "What principle ensures that no single branch of government becomes too powerful?",
+                        "options": [
+                            "4) Democracy",
+                            "1) Federalism",
+                            "2) Popular Sovereignty",
+                            "3) Separation of Powers"
+                        ],
+                        "explanation": "Separation of Powers is a principle that divides government powers among different branches to prevent any one branch from becoming too powerful.",
+                        "answer": "3) Separation of Powers"
+                    },
+                    {
+                        "question": "What does the First Amendment guarantee?",
+                        "options": [
+                            "4) Protection against excessive bail",
+                            "1) Rights of the accused",
+                            "2) Freedom of speech and religion",
+                            "3) Right to a fair trial"
+                        ],
+                        "explanation": "The First Amendment protects freedoms including speech, press, religion, assembly, and petition, which are essential to democratic participation.",
+                        "answer": "2) Freedom of speech and religion"
+                    },
+                    {
+                        "question": "What is required for law enforcement to conduct a search involving the Fourth Amendment?",
+                        "options": [
+                            "3) Probable cause and a warrant",
+                            "1) An arrest warrant",
+                            "4) Written consent",
+                            "2) A public announcement"
+                        ],
+                        "explanation": "The Fourth Amendment requires law enforcement to have probable cause and a warrant to conduct searches to protect against unreasonable searches and seizures.",
+                        "answer": "3) Probable cause and a warrant"
+                    },
+                    {
+                        "question": "Which of the following amendments prohibits cruel and unusual punishment?",
+                        "options": [
+                            "3) Fourth Amendment",
+                            "4) Sixth Amendment",
+                            "2) Eighth Amendment",
+                            "1) First Amendment"
+                        ],
+                        "explanation": "The Eighth Amendment prohibits excessive bail, fines, and cruel and unusual punishments, ensuring humane treatment in the justice system.",
+                        "answer": "2) Eighth Amendment"
+                    },
+                    {
+                        "question": "What does the Preamble of the Constitution outline?",
+                        "options": [
+                            "4) The duties of the President",
+                            "2) The powers of Congress",
+                            "1) The rights of the states",
+                            "3) The purpose of the Constitution"
+                        ],
+                        "explanation": "The Preamble outlines the purpose of the Constitution, including forming a more perfect union and securing the blessings of liberty.",
+                        "answer": "3) The purpose of the Constitution"
+                    },
+                    {
+                        "question": "How many amendments has the U.S. Constitution been amended?",
+                        "options": [
+                            "4) 33",
+                            "2) 15",
+                            "3) 27",
+                            "1) 10"
+                        ],
+                        "explanation": "The U.S. Constitution has been amended 27 times to reflect changing needs and values in society.",
+                        "answer": "3) 27"
+                    },
+                    {
+                        "question": "Which branch of government is primarily responsible for making laws?",
+                        "options": [
+                            "2) Executive Branch",
+                            "4) Administrative Branch",
+                            "1) Legislative Branch",
+                            "3) Judicial Branch"
+                        ],
+                        "explanation": "The Legislative Branch, as established in Article I of the Constitution, is responsible for making laws and is bicameral with the House of Representatives and the Senate.",
+                        "answer": "1) Legislative Branch"
+                    }
+                ]
+            },
+            {
+                "quiz_grade": 40.0,
+                "wrong_answers": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    6,
+                    7
+                ],
+                "attempt_number": 4,
+                "quiz": [
+                    {
+                        "question": "What document replaced the Articles of Confederation?",
+                        "options": [
+                            "2) The U.S. Constitution",
+                            "4) The Federalist Papers",
+                            "1) The Declaration of Independence",
+                            "3) The Bill of Rights"
+                        ],
+                        "explanation": "The U.S. Constitution replaced the Articles of Confederation, which were ineffective in providing a strong national government.",
+                        "answer": "2) The U.S. Constitution"
+                    },
+                    {
+                        "question": "When was the Bill of Rights adopted?",
+                        "options": [
+                            "4) 1776",
+                            "2) 1791",
+                            "3) 1789",
+                            "1) 1787"
+                        ],
+                        "explanation": "The Bill of Rights was adopted in 1791 and comprises the first ten amendments to the Constitution.",
+                        "answer": "2) 1791"
+                    },
+                    {
+                        "question": "Who makes up the Judicial Branch according to the U.S. Constitution?",
+                        "options": [
+                            "1) The President and Vice President",
+                            "3) The Supreme Court and lower courts",
+                            "2) The House of Representatives",
+                            "4) Congress"
+                        ],
+                        "explanation": "The Judicial Branch is established by Article III and consists of the Supreme Court and any lower courts created by Congress.",
+                        "answer": "3) The Supreme Court and lower courts"
+                    },
+                    {
+                        "question": "What principle ensures that no single branch of government becomes too powerful?",
+                        "options": [
+                            "4) Democracy",
+                            "1) Federalism",
+                            "2) Popular Sovereignty",
+                            "3) Separation of Powers"
+                        ],
+                        "explanation": "Separation of Powers is a principle that divides government powers among different branches to prevent any one branch from becoming too powerful.",
+                        "answer": "3) Separation of Powers"
+                    },
+                    {
+                        "question": "What does the First Amendment guarantee?",
+                        "options": [
+                            "4) Protection against excessive bail",
+                            "1) Rights of the accused",
+                            "2) Freedom of speech and religion",
+                            "3) Right to a fair trial"
+                        ],
+                        "explanation": "The First Amendment protects freedoms including speech, press, religion, assembly, and petition, which are essential to democratic participation.",
+                        "answer": "2) Freedom of speech and religion"
+                    },
+                    {
+                        "question": "What is required for law enforcement to conduct a search involving the Fourth Amendment?",
+                        "options": [
+                            "3) Probable cause and a warrant",
+                            "1) An arrest warrant",
+                            "4) Written consent",
+                            "2) A public announcement"
+                        ],
+                        "explanation": "The Fourth Amendment requires law enforcement to have probable cause and a warrant to conduct searches to protect against unreasonable searches and seizures.",
+                        "answer": "3) Probable cause and a warrant"
+                    },
+                    {
+                        "question": "Which of the following amendments prohibits cruel and unusual punishment?",
+                        "options": [
+                            "3) Fourth Amendment",
+                            "4) Sixth Amendment",
+                            "2) Eighth Amendment",
+                            "1) First Amendment"
+                        ],
+                        "explanation": "The Eighth Amendment prohibits excessive bail, fines, and cruel and unusual punishments, ensuring humane treatment in the justice system.",
+                        "answer": "2) Eighth Amendment"
+                    },
+                    {
+                        "question": "What does the Preamble of the Constitution outline?",
+                        "options": [
+                            "4) The duties of the President",
+                            "2) The powers of Congress",
+                            "1) The rights of the states",
+                            "3) The purpose of the Constitution"
+                        ],
+                        "explanation": "The Preamble outlines the purpose of the Constitution, including forming a more perfect union and securing the blessings of liberty.",
+                        "answer": "3) The purpose of the Constitution"
+                    },
+                    {
+                        "question": "How many amendments has the U.S. Constitution been amended?",
+                        "options": [
+                            "4) 33",
+                            "2) 15",
+                            "3) 27",
+                            "1) 10"
+                        ],
+                        "explanation": "The U.S. Constitution has been amended 27 times to reflect changing needs and values in society.",
+                        "answer": "3) 27"
+                    },
+                    {
+                        "question": "Which branch of government is primarily responsible for making laws?",
+                        "options": [
+                            "2) Executive Branch",
+                            "4) Administrative Branch",
+                            "1) Legislative Branch",
+                            "3) Judicial Branch"
+                        ],
+                        "explanation": "The Legislative Branch, as established in Article I of the Constitution, is responsible for making laws and is bicameral with the House of Representatives and the Senate.",
+                        "answer": "1) Legislative Branch"
+                    }
+                ]
+            },
+            {
+                "quiz_grade": 70.0,
+                "wrong_answers": [
+                    1,
+                    4,
+                    5
+                ],
+                "attempt_number": 2,
+                "quiz": [
+                    {
+                        "question": "What document replaced the Articles of Confederation?",
+                        "options": [
+                            "1) The Declaration of Independence",
+                            "2) The U.S. Constitution",
+                            "4) The Emancipation Proclamation",
+                            "3) The Federalist Papers"
+                        ],
+                        "explanation": "The U.S. Constitution was created to replace the ineffective Articles of Confederation, providing a stronger national government.",
+                        "answer": "2) The U.S. Constitution"
+                    },
+                    {
+                        "question": "What is the introductory statement of the Constitution called?",
+                        "options": [
+                            "3) The Articles",
+                            "2) The Bill of Rights",
+                            "4) The Amendments",
+                            "1) The Preamble"
+                        ],
+                        "explanation": "The Preamble is the introductory statement that outlines the purpose and guiding principles of the Constitution.",
+                        "answer": "1) The Preamble"
+                    },
+                    {
+                        "question": "Which Article of the Constitution establishes the Executive Branch?",
+                        "options": [
+                            "3) Article III",
+                            "4) Article IV",
+                            "1) Article II",
+                            "2) Article I"
+                        ],
+                        "explanation": "Article II of the Constitution establishes the Executive Branch, which includes the President and Vice President.",
+                        "answer": "1) Article II"
+                    },
+                    {
+                        "question": "How many amendments are there in the U.S. Constitution?",
+                        "options": [
+                            "3) 29",
+                            "1) 25",
+                            "4) 32",
+                            "2) 27"
+                        ],
+                        "explanation": "The U.S. Constitution has been amended 27 times since its ratification, allowing for changes to meet the needs of society.",
+                        "answer": "2) 27"
+                    },
+                    {
+                        "question": "Which amendment guarantees the right to free speech?",
+                        "options": [
+                            "4) The Eighth Amendment",
+                            "3) The Fourth Amendment",
+                            "2) The Second Amendment",
+                            "1) The First Amendment"
+                        ],
+                        "explanation": "The First Amendment protects several freedoms, including the freedom of speech.",
+                        "answer": "1) The First Amendment"
+                    },
+                    {
+                        "question": "What mechanism allows Congress to override a Presidential veto?",
+                        "options": [
+                            "1) A simple majority vote",
+                            "2) A two-thirds majority vote",
+                            "4) A committee review",
+                            "3) A unanimous vote"
+                        ],
+                        "explanation": "Congress can override a Presidential veto with a two-thirds majority vote, ensuring balance between branches.",
+                        "answer": "2) A two-thirds majority vote"
+                    },
+                    {
+                        "question": "Which branch of government interprets laws?",
+                        "options": [
+                            "2) Executive Branch",
+                            "4) Administrative Branch",
+                            "3) Judicial Branch",
+                            "1) Legislative Branch"
+                        ],
+                        "explanation": "The Judicial Branch is responsible for interpreting laws, consisting of the Supreme Court and lower courts.",
+                        "answer": "3) Judicial Branch"
+                    },
+                    {
+                        "question": "What principle is meant to prevent any one branch of government from becoming too powerful?",
+                        "options": [
+                            "3) Separation of Powers",
+                            "4) Checks and Balances",
+                            "1) Federalism",
+                            "2) Popular Sovereignty"
+                        ],
+                        "explanation": "The principle of Separation of Powers divides governmental powers among different branches to prevent concentration of power.",
+                        "answer": "3) Separation of Powers"
+                    },
+                    {
+                        "question": "Which amendment prohibits excessive bail and cruel and unusual punishment?",
+                        "options": [
+                            "1) The First Amendment",
+                            "3) The Sixth Amendment",
+                            "2) The Fourth Amendment",
+                            "4) The Eighth Amendment"
+                        ],
+                        "explanation": "The Eighth Amendment prohibits excessive bail and cruel and unusual punishment, ensuring humanity in judicial processes.",
+                        "answer": "4) The Eighth Amendment"
+                    },
+                    {
+                        "question": "What does the Constitution reflect about the Framers' approach to government?",
+                        "options": [
+                            "1) Their strict adherence to monarchy",
+                            "3) Their foresight in creating a living document",
+                            "4) Their desire to limit democracy",
+                            "2) Their commitment to a rigid, unchanging document"
+                        ],
+                        "explanation": "The Constitution is considered a living document because it can be amended and has evolved to meet changing societal needs.",
+                        "answer": "3) Their foresight in creating a living document"
+                    }
+                ]
+            },
+            {
+                "quiz_grade": 80.0,
+                "wrong_answers": [
+                    1,
+                    4
+                ],
+                "attempt_number": 3,
+                "quiz": [
+                    {
+                        "question": "What document replaced the Articles of Confederation?",
+                        "options": [
+                            "1) The Declaration of Independence",
+                            "2) The U.S. Constitution",
+                            "4) The Emancipation Proclamation",
+                            "3) The Federalist Papers"
+                        ],
+                        "explanation": "The U.S. Constitution was created to replace the ineffective Articles of Confederation, providing a stronger national government.",
+                        "answer": "2) The U.S. Constitution"
+                    },
+                    {
+                        "question": "What is the introductory statement of the Constitution called?",
+                        "options": [
+                            "3) The Articles",
+                            "2) The Bill of Rights",
+                            "4) The Amendments",
+                            "1) The Preamble"
+                        ],
+                        "explanation": "The Preamble is the introductory statement that outlines the purpose and guiding principles of the Constitution.",
+                        "answer": "1) The Preamble"
+                    },
+                    {
+                        "question": "Which Article of the Constitution establishes the Executive Branch?",
+                        "options": [
+                            "3) Article III",
+                            "4) Article IV",
+                            "1) Article II",
+                            "2) Article I"
+                        ],
+                        "explanation": "Article II of the Constitution establishes the Executive Branch, which includes the President and Vice President.",
+                        "answer": "1) Article II"
+                    },
+                    {
+                        "question": "How many amendments are there in the U.S. Constitution?",
+                        "options": [
+                            "3) 29",
+                            "1) 25",
+                            "4) 32",
+                            "2) 27"
+                        ],
+                        "explanation": "The U.S. Constitution has been amended 27 times since its ratification, allowing for changes to meet the needs of society.",
+                        "answer": "2) 27"
+                    },
+                    {
+                        "question": "Which amendment guarantees the right to free speech?",
+                        "options": [
+                            "4) The Eighth Amendment",
+                            "3) The Fourth Amendment",
+                            "2) The Second Amendment",
+                            "1) The First Amendment"
+                        ],
+                        "explanation": "The First Amendment protects several freedoms, including the freedom of speech.",
+                        "answer": "1) The First Amendment"
+                    },
+                    {
+                        "question": "What mechanism allows Congress to override a Presidential veto?",
+                        "options": [
+                            "1) A simple majority vote",
+                            "2) A two-thirds majority vote",
+                            "4) A committee review",
+                            "3) A unanimous vote"
+                        ],
+                        "explanation": "Congress can override a Presidential veto with a two-thirds majority vote, ensuring balance between branches.",
+                        "answer": "2) A two-thirds majority vote"
+                    },
+                    {
+                        "question": "Which branch of government interprets laws?",
+                        "options": [
+                            "2) Executive Branch",
+                            "4) Administrative Branch",
+                            "3) Judicial Branch",
+                            "1) Legislative Branch"
+                        ],
+                        "explanation": "The Judicial Branch is responsible for interpreting laws, consisting of the Supreme Court and lower courts.",
+                        "answer": "3) Judicial Branch"
+                    },
+                    {
+                        "question": "What principle is meant to prevent any one branch of government from becoming too powerful?",
+                        "options": [
+                            "3) Separation of Powers",
+                            "4) Checks and Balances",
+                            "1) Federalism",
+                            "2) Popular Sovereignty"
+                        ],
+                        "explanation": "The principle of Separation of Powers divides governmental powers among different branches to prevent concentration of power.",
+                        "answer": "3) Separation of Powers"
+                    },
+                    {
+                        "question": "Which amendment prohibits excessive bail and cruel and unusual punishment?",
+                        "options": [
+                            "1) The First Amendment",
+                            "3) The Sixth Amendment",
+                            "2) The Fourth Amendment",
+                            "4) The Eighth Amendment"
+                        ],
+                        "explanation": "The Eighth Amendment prohibits excessive bail and cruel and unusual punishment, ensuring humanity in judicial processes.",
+                        "answer": "4) The Eighth Amendment"
+                    },
+                    {
+                        "question": "What does the Constitution reflect about the Framers' approach to government?",
+                        "options": [
+                            "1) Their strict adherence to monarchy",
+                            "3) Their foresight in creating a living document",
+                            "4) Their desire to limit democracy",
+                            "2) Their commitment to a rigid, unchanging document"
+                        ],
+                        "explanation": "The Constitution is considered a living document because it can be amended and has evolved to meet changing societal needs.",
+                        "answer": "3) Their foresight in creating a living document"
+                    }
+                ]
+            },
+            {
+                "quiz_grade": 100.0,
+                "wrong_answers": [],
+                "attempt_number": 4,
+                "quiz": [
+                    {
+                        "question": "What document replaced the Articles of Confederation?",
+                        "options": [
+                            "1) The Declaration of Independence",
+                            "2) The U.S. Constitution",
+                            "4) The Emancipation Proclamation",
+                            "3) The Federalist Papers"
+                        ],
+                        "explanation": "The U.S. Constitution was created to replace the ineffective Articles of Confederation, providing a stronger national government.",
+                        "answer": "2) The U.S. Constitution"
+                    },
+                    {
+                        "question": "What is the introductory statement of the Constitution called?",
+                        "options": [
+                            "3) The Articles",
+                            "2) The Bill of Rights",
+                            "4) The Amendments",
+                            "1) The Preamble"
+                        ],
+                        "explanation": "The Preamble is the introductory statement that outlines the purpose and guiding principles of the Constitution.",
+                        "answer": "1) The Preamble"
+                    },
+                    {
+                        "question": "Which Article of the Constitution establishes the Executive Branch?",
+                        "options": [
+                            "3) Article III",
+                            "4) Article IV",
+                            "1) Article II",
+                            "2) Article I"
+                        ],
+                        "explanation": "Article II of the Constitution establishes the Executive Branch, which includes the President and Vice President.",
+                        "answer": "1) Article II"
+                    },
+                    {
+                        "question": "How many amendments are there in the U.S. Constitution?",
+                        "options": [
+                            "3) 29",
+                            "1) 25",
+                            "4) 32",
+                            "2) 27"
+                        ],
+                        "explanation": "The U.S. Constitution has been amended 27 times since its ratification, allowing for changes to meet the needs of society.",
+                        "answer": "2) 27"
+                    },
+                    {
+                        "question": "Which amendment guarantees the right to free speech?",
+                        "options": [
+                            "4) The Eighth Amendment",
+                            "3) The Fourth Amendment",
+                            "2) The Second Amendment",
+                            "1) The First Amendment"
+                        ],
+                        "explanation": "The First Amendment protects several freedoms, including the freedom of speech.",
+                        "answer": "1) The First Amendment"
+                    },
+                    {
+                        "question": "What mechanism allows Congress to override a Presidential veto?",
+                        "options": [
+                            "1) A simple majority vote",
+                            "2) A two-thirds majority vote",
+                            "4) A committee review",
+                            "3) A unanimous vote"
+                        ],
+                        "explanation": "Congress can override a Presidential veto with a two-thirds majority vote, ensuring balance between branches.",
+                        "answer": "2) A two-thirds majority vote"
+                    },
+                    {
+                        "question": "Which branch of government interprets laws?",
+                        "options": [
+                            "2) Executive Branch",
+                            "4) Administrative Branch",
+                            "3) Judicial Branch",
+                            "1) Legislative Branch"
+                        ],
+                        "explanation": "The Judicial Branch is responsible for interpreting laws, consisting of the Supreme Court and lower courts.",
+                        "answer": "3) Judicial Branch"
+                    },
+                    {
+                        "question": "What principle is meant to prevent any one branch of government from becoming too powerful?",
+                        "options": [
+                            "3) Separation of Powers",
+                            "4) Checks and Balances",
+                            "1) Federalism",
+                            "2) Popular Sovereignty"
+                        ],
+                        "explanation": "The principle of Separation of Powers divides governmental powers among different branches to prevent concentration of power.",
+                        "answer": "3) Separation of Powers"
+                    },
+                    {
+                        "question": "Which amendment prohibits excessive bail and cruel and unusual punishment?",
+                        "options": [
+                            "1) The First Amendment",
+                            "3) The Sixth Amendment",
+                            "2) The Fourth Amendment",
+                            "4) The Eighth Amendment"
+                        ],
+                        "explanation": "The Eighth Amendment prohibits excessive bail and cruel and unusual punishment, ensuring humanity in judicial processes.",
+                        "answer": "4) The Eighth Amendment"
+                    },
+                    {
+                        "question": "What does the Constitution reflect about the Framers' approach to government?",
+                        "options": [
+                            "1) Their strict adherence to monarchy",
+                            "3) Their foresight in creating a living document",
+                            "4) Their desire to limit democracy",
+                            "2) Their commitment to a rigid, unchanging document"
+                        ],
+                        "explanation": "The Constitution is considered a living document because it can be amended and has evolved to meet changing societal needs.",
+                        "answer": "3) Their foresight in creating a living document"
+                    }
+                ]
+            }
+        ],
+        "Mathematics": [
+            {
+                "quiz_grade": 70.0,
+                "wrong_answers": [
+                    2,
+                    8,
+                    9
+                ],
+                "attempt_number": 2,
+                "quiz": [
+                    {
+                        "question": "Which of the following is an example of a positive integer?",
+                        "options": [
+                            "3) 2",
+                            "2) 0",
+                            "1) -3",
+                            "4) -1"
+                        ],
+                        "explanation": "Positive integers are whole numbers greater than zero. 2 is greater than zero, making it a positive integer, while the others are either negative or zero.",
+                        "answer": "3) 2"
+                    },
+                    {
+                        "question": "What is the absolute value of 0?",
+                        "options": [
+                            "2) 1",
+                            "1) 0",
+                            "4) 2",
+                            "3) -1"
+                        ],
+                        "explanation": "The absolute value of a number is its distance from zero on the number line. Since zero is at the center, its distance from itself is zero.",
+                        "answer": "1) 0"
+                    },
+                    {
+                        "question": "If -2 is compared to +2, which integer is greater?",
+                        "options": [
+                            "2) +2",
+                            "4) Cannot determine",
+                            "1) -2",
+                            "3) They are equal"
+                        ],
+                        "explanation": "+2 is to the right of -2 on the number line, hence +2 is greater than -2.",
+                        "answer": "2) +2"
+                    },
+                    {
+                        "question": "What is the result of comparing -5 and -1 on a number line?",
+                        "options": [
+                            "3) They are equal",
+                            "1) -5 is greater than -1",
+                            "2) -1 is greater than -5",
+                            "4) Cannot determine"
+                        ],
+                        "explanation": "On the number line, -1 is to the right of -5, indicating that -1 is greater than -5.",
+                        "answer": "2) -1 is greater than -5"
+                    },
+                    {
+                        "question": "If the distance between -3 and +4 is calculated, what is that distance?",
+                        "options": [
+                            "4) 9",
+                            "3) 6",
+                            "2) 7",
+                            "1) 8"
+                        ],
+                        "explanation": "The distance is found by calculating |-3 - 4| = |-7| = 7 units apart.",
+                        "answer": "2) 7"
+                    },
+                    {
+                        "question": "Which of the following integers is less than -3?",
+                        "options": [
+                            "4) +3",
+                            "3) 0",
+                            "2) -4",
+                            "1) -2"
+                        ],
+                        "explanation": "On the number line, -4 is further left than -3, making -4 less than -3.",
+                        "answer": "2) -4"
+                    },
+                    {
+                        "question": "Absolute value is represented by which of the following symbols?",
+                        "options": [
+                            "3) ||",
+                            "2) []",
+                            "4) {}",
+                            "1) ()"
+                        ],
+                        "explanation": "Absolute value is denoted by vertical bars around the number, represented as ||.",
+                        "answer": "3) ||"
+                    },
+                    {
+                        "question": "Which integer is the farthest from zero?",
+                        "options": [
+                            "1) +5",
+                            "4) +2",
+                            "3) -3",
+                            "2) -8"
+                        ],
+                        "explanation": "The integer -8 has a greater absolute value than the others, which means it is the farthest from zero.",
+                        "answer": "2) -8"
+                    },
+                    {
+                        "question": "How would you represent the absolute value of +6?",
+                        "options": [
+                            "3) |-6|",
+                            "4) All of the above",
+                            "2) 6",
+                            "1) |6|"
+                        ],
+                        "explanation": "The absolute value of +6 is represented as |6|, which equals 6, and |-6| also equals 6, so all listed forms represent the same concept.",
+                        "answer": "4) All of the above"
+                    },
+                    {
+                        "question": "If you compare +7 and -4 on a number line, which statement is true?",
+                        "options": [
+                            "4) Cannot determine",
+                            "2) -4 is equal to +7",
+                            "1) +7 is less than -4",
+                            "3) +7 is greater than -4"
+                        ],
+                        "explanation": "+7 is to the right of -4 on the number line, hence +7 is greater than -4.",
+                        "answer": "3) +7 is greater than -4"
+                    }
+                ]
+            },
+            {
+                "quiz_grade": 90.0,
+                "wrong_answers": [
+                    9
+                ],
+                "attempt_number": 3,
+                "quiz": [
+                    {
+                        "question": "Which of the following is an example of a positive integer?",
+                        "options": [
+                            "3) 2",
+                            "2) 0",
+                            "1) -3",
+                            "4) -1"
+                        ],
+                        "explanation": "Positive integers are whole numbers greater than zero. 2 is greater than zero, making it a positive integer, while the others are either negative or zero.",
+                        "answer": "3) 2"
+                    },
+                    {
+                        "question": "What is the absolute value of 0?",
+                        "options": [
+                            "2) 1",
+                            "1) 0",
+                            "4) 2",
+                            "3) -1"
+                        ],
+                        "explanation": "The absolute value of a number is its distance from zero on the number line. Since zero is at the center, its distance from itself is zero.",
+                        "answer": "1) 0"
+                    },
+                    {
+                        "question": "If -2 is compared to +2, which integer is greater?",
+                        "options": [
+                            "2) +2",
+                            "4) Cannot determine",
+                            "1) -2",
+                            "3) They are equal"
+                        ],
+                        "explanation": "+2 is to the right of -2 on the number line, hence +2 is greater than -2.",
+                        "answer": "2) +2"
+                    },
+                    {
+                        "question": "What is the result of comparing -5 and -1 on a number line?",
+                        "options": [
+                            "3) They are equal",
+                            "1) -5 is greater than -1",
+                            "2) -1 is greater than -5",
+                            "4) Cannot determine"
+                        ],
+                        "explanation": "On the number line, -1 is to the right of -5, indicating that -1 is greater than -5.",
+                        "answer": "2) -1 is greater than -5"
+                    },
+                    {
+                        "question": "If the distance between -3 and +4 is calculated, what is that distance?",
+                        "options": [
+                            "4) 9",
+                            "3) 6",
+                            "2) 7",
+                            "1) 8"
+                        ],
+                        "explanation": "The distance is found by calculating |-3 - 4| = |-7| = 7 units apart.",
+                        "answer": "2) 7"
+                    },
+                    {
+                        "question": "Which of the following integers is less than -3?",
+                        "options": [
+                            "4) +3",
+                            "3) 0",
+                            "2) -4",
+                            "1) -2"
+                        ],
+                        "explanation": "On the number line, -4 is further left than -3, making -4 less than -3.",
+                        "answer": "2) -4"
+                    },
+                    {
+                        "question": "Absolute value is represented by which of the following symbols?",
+                        "options": [
+                            "3) ||",
+                            "2) []",
+                            "4) {}",
+                            "1) ()"
+                        ],
+                        "explanation": "Absolute value is denoted by vertical bars around the number, represented as ||.",
+                        "answer": "3) ||"
+                    },
+                    {
+                        "question": "Which integer is the farthest from zero?",
+                        "options": [
+                            "1) +5",
+                            "4) +2",
+                            "3) -3",
+                            "2) -8"
+                        ],
+                        "explanation": "The integer -8 has a greater absolute value than the others, which means it is the farthest from zero.",
+                        "answer": "2) -8"
+                    },
+                    {
+                        "question": "How would you represent the absolute value of +6?",
+                        "options": [
+                            "3) |-6|",
+                            "4) All of the above",
+                            "2) 6",
+                            "1) |6|"
+                        ],
+                        "explanation": "The absolute value of +6 is represented as |6|, which equals 6, and |-6| also equals 6, so all listed forms represent the same concept.",
+                        "answer": "4) All of the above"
+                    },
+                    {
+                        "question": "If you compare +7 and -4 on a number line, which statement is true?",
+                        "options": [
+                            "4) Cannot determine",
+                            "2) -4 is equal to +7",
+                            "1) +7 is less than -4",
+                            "3) +7 is greater than -4"
+                        ],
+                        "explanation": "+7 is to the right of -4 on the number line, hence +7 is greater than -4.",
+                        "answer": "3) +7 is greater than -4"
+                    }
+                ]
+            },
+            {
+                "quiz_grade": 90.0,
+                "wrong_answers": [
+                    9
+                ],
+                "attempt_number": 4,
+                "quiz": [
+                    {
+                        "question": "Which of the following is an example of a positive integer?",
+                        "options": [
+                            "3) 2",
+                            "2) 0",
+                            "1) -3",
+                            "4) -1"
+                        ],
+                        "explanation": "Positive integers are whole numbers greater than zero. 2 is greater than zero, making it a positive integer, while the others are either negative or zero.",
+                        "answer": "3) 2"
+                    },
+                    {
+                        "question": "What is the absolute value of 0?",
+                        "options": [
+                            "2) 1",
+                            "1) 0",
+                            "4) 2",
+                            "3) -1"
+                        ],
+                        "explanation": "The absolute value of a number is its distance from zero on the number line. Since zero is at the center, its distance from itself is zero.",
+                        "answer": "1) 0"
+                    },
+                    {
+                        "question": "If -2 is compared to +2, which integer is greater?",
+                        "options": [
+                            "2) +2",
+                            "4) Cannot determine",
+                            "1) -2",
+                            "3) They are equal"
+                        ],
+                        "explanation": "+2 is to the right of -2 on the number line, hence +2 is greater than -2.",
+                        "answer": "2) +2"
+                    },
+                    {
+                        "question": "What is the result of comparing -5 and -1 on a number line?",
+                        "options": [
+                            "3) They are equal",
+                            "1) -5 is greater than -1",
+                            "2) -1 is greater than -5",
+                            "4) Cannot determine"
+                        ],
+                        "explanation": "On the number line, -1 is to the right of -5, indicating that -1 is greater than -5.",
+                        "answer": "2) -1 is greater than -5"
+                    },
+                    {
+                        "question": "If the distance between -3 and +4 is calculated, what is that distance?",
+                        "options": [
+                            "4) 9",
+                            "3) 6",
+                            "2) 7",
+                            "1) 8"
+                        ],
+                        "explanation": "The distance is found by calculating |-3 - 4| = |-7| = 7 units apart.",
+                        "answer": "2) 7"
+                    },
+                    {
+                        "question": "Which of the following integers is less than -3?",
+                        "options": [
+                            "4) +3",
+                            "3) 0",
+                            "2) -4",
+                            "1) -2"
+                        ],
+                        "explanation": "On the number line, -4 is further left than -3, making -4 less than -3.",
+                        "answer": "2) -4"
+                    },
+                    {
+                        "question": "Absolute value is represented by which of the following symbols?",
+                        "options": [
+                            "3) ||",
+                            "2) []",
+                            "4) {}",
+                            "1) ()"
+                        ],
+                        "explanation": "Absolute value is denoted by vertical bars around the number, represented as ||.",
+                        "answer": "3) ||"
+                    },
+                    {
+                        "question": "Which integer is the farthest from zero?",
+                        "options": [
+                            "1) +5",
+                            "4) +2",
+                            "3) -3",
+                            "2) -8"
+                        ],
+                        "explanation": "The integer -8 has a greater absolute value than the others, which means it is the farthest from zero.",
+                        "answer": "2) -8"
+                    },
+                    {
+                        "question": "How would you represent the absolute value of +6?",
+                        "options": [
+                            "3) |-6|",
+                            "4) All of the above",
+                            "2) 6",
+                            "1) |6|"
+                        ],
+                        "explanation": "The absolute value of +6 is represented as |6|, which equals 6, and |-6| also equals 6, so all listed forms represent the same concept.",
+                        "answer": "4) All of the above"
+                    },
+                    {
+                        "question": "If you compare +7 and -4 on a number line, which statement is true?",
+                        "options": [
+                            "4) Cannot determine",
+                            "2) -4 is equal to +7",
+                            "1) +7 is less than -4",
+                            "3) +7 is greater than -4"
+                        ],
+                        "explanation": "+7 is to the right of -4 on the number line, hence +7 is greater than -4.",
+                        "answer": "3) +7 is greater than -4"
+                    }
+                ]
+            }
+        ],
+        "Mathematics Advanced": [
+            {
+                "quiz_grade": 70.0,
+                "wrong_answers": [
+                    3,
+                    5,
+                    9
+                ],
+                "attempt_number": 2,
+                "quiz": [
+                    {
+                        "question": "What is the solution to the equation x - 3 = 10?",
+                        "options": [
+                            "2) x = 10",
+                            "1) x = 7",
+                            "3) x = 13",
+                            "4) x = 3"
+                        ],
+                        "explanation": "To find x, add 3 to both sides: x - 3 + 3 = 10 + 3, resulting in x = 13.",
+                        "answer": "3) x = 13"
+                    },
+                    {
+                        "question": "In the equation 8 + x = 15, what is the value of x?",
+                        "options": [
+                            "1) x = 23",
+                            "4) x = 8",
+                            "3) x = 15",
+                            "2) x = 7"
+                        ],
+                        "explanation": "To find x, subtract 8 from both sides: 8 + x - 8 = 15 - 8, resulting in x = 7.",
+                        "answer": "2) x = 7"
+                    },
+                    {
+                        "question": "If 5x = 25, what is the value of x?",
+                        "options": [
+                            "3) x = 4",
+                            "2) x = 5",
+                            "1) x = 25",
+                            "4) x = 20"
+                        ],
+                        "explanation": "To find x, divide both sides by 5: 5x / 5 = 25 / 5, resulting in x = 5.",
+                        "answer": "2) x = 5"
+                    },
+                    {
+                        "question": "What is the solution to the equation x / 4 = 2?",
+                        "options": [
+                            "3) x = 4",
+                            "4) x = 6",
+                            "2) x = 2",
+                            "1) x = 8"
+                        ],
+                        "explanation": "To isolate x, multiply both sides by 4: (x / 4) * 4 = 2 * 4, resulting in x = 8.",
+                        "answer": "1) x = 8"
+                    },
+                    {
+                        "question": "In the equation x + 10 = 30, what should you do first to isolate x?",
+                        "options": [
+                            "2) Subtract 10 from both sides",
+                            "3) Multiply both sides by 2",
+                            "1) Add 10 to both sides",
+                            "4) Divide both sides by 10"
+                        ],
+                        "explanation": "To isolate x, subtract 10 from both sides: x + 10 - 10 = 30 - 10.",
+                        "answer": "2) Subtract 10 from both sides"
+                    },
+                    {
+                        "question": "What does the equation 3x = 9 solve for?",
+                        "options": [
+                            "3) x = 6",
+                            "1) x = 3",
+                            "2) x = 9",
+                            "4) x = 0"
+                        ],
+                        "explanation": "To isolate x, divide both sides by 3: 3x / 3 = 9 / 3, resulting in x = 3.",
+                        "answer": "1) x = 3"
+                    },
+                    {
+                        "question": "If the equation is x + 12 = 20, what is x?",
+                        "options": [
+                            "4) x = 20",
+                            "2) x = 12",
+                            "3) x = 7",
+                            "1) x = 8"
+                        ],
+                        "explanation": "To find x, subtract 12 from both sides: x + 12 - 12 = 20 - 12, resulting in x = 8.",
+                        "answer": "1) x = 8"
+                    },
+                    {
+                        "question": "What is the solution to x - 5 = 0?",
+                        "options": [
+                            "1) x = -5",
+                            "2) x = 5",
+                            "4) x = 10",
+                            "3) x = 0"
+                        ],
+                        "explanation": "To isolate x, add 5 to both sides: x - 5 + 5 = 0 + 5, resulting in x = 5.",
+                        "answer": "2) x = 5"
+                    },
+                    {
+                        "question": "What is the value of x in the equation 16 = x + 7?",
+                        "options": [
+                            "1) x = 9",
+                            "3) x = 16",
+                            "2) x = 7",
+                            "4) x = 23"
+                        ],
+                        "explanation": "To find x, subtract 7 from both sides: 16 - 7 = x + 7 - 7, resulting in x = 9.",
+                        "answer": "1) x = 9"
+                    },
+                    {
+                        "question": "If x / 10 = 5, what is x?",
+                        "options": [
+                            "2) x = 10",
+                            "3) x = 50",
+                            "1) x = 5",
+                            "4) x = 100"
+                        ],
+                        "explanation": "To isolate x, multiply both sides by 10: (x / 10) * 10 = 5 * 10, resulting in x = 50.",
+                        "answer": "3) x = 50"
+                    }
+                ]
+            },
+            {
+                "quiz_grade": 80.0,
+                "wrong_answers": [
+                    3,
+                    9
+                ],
+                "attempt_number": 3,
+                "quiz": [
+                    {
+                        "question": "What is the solution to the equation x - 3 = 10?",
+                        "options": [
+                            "2) x = 10",
+                            "1) x = 7",
+                            "3) x = 13",
+                            "4) x = 3"
+                        ],
+                        "explanation": "To find x, add 3 to both sides: x - 3 + 3 = 10 + 3, resulting in x = 13.",
+                        "answer": "3) x = 13"
+                    },
+                    {
+                        "question": "In the equation 8 + x = 15, what is the value of x?",
+                        "options": [
+                            "1) x = 23",
+                            "4) x = 8",
+                            "3) x = 15",
+                            "2) x = 7"
+                        ],
+                        "explanation": "To find x, subtract 8 from both sides: 8 + x - 8 = 15 - 8, resulting in x = 7.",
+                        "answer": "2) x = 7"
+                    },
+                    {
+                        "question": "If 5x = 25, what is the value of x?",
+                        "options": [
+                            "3) x = 4",
+                            "2) x = 5",
+                            "1) x = 25",
+                            "4) x = 20"
+                        ],
+                        "explanation": "To find x, divide both sides by 5: 5x / 5 = 25 / 5, resulting in x = 5.",
+                        "answer": "2) x = 5"
+                    },
+                    {
+                        "question": "What is the solution to the equation x / 4 = 2?",
+                        "options": [
+                            "3) x = 4",
+                            "4) x = 6",
+                            "2) x = 2",
+                            "1) x = 8"
+                        ],
+                        "explanation": "To isolate x, multiply both sides by 4: (x / 4) * 4 = 2 * 4, resulting in x = 8.",
+                        "answer": "1) x = 8"
+                    },
+                    {
+                        "question": "In the equation x + 10 = 30, what should you do first to isolate x?",
+                        "options": [
+                            "2) Subtract 10 from both sides",
+                            "3) Multiply both sides by 2",
+                            "1) Add 10 to both sides",
+                            "4) Divide both sides by 10"
+                        ],
+                        "explanation": "To isolate x, subtract 10 from both sides: x + 10 - 10 = 30 - 10.",
+                        "answer": "2) Subtract 10 from both sides"
+                    },
+                    {
+                        "question": "What does the equation 3x = 9 solve for?",
+                        "options": [
+                            "3) x = 6",
+                            "1) x = 3",
+                            "2) x = 9",
+                            "4) x = 0"
+                        ],
+                        "explanation": "To isolate x, divide both sides by 3: 3x / 3 = 9 / 3, resulting in x = 3.",
+                        "answer": "1) x = 3"
+                    },
+                    {
+                        "question": "If the equation is x + 12 = 20, what is x?",
+                        "options": [
+                            "4) x = 20",
+                            "2) x = 12",
+                            "3) x = 7",
+                            "1) x = 8"
+                        ],
+                        "explanation": "To find x, subtract 12 from both sides: x + 12 - 12 = 20 - 12, resulting in x = 8.",
+                        "answer": "1) x = 8"
+                    },
+                    {
+                        "question": "What is the solution to x - 5 = 0?",
+                        "options": [
+                            "1) x = -5",
+                            "2) x = 5",
+                            "4) x = 10",
+                            "3) x = 0"
+                        ],
+                        "explanation": "To isolate x, add 5 to both sides: x - 5 + 5 = 0 + 5, resulting in x = 5.",
+                        "answer": "2) x = 5"
+                    },
+                    {
+                        "question": "What is the value of x in the equation 16 = x + 7?",
+                        "options": [
+                            "1) x = 9",
+                            "3) x = 16",
+                            "2) x = 7",
+                            "4) x = 23"
+                        ],
+                        "explanation": "To find x, subtract 7 from both sides: 16 - 7 = x + 7 - 7, resulting in x = 9.",
+                        "answer": "1) x = 9"
+                    },
+                    {
+                        "question": "If x / 10 = 5, what is x?",
+                        "options": [
+                            "2) x = 10",
+                            "3) x = 50",
+                            "1) x = 5",
+                            "4) x = 100"
+                        ],
+                        "explanation": "To isolate x, multiply both sides by 10: (x / 10) * 10 = 5 * 10, resulting in x = 50.",
+                        "answer": "3) x = 50"
+                    }
+                ]
+            },
+            {
+                "quiz_grade": 90.0,
+                "wrong_answers": [
+                    3
+                ],
+                "attempt_number": 4,
+                "quiz": [
+                    {
+                        "question": "What is the solution to the equation x - 3 = 10?",
+                        "options": [
+                            "2) x = 10",
+                            "1) x = 7",
+                            "3) x = 13",
+                            "4) x = 3"
+                        ],
+                        "explanation": "To find x, add 3 to both sides: x - 3 + 3 = 10 + 3, resulting in x = 13.",
+                        "answer": "3) x = 13"
+                    },
+                    {
+                        "question": "In the equation 8 + x = 15, what is the value of x?",
+                        "options": [
+                            "1) x = 23",
+                            "4) x = 8",
+                            "3) x = 15",
+                            "2) x = 7"
+                        ],
+                        "explanation": "To find x, subtract 8 from both sides: 8 + x - 8 = 15 - 8, resulting in x = 7.",
+                        "answer": "2) x = 7"
+                    },
+                    {
+                        "question": "If 5x = 25, what is the value of x?",
+                        "options": [
+                            "3) x = 4",
+                            "2) x = 5",
+                            "1) x = 25",
+                            "4) x = 20"
+                        ],
+                        "explanation": "To find x, divide both sides by 5: 5x / 5 = 25 / 5, resulting in x = 5.",
+                        "answer": "2) x = 5"
+                    },
+                    {
+                        "question": "What is the solution to the equation x / 4 = 2?",
+                        "options": [
+                            "3) x = 4",
+                            "4) x = 6",
+                            "2) x = 2",
+                            "1) x = 8"
+                        ],
+                        "explanation": "To isolate x, multiply both sides by 4: (x / 4) * 4 = 2 * 4, resulting in x = 8.",
+                        "answer": "1) x = 8"
+                    },
+                    {
+                        "question": "In the equation x + 10 = 30, what should you do first to isolate x?",
+                        "options": [
+                            "2) Subtract 10 from both sides",
+                            "3) Multiply both sides by 2",
+                            "1) Add 10 to both sides",
+                            "4) Divide both sides by 10"
+                        ],
+                        "explanation": "To isolate x, subtract 10 from both sides: x + 10 - 10 = 30 - 10.",
+                        "answer": "2) Subtract 10 from both sides"
+                    },
+                    {
+                        "question": "What does the equation 3x = 9 solve for?",
+                        "options": [
+                            "3) x = 6",
+                            "1) x = 3",
+                            "2) x = 9",
+                            "4) x = 0"
+                        ],
+                        "explanation": "To isolate x, divide both sides by 3: 3x / 3 = 9 / 3, resulting in x = 3.",
+                        "answer": "1) x = 3"
+                    },
+                    {
+                        "question": "If the equation is x + 12 = 20, what is x?",
+                        "options": [
+                            "4) x = 20",
+                            "2) x = 12",
+                            "3) x = 7",
+                            "1) x = 8"
+                        ],
+                        "explanation": "To find x, subtract 12 from both sides: x + 12 - 12 = 20 - 12, resulting in x = 8.",
+                        "answer": "1) x = 8"
+                    },
+                    {
+                        "question": "What is the solution to x - 5 = 0?",
+                        "options": [
+                            "1) x = -5",
+                            "2) x = 5",
+                            "4) x = 10",
+                            "3) x = 0"
+                        ],
+                        "explanation": "To isolate x, add 5 to both sides: x - 5 + 5 = 0 + 5, resulting in x = 5.",
+                        "answer": "2) x = 5"
+                    },
+                    {
+                        "question": "What is the value of x in the equation 16 = x + 7?",
+                        "options": [
+                            "1) x = 9",
+                            "3) x = 16",
+                            "2) x = 7",
+                            "4) x = 23"
+                        ],
+                        "explanation": "To find x, subtract 7 from both sides: 16 - 7 = x + 7 - 7, resulting in x = 9.",
+                        "answer": "1) x = 9"
+                    },
+                    {
+                        "question": "If x / 10 = 5, what is x?",
+                        "options": [
+                            "2) x = 10",
+                            "3) x = 50",
+                            "1) x = 5",
+                            "4) x = 100"
+                        ],
+                        "explanation": "To isolate x, multiply both sides by 10: (x / 10) * 10 = 5 * 10, resulting in x = 50.",
+                        "answer": "3) x = 50"
+                    }
+                ]
+            }
+        ],
+        "Science": [
+            {
+                "quiz_grade": 50.0,
+                "wrong_answers": [
+                    1,
+                    2,
+                    4,
+                    7,
+                    9
+                ],
+                "attempt_number": 2,
+                "quiz": [
+                    {
+                        "question": "What is the substance formed as a result of a chemical reaction called?",
+                        "options": [
+                            "1) Reactant",
+                            "2) Product",
+                            "4) Solvent",
+                            "3) Catalyst"
+                        ],
+                        "explanation": "In a chemical reaction, the substance that is produced is referred to as the product, while the starting materials are called reactants.",
+                        "answer": "2) Product"
+                    },
+                    {
+                        "question": "What does the law of conservation of mass state in relation to chemical reactions?",
+                        "options": [
+                            "4) Mass can be converted into energy",
+                            "1) Mass can be created",
+                            "2) Mass must be destroyed",
+                            "3) Mass is always conserved"
+                        ],
+                        "explanation": "The law of conservation of mass states that matter cannot be created or destroyed in a closed system, meaning that the total mass of the reactants must equal the total mass of the products.",
+                        "answer": "3) Mass is always conserved"
+                    },
+                    {
+                        "question": "In the reaction 2H2 + O2 \u2192 2H2O, how many oxygen atoms are present in the reactants?",
+                        "options": [
+                            "1) 1",
+                            "3) 4",
+                            "4) 3",
+                            "2) 2"
+                        ],
+                        "explanation": "In the balanced equation, there is one O2 molecule, which contains 2 oxygen atoms in the reactants.",
+                        "answer": "2) 2"
+                    },
+                    {
+                        "question": "What type of reaction is represented by the following equation: 2Na + Cl2 \u2192 2NaCl?",
+                        "options": [
+                            "3) Synthesis",
+                            "1) Decomposition",
+                            "4) Single Displacement",
+                            "2) Combustion"
+                        ],
+                        "explanation": "This reaction shows two elements (sodium and chlorine) combining to form a single compound (sodium chloride), which is characteristic of a synthesis reaction.",
+                        "answer": "3) Synthesis"
+                    },
+                    {
+                        "question": "Which of the following is an example of a decomposition reaction?",
+                        "options": [
+                            "3) Electrolysis of water",
+                            "4) Rusting of iron",
+                            "1) Burning of wood",
+                            "2) Baking soda reacting with vinegar"
+                        ],
+                        "explanation": "Decomposition reactions involve a single compound breaking down into simpler substances, as seen in the electrolysis of water into hydrogen and oxygen gases.",
+                        "answer": "3) Electrolysis of water"
+                    },
+                    {
+                        "question": "In a combustion reaction, what is primarily being reacted with oxygen?",
+                        "options": [
+                            "3) Organic compounds",
+                            "1) Metals",
+                            "4) Water",
+                            "2) Non-metals"
+                        ],
+                        "explanation": "Combustion reactions typically involve organic compounds (such as hydrocarbons) reacting rapidly with oxygen, resulting in the release of energy.",
+                        "answer": "3) Organic compounds"
+                    },
+                    {
+                        "question": "What is formed during a double displacement reaction?",
+                        "options": [
+                            "2) Two new compounds",
+                            "3) Only elements",
+                            "4) Gases only",
+                            "1) A single product"
+                        ],
+                        "explanation": "In a double displacement reaction, two compounds exchange ions to form two new compounds, as demonstrated in the reaction between sodium chloride and silver nitrate.",
+                        "answer": "2) Two new compounds"
+                    },
+                    {
+                        "question": "The reaction of zinc with hydrochloric acid produces which of the following?",
+                        "options": [
+                            "2) Zinc chloride and hydrogen gas",
+                            "1) Zinc chloride and water",
+                            "3) Zinc oxide and hydrochloric acid",
+                            "4) Zinc and chlorine gas"
+                        ],
+                        "explanation": "When zinc reacts with hydrochloric acid, it produces zinc chloride and hydrogen gas, fitting the definition of a single displacement reaction.",
+                        "answer": "2) Zinc chloride and hydrogen gas"
+                    },
+                    {
+                        "question": "During photosynthesis, what two substances are primarily converted into glucose?",
+                        "options": [
+                            "4) Water and nitrogen",
+                            "2) Carbon dioxide and water",
+                            "1) Oxygen and nitrogen",
+                            "3) Oxygen and carbon"
+                        ],
+                        "explanation": "Photosynthesis converts carbon dioxide and water into glucose and oxygen, utilizing sunlight in the process.",
+                        "answer": "2) Carbon dioxide and water"
+                    },
+                    {
+                        "question": "What do we call the symbols and formulas that represent a chemical reaction?",
+                        "options": [
+                            "1) Chemical equation",
+                            "4) Chemical compound",
+                            "2) Chemical formula",
+                            "3) Chemical property"
+                        ],
+                        "explanation": "A chemical equation is a symbolic representation of a chemical reaction, indicating reactants and products along with their states.",
+                        "answer": "1) Chemical equation"
+                    }
+                ]
+            },
+            {
+                "quiz_grade": 50.0,
+                "wrong_answers": [
+                    1,
+                    4,
+                    5,
+                    7,
+                    9
+                ],
+                "attempt_number": 3,
+                "quiz": [
+                    {
+                        "question": "What is the substance formed as a result of a chemical reaction called?",
+                        "options": [
+                            "1) Reactant",
+                            "2) Product",
+                            "4) Solvent",
+                            "3) Catalyst"
+                        ],
+                        "explanation": "In a chemical reaction, the substance that is produced is referred to as the product, while the starting materials are called reactants.",
+                        "answer": "2) Product"
+                    },
+                    {
+                        "question": "What does the law of conservation of mass state in relation to chemical reactions?",
+                        "options": [
+                            "4) Mass can be converted into energy",
+                            "1) Mass can be created",
+                            "2) Mass must be destroyed",
+                            "3) Mass is always conserved"
+                        ],
+                        "explanation": "The law of conservation of mass states that matter cannot be created or destroyed in a closed system, meaning that the total mass of the reactants must equal the total mass of the products.",
+                        "answer": "3) Mass is always conserved"
+                    },
+                    {
+                        "question": "In the reaction 2H2 + O2 \u2192 2H2O, how many oxygen atoms are present in the reactants?",
+                        "options": [
+                            "1) 1",
+                            "3) 4",
+                            "4) 3",
+                            "2) 2"
+                        ],
+                        "explanation": "In the balanced equation, there is one O2 molecule, which contains 2 oxygen atoms in the reactants.",
+                        "answer": "2) 2"
+                    },
+                    {
+                        "question": "What type of reaction is represented by the following equation: 2Na + Cl2 \u2192 2NaCl?",
+                        "options": [
+                            "3) Synthesis",
+                            "1) Decomposition",
+                            "4) Single Displacement",
+                            "2) Combustion"
+                        ],
+                        "explanation": "This reaction shows two elements (sodium and chlorine) combining to form a single compound (sodium chloride), which is characteristic of a synthesis reaction.",
+                        "answer": "3) Synthesis"
+                    },
+                    {
+                        "question": "Which of the following is an example of a decomposition reaction?",
+                        "options": [
+                            "3) Electrolysis of water",
+                            "4) Rusting of iron",
+                            "1) Burning of wood",
+                            "2) Baking soda reacting with vinegar"
+                        ],
+                        "explanation": "Decomposition reactions involve a single compound breaking down into simpler substances, as seen in the electrolysis of water into hydrogen and oxygen gases.",
+                        "answer": "3) Electrolysis of water"
+                    },
+                    {
+                        "question": "In a combustion reaction, what is primarily being reacted with oxygen?",
+                        "options": [
+                            "3) Organic compounds",
+                            "1) Metals",
+                            "4) Water",
+                            "2) Non-metals"
+                        ],
+                        "explanation": "Combustion reactions typically involve organic compounds (such as hydrocarbons) reacting rapidly with oxygen, resulting in the release of energy.",
+                        "answer": "3) Organic compounds"
+                    },
+                    {
+                        "question": "What is formed during a double displacement reaction?",
+                        "options": [
+                            "2) Two new compounds",
+                            "3) Only elements",
+                            "4) Gases only",
+                            "1) A single product"
+                        ],
+                        "explanation": "In a double displacement reaction, two compounds exchange ions to form two new compounds, as demonstrated in the reaction between sodium chloride and silver nitrate.",
+                        "answer": "2) Two new compounds"
+                    },
+                    {
+                        "question": "The reaction of zinc with hydrochloric acid produces which of the following?",
+                        "options": [
+                            "2) Zinc chloride and hydrogen gas",
+                            "1) Zinc chloride and water",
+                            "3) Zinc oxide and hydrochloric acid",
+                            "4) Zinc and chlorine gas"
+                        ],
+                        "explanation": "When zinc reacts with hydrochloric acid, it produces zinc chloride and hydrogen gas, fitting the definition of a single displacement reaction.",
+                        "answer": "2) Zinc chloride and hydrogen gas"
+                    },
+                    {
+                        "question": "During photosynthesis, what two substances are primarily converted into glucose?",
+                        "options": [
+                            "4) Water and nitrogen",
+                            "2) Carbon dioxide and water",
+                            "1) Oxygen and nitrogen",
+                            "3) Oxygen and carbon"
+                        ],
+                        "explanation": "Photosynthesis converts carbon dioxide and water into glucose and oxygen, utilizing sunlight in the process.",
+                        "answer": "2) Carbon dioxide and water"
+                    },
+                    {
+                        "question": "What do we call the symbols and formulas that represent a chemical reaction?",
+                        "options": [
+                            "1) Chemical equation",
+                            "4) Chemical compound",
+                            "2) Chemical formula",
+                            "3) Chemical property"
+                        ],
+                        "explanation": "A chemical equation is a symbolic representation of a chemical reaction, indicating reactants and products along with their states.",
+                        "answer": "1) Chemical equation"
+                    }
+                ]
+            },
+            {
+                "quiz_grade": 40.0,
+                "wrong_answers": [
+                    0,
+                    1,
+                    2,
+                    5,
+                    7,
+                    9
+                ],
+                "attempt_number": 4,
+                "quiz": [
+                    {
+                        "question": "What is the substance formed as a result of a chemical reaction called?",
+                        "options": [
+                            "1) Reactant",
+                            "2) Product",
+                            "4) Solvent",
+                            "3) Catalyst"
+                        ],
+                        "explanation": "In a chemical reaction, the substance that is produced is referred to as the product, while the starting materials are called reactants.",
+                        "answer": "2) Product"
+                    },
+                    {
+                        "question": "What does the law of conservation of mass state in relation to chemical reactions?",
+                        "options": [
+                            "4) Mass can be converted into energy",
+                            "1) Mass can be created",
+                            "2) Mass must be destroyed",
+                            "3) Mass is always conserved"
+                        ],
+                        "explanation": "The law of conservation of mass states that matter cannot be created or destroyed in a closed system, meaning that the total mass of the reactants must equal the total mass of the products.",
+                        "answer": "3) Mass is always conserved"
+                    },
+                    {
+                        "question": "In the reaction 2H2 + O2 \u2192 2H2O, how many oxygen atoms are present in the reactants?",
+                        "options": [
+                            "1) 1",
+                            "3) 4",
+                            "4) 3",
+                            "2) 2"
+                        ],
+                        "explanation": "In the balanced equation, there is one O2 molecule, which contains 2 oxygen atoms in the reactants.",
+                        "answer": "2) 2"
+                    },
+                    {
+                        "question": "What type of reaction is represented by the following equation: 2Na + Cl2 \u2192 2NaCl?",
+                        "options": [
+                            "3) Synthesis",
+                            "1) Decomposition",
+                            "4) Single Displacement",
+                            "2) Combustion"
+                        ],
+                        "explanation": "This reaction shows two elements (sodium and chlorine) combining to form a single compound (sodium chloride), which is characteristic of a synthesis reaction.",
+                        "answer": "3) Synthesis"
+                    },
+                    {
+                        "question": "Which of the following is an example of a decomposition reaction?",
+                        "options": [
+                            "3) Electrolysis of water",
+                            "4) Rusting of iron",
+                            "1) Burning of wood",
+                            "2) Baking soda reacting with vinegar"
+                        ],
+                        "explanation": "Decomposition reactions involve a single compound breaking down into simpler substances, as seen in the electrolysis of water into hydrogen and oxygen gases.",
+                        "answer": "3) Electrolysis of water"
+                    },
+                    {
+                        "question": "In a combustion reaction, what is primarily being reacted with oxygen?",
+                        "options": [
+                            "3) Organic compounds",
+                            "1) Metals",
+                            "4) Water",
+                            "2) Non-metals"
+                        ],
+                        "explanation": "Combustion reactions typically involve organic compounds (such as hydrocarbons) reacting rapidly with oxygen, resulting in the release of energy.",
+                        "answer": "3) Organic compounds"
+                    },
+                    {
+                        "question": "What is formed during a double displacement reaction?",
+                        "options": [
+                            "2) Two new compounds",
+                            "3) Only elements",
+                            "4) Gases only",
+                            "1) A single product"
+                        ],
+                        "explanation": "In a double displacement reaction, two compounds exchange ions to form two new compounds, as demonstrated in the reaction between sodium chloride and silver nitrate.",
+                        "answer": "2) Two new compounds"
+                    },
+                    {
+                        "question": "The reaction of zinc with hydrochloric acid produces which of the following?",
+                        "options": [
+                            "2) Zinc chloride and hydrogen gas",
+                            "1) Zinc chloride and water",
+                            "3) Zinc oxide and hydrochloric acid",
+                            "4) Zinc and chlorine gas"
+                        ],
+                        "explanation": "When zinc reacts with hydrochloric acid, it produces zinc chloride and hydrogen gas, fitting the definition of a single displacement reaction.",
+                        "answer": "2) Zinc chloride and hydrogen gas"
+                    },
+                    {
+                        "question": "During photosynthesis, what two substances are primarily converted into glucose?",
+                        "options": [
+                            "4) Water and nitrogen",
+                            "2) Carbon dioxide and water",
+                            "1) Oxygen and nitrogen",
+                            "3) Oxygen and carbon"
+                        ],
+                        "explanation": "Photosynthesis converts carbon dioxide and water into glucose and oxygen, utilizing sunlight in the process.",
+                        "answer": "2) Carbon dioxide and water"
+                    },
+                    {
+                        "question": "What do we call the symbols and formulas that represent a chemical reaction?",
+                        "options": [
+                            "1) Chemical equation",
+                            "4) Chemical compound",
+                            "2) Chemical formula",
+                            "3) Chemical property"
+                        ],
+                        "explanation": "A chemical equation is a symbolic representation of a chemical reaction, indicating reactants and products along with their states.",
+                        "answer": "1) Chemical equation"
+                    }
+                ]
+            },
+            {
+                "quiz_grade": 90.0,
+                "wrong_answers": [
+                    7
+                ],
+                "attempt_number": 2,
+                "quiz": [
+                    {
+                        "question": "What are the substances formed as a result of a chemical reaction called?",
+                        "options": [
+                            "1) Reactants",
+                            "4) Subscripts",
+                            "2) Products",
+                            "3) Coefficients"
+                        ],
+                        "explanation": "The substances that are formed at the end of a chemical reaction are called products.",
+                        "answer": "2) Products"
+                    },
+                    {
+                        "question": "Which of the following represents the law of conservation of mass in a chemical reaction?",
+                        "options": [
+                            "3) Energy is not conserved",
+                            "1) Matter can be created or destroyed",
+                            "4) Subscripts must change in the equation",
+                            "2) Atoms must be balanced on both sides"
+                        ],
+                        "explanation": "The law of conservation of mass states that matter cannot be created or destroyed, hence the number of atoms must remain balanced on both sides of a chemical equation.",
+                        "answer": "2) Atoms must be balanced on both sides"
+                    },
+                    {
+                        "question": "What is the reaction type called when a single compound breaks down into two or more simpler substances?",
+                        "options": [
+                            "1) Synthesis",
+                            "4) Combustion",
+                            "2) Decomposition",
+                            "3) Single Displacement"
+                        ],
+                        "explanation": "A reaction type in which a single compound breaks down into simpler substances is called decomposition.",
+                        "answer": "2) Decomposition"
+                    },
+                    {
+                        "question": "In a combustion reaction, what is released as a result of the rapid reaction with oxygen?",
+                        "options": [
+                            "1) Light or heat",
+                            "4) Hydrogen",
+                            "2) Water",
+                            "3) Carbon dioxide"
+                        ],
+                        "explanation": "Combustion reactions involve the rapid reaction of a substance with oxygen, leading to the release of energy in the form of light or heat.",
+                        "answer": "1) Light or heat"
+                    },
+                    {
+                        "question": "Which of the following is an example of photosynthesis?",
+                        "options": [
+                            "1) Glucose and oxygen are produced from carbon dioxide and water",
+                            "3) Water is electrolyzed into hydrogen and oxygen",
+                            "2) Iron sulfide is created from iron and sulfur",
+                            "4) Sodium chloride reacts with silver nitrate"
+                        ],
+                        "explanation": "Photosynthesis is the process by which plants convert carbon dioxide and water into glucose and oxygen using sunlight, making option 1) correct.",
+                        "answer": "1) Glucose and oxygen are produced from carbon dioxide and water"
+                    },
+                    {
+                        "question": "In the chemical equation 2H2 + O2 \u2192 2H2O, what is the coefficient for water (H2O)?",
+                        "options": [
+                            "4) 0",
+                            "3) 4",
+                            "2) 2",
+                            "1) 1"
+                        ],
+                        "explanation": "The coefficient for water in the balanced equation 2H2 + O2 \u2192 2H2O is 2, indicating there are two water molecules produced.",
+                        "answer": "2) 2"
+                    },
+                    {
+                        "question": "Which type of chemical reaction takes place when zinc reacts with hydrochloric acid?",
+                        "options": [
+                            "3) Decomposition",
+                            "1) Double Displacement",
+                            "4) Single Displacement",
+                            "2) Combustion"
+                        ],
+                        "explanation": "The reaction between zinc and hydrochloric acid is an example of a single displacement reaction, where one element replaces another in a compound.",
+                        "answer": "4) Single Displacement"
+                    },
+                    {
+                        "question": "What must be done to maintain balance in a chemical equation?",
+                        "options": [
+                            "3) Add more reactants",
+                            "2) Add coefficients only",
+                            "1) Change subscripts",
+                            "4) Remove products"
+                        ],
+                        "explanation": "To maintain balance in a chemical equation, one must add only coefficients in front of molecules, never changing the subscripts within a molecule.",
+                        "answer": "2) Add coefficients only"
+                    },
+                    {
+                        "question": "During which type of chemical reaction do two or more substances combine to form a single product?",
+                        "options": [
+                            "4) Combustion",
+                            "3) Double Displacement",
+                            "1) Decomposition",
+                            "2) Synthesis"
+                        ],
+                        "explanation": "A synthesis reaction occurs when two or more substances combine to form a single product, making option 2) the correct answer.",
+                        "answer": "2) Synthesis"
+                    },
+                    {
+                        "question": "What is the primary role of reactants in a chemical reaction?",
+                        "options": [
+                            "1) They are the end products",
+                            "3) They initiate the reaction and undergo change",
+                            "4) They are always solids",
+                            "2) They are unchanged throughout the reaction"
+                        ],
+                        "explanation": "Reactants are the starting substances in a chemical reaction that undergo change to form products, thus their primary role is to initiate the reaction.",
+                        "answer": "3) They initiate the reaction and undergo change"
+                    }
+                ]
+            },
+            {
+                "quiz_grade": 90.0,
+                "wrong_answers": [
+                    7
+                ],
+                "attempt_number": 3,
+                "quiz": [
+                    {
+                        "question": "What are the substances formed as a result of a chemical reaction called?",
+                        "options": [
+                            "1) Reactants",
+                            "4) Subscripts",
+                            "2) Products",
+                            "3) Coefficients"
+                        ],
+                        "explanation": "The substances that are formed at the end of a chemical reaction are called products.",
+                        "answer": "2) Products"
+                    },
+                    {
+                        "question": "Which of the following represents the law of conservation of mass in a chemical reaction?",
+                        "options": [
+                            "3) Energy is not conserved",
+                            "1) Matter can be created or destroyed",
+                            "4) Subscripts must change in the equation",
+                            "2) Atoms must be balanced on both sides"
+                        ],
+                        "explanation": "The law of conservation of mass states that matter cannot be created or destroyed, hence the number of atoms must remain balanced on both sides of a chemical equation.",
+                        "answer": "2) Atoms must be balanced on both sides"
+                    },
+                    {
+                        "question": "What is the reaction type called when a single compound breaks down into two or more simpler substances?",
+                        "options": [
+                            "1) Synthesis",
+                            "4) Combustion",
+                            "2) Decomposition",
+                            "3) Single Displacement"
+                        ],
+                        "explanation": "A reaction type in which a single compound breaks down into simpler substances is called decomposition.",
+                        "answer": "2) Decomposition"
+                    },
+                    {
+                        "question": "In a combustion reaction, what is released as a result of the rapid reaction with oxygen?",
+                        "options": [
+                            "1) Light or heat",
+                            "4) Hydrogen",
+                            "2) Water",
+                            "3) Carbon dioxide"
+                        ],
+                        "explanation": "Combustion reactions involve the rapid reaction of a substance with oxygen, leading to the release of energy in the form of light or heat.",
+                        "answer": "1) Light or heat"
+                    },
+                    {
+                        "question": "Which of the following is an example of photosynthesis?",
+                        "options": [
+                            "1) Glucose and oxygen are produced from carbon dioxide and water",
+                            "3) Water is electrolyzed into hydrogen and oxygen",
+                            "2) Iron sulfide is created from iron and sulfur",
+                            "4) Sodium chloride reacts with silver nitrate"
+                        ],
+                        "explanation": "Photosynthesis is the process by which plants convert carbon dioxide and water into glucose and oxygen using sunlight, making option 1) correct.",
+                        "answer": "1) Glucose and oxygen are produced from carbon dioxide and water"
+                    },
+                    {
+                        "question": "In the chemical equation 2H2 + O2 \u2192 2H2O, what is the coefficient for water (H2O)?",
+                        "options": [
+                            "4) 0",
+                            "3) 4",
+                            "2) 2",
+                            "1) 1"
+                        ],
+                        "explanation": "The coefficient for water in the balanced equation 2H2 + O2 \u2192 2H2O is 2, indicating there are two water molecules produced.",
+                        "answer": "2) 2"
+                    },
+                    {
+                        "question": "Which type of chemical reaction takes place when zinc reacts with hydrochloric acid?",
+                        "options": [
+                            "3) Decomposition",
+                            "1) Double Displacement",
+                            "4) Single Displacement",
+                            "2) Combustion"
+                        ],
+                        "explanation": "The reaction between zinc and hydrochloric acid is an example of a single displacement reaction, where one element replaces another in a compound.",
+                        "answer": "4) Single Displacement"
+                    },
+                    {
+                        "question": "What must be done to maintain balance in a chemical equation?",
+                        "options": [
+                            "3) Add more reactants",
+                            "2) Add coefficients only",
+                            "1) Change subscripts",
+                            "4) Remove products"
+                        ],
+                        "explanation": "To maintain balance in a chemical equation, one must add only coefficients in front of molecules, never changing the subscripts within a molecule.",
+                        "answer": "2) Add coefficients only"
+                    },
+                    {
+                        "question": "During which type of chemical reaction do two or more substances combine to form a single product?",
+                        "options": [
+                            "4) Combustion",
+                            "3) Double Displacement",
+                            "1) Decomposition",
+                            "2) Synthesis"
+                        ],
+                        "explanation": "A synthesis reaction occurs when two or more substances combine to form a single product, making option 2) the correct answer.",
+                        "answer": "2) Synthesis"
+                    },
+                    {
+                        "question": "What is the primary role of reactants in a chemical reaction?",
+                        "options": [
+                            "1) They are the end products",
+                            "3) They initiate the reaction and undergo change",
+                            "4) They are always solids",
+                            "2) They are unchanged throughout the reaction"
+                        ],
+                        "explanation": "Reactants are the starting substances in a chemical reaction that undergo change to form products, thus their primary role is to initiate the reaction.",
+                        "answer": "3) They initiate the reaction and undergo change"
+                    }
+                ]
+            },
+            {
+                "quiz_grade": 90.0,
+                "wrong_answers": [
+                    7
+                ],
+                "attempt_number": 4,
+                "quiz": [
+                    {
+                        "question": "What are the substances formed as a result of a chemical reaction called?",
+                        "options": [
+                            "1) Reactants",
+                            "4) Subscripts",
+                            "2) Products",
+                            "3) Coefficients"
+                        ],
+                        "explanation": "The substances that are formed at the end of a chemical reaction are called products.",
+                        "answer": "2) Products"
+                    },
+                    {
+                        "question": "Which of the following represents the law of conservation of mass in a chemical reaction?",
+                        "options": [
+                            "3) Energy is not conserved",
+                            "1) Matter can be created or destroyed",
+                            "4) Subscripts must change in the equation",
+                            "2) Atoms must be balanced on both sides"
+                        ],
+                        "explanation": "The law of conservation of mass states that matter cannot be created or destroyed, hence the number of atoms must remain balanced on both sides of a chemical equation.",
+                        "answer": "2) Atoms must be balanced on both sides"
+                    },
+                    {
+                        "question": "What is the reaction type called when a single compound breaks down into two or more simpler substances?",
+                        "options": [
+                            "1) Synthesis",
+                            "4) Combustion",
+                            "2) Decomposition",
+                            "3) Single Displacement"
+                        ],
+                        "explanation": "A reaction type in which a single compound breaks down into simpler substances is called decomposition.",
+                        "answer": "2) Decomposition"
+                    },
+                    {
+                        "question": "In a combustion reaction, what is released as a result of the rapid reaction with oxygen?",
+                        "options": [
+                            "1) Light or heat",
+                            "4) Hydrogen",
+                            "2) Water",
+                            "3) Carbon dioxide"
+                        ],
+                        "explanation": "Combustion reactions involve the rapid reaction of a substance with oxygen, leading to the release of energy in the form of light or heat.",
+                        "answer": "1) Light or heat"
+                    },
+                    {
+                        "question": "Which of the following is an example of photosynthesis?",
+                        "options": [
+                            "1) Glucose and oxygen are produced from carbon dioxide and water",
+                            "3) Water is electrolyzed into hydrogen and oxygen",
+                            "2) Iron sulfide is created from iron and sulfur",
+                            "4) Sodium chloride reacts with silver nitrate"
+                        ],
+                        "explanation": "Photosynthesis is the process by which plants convert carbon dioxide and water into glucose and oxygen using sunlight, making option 1) correct.",
+                        "answer": "1) Glucose and oxygen are produced from carbon dioxide and water"
+                    },
+                    {
+                        "question": "In the chemical equation 2H2 + O2 \u2192 2H2O, what is the coefficient for water (H2O)?",
+                        "options": [
+                            "4) 0",
+                            "3) 4",
+                            "2) 2",
+                            "1) 1"
+                        ],
+                        "explanation": "The coefficient for water in the balanced equation 2H2 + O2 \u2192 2H2O is 2, indicating there are two water molecules produced.",
+                        "answer": "2) 2"
+                    },
+                    {
+                        "question": "Which type of chemical reaction takes place when zinc reacts with hydrochloric acid?",
+                        "options": [
+                            "3) Decomposition",
+                            "1) Double Displacement",
+                            "4) Single Displacement",
+                            "2) Combustion"
+                        ],
+                        "explanation": "The reaction between zinc and hydrochloric acid is an example of a single displacement reaction, where one element replaces another in a compound.",
+                        "answer": "4) Single Displacement"
+                    },
+                    {
+                        "question": "What must be done to maintain balance in a chemical equation?",
+                        "options": [
+                            "3) Add more reactants",
+                            "2) Add coefficients only",
+                            "1) Change subscripts",
+                            "4) Remove products"
+                        ],
+                        "explanation": "To maintain balance in a chemical equation, one must add only coefficients in front of molecules, never changing the subscripts within a molecule.",
+                        "answer": "2) Add coefficients only"
+                    },
+                    {
+                        "question": "During which type of chemical reaction do two or more substances combine to form a single product?",
+                        "options": [
+                            "4) Combustion",
+                            "3) Double Displacement",
+                            "1) Decomposition",
+                            "2) Synthesis"
+                        ],
+                        "explanation": "A synthesis reaction occurs when two or more substances combine to form a single product, making option 2) the correct answer.",
+                        "answer": "2) Synthesis"
+                    },
+                    {
+                        "question": "What is the primary role of reactants in a chemical reaction?",
+                        "options": [
+                            "1) They are the end products",
+                            "3) They initiate the reaction and undergo change",
+                            "4) They are always solids",
+                            "2) They are unchanged throughout the reaction"
+                        ],
+                        "explanation": "Reactants are the starting substances in a chemical reaction that undergo change to form products, thus their primary role is to initiate the reaction.",
+                        "answer": "3) They initiate the reaction and undergo change"
+                    }
+                ]
+            }
+        ],
+        "Social Studies": [
+            {
+                "quiz_grade": 90.0,
+                "wrong_answers": [
+                    0
+                ],
+                "attempt_number": 2,
+                "quiz": [
+                    {
+                        "question": "What type of democracy was practiced in ancient Athens?",
+                        "options": [
+                            "2) Representative democracy",
+                            "4) Monarchy",
+                            "1) Direct democracy",
+                            "3) Oligarchy"
+                        ],
+                        "explanation": "Athens practiced a direct democracy, allowing citizens to participate directly in decision-making rather than through elected representatives.",
+                        "answer": "1) Direct democracy"
+                    },
+                    {
+                        "question": "What was the purpose of ostracism in Athens?",
+                        "options": [
+                            "4) To reward loyalty",
+                            "3) To elect new leaders",
+                            "1) To welcome new citizens",
+                            "2) To exile perceived threats to the state"
+                        ],
+                        "explanation": "Ostracism was a practice where citizens could vote to exile individuals considered a threat to democracy, aimed at preventing tyranny.",
+                        "answer": "2) To exile perceived threats to the state"
+                    },
+                    {
+                        "question": "What was the maximum capacity of the Colosseum when it was completed?",
+                        "options": [
+                            "4) 100,000 spectators",
+                            "1) 10,000 spectators",
+                            "3) 80,000 spectators",
+                            "2) 50,000 spectators"
+                        ],
+                        "explanation": "The Colosseum could hold up to 80,000 spectators, making it one of the largest amphitheaters of its time.",
+                        "answer": "3) 80,000 spectators"
+                    },
+                    {
+                        "question": "What does the Pantheon in Rome signify about Roman architectural capability?",
+                        "options": [
+                            "4) Simplicity in design",
+                            "1) Use of wood",
+                            "2) Mastery of the arch and dome",
+                            "3) Reliance on Greek architecture"
+                        ],
+                        "explanation": "The Pantheon showcases Roman mastery in architecture, particularly through its use of the dome and oculus, reflecting their engineering skills.",
+                        "answer": "2) Mastery of the arch and dome"
+                    },
+                    {
+                        "question": "Which of the following themes is found in Greek mythology?",
+                        "options": [
+                            "2) Love, power, and the human experience",
+                            "1) Science and Technology",
+                            "4) Strict moral codes only",
+                            "3) Economics and trade"
+                        ],
+                        "explanation": "Greek mythology often explores themes such as love, power, and the human experience, reflecting both virtues and flaws of humanity.",
+                        "answer": "2) Love, power, and the human experience"
+                    },
+                    {
+                        "question": "How did Roman mythology differ from Greek mythology?",
+                        "options": [
+                            "2) It emphasized different values, showcasing duty, loyalty, and the state",
+                            "3) Roman mythology had no deities",
+                            "4) Roman mythology was less popular than Greek mythology",
+                            "1) It was entirely original and not influenced by Greek myths"
+                        ],
+                        "explanation": "Roman mythology adopted and adapted many Greek deities, but later evolved to emphasize values like duty, loyalty, and prioritization of the state.",
+                        "answer": "2) It emphasized different values, showcasing duty, loyalty, and the state"
+                    },
+                    {
+                        "question": "Which poet is known for preserving Greek myths through writing?",
+                        "options": [
+                            "1) Virgil",
+                            "3) Ovid",
+                            "4) Sophocles",
+                            "2) Homer"
+                        ],
+                        "explanation": "Homer is known for his epic poems, which were significant in preserving Greek myths and cultural narratives.",
+                        "answer": "2) Homer"
+                    },
+                    {
+                        "question": "What was a major goal of the assembly in Athenian democracy?",
+                        "options": [
+                            "3) To train military",
+                            "1) To build architecture",
+                            "4) To write poetry",
+                            "2) To discuss and vote on public policies"
+                        ],
+                        "explanation": "The assembly in Athenian democracy allowed citizens to gather to debate and vote on public policies and issues affecting the community.",
+                        "answer": "2) To discuss and vote on public policies"
+                    },
+                    {
+                        "question": "What architectural feature is a hallmark of Roman architecture?",
+                        "options": [
+                            "4) Small, simple buildings",
+                            "3) Flat roofs",
+                            "2) The arch and the dome",
+                            "1) Wood construction"
+                        ],
+                        "explanation": "The Romans were renowned for their use of architectural innovations such as the arch and the dome, which allowed them to create grand structures.",
+                        "answer": "2) The arch and the dome"
+                    },
+                    {
+                        "question": "What role did mythology serve in both Greek and Roman cultures?",
+                        "options": [
+                            "1) Only as entertainment",
+                            "3) To enforce strict laws",
+                            "4) To eliminate social classes",
+                            "2) To provide explanations for natural phenomena and moral lessons"
+                        ],
+                        "explanation": "Mythology in both cultures served to explain natural phenomena, offer moral lessons, and foster a shared identity among people.",
+                        "answer": "2) To provide explanations for natural phenomena and moral lessons"
+                    }
+                ]
+            },
+            {
+                "quiz_grade": 90.0,
+                "wrong_answers": [
+                    0
+                ],
+                "attempt_number": 3,
+                "quiz": [
+                    {
+                        "question": "What type of democracy was practiced in ancient Athens?",
+                        "options": [
+                            "2) Representative democracy",
+                            "4) Monarchy",
+                            "1) Direct democracy",
+                            "3) Oligarchy"
+                        ],
+                        "explanation": "Athens practiced a direct democracy, allowing citizens to participate directly in decision-making rather than through elected representatives.",
+                        "answer": "1) Direct democracy"
+                    },
+                    {
+                        "question": "What was the purpose of ostracism in Athens?",
+                        "options": [
+                            "4) To reward loyalty",
+                            "3) To elect new leaders",
+                            "1) To welcome new citizens",
+                            "2) To exile perceived threats to the state"
+                        ],
+                        "explanation": "Ostracism was a practice where citizens could vote to exile individuals considered a threat to democracy, aimed at preventing tyranny.",
+                        "answer": "2) To exile perceived threats to the state"
+                    },
+                    {
+                        "question": "What was the maximum capacity of the Colosseum when it was completed?",
+                        "options": [
+                            "4) 100,000 spectators",
+                            "1) 10,000 spectators",
+                            "3) 80,000 spectators",
+                            "2) 50,000 spectators"
+                        ],
+                        "explanation": "The Colosseum could hold up to 80,000 spectators, making it one of the largest amphitheaters of its time.",
+                        "answer": "3) 80,000 spectators"
+                    },
+                    {
+                        "question": "What does the Pantheon in Rome signify about Roman architectural capability?",
+                        "options": [
+                            "4) Simplicity in design",
+                            "1) Use of wood",
+                            "2) Mastery of the arch and dome",
+                            "3) Reliance on Greek architecture"
+                        ],
+                        "explanation": "The Pantheon showcases Roman mastery in architecture, particularly through its use of the dome and oculus, reflecting their engineering skills.",
+                        "answer": "2) Mastery of the arch and dome"
+                    },
+                    {
+                        "question": "Which of the following themes is found in Greek mythology?",
+                        "options": [
+                            "2) Love, power, and the human experience",
+                            "1) Science and Technology",
+                            "4) Strict moral codes only",
+                            "3) Economics and trade"
+                        ],
+                        "explanation": "Greek mythology often explores themes such as love, power, and the human experience, reflecting both virtues and flaws of humanity.",
+                        "answer": "2) Love, power, and the human experience"
+                    },
+                    {
+                        "question": "How did Roman mythology differ from Greek mythology?",
+                        "options": [
+                            "2) It emphasized different values, showcasing duty, loyalty, and the state",
+                            "3) Roman mythology had no deities",
+                            "4) Roman mythology was less popular than Greek mythology",
+                            "1) It was entirely original and not influenced by Greek myths"
+                        ],
+                        "explanation": "Roman mythology adopted and adapted many Greek deities, but later evolved to emphasize values like duty, loyalty, and prioritization of the state.",
+                        "answer": "2) It emphasized different values, showcasing duty, loyalty, and the state"
+                    },
+                    {
+                        "question": "Which poet is known for preserving Greek myths through writing?",
+                        "options": [
+                            "1) Virgil",
+                            "3) Ovid",
+                            "4) Sophocles",
+                            "2) Homer"
+                        ],
+                        "explanation": "Homer is known for his epic poems, which were significant in preserving Greek myths and cultural narratives.",
+                        "answer": "2) Homer"
+                    },
+                    {
+                        "question": "What was a major goal of the assembly in Athenian democracy?",
+                        "options": [
+                            "3) To train military",
+                            "1) To build architecture",
+                            "4) To write poetry",
+                            "2) To discuss and vote on public policies"
+                        ],
+                        "explanation": "The assembly in Athenian democracy allowed citizens to gather to debate and vote on public policies and issues affecting the community.",
+                        "answer": "2) To discuss and vote on public policies"
+                    },
+                    {
+                        "question": "What architectural feature is a hallmark of Roman architecture?",
+                        "options": [
+                            "4) Small, simple buildings",
+                            "3) Flat roofs",
+                            "2) The arch and the dome",
+                            "1) Wood construction"
+                        ],
+                        "explanation": "The Romans were renowned for their use of architectural innovations such as the arch and the dome, which allowed them to create grand structures.",
+                        "answer": "2) The arch and the dome"
+                    },
+                    {
+                        "question": "What role did mythology serve in both Greek and Roman cultures?",
+                        "options": [
+                            "1) Only as entertainment",
+                            "3) To enforce strict laws",
+                            "4) To eliminate social classes",
+                            "2) To provide explanations for natural phenomena and moral lessons"
+                        ],
+                        "explanation": "Mythology in both cultures served to explain natural phenomena, offer moral lessons, and foster a shared identity among people.",
+                        "answer": "2) To provide explanations for natural phenomena and moral lessons"
+                    }
+                ]
+            },
+            {
+                "quiz_grade": 90.0,
+                "wrong_answers": [
+                    0
+                ],
+                "attempt_number": 4,
+                "quiz": [
+                    {
+                        "question": "What type of democracy was practiced in ancient Athens?",
+                        "options": [
+                            "2) Representative democracy",
+                            "4) Monarchy",
+                            "1) Direct democracy",
+                            "3) Oligarchy"
+                        ],
+                        "explanation": "Athens practiced a direct democracy, allowing citizens to participate directly in decision-making rather than through elected representatives.",
+                        "answer": "1) Direct democracy"
+                    },
+                    {
+                        "question": "What was the purpose of ostracism in Athens?",
+                        "options": [
+                            "4) To reward loyalty",
+                            "3) To elect new leaders",
+                            "1) To welcome new citizens",
+                            "2) To exile perceived threats to the state"
+                        ],
+                        "explanation": "Ostracism was a practice where citizens could vote to exile individuals considered a threat to democracy, aimed at preventing tyranny.",
+                        "answer": "2) To exile perceived threats to the state"
+                    },
+                    {
+                        "question": "What was the maximum capacity of the Colosseum when it was completed?",
+                        "options": [
+                            "4) 100,000 spectators",
+                            "1) 10,000 spectators",
+                            "3) 80,000 spectators",
+                            "2) 50,000 spectators"
+                        ],
+                        "explanation": "The Colosseum could hold up to 80,000 spectators, making it one of the largest amphitheaters of its time.",
+                        "answer": "3) 80,000 spectators"
+                    },
+                    {
+                        "question": "What does the Pantheon in Rome signify about Roman architectural capability?",
+                        "options": [
+                            "4) Simplicity in design",
+                            "1) Use of wood",
+                            "2) Mastery of the arch and dome",
+                            "3) Reliance on Greek architecture"
+                        ],
+                        "explanation": "The Pantheon showcases Roman mastery in architecture, particularly through its use of the dome and oculus, reflecting their engineering skills.",
+                        "answer": "2) Mastery of the arch and dome"
+                    },
+                    {
+                        "question": "Which of the following themes is found in Greek mythology?",
+                        "options": [
+                            "2) Love, power, and the human experience",
+                            "1) Science and Technology",
+                            "4) Strict moral codes only",
+                            "3) Economics and trade"
+                        ],
+                        "explanation": "Greek mythology often explores themes such as love, power, and the human experience, reflecting both virtues and flaws of humanity.",
+                        "answer": "2) Love, power, and the human experience"
+                    },
+                    {
+                        "question": "How did Roman mythology differ from Greek mythology?",
+                        "options": [
+                            "2) It emphasized different values, showcasing duty, loyalty, and the state",
+                            "3) Roman mythology had no deities",
+                            "4) Roman mythology was less popular than Greek mythology",
+                            "1) It was entirely original and not influenced by Greek myths"
+                        ],
+                        "explanation": "Roman mythology adopted and adapted many Greek deities, but later evolved to emphasize values like duty, loyalty, and prioritization of the state.",
+                        "answer": "2) It emphasized different values, showcasing duty, loyalty, and the state"
+                    },
+                    {
+                        "question": "Which poet is known for preserving Greek myths through writing?",
+                        "options": [
+                            "1) Virgil",
+                            "3) Ovid",
+                            "4) Sophocles",
+                            "2) Homer"
+                        ],
+                        "explanation": "Homer is known for his epic poems, which were significant in preserving Greek myths and cultural narratives.",
+                        "answer": "2) Homer"
+                    },
+                    {
+                        "question": "What was a major goal of the assembly in Athenian democracy?",
+                        "options": [
+                            "3) To train military",
+                            "1) To build architecture",
+                            "4) To write poetry",
+                            "2) To discuss and vote on public policies"
+                        ],
+                        "explanation": "The assembly in Athenian democracy allowed citizens to gather to debate and vote on public policies and issues affecting the community.",
+                        "answer": "2) To discuss and vote on public policies"
+                    },
+                    {
+                        "question": "What architectural feature is a hallmark of Roman architecture?",
+                        "options": [
+                            "4) Small, simple buildings",
+                            "3) Flat roofs",
+                            "2) The arch and the dome",
+                            "1) Wood construction"
+                        ],
+                        "explanation": "The Romans were renowned for their use of architectural innovations such as the arch and the dome, which allowed them to create grand structures.",
+                        "answer": "2) The arch and the dome"
+                    },
+                    {
+                        "question": "What role did mythology serve in both Greek and Roman cultures?",
+                        "options": [
+                            "1) Only as entertainment",
+                            "3) To enforce strict laws",
+                            "4) To eliminate social classes",
+                            "2) To provide explanations for natural phenomena and moral lessons"
+                        ],
+                        "explanation": "Mythology in both cultures served to explain natural phenomena, offer moral lessons, and foster a shared identity among people.",
+                        "answer": "2) To provide explanations for natural phenomena and moral lessons"
+                    }
+                ]
+            }
+        ]
+    },
+    "Tuesday": {},
+    "Wednesday": {},
+    "Thursday": {},
+    "Friday": {}
+}

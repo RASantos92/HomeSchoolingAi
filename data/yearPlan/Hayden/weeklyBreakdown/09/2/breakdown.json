@@ -1,0 +1,228 @@
+[
+    {
+        "days": [
+            {
+                "day_name": "Monday",
+                "subjects": [
+                    {
+                        "subject_name": "Language Arts",
+                        "subject_topic": "Writing Complete Sentences",
+                        "subject_daily_intro": "Today, we will begin our journey into writing complete sentences. You will learn the structure of a sentence and how to express complex ideas clearly.",
+                        "subject_daily_sub_topics": [],
+                        "subject_topic_daily_summary": "By the end of today's lesson, you will understand how to construct complete sentences that convey your thoughts effectively."
+                    },
+                    {
+                        "subject_name": "Mathematics",
+                        "subject_topic": "Rational Numbers",
+                        "subject_daily_intro": "In mathematics today, we will explore rational numbers. This is where we will define what rational numbers are and how they differ from other types of numbers.",
+                        "subject_daily_sub_topics": [
+                            "Types of rational numbers",
+                            "Finding rational numbers between integers"
+                        ],
+                        "subject_topic_daily_summary": "By the end of today's lesson, you will be able to identify rational numbers and explain their characteristics."
+                    },
+                    {
+                        "subject_name": "Science",
+                        "subject_topic": "Physical and Chemical Changes",
+                        "subject_daily_intro": "Today in science, we will distinguish between physical and chemical changes. You will learn how to identify examples of each type of change.",
+                        "subject_daily_sub_topics": [
+                            "Examples of physical changes",
+                            "Examples of chemical changes"
+                        ],
+                        "subject_topic_daily_summary": "By the end of this lesson, you will know how to classify changes in matter as physical or chemical based on examples."
+                    },
+                    {
+                        "subject_name": "Social Studies",
+                        "subject_topic": "Political Geography",
+                        "subject_daily_intro": "In social studies today, we'll discuss political geography. We'll start by covering the basic concepts of governance and how geographical boundaries are established.",
+                        "subject_daily_sub_topics": [
+                            "Types of governance",
+                            "Impact of geography on politics"
+                        ],
+                        "subject_topic_daily_summary": "By the end of today's lesson, you will have a foundational understanding of political geography and its key components."
+                    }
+                ]
+            },
+            {
+                "day_name": "Tuesday",
+                "subjects": [
+                    {
+                        "subject_name": "Language Arts",
+                        "subject_topic": "Writing Complete Sentences",
+                        "subject_daily_intro": "Yesterday, we introduced the concept of complete sentences. Today, we will practice combining simple sentences to form complex ideas.",
+                        "subject_daily_sub_topics": [
+                            "Using conjunctions",
+                            "Complex vs. simple sentences"
+                        ],
+                        "subject_topic_daily_summary": "By the end of today's lesson, you will be able to combine simple sentences using conjunctions to express more complex ideas."
+                    },
+                    {
+                        "subject_name": "Mathematics",
+                        "subject_topic": "Rational Numbers",
+                        "subject_daily_intro": "Yesterday, we learned about rational numbers. Today, we'll practice operations involving rational numbers, including addition, subtraction, multiplication, and division.",
+                        "subject_daily_sub_topics": [
+                            "Adding rational numbers",
+                            "Subtracting rational numbers"
+                        ],
+                        "subject_topic_daily_summary": "By the end of this lesson, you will be proficient in performing basic operations with rational numbers."
+                    },
+                    {
+                        "subject_name": "Science",
+                        "subject_topic": "Physical and Chemical Changes",
+                        "subject_daily_intro": "Yesterday, we distinguished between physical and chemical changes. Today, we will conduct a thought experiment to illustrate both types of changes.",
+                        "subject_daily_sub_topics": [
+                            "Real-life applications",
+                            "Observing changes"
+                        ],
+                        "subject_topic_daily_summary": "By the end of today's lesson, you will be able to apply your understanding of physical and chemical changes to real-life situations."
+                    },
+                    {
+                        "subject_name": "Social Studies",
+                        "subject_topic": "Political Geography",
+                        "subject_daily_intro": "Yesterday, we discussed key concepts of political geography. Today, we will delve deeper into how political boundaries are determined.",
+                        "subject_daily_sub_topics": [
+                            "Historical boundaries",
+                            "Influence of wars on geography"
+                        ],
+                        "subject_topic_daily_summary": "By the end of today's lesson, you will understand the factors that influence the establishment of political boundaries."
+                    }
+                ]
+            },
+            {
+                "day_name": "Wednesday",
+                "subjects": [
+                    {
+                        "subject_name": "Language Arts",
+                        "subject_topic": "Writing Complete Sentences",
+                        "subject_daily_intro": "Yesterday, we practiced combining sentences. Today, we will focus on the use of adjectives and adverbs to enhance our sentence writing.",
+                        "subject_daily_sub_topics": [
+                            "Descriptive language",
+                            "Creative sentence construction"
+                        ],
+                        "subject_topic_daily_summary": "By the end of today's lesson, you will be able to use adjectives and adverbs effectively to improve your sentences."
+                    },
+                    {
+                        "subject_name": "Mathematics",
+                        "subject_topic": "Rational Numbers",
+                        "subject_daily_intro": "Yesterday, we practiced operations with rational numbers. Today, we will focus on word problems involving rational numbers.",
+                        "subject_daily_sub_topics": [
+                            "Solving real-world problems",
+                            "Interpreting fractions"
+                        ],
+                        "subject_topic_daily_summary": "By the end of today's lesson, you will be able to solve word problems that involve the use of rational numbers."
+                    },
+                    {
+                        "subject_name": "Science",
+                        "subject_topic": "Physical and Chemical Changes",
+                        "subject_daily_intro": "Yesterday, we applied our understanding of changes in matter. Today, we will conduct a virtual experiment to observe and classify changes.",
+                        "subject_daily_sub_topics": [
+                            "Virtual experimentation",
+                            "Data observation"
+                        ],
+                        "subject_topic_daily_summary": "By the end of today's lesson, you will gain practical experience in observing and classifying changes through a virtual experiment."
+                    },
+                    {
+                        "subject_name": "Social Studies",
+                        "subject_topic": "Political Geography",
+                        "subject_daily_intro": "Yesterday, we learned about political boundaries. Today we\u2019ll discuss the impact of culture on political geography.",
+                        "subject_daily_sub_topics": [
+                            "Cultural influences on governance",
+                            "Regional differences"
+                        ],
+                        "subject_topic_daily_summary": "By the end of today's lesson, you will appreciate the relationship between culture and political geography."
+                    }
+                ]
+            },
+            {
+                "day_name": "Thursday",
+                "subjects": [
+                    {
+                        "subject_name": "Language Arts",
+                        "subject_topic": "Writing Complete Sentences",
+                        "subject_daily_intro": "Yesterday, we enhanced our sentences with descriptive language. Today, we will explore writing paragraphs that contain multiple sentences.",
+                        "subject_daily_sub_topics": [
+                            "Paragraph structure",
+                            "Cohesion and coherence"
+                        ],
+                        "subject_topic_daily_summary": "By the end of today's lesson, you will be able to write cohesive paragraphs that clearly express a single idea."
+                    },
+                    {
+                        "subject_name": "Mathematics",
+                        "subject_topic": "Rational Numbers",
+                        "subject_daily_intro": "Yesterday, we tackled word problems. Today, we will focus on comparing rational numbers using visual representations like number lines.",
+                        "subject_daily_sub_topics": [
+                            "Number line exercises",
+                            "Graphing rational numbers"
+                        ],
+                        "subject_topic_daily_summary": "By the end of today's lesson, you will be able to compare and visualize rational numbers on a number line."
+                    },
+                    {
+                        "subject_name": "Science",
+                        "subject_topic": "Physical and Chemical Changes",
+                        "subject_daily_intro": "Yesterday, we classified changes through a virtual experiment. Today we'll examine everyday examples of physical and chemical changes in more detail.",
+                        "subject_daily_sub_topics": [
+                            "Common reactions",
+                            "Everyday observations"
+                        ],
+                        "subject_topic_daily_summary": "By the end of today's lesson, you will recognize examples of physical and chemical changes in your daily life."
+                    },
+                    {
+                        "subject_name": "Social Studies",
+                        "subject_topic": "Political Geography",
+                        "subject_daily_intro": "Yesterday, we discussed culture's impact. Today, we will examine maps and learn how maps convey political information.",
+                        "subject_daily_sub_topics": [
+                            "Types of maps",
+                            "Map reading skills"
+                        ],
+                        "subject_topic_daily_summary": "By the end of today's lesson, you will be able to read maps and understand how they depict political geography."
+                    }
+                ]
+            },
+            {
+                "day_name": "Friday",
+                "subjects": [
+                    {
+                        "subject_name": "Language Arts",
+                        "subject_topic": "Writing Complete Sentences",
+                        "subject_daily_intro": "Yesterday, we learned about paragraphs. Today, we will put it all together by drafting a short essay that includes complete sentences.",
+                        "subject_daily_sub_topics": [
+                            "Essay structure",
+                            "Editing and revision techniques"
+                        ],
+                        "subject_topic_daily_summary": "By the end of today's lesson, you will have drafted a short essay that demonstrates your ability to write complete sentences effectively."
+                    },
+                    {
+                        "subject_name": "Mathematics",
+                        "subject_topic": "Rational Numbers",
+                        "subject_daily_intro": "Yesterday, we compared rational numbers. Today we'll review everything we've learned about rational numbers with practice exercises.",
+                        "subject_daily_sub_topics": [
+                            "Practice problems",
+                            "Review game"
+                        ],
+                        "subject_topic_daily_summary": "By the end of today, you will have reinforced your knowledge of rational numbers through practice exercises."
+                    },
+                    {
+                        "subject_name": "Science",
+                        "subject_topic": "Physical and Chemical Changes",
+                        "subject_daily_intro": "Yesterday, we examined everyday examples. Today we'll wrap up by summarizing what we learned about physical and chemical changes.",
+                        "subject_daily_sub_topics": [
+                            "Key concepts review",
+                            "Discussion of importance"
+                        ],
+                        "subject_topic_daily_summary": "By the end of today's lesson, you will be able to summarize key concepts of physical and chemical changes."
+                    },
+                    {
+                        "subject_name": "Social Studies",
+                        "subject_topic": "Political Geography",
+                        "subject_daily_intro": "Yesterday, we discussed maps. Today we will conclude our week by summarizing what we've learned about political geography.",
+                        "subject_daily_sub_topics": [
+                            "Key terms",
+                            "Reflection on today's world"
+                        ],
+                        "subject_topic_daily_summary": "By the end of today's lesson, you will have a strong understanding of political geography and its significance in today's world."
+                    }
+                ]
+            }
+        ]
+    }
+]

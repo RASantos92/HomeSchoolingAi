@@ -1,0 +1,622 @@
+[
+    {
+        "assesment_test_number": 1,
+        "subjects": [
+            {
+                "questionNumber": 1,
+                "question": "What is the value of x in the equation 3x + 5 = 17?",
+                "options": [
+                    "1) 2",
+                    "2) 3",
+                    "3) 4",
+                    "4) 5"
+                ],
+                "explanation": "To solve for x, first subtract 5 from both sides to get 3x = 12. Then, divide both sides by 3 to find x = 4.",
+                "answer": "3) 4",
+                "grade_level": "9",
+                "subject": "Mathematics",
+                "subject_topic": "Algebra"
+            },
+            {
+                "questionNumber": 2,
+                "question": "What is the area of a triangle with a base of 10 cm and a height of 5 cm?",
+                "options": [
+                    "1) 15 cm\u00b2",
+                    "2) 25 cm\u00b2",
+                    "3) 30 cm\u00b2",
+                    "4) 50 cm\u00b2"
+                ],
+                "explanation": "The area of a triangle is given by the formula A = 1/2 * base * height. Substituting the values, A = 1/2 * 10 * 5 = 25 cm\u00b2.",
+                "answer": "2) 25 cm\u00b2",
+                "grade_level": "9",
+                "subject": "Mathematics",
+                "subject_topic": "Geometry"
+            },
+            {
+                "questionNumber": 3,
+                "question": "What is the value of 7^2 - 4^2?",
+                "options": [
+                    "1) 33",
+                    "2) 29",
+                    "3) 25",
+                    "4) 21"
+                ],
+                "explanation": "Using the difference of squares formula a^2 - b^2 = (a - b)(a + b), we have 7^2 - 4^2 = (7 - 4)(7 + 4) = 3 * 11 = 33.",
+                "answer": "1) 33",
+                "grade_level": "9",
+                "subject": "Mathematics",
+                "subject_topic": "Algebra"
+            },
+            {
+                "questionNumber": 4,
+                "question": "If a circle has a radius of 7 cm, what is its circumference?",
+                "options": [
+                    "1) 14 cm",
+                    "2) 21 cm",
+                    "3) 44 cm",
+                    "4) 49 cm"
+                ],
+                "explanation": "The circumference of a circle is given by the formula C = 2 * \u03c0 * r. Therefore, C = 2 * \u03c0 * 7 \u2248 44 cm.",
+                "answer": "3) 44 cm",
+                "grade_level": "9",
+                "subject": "Mathematics",
+                "subject_topic": "Geometry"
+            },
+            {
+                "questionNumber": 5,
+                "question": "What is the slope of the line represented by the equation y = 2x + 3?",
+                "options": [
+                    "1) 1",
+                    "2) 2",
+                    "3) 3",
+                    "4) -2"
+                ],
+                "explanation": "In the slope-intercept form y = mx + b, m represents the slope. Here, m = 2, which indicates the slope of the line.",
+                "answer": "2) 2",
+                "grade_level": "9",
+                "subject": "Mathematics",
+                "subject_topic": "Linear Equations"
+            },
+            {
+                "questionNumber": 6,
+                "question": "What is 15% of 200?",
+                "options": [
+                    "1) 20",
+                    "2) 25",
+                    "3) 30",
+                    "4) 35"
+                ],
+                "explanation": "To find 15% of 200, multiply 200 by 0.15. So, 200 * 0.15 = 30.",
+                "answer": "3) 30",
+                "grade_level": "9",
+                "subject": "Mathematics",
+                "subject_topic": "Percentages"
+            },
+            {
+                "questionNumber": 7,
+                "question": "Which is the solution to the equation 2(y - 3) = 12?",
+                "options": [
+                    "1) 4",
+                    "2) 6",
+                    "3) 9",
+                    "4) 12"
+                ],
+                "explanation": "To solve for y, first divide both sides by 2 to get y - 3 = 6. Then, add 3 to both sides to obtain y = 9.",
+                "answer": "3) 9",
+                "grade_level": "9",
+                "subject": "Mathematics",
+                "subject_topic": "Algebra"
+            },
+            {
+                "questionNumber": 8,
+                "question": "What is the sum of the interior angles of a triangle?",
+                "options": [
+                    "1) 90 degrees",
+                    "2) 180 degrees",
+                    "3) 270 degrees",
+                    "4) 360 degrees"
+                ],
+                "explanation": "The sum of the interior angles of a triangle is always 180 degrees, regardless of its type.",
+                "answer": "2) 180 degrees",
+                "grade_level": "9",
+                "subject": "Mathematics",
+                "subject_topic": "Geometry"
+            },
+            {
+                "questionNumber": 9,
+                "question": "What is the solution set for the inequality 3x - 2 < 4?",
+                "options": [
+                    "1) x < 2",
+                    "2) x > 2",
+                    "3) x \u2264 2",
+                    "4) x \u2265 2"
+                ],
+                "explanation": "To solve the inequality, add 2 to both sides to get 3x < 6, then divide by 3, leading to x < 2.",
+                "answer": "1) x < 2",
+                "grade_level": "9",
+                "subject": "Mathematics",
+                "subject_topic": "Inequalities"
+            },
+            {
+                "questionNumber": 10,
+                "question": "If the function f(x) = x^2 + 2x - 3, what is f(1)?",
+                "options": [
+                    "1) 0",
+                    "2) 1",
+                    "3) 2",
+                    "4) 3"
+                ],
+                "explanation": "To find f(1), substitute 1 into the function: f(1) = (1)^2 + 2(1) - 3 = 1 + 2 - 3 = 0.",
+                "answer": "1) 0",
+                "grade_level": "9",
+                "subject": "Mathematics",
+                "subject_topic": "Functions"
+            }
+        ]
+    },
+    {
+        "assesment_test_number": 1,
+        "subjects": [
+            {
+                "questionNumber": 1,
+                "question": "Which of the following is a theme of the novel 'To Kill a Mockingbird'?",
+                "options": [
+                    "1) Prejudice",
+                    "2) Friendship",
+                    "3) Adventure",
+                    "4) Wealth"
+                ],
+                "explanation": "The theme of prejudice is central to 'To Kill a Mockingbird', as it explores racial and social injustices in the American South.",
+                "answer": "1) Prejudice",
+                "grade_level": "9",
+                "subject": "Language Arts",
+                "subject_topic": "Literature Themes"
+            },
+            {
+                "questionNumber": 2,
+                "question": "What is the main purpose of a thesis statement in an essay?",
+                "options": [
+                    "1) To summarize the main points of the essay",
+                    "2) To introduce the title of the essay",
+                    "3) To outline the structure of the essay",
+                    "4) To state the main argument or position"
+                ],
+                "explanation": "A thesis statement clearly presents the main argument or position that the writer is taking in the essay.",
+                "answer": "4) To state the main argument or position",
+                "grade_level": "9",
+                "subject": "Language Arts",
+                "subject_topic": "Essay Writing"
+            },
+            {
+                "questionNumber": 3,
+                "question": "Identify the example of alliteration:",
+                "options": [
+                    "1) The calm sea was inviting.",
+                    "2) Sally sells sea shells at the shore.",
+                    "3) The wind whispered through the trees.",
+                    "4) The sun set slowly in the west."
+                ],
+                "explanation": "Alliteration is the repetition of initial consonant sounds in closely placed words, like in 'Sally sells sea shells.'",
+                "answer": "2) Sally sells sea shells at the shore.",
+                "grade_level": "9",
+                "subject": "Language Arts",
+                "subject_topic": "Figurative Language"
+            },
+            {
+                "questionNumber": 4,
+                "question": "Which sentence is an example of a compound sentence?",
+                "options": [
+                    "1) I love reading.",
+                    "2) I enjoy hiking, and I also love swimming.",
+                    "3) When it rains, I stay inside.",
+                    "4) The cat sat on the mat."
+                ],
+                "explanation": "A compound sentence contains two independent clauses connected by a conjunction, like in 'I enjoy hiking, and I also love swimming.'",
+                "answer": "2) I enjoy hiking, and I also love swimming.",
+                "grade_level": "9",
+                "subject": "Language Arts",
+                "subject_topic": "Sentence Structure"
+            },
+            {
+                "questionNumber": 5,
+                "question": "What is the primary function of descriptive language in writing?",
+                "options": [
+                    "1) To provide facts",
+                    "2) To convey emotions",
+                    "3) To create vivid imagery",
+                    "4) To persuade the reader"
+                ],
+                "explanation": "Descriptive language is used to create vivid imagery that helps to paint a picture in the reader's mind, enhancing the overall experience of the text.",
+                "answer": "3) To create vivid imagery",
+                "grade_level": "9",
+                "subject": "Language Arts",
+                "subject_topic": "Writing Techniques"
+            },
+            {
+                "questionNumber": 6,
+                "question": "In poetry, what is a stanza?",
+                "options": [
+                    "1) A type of rhyme",
+                    "2) A division of lines",
+                    "3) A poetic device",
+                    "4) An entire poem"
+                ],
+                "explanation": "A stanza is a grouped set of lines within a poem, similar to a paragraph in prose.",
+                "answer": "2) A division of lines",
+                "grade_level": "9",
+                "subject": "Language Arts",
+                "subject_topic": "Poetry Structure"
+            },
+            {
+                "questionNumber": 7,
+                "question": "What type of literary device is used in the phrase 'the classroom was a zoo'?",
+                "options": [
+                    "1) Simile",
+                    "2) Hyperbole",
+                    "3) Metaphor",
+                    "4) Personification"
+                ],
+                "explanation": "This phrase is an example of a metaphor because it directly compares the classroom to a zoo to suggest it was chaotic.",
+                "answer": "3) Metaphor",
+                "grade_level": "9",
+                "subject": "Language Arts",
+                "subject_topic": "Literary Devices"
+            },
+            {
+                "questionNumber": 8,
+                "question": "Which of the following best describes a rhetorical question?",
+                "options": [
+                    "1) A question that requires an answer",
+                    "2) A question asked for effect without expecting an answer",
+                    "3) A question that is answered in the next sentence",
+                    "4) A question that is open to interpretation"
+                ],
+                "explanation": "A rhetorical question is asked for effect or to make a point rather than to elicit a response.",
+                "answer": "2) A question asked for effect without expecting an answer",
+                "grade_level": "9",
+                "subject": "Language Arts",
+                "subject_topic": "Rhetoric"
+            },
+            {
+                "questionNumber": 9,
+                "question": "What is the main purpose of character development in literature?",
+                "options": [
+                    "1) To introduce conflict",
+                    "2) To reveal plot twists",
+                    "3) To enhance the story and engage the reader",
+                    "4) To describe the setting"
+                ],
+                "explanation": "Character development is crucial as it enhances the story by making characters relatable and engaging for the reader.",
+                "answer": "3) To enhance the story and engage the reader",
+                "grade_level": "9",
+                "subject": "Language Arts",
+                "subject_topic": "Characterization"
+            },
+            {
+                "questionNumber": 10,
+                "question": "Which of the following is NOT an element of a narrative?",
+                "options": [
+                    "1) Characters",
+                    "2) Theme",
+                    "3) Conflict",
+                    "4) Table of contents"
+                ],
+                "explanation": "A table of contents is not a narrative element; it is a structural feature that organizes sections of a text.",
+                "answer": "4) Table of contents",
+                "grade_level": "9",
+                "subject": "Language Arts",
+                "subject_topic": "Narrative Elements"
+            }
+        ]
+    },
+    {
+        "assesment_test_number": 1,
+        "subjects": [
+            {
+                "questionNumber": 1,
+                "question": "What is the chemical symbol for Gold?",
+                "options": [
+                    "1) Au",
+                    "2) Ag",
+                    "3) Pb",
+                    "4) Fe"
+                ],
+                "explanation": "Gold is represented by the chemical symbol 'Au' which is derived from the Latin word 'Aurum'.",
+                "answer": "1) Au",
+                "grade_level": "Grade 9",
+                "subject": "Science",
+                "subject_topic": "Chemistry"
+            },
+            {
+                "questionNumber": 2,
+                "question": "Which of the following is a process of energy transfer through direct contact?",
+                "options": [
+                    "1) Conduction",
+                    "2) Convection",
+                    "3) Radiation",
+                    "4) Insulation"
+                ],
+                "explanation": "Conduction is the process where heat energy is transferred through direct contact between materials.",
+                "answer": "1) Conduction",
+                "grade_level": "Grade 9",
+                "subject": "Science",
+                "subject_topic": "Physics"
+            },
+            {
+                "questionNumber": 3,
+                "question": "What is the primary function of the roots in a plant?",
+                "options": [
+                    "1) Absorb nutrients and water",
+                    "2) Photosynthesis",
+                    "3) Support leaves",
+                    "4) Reproduction"
+                ],
+                "explanation": "Roots are mainly responsible for absorbing nutrients and water from the soil, anchoring the plant to the ground.",
+                "answer": "1) Absorb nutrients and water",
+                "grade_level": "Grade 9",
+                "subject": "Science",
+                "subject_topic": "Biology"
+            },
+            {
+                "questionNumber": 4,
+                "question": "What is the process by which green plants make their own food?",
+                "options": [
+                    "1) Photosynthesis",
+                    "2) Respiration",
+                    "3) Digestion",
+                    "4) Fermentation"
+                ],
+                "explanation": "Photosynthesis is the process used by green plants to convert light energy into chemical energy (food) using carbon dioxide and water.",
+                "answer": "1) Photosynthesis",
+                "grade_level": "Grade 9",
+                "subject": "Science",
+                "subject_topic": "Biology"
+            },
+            {
+                "questionNumber": 5,
+                "question": "Which of the following describes Newton's First Law of Motion?",
+                "options": [
+                    "1) An object in motion stays in motion unless acted upon by an external force",
+                    "2) Force equals mass times acceleration",
+                    "3) For every action, there is an equal and opposite reaction",
+                    "4) Energy cannot be created or destroyed."
+                ],
+                "explanation": "Newton's First Law states that an object will continue in its state of motion unless acted on by a net external force.",
+                "answer": "1) An object in motion stays in motion unless acted upon by an external force",
+                "grade_level": "Grade 9",
+                "subject": "Science",
+                "subject_topic": "Physics"
+            },
+            {
+                "questionNumber": 6,
+                "question": "What is the primary gas responsible for the greenhouse effect?",
+                "options": [
+                    "1) Carbon Dioxide",
+                    "2) Oxygen",
+                    "3) Nitrogen",
+                    "4) Hydrogen"
+                ],
+                "explanation": "Carbon Dioxide (CO2) is the primary greenhouse gas that traps heat in the atmosphere, contributing to global warming.",
+                "answer": "1) Carbon Dioxide",
+                "grade_level": "Grade 9",
+                "subject": "Science",
+                "subject_topic": "Environmental Science"
+            },
+            {
+                "questionNumber": 7,
+                "question": "What type of bond involves the sharing of electron pairs between atoms?",
+                "options": [
+                    "1) Covalent Bond",
+                    "2) Ionic Bond",
+                    "3) Hydrogen Bond",
+                    "4) Metallic Bond"
+                ],
+                "explanation": "A covalent bond is formed when two atoms share one or more pairs of electrons to achieve a full outer shell.",
+                "answer": "1) Covalent Bond",
+                "grade_level": "Grade 9",
+                "subject": "Science",
+                "subject_topic": "Chemistry"
+            },
+            {
+                "questionNumber": 8,
+                "question": "What is the pH level of pure water?",
+                "options": [
+                    "1) 7",
+                    "2) 10",
+                    "3) 5",
+                    "4) 0"
+                ],
+                "explanation": "The pH level of pure water is 7, which is considered neutral on the pH scale.",
+                "answer": "1) 7",
+                "grade_level": "Grade 9",
+                "subject": "Science",
+                "subject_topic": "Chemistry"
+            },
+            {
+                "questionNumber": 9,
+                "question": "What is the primary function of the cell membrane?",
+                "options": [
+                    "1) Control what enters and exits the cell",
+                    "2) Provide energy for the cell",
+                    "3) Store genetic information",
+                    "4) Synthesize proteins"
+                ],
+                "explanation": "The cell membrane is crucial for controlling the movement of substances in and out of the cell, maintaining homeostasis.",
+                "answer": "1) Control what enters and exits the cell",
+                "grade_level": "Grade 9",
+                "subject": "Science",
+                "subject_topic": "Biology"
+            },
+            {
+                "questionNumber": 10,
+                "question": "Which organ system is responsible for the transportation of nutrients and oxygen throughout the body?",
+                "options": [
+                    "1) Circulatory System",
+                    "2) Digestive System",
+                    "3) Nervous System",
+                    "4) Endocrine System"
+                ],
+                "explanation": "The circulatory system is responsible for the transportation of blood, nutrients, and oxygen to cells throughout the body.",
+                "answer": "1) Circulatory System",
+                "grade_level": "Grade 9",
+                "subject": "Science",
+                "subject_topic": "Human Biology"
+            }
+        ]
+    },
+    {
+        "assesment_test_number": 1,
+        "subjects": [
+            {
+                "questionNumber": 1,
+                "question": "What was the main reason for the start of the Cold War?",
+                "options": [
+                    "1) The rivalry between the United States and the Soviet Union",
+                    "2) The economic crisis in Europe",
+                    "3) The establishment of the United Nations",
+                    "4) The rise of fascism in Germany"
+                ],
+                "explanation": "The Cold War was primarily fueled by the ideological conflict and rivalry between the United States (capitalism) and the Soviet Union (communism) after World War II.",
+                "answer": "1) The rivalry between the United States and the Soviet Union",
+                "grade_level": "9",
+                "subject": "Social Studies",
+                "subject_topic": "Cold War"
+            },
+            {
+                "questionNumber": 2,
+                "question": "Which document declared the American colonies independent from British rule?",
+                "options": [
+                    "1) The Constitution",
+                    "2) The Bill of Rights",
+                    "3) The Declaration of Independence",
+                    "4) The Articles of Confederation"
+                ],
+                "explanation": "The Declaration of Independence, adopted on July 4, 1776, formally announced the colonies' separation from British rule.",
+                "answer": "3) The Declaration of Independence",
+                "grade_level": "9",
+                "subject": "Social Studies",
+                "subject_topic": "American Independence"
+            },
+            {
+                "questionNumber": 3,
+                "question": "What was the primary purpose of the Lewis and Clark Expedition?",
+                "options": [
+                    "1) To find new trade routes to Asia",
+                    "2) To explore and map the newly acquired western territory",
+                    "3) To establish diplomatic relations with Native Americans",
+                    "4) To discover gold and silver in the West"
+                ],
+                "explanation": "The Lewis and Clark Expedition (1804-1806) aimed to explore and map the land acquired through the Louisiana Purchase and to document the geography and resources of the region.",
+                "answer": "2) To explore and map the newly acquired western territory",
+                "grade_level": "9",
+                "subject": "Social Studies",
+                "subject_topic": "Westward Expansion"
+            },
+            {
+                "questionNumber": 4,
+                "question": "Who was the first president of the United States?",
+                "options": [
+                    "1) Thomas Jefferson",
+                    "2) Abraham Lincoln",
+                    "3) George Washington",
+                    "4) John Adams"
+                ],
+                "explanation": "George Washington served as the first president of the United States from 1789 to 1797, setting many precedents for future presidents.",
+                "answer": "3) George Washington",
+                "grade_level": "9",
+                "subject": "Social Studies",
+                "subject_topic": "U.S. History"
+            },
+            {
+                "questionNumber": 5,
+                "question": "What significant event prompted the United States to enter World War I?",
+                "options": [
+                    "1) The bombing of Pearl Harbor",
+                    "2) The sinking of the Lusitania",
+                    "3) The attack on Fort Sumter",
+                    "4) The invasion of Poland"
+                ],
+                "explanation": "The sinking of the Lusitania in 1915, where many Americans lost their lives, played a significant role in turning public opinion against Germany and led to the U.S. entering World War I.",
+                "answer": "2) The sinking of the Lusitania",
+                "grade_level": "9",
+                "subject": "Social Studies",
+                "subject_topic": "World War I"
+            },
+            {
+                "questionNumber": 6,
+                "question": "What is the significance of the Emancipation Proclamation?",
+                "options": [
+                    "1) It granted women the right to vote",
+                    "2) It abolished slavery in the United States",
+                    "3) It marked the end of the Civil War",
+                    "4) It declared independence from Britain"
+                ],
+                "explanation": "The Emancipation Proclamation issued by President Abraham Lincoln in 1863 declared the freedom of all enslaved people in Confederate states, changing the nature of the Civil War.",
+                "answer": "2) It abolished slavery in the United States",
+                "grade_level": "9",
+                "subject": "Social Studies",
+                "subject_topic": "Civil War"
+            },
+            {
+                "questionNumber": 7,
+                "question": "Which ancient civilization is known for creating one of the first written law codes?",
+                "options": [
+                    "1) Ancient Egypt",
+                    "2) Ancient Greece",
+                    "3) Babylonian Empire",
+                    "4) Ancient Rome"
+                ],
+                "explanation": "The Babylonian Empire is famous for the Code of Hammurabi, one of the earliest and most complete written legal codes, dating back to around 1754 BC.",
+                "answer": "3) Babylonian Empire",
+                "grade_level": "9",
+                "subject": "Social Studies",
+                "subject_topic": "Ancient Civilizations"
+            },
+            {
+                "questionNumber": 8,
+                "question": "Which of the following is one of the main purposes of the United Nations?",
+                "options": [
+                    "1) To promote international war",
+                    "2) To provide humanitarian aid only",
+                    "3) To foster international cooperation and peace",
+                    "4) To regulate global trade"
+                ],
+                "explanation": "The United Nations was established to promote international cooperation, peace, and security among nations.",
+                "answer": "3) To foster international cooperation and peace",
+                "grade_level": "9",
+                "subject": "Social Studies",
+                "subject_topic": "International Relations"
+            },
+            {
+                "questionNumber": 9,
+                "question": "What was the main outcome of the Treaty of Versailles?",
+                "options": [
+                    "1) It started World War II",
+                    "2) It ended World War I",
+                    "3) It divided the Ottoman Empire",
+                    "4) It created the League of Nations"
+                ],
+                "explanation": "The Treaty of Versailles, signed in 1919, officially ended World War I and imposed heavy reparations and territorial losses on Germany.",
+                "answer": "2) It ended World War I",
+                "grade_level": "9",
+                "subject": "Social Studies",
+                "subject_topic": "Treaty of Versailles"
+            },
+            {
+                "questionNumber": 10,
+                "question": "What was the primary cause of the Great Depression in the United States?",
+                "options": [
+                    "1) The Dust Bowl",
+                    "2) Stock market crash of 1929",
+                    "3) High tariffs and trade barriers",
+                    "4) The end of World War I"
+                ],
+                "explanation": "The Great Depression was triggered by the stock market crash of 1929, leading to widespread economic failure and unemployment.",
+                "answer": "2) Stock market crash of 1929",
+                "grade_level": "9",
+                "subject": "Social Studies",
+                "subject_topic": "Great Depression"
+            }
+        ]
+    }
+]

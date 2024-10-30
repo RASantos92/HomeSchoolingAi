@@ -1,0 +1,2429 @@
+{
+    "Monday": {},
+    "Tuesday": {},
+    "Wednesday": {},
+    "Thursday": {},
+    "Friday": {
+        "Language Arts+": [
+            {
+                "quiz_grade": 60.0,
+                "wrong_answers": [
+                    0,
+                    2,
+                    3,
+                    9
+                ],
+                "attempt_number": 2,
+                "quiz": [
+                    {
+                        "question": "What part of speech describes or modifies a noun?",
+                        "options": [
+                            "4) Adverb",
+                            "2) Verb",
+                            "3) Adjective",
+                            "1) Noun"
+                        ],
+                        "explanation": "An adjective is used to describe or modify a noun, giving additional insight into its characteristics.",
+                        "answer": "3) Adjective"
+                    },
+                    {
+                        "question": "Which punctuation mark signals a brief pause within a thought?",
+                        "options": [
+                            "3) Exclamation mark",
+                            "1) Period",
+                            "2) Comma",
+                            "4) Semicolon"
+                        ],
+                        "explanation": "A comma is used to indicate a brief pause between elements in a sentence.",
+                        "answer": "2) Comma"
+                    },
+                    {
+                        "question": "What can a missing comma in a sentence change?",
+                        "options": [
+                            "2) The meaning of the sentence",
+                            "4) The length of the sentence",
+                            "1) The sentence structure",
+                            "3) The subject of the sentence"
+                        ],
+                        "explanation": "Missing a comma can drastically change the meaning of a sentence, making it confusing or misleading.",
+                        "answer": "2) The meaning of the sentence"
+                    },
+                    {
+                        "question": "Which part of speech expresses action or a state of being?",
+                        "options": [
+                            "1) Noun",
+                            "3) Adjective",
+                            "2) Verb",
+                            "4) Adverb"
+                        ],
+                        "explanation": "A verb is responsible for expressing action or a state of being within a sentence.",
+                        "answer": "2) Verb"
+                    },
+                    {
+                        "question": "What does a period indicate in writing?",
+                        "options": [
+                            "1) A question",
+                            "3) A brief pause",
+                            "2) The end of a sentence",
+                            "4) A continuation"
+                        ],
+                        "explanation": "A period is used to signify the end of a complete sentence, indicating that the thought is complete.",
+                        "answer": "2) The end of a sentence"
+                    },
+                    {
+                        "question": "What should students focus on according to the lecture while correcting sentence errors?",
+                        "options": [
+                            "4) Making longer sentences",
+                            "1) Finding perfect sentences",
+                            "3) Avoiding commas",
+                            "2) Enhancing clarity and meaning"
+                        ],
+                        "explanation": "The lecture emphasizes that students should focus on enhancing clarity and meaning in their writing rather than seeking perfection.",
+                        "answer": "2) Enhancing clarity and meaning"
+                    },
+                    {
+                        "question": "What is one example given in the lecture to illustrate the importance of correct punctuation?",
+                        "options": [
+                            "3) 'Lets eat!'",
+                            "4) 'Eat Grandma!'",
+                            "2) 'Lets eat, Grandma!'",
+                            "1) 'Lets eat Grandma!'"
+                        ],
+                        "explanation": "The example illustrates how punctuation can change the meaning of the sentence. The comma distinguishes between an invitation to eat and a worrying suggestion.",
+                        "answer": "2) 'Lets eat, Grandma!'"
+                    },
+                    {
+                        "question": "What does the lecture encourage students to embrace as part of their learning process?",
+                        "options": [
+                            "2) Continuous improvement through mistakes",
+                            "4) Memorizing rules without understanding",
+                            "3) Never making errors in writing",
+                            "1) Competition among peers"
+                        ],
+                        "explanation": "The lecture encourages a mindset of continuous improvement and learning from mistakes, rather than focusing solely on avoiding errors.",
+                        "answer": "2) Continuous improvement through mistakes"
+                    },
+                    {
+                        "question": "What is the purpose of the final assessments as mentioned in the lecture?",
+                        "options": [
+                            "2) To test knowledge and reflect growth",
+                            "4) To eliminate grammar basics",
+                            "1) To showcase perfect writing",
+                            "3) To compare students' skills"
+                        ],
+                        "explanation": "The assessments aim to evaluate students' understanding and reflect on their growth in grammar and punctuation knowledge.",
+                        "answer": "2) To test knowledge and reflect growth"
+                    },
+                    {
+                        "question": "Which grammatical element helps us determine how sentences fit together?",
+                        "options": [
+                            "1) Parts of speech",
+                            "4) Typing speed",
+                            "2) Punctuation marks",
+                            "3) Sentence length"
+                        ],
+                        "explanation": "Parts of speech are essential for understanding how sentences are constructed and how the elements relate to each other in conveying meaning.",
+                        "answer": "1) Parts of speech"
+                    }
+                ]
+            },
+            {
+                "quiz_grade": 70.0,
+                "wrong_answers": [
+                    0,
+                    2,
+                    3
+                ],
+                "attempt_number": 3,
+                "quiz": [
+                    {
+                        "question": "What part of speech describes or modifies a noun?",
+                        "options": [
+                            "4) Adverb",
+                            "2) Verb",
+                            "3) Adjective",
+                            "1) Noun"
+                        ],
+                        "explanation": "An adjective is used to describe or modify a noun, giving additional insight into its characteristics.",
+                        "answer": "3) Adjective"
+                    },
+                    {
+                        "question": "Which punctuation mark signals a brief pause within a thought?",
+                        "options": [
+                            "3) Exclamation mark",
+                            "1) Period",
+                            "2) Comma",
+                            "4) Semicolon"
+                        ],
+                        "explanation": "A comma is used to indicate a brief pause between elements in a sentence.",
+                        "answer": "2) Comma"
+                    },
+                    {
+                        "question": "What can a missing comma in a sentence change?",
+                        "options": [
+                            "2) The meaning of the sentence",
+                            "4) The length of the sentence",
+                            "1) The sentence structure",
+                            "3) The subject of the sentence"
+                        ],
+                        "explanation": "Missing a comma can drastically change the meaning of a sentence, making it confusing or misleading.",
+                        "answer": "2) The meaning of the sentence"
+                    },
+                    {
+                        "question": "Which part of speech expresses action or a state of being?",
+                        "options": [
+                            "1) Noun",
+                            "3) Adjective",
+                            "2) Verb",
+                            "4) Adverb"
+                        ],
+                        "explanation": "A verb is responsible for expressing action or a state of being within a sentence.",
+                        "answer": "2) Verb"
+                    },
+                    {
+                        "question": "What does a period indicate in writing?",
+                        "options": [
+                            "1) A question",
+                            "3) A brief pause",
+                            "2) The end of a sentence",
+                            "4) A continuation"
+                        ],
+                        "explanation": "A period is used to signify the end of a complete sentence, indicating that the thought is complete.",
+                        "answer": "2) The end of a sentence"
+                    },
+                    {
+                        "question": "What should students focus on according to the lecture while correcting sentence errors?",
+                        "options": [
+                            "4) Making longer sentences",
+                            "1) Finding perfect sentences",
+                            "3) Avoiding commas",
+                            "2) Enhancing clarity and meaning"
+                        ],
+                        "explanation": "The lecture emphasizes that students should focus on enhancing clarity and meaning in their writing rather than seeking perfection.",
+                        "answer": "2) Enhancing clarity and meaning"
+                    },
+                    {
+                        "question": "What is one example given in the lecture to illustrate the importance of correct punctuation?",
+                        "options": [
+                            "3) 'Lets eat!'",
+                            "4) 'Eat Grandma!'",
+                            "2) 'Lets eat, Grandma!'",
+                            "1) 'Lets eat Grandma!'"
+                        ],
+                        "explanation": "The example illustrates how punctuation can change the meaning of the sentence. The comma distinguishes between an invitation to eat and a worrying suggestion.",
+                        "answer": "2) 'Lets eat, Grandma!'"
+                    },
+                    {
+                        "question": "What does the lecture encourage students to embrace as part of their learning process?",
+                        "options": [
+                            "2) Continuous improvement through mistakes",
+                            "4) Memorizing rules without understanding",
+                            "3) Never making errors in writing",
+                            "1) Competition among peers"
+                        ],
+                        "explanation": "The lecture encourages a mindset of continuous improvement and learning from mistakes, rather than focusing solely on avoiding errors.",
+                        "answer": "2) Continuous improvement through mistakes"
+                    },
+                    {
+                        "question": "What is the purpose of the final assessments as mentioned in the lecture?",
+                        "options": [
+                            "2) To test knowledge and reflect growth",
+                            "4) To eliminate grammar basics",
+                            "1) To showcase perfect writing",
+                            "3) To compare students' skills"
+                        ],
+                        "explanation": "The assessments aim to evaluate students' understanding and reflect on their growth in grammar and punctuation knowledge.",
+                        "answer": "2) To test knowledge and reflect growth"
+                    },
+                    {
+                        "question": "Which grammatical element helps us determine how sentences fit together?",
+                        "options": [
+                            "1) Parts of speech",
+                            "4) Typing speed",
+                            "2) Punctuation marks",
+                            "3) Sentence length"
+                        ],
+                        "explanation": "Parts of speech are essential for understanding how sentences are constructed and how the elements relate to each other in conveying meaning.",
+                        "answer": "1) Parts of speech"
+                    }
+                ]
+            },
+            {
+                "quiz_grade": 80.0,
+                "wrong_answers": [
+                    0,
+                    3
+                ],
+                "attempt_number": 4,
+                "quiz": [
+                    {
+                        "question": "What part of speech describes or modifies a noun?",
+                        "options": [
+                            "4) Adverb",
+                            "2) Verb",
+                            "3) Adjective",
+                            "1) Noun"
+                        ],
+                        "explanation": "An adjective is used to describe or modify a noun, giving additional insight into its characteristics.",
+                        "answer": "3) Adjective"
+                    },
+                    {
+                        "question": "Which punctuation mark signals a brief pause within a thought?",
+                        "options": [
+                            "3) Exclamation mark",
+                            "1) Period",
+                            "2) Comma",
+                            "4) Semicolon"
+                        ],
+                        "explanation": "A comma is used to indicate a brief pause between elements in a sentence.",
+                        "answer": "2) Comma"
+                    },
+                    {
+                        "question": "What can a missing comma in a sentence change?",
+                        "options": [
+                            "2) The meaning of the sentence",
+                            "4) The length of the sentence",
+                            "1) The sentence structure",
+                            "3) The subject of the sentence"
+                        ],
+                        "explanation": "Missing a comma can drastically change the meaning of a sentence, making it confusing or misleading.",
+                        "answer": "2) The meaning of the sentence"
+                    },
+                    {
+                        "question": "Which part of speech expresses action or a state of being?",
+                        "options": [
+                            "1) Noun",
+                            "3) Adjective",
+                            "2) Verb",
+                            "4) Adverb"
+                        ],
+                        "explanation": "A verb is responsible for expressing action or a state of being within a sentence.",
+                        "answer": "2) Verb"
+                    },
+                    {
+                        "question": "What does a period indicate in writing?",
+                        "options": [
+                            "1) A question",
+                            "3) A brief pause",
+                            "2) The end of a sentence",
+                            "4) A continuation"
+                        ],
+                        "explanation": "A period is used to signify the end of a complete sentence, indicating that the thought is complete.",
+                        "answer": "2) The end of a sentence"
+                    },
+                    {
+                        "question": "What should students focus on according to the lecture while correcting sentence errors?",
+                        "options": [
+                            "4) Making longer sentences",
+                            "1) Finding perfect sentences",
+                            "3) Avoiding commas",
+                            "2) Enhancing clarity and meaning"
+                        ],
+                        "explanation": "The lecture emphasizes that students should focus on enhancing clarity and meaning in their writing rather than seeking perfection.",
+                        "answer": "2) Enhancing clarity and meaning"
+                    },
+                    {
+                        "question": "What is one example given in the lecture to illustrate the importance of correct punctuation?",
+                        "options": [
+                            "3) 'Lets eat!'",
+                            "4) 'Eat Grandma!'",
+                            "2) 'Lets eat, Grandma!'",
+                            "1) 'Lets eat Grandma!'"
+                        ],
+                        "explanation": "The example illustrates how punctuation can change the meaning of the sentence. The comma distinguishes between an invitation to eat and a worrying suggestion.",
+                        "answer": "2) 'Lets eat, Grandma!'"
+                    },
+                    {
+                        "question": "What does the lecture encourage students to embrace as part of their learning process?",
+                        "options": [
+                            "2) Continuous improvement through mistakes",
+                            "4) Memorizing rules without understanding",
+                            "3) Never making errors in writing",
+                            "1) Competition among peers"
+                        ],
+                        "explanation": "The lecture encourages a mindset of continuous improvement and learning from mistakes, rather than focusing solely on avoiding errors.",
+                        "answer": "2) Continuous improvement through mistakes"
+                    },
+                    {
+                        "question": "What is the purpose of the final assessments as mentioned in the lecture?",
+                        "options": [
+                            "2) To test knowledge and reflect growth",
+                            "4) To eliminate grammar basics",
+                            "1) To showcase perfect writing",
+                            "3) To compare students' skills"
+                        ],
+                        "explanation": "The assessments aim to evaluate students' understanding and reflect on their growth in grammar and punctuation knowledge.",
+                        "answer": "2) To test knowledge and reflect growth"
+                    },
+                    {
+                        "question": "Which grammatical element helps us determine how sentences fit together?",
+                        "options": [
+                            "1) Parts of speech",
+                            "4) Typing speed",
+                            "2) Punctuation marks",
+                            "3) Sentence length"
+                        ],
+                        "explanation": "Parts of speech are essential for understanding how sentences are constructed and how the elements relate to each other in conveying meaning.",
+                        "answer": "1) Parts of speech"
+                    }
+                ]
+            }
+        ],
+        "Language Arts Advanced+": [
+            {
+                "quiz_grade": 80.0,
+                "wrong_answers": [
+                    0,
+                    7
+                ],
+                "attempt_number": 2,
+                "quiz": [
+                    {
+                        "question": "What is the first key area to focus on for improving presentation skills?",
+                        "options": [
+                            "1) Content",
+                            "2) Organization",
+                            "3) Delivery",
+                            "4) Feedback"
+                        ],
+                        "explanation": "The lecture emphasizes that content is the fundamental area to focus on when improving presentation skills, including engaging with themes and techniques relevant to the text analysis.",
+                        "answer": "1) Content"
+                    },
+                    {
+                        "question": "What should be included in the introduction of a presentation?",
+                        "options": [
+                            "2) A list of texts to be analyzed",
+                            "3) A clear outline of the main point",
+                            "1) A recap of all previous classes",
+                            "4) A long personal story"
+                        ],
+                        "explanation": "The introduction of a presentation should provide a clear outline of the main point to set the stage for the audience's understanding of the analysis.",
+                        "answer": "3) A clear outline of the main point"
+                    },
+                    {
+                        "question": "During peer feedback, what is a suggested method to provide constructive critiques?",
+                        "options": [
+                            "1) Give only negative feedback",
+                            "2) Support with personal opinions only",
+                            "3) Use the 'two stars and a wish' method",
+                            "4) Avoid sharing any thoughts"
+                        ],
+                        "explanation": "The 'two stars and a wish' method encourages giving two positive points followed by one area for improvement, fostering a constructive feedback environment.",
+                        "answer": "3) Use the 'two stars and a wish' method"
+                    },
+                    {
+                        "question": "What is an advantage of peer feedback mentioned in the lecture?",
+                        "options": [
+                            "3) It provides insights for refinement of analyses",
+                            "2) It allows for personal opinions without structure",
+                            "4) It guarantees a higher presentation score",
+                            "1) It can only highlight areas of improvement"
+                        ],
+                        "explanation": "Peer feedback is highlighted as a powerful tool that can provide insights helping to enhance both the content of the analysis and the delivery style of presentations.",
+                        "answer": "3) It provides insights for refinement of analyses"
+                    },
+                    {
+                        "question": "Which of the following is an essential part of reflective writing?",
+                        "options": [
+                            "4) Ignoring the author's bias",
+                            "2) Personal opinions without any analysis",
+                            "3) Summarizing key points of the text",
+                            "1) Only focusing on positive aspects"
+                        ],
+                        "explanation": "Reflective writing should include a summary of the key points of the text, followed by analysis and evaluation of one's personal reactions and learning.",
+                        "answer": "3) Summarizing key points of the text"
+                    },
+                    {
+                        "question": "What is an important aspect of delivery during a presentation as discussed in the lecture?",
+                        "options": [
+                            "2) Maintaining eye contact",
+                            "3) Reading directly from notes",
+                            "4) Speaking at a rapid pace",
+                            "1) Using complex vocabulary"
+                        ],
+                        "explanation": "Maintaining eye contact is critical for engagement and shows the audience that the speaker is connected and invested in their message.",
+                        "answer": "2) Maintaining eye contact"
+                    },
+                    {
+                        "question": "What should be the tone of the peer feedback environment according to the lecture?",
+                        "options": [
+                            "1) Competitive",
+                            "3) Supportive",
+                            "2) Hostile",
+                            "4) Disinterested"
+                        ],
+                        "explanation": "Creating a safe and supportive environment is essential for meaningful peer feedback, allowing everyone to feel comfortable sharing and receiving critiques.",
+                        "answer": "3) Supportive"
+                    },
+                    {
+                        "question": "After presentations, what kind of writing task is suggested?",
+                        "options": [
+                            "1) Summarizing the entire lecture",
+                            "3) Writing a personal narrative",
+                            "2) Reflective writing on texts analyzed",
+                            "4) Crafting a summary of decisions made"
+                        ],
+                        "explanation": "The lecture suggests writing a reflective piece on the texts analyzed, encouraging personal insight and connection to the material.",
+                        "answer": "2) Reflective writing on texts analyzed"
+                    },
+                    {
+                        "question": "What is a key element that influences how the audience perceives a presentation?",
+                        "options": [
+                            "1) The font used in slides",
+                            "2) The speaker's body language",
+                            "4) The complexity of the topics",
+                            "3) The length of the presentation"
+                        ],
+                        "explanation": "The speaker's body language plays a significant role in how the audience receives the presentation, impacting engagement and comprehension.",
+                        "answer": "2) The speaker's body language"
+                    },
+                    {
+                        "question": "According to the lecture, what should be aimed for at the conclusion of a presentation?",
+                        "options": [
+                            "1) To introduce new concepts",
+                            "2) To recap the entire lecture",
+                            "4) To ask the audience questions",
+                            "3) A powerful conclusion reinforcing analysis"
+                        ],
+                        "explanation": "A powerful conclusion is essential as it reinforces the analysis presented and leaves the audience with a clear understanding of the main points.",
+                        "answer": "3) A powerful conclusion reinforcing analysis"
+                    }
+                ]
+            },
+            {
+                "quiz_grade": 100.0,
+                "wrong_answers": [],
+                "attempt_number": 3,
+                "quiz": [
+                    {
+                        "question": "What is the first key area to focus on for improving presentation skills?",
+                        "options": [
+                            "1) Content",
+                            "2) Organization",
+                            "3) Delivery",
+                            "4) Feedback"
+                        ],
+                        "explanation": "The lecture emphasizes that content is the fundamental area to focus on when improving presentation skills, including engaging with themes and techniques relevant to the text analysis.",
+                        "answer": "1) Content"
+                    },
+                    {
+                        "question": "What should be included in the introduction of a presentation?",
+                        "options": [
+                            "2) A list of texts to be analyzed",
+                            "3) A clear outline of the main point",
+                            "1) A recap of all previous classes",
+                            "4) A long personal story"
+                        ],
+                        "explanation": "The introduction of a presentation should provide a clear outline of the main point to set the stage for the audience's understanding of the analysis.",
+                        "answer": "3) A clear outline of the main point"
+                    },
+                    {
+                        "question": "During peer feedback, what is a suggested method to provide constructive critiques?",
+                        "options": [
+                            "1) Give only negative feedback",
+                            "2) Support with personal opinions only",
+                            "3) Use the 'two stars and a wish' method",
+                            "4) Avoid sharing any thoughts"
+                        ],
+                        "explanation": "The 'two stars and a wish' method encourages giving two positive points followed by one area for improvement, fostering a constructive feedback environment.",
+                        "answer": "3) Use the 'two stars and a wish' method"
+                    },
+                    {
+                        "question": "What is an advantage of peer feedback mentioned in the lecture?",
+                        "options": [
+                            "3) It provides insights for refinement of analyses",
+                            "2) It allows for personal opinions without structure",
+                            "4) It guarantees a higher presentation score",
+                            "1) It can only highlight areas of improvement"
+                        ],
+                        "explanation": "Peer feedback is highlighted as a powerful tool that can provide insights helping to enhance both the content of the analysis and the delivery style of presentations.",
+                        "answer": "3) It provides insights for refinement of analyses"
+                    },
+                    {
+                        "question": "Which of the following is an essential part of reflective writing?",
+                        "options": [
+                            "4) Ignoring the author's bias",
+                            "2) Personal opinions without any analysis",
+                            "3) Summarizing key points of the text",
+                            "1) Only focusing on positive aspects"
+                        ],
+                        "explanation": "Reflective writing should include a summary of the key points of the text, followed by analysis and evaluation of one's personal reactions and learning.",
+                        "answer": "3) Summarizing key points of the text"
+                    },
+                    {
+                        "question": "What is an important aspect of delivery during a presentation as discussed in the lecture?",
+                        "options": [
+                            "2) Maintaining eye contact",
+                            "3) Reading directly from notes",
+                            "4) Speaking at a rapid pace",
+                            "1) Using complex vocabulary"
+                        ],
+                        "explanation": "Maintaining eye contact is critical for engagement and shows the audience that the speaker is connected and invested in their message.",
+                        "answer": "2) Maintaining eye contact"
+                    },
+                    {
+                        "question": "What should be the tone of the peer feedback environment according to the lecture?",
+                        "options": [
+                            "1) Competitive",
+                            "3) Supportive",
+                            "2) Hostile",
+                            "4) Disinterested"
+                        ],
+                        "explanation": "Creating a safe and supportive environment is essential for meaningful peer feedback, allowing everyone to feel comfortable sharing and receiving critiques.",
+                        "answer": "3) Supportive"
+                    },
+                    {
+                        "question": "After presentations, what kind of writing task is suggested?",
+                        "options": [
+                            "1) Summarizing the entire lecture",
+                            "3) Writing a personal narrative",
+                            "2) Reflective writing on texts analyzed",
+                            "4) Crafting a summary of decisions made"
+                        ],
+                        "explanation": "The lecture suggests writing a reflective piece on the texts analyzed, encouraging personal insight and connection to the material.",
+                        "answer": "2) Reflective writing on texts analyzed"
+                    },
+                    {
+                        "question": "What is a key element that influences how the audience perceives a presentation?",
+                        "options": [
+                            "1) The font used in slides",
+                            "2) The speaker's body language",
+                            "4) The complexity of the topics",
+                            "3) The length of the presentation"
+                        ],
+                        "explanation": "The speaker's body language plays a significant role in how the audience receives the presentation, impacting engagement and comprehension.",
+                        "answer": "2) The speaker's body language"
+                    },
+                    {
+                        "question": "According to the lecture, what should be aimed for at the conclusion of a presentation?",
+                        "options": [
+                            "1) To introduce new concepts",
+                            "2) To recap the entire lecture",
+                            "4) To ask the audience questions",
+                            "3) A powerful conclusion reinforcing analysis"
+                        ],
+                        "explanation": "A powerful conclusion is essential as it reinforces the analysis presented and leaves the audience with a clear understanding of the main points.",
+                        "answer": "3) A powerful conclusion reinforcing analysis"
+                    }
+                ]
+            }
+        ],
+        "Mathematics+": [
+            {
+                "quiz_grade": 60.0,
+                "wrong_answers": [
+                    0,
+                    1,
+                    6,
+                    8
+                ],
+                "attempt_number": 4,
+                "quiz": [
+                    {
+                        "question": "What does a ratio represent?",
+                        "options": [
+                            "1) A way to compare two quantities by addition.",
+                            "2) A way to compare two quantities by division.",
+                            "4) A way to express a percentage of a whole.",
+                            "3) A way to show the total quantity of items."
+                        ],
+                        "explanation": "A ratio is specifically used to compare two quantities, which is done by division.",
+                        "answer": "2) A way to compare two quantities by division."
+                    },
+                    {
+                        "question": "How do you calculate a percentage?",
+                        "options": [
+                            "1) (whole/part) x 100",
+                            "3) (part + whole) / 100",
+                            "2) (part/whole) x 100",
+                            "4) whole - part"
+                        ],
+                        "explanation": "To calculate a percentage, you use the formula: (part/whole) x 100, which gives the portion out of 100.",
+                        "answer": "2) (part/whole) x 100"
+                    },
+                    {
+                        "question": "If you need to change a recipe that serves 4 to serve 10, what concept would be most useful?",
+                        "options": [
+                            "1) Variable equations",
+                            "2) Ratios",
+                            "3) Conversions",
+                            "4) Algorithms"
+                        ],
+                        "explanation": "Ratios are used to adjust quantities in recipes when changing serving sizes, allowing for proportional comparisons of ingredients.",
+                        "answer": "2) Ratios"
+                    },
+                    {
+                        "question": "Why is it important to double-check calculations during the review games?",
+                        "options": [
+                            "2) To ensure you did not make mistakes.",
+                            "3) To show your work clearly.",
+                            "4) To make the game more competitive.",
+                            "1) To save time in exams."
+                        ],
+                        "explanation": "Double-checking calculations helps catch errors, ensuring accuracy and reinforcing correct learning before assessments.",
+                        "answer": "2) To ensure you did not make mistakes."
+                    },
+                    {
+                        "question": "What is the percentage equivalent of 25% expressed as a decimal?",
+                        "options": [
+                            "1) 0.25",
+                            "3) 0.50",
+                            "2) 0.75",
+                            "4) 1.25"
+                        ],
+                        "explanation": "The percentage 25% is equivalent to 0.25 when converted into decimal form (25/100 = 0.25).",
+                        "answer": "1) 0.25"
+                    },
+                    {
+                        "question": "In context of sales tax, why might one need to calculate the total cost after tax?",
+                        "options": [
+                            "2) To understand how much is spent in total.",
+                            "4) To compare product discounts.",
+                            "1) To determine the original price.",
+                            "3) To know the profit margin."
+                        ],
+                        "explanation": "Calculating the total cost after tax is essential to understand the overall expenditure; this is relevant when budgeting and making purchasing decisions.",
+                        "answer": "2) To understand how much is spent in total."
+                    },
+                    {
+                        "question": "What is a practical application of understanding ratios in business?",
+                        "options": [
+                            "4) Increasing customer relations.",
+                            "3) Managing employee schedules.",
+                            "1) Developing marketing strategies.",
+                            "2) Showing profit margins."
+                        ],
+                        "explanation": "Ratios are often utilized in business to show profit margins, which help in assessing financial performance and making decisions.",
+                        "answer": "2) Showing profit margins."
+                    },
+                    {
+                        "question": "If a student misreads a problem, what is the potential consequence?",
+                        "options": [
+                            "3) Incorrect conclusions due to misinterpretation.",
+                            "4) Enhanced calculation skills.",
+                            "2) Increased engagement in solving the problem.",
+                            "1) Better understanding of the question."
+                        ],
+                        "explanation": "Misreading a problem can lead to incorrectly interpreting the data, which ultimately results in errors in calculations and conclusions.",
+                        "answer": "3) Incorrect conclusions due to misinterpretation."
+                    },
+                    {
+                        "question": "What type of reasoning is emphasized in math, as per the lecture's conclusion?",
+                        "options": [
+                            "4) Intuitive reasoning",
+                            "1) Emotional reasoning",
+                            "3) Random guessing",
+                            "2) Logical reasoning"
+                        ],
+                        "explanation": "The lecture highlights the importance of logical reasoning and problem-solving skills in understanding mathematical concepts and applying them effectively.",
+                        "answer": "2) Logical reasoning"
+                    },
+                    {
+                        "question": "What should students do when they encounter mistakes during practice?",
+                        "options": [
+                            "1) Ignore them to save time.",
+                            "2) Learn from them as they provide valuable insight.",
+                            "4) Hide them during assessments.",
+                            "3) Blame others for the mistake."
+                        ],
+                        "explanation": "Learning from mistakes is crucial as it reinforces understanding and helps prevent similar errors in the future, providing an opportunity for growth.",
+                        "answer": "2) Learn from them as they provide valuable insight."
+                    }
+                ]
+            }
+        ],
+        "Mathematics Advanced+": [
+            {
+                "quiz_grade": 80.0,
+                "wrong_answers": [
+                    2,
+                    6
+                ],
+                "attempt_number": 2,
+                "quiz": [
+                    {
+                        "question": "What is the result of -7 + 10?",
+                        "options": [
+                            "4) -3",
+                            "3) -17",
+                            "1) 3",
+                            "2) 7"
+                        ],
+                        "explanation": "When adding a positive integer to a negative integer, you can visualize it on a number line. Starting at -7 and moving 10 steps to the right brings you to 3.",
+                        "answer": "1) 3"
+                    },
+                    {
+                        "question": "If you solve the expression 5 \u00d7 (2 + 3), what is the answer?",
+                        "options": [
+                            "4) 35",
+                            "2) 15",
+                            "1) 25",
+                            "3) 5"
+                        ],
+                        "explanation": "According to the order of operations, you first calculate the expression inside the parentheses: 2 + 3 = 5. Then, perform the multiplication: 5 \u00d7 5 = 25.",
+                        "answer": "1) 25"
+                    },
+                    {
+                        "question": "Which of these operations would you perform first in the expression 8 - 2 \u00d7 (3 + 1)?",
+                        "options": [
+                            "4) None of the above",
+                            "3) Subtract",
+                            "1) Multiply",
+                            "2) Add"
+                        ],
+                        "explanation": "According to PEMDAS, the operation inside the parentheses is done first, then multiplication, followed by subtraction. So you would first add 3 + 1.",
+                        "answer": "1) Multiply"
+                    },
+                    {
+                        "question": "What do you get when you calculate 4 \u00d7 3 - 6?",
+                        "options": [
+                            "4) 15",
+                            "1) 12",
+                            "3) 18",
+                            "2) 6"
+                        ],
+                        "explanation": "First, multiply 4 and 3 to get 12. Then, subtract 6 from 12, resulting in 6.",
+                        "answer": "2) 6"
+                    },
+                    {
+                        "question": "What is the value of (7 - 3) \u00d7 2 + 1?",
+                        "options": [
+                            "1) 5",
+                            "4) 9",
+                            "2) 10",
+                            "3) 11"
+                        ],
+                        "explanation": "Start with the parentheses: 7 - 3 = 4. Then, multiply by 2 (4 \u00d7 2 = 8) and finally add 1, giving you 9.",
+                        "answer": "4) 9"
+                    },
+                    {
+                        "question": "In the expression 6 + 3 \u00d7 2 - 1, what is the first operation to perform?",
+                        "options": [
+                            "4) None of the above",
+                            "1) Addition",
+                            "2) Subtraction",
+                            "3) Multiplication"
+                        ],
+                        "explanation": "According to PEMDAS, the multiplication (3 \u00d7 2) is performed first before addition or subtraction.",
+                        "answer": "3) Multiplication"
+                    },
+                    {
+                        "question": "What is the result of the expression (10 - 4) + 2 \u00d7 5?",
+                        "options": [
+                            "3) 12",
+                            "4) 20",
+                            "2) 18",
+                            "1) 16"
+                        ],
+                        "explanation": "Calculate inside the parentheses first: 10 - 4 = 6. Then calculate 2 \u00d7 5 = 10. Finally, add: 6 + 10 = 16.",
+                        "answer": "1) 16"
+                    },
+                    {
+                        "question": "When evaluating the expression 12 - (3 + 4) \u00d7 2, what is the first step?",
+                        "options": [
+                            "4) None of the above",
+                            "1) Subtract 2",
+                            "2) Add 3 and 4",
+                            "3) Multiply by 12"
+                        ],
+                        "explanation": "You start with the operation inside the parentheses, so first you add 3 and 4 before proceeding with subtraction and multiplication.",
+                        "answer": "2) Add 3 and 4"
+                    },
+                    {
+                        "question": "What do you get when you calculate 15 - (5 \u00d7 2) + 1?",
+                        "options": [
+                            "1) 6",
+                            "4) 7",
+                            "2) 8",
+                            "3) 11"
+                        ],
+                        "explanation": "First, calculate the parentheses: 5 \u00d7 2 = 10. Then proceed: 15 - 10 + 1 = 6.",
+                        "answer": "1) 6"
+                    },
+                    {
+                        "question": "Which expression gives you the correct result of applying order of operations? 10 + 2 \u00d7 3",
+                        "options": [
+                            "2) 16",
+                            "1) 24",
+                            "4) 18",
+                            "3) 10"
+                        ],
+                        "explanation": "Follow the order of operations: multiply first (2 \u00d7 3 = 6) and then add to 10; hence, 10 + 6 = 16.",
+                        "answer": "2) 16"
+                    }
+                ]
+            },
+            {
+                "quiz_grade": 90.0,
+                "wrong_answers": [
+                    2
+                ],
+                "attempt_number": 3,
+                "quiz": [
+                    {
+                        "question": "What is the result of -7 + 10?",
+                        "options": [
+                            "4) -3",
+                            "3) -17",
+                            "1) 3",
+                            "2) 7"
+                        ],
+                        "explanation": "When adding a positive integer to a negative integer, you can visualize it on a number line. Starting at -7 and moving 10 steps to the right brings you to 3.",
+                        "answer": "1) 3"
+                    },
+                    {
+                        "question": "If you solve the expression 5 \u00d7 (2 + 3), what is the answer?",
+                        "options": [
+                            "4) 35",
+                            "2) 15",
+                            "1) 25",
+                            "3) 5"
+                        ],
+                        "explanation": "According to the order of operations, you first calculate the expression inside the parentheses: 2 + 3 = 5. Then, perform the multiplication: 5 \u00d7 5 = 25.",
+                        "answer": "1) 25"
+                    },
+                    {
+                        "question": "Which of these operations would you perform first in the expression 8 - 2 \u00d7 (3 + 1)?",
+                        "options": [
+                            "4) None of the above",
+                            "3) Subtract",
+                            "1) Multiply",
+                            "2) Add"
+                        ],
+                        "explanation": "According to PEMDAS, the operation inside the parentheses is done first, then multiplication, followed by subtraction. So you would first add 3 + 1.",
+                        "answer": "1) Multiply"
+                    },
+                    {
+                        "question": "What do you get when you calculate 4 \u00d7 3 - 6?",
+                        "options": [
+                            "4) 15",
+                            "1) 12",
+                            "3) 18",
+                            "2) 6"
+                        ],
+                        "explanation": "First, multiply 4 and 3 to get 12. Then, subtract 6 from 12, resulting in 6.",
+                        "answer": "2) 6"
+                    },
+                    {
+                        "question": "What is the value of (7 - 3) \u00d7 2 + 1?",
+                        "options": [
+                            "1) 5",
+                            "4) 9",
+                            "2) 10",
+                            "3) 11"
+                        ],
+                        "explanation": "Start with the parentheses: 7 - 3 = 4. Then, multiply by 2 (4 \u00d7 2 = 8) and finally add 1, giving you 9.",
+                        "answer": "4) 9"
+                    },
+                    {
+                        "question": "In the expression 6 + 3 \u00d7 2 - 1, what is the first operation to perform?",
+                        "options": [
+                            "4) None of the above",
+                            "1) Addition",
+                            "2) Subtraction",
+                            "3) Multiplication"
+                        ],
+                        "explanation": "According to PEMDAS, the multiplication (3 \u00d7 2) is performed first before addition or subtraction.",
+                        "answer": "3) Multiplication"
+                    },
+                    {
+                        "question": "What is the result of the expression (10 - 4) + 2 \u00d7 5?",
+                        "options": [
+                            "3) 12",
+                            "4) 20",
+                            "2) 18",
+                            "1) 16"
+                        ],
+                        "explanation": "Calculate inside the parentheses first: 10 - 4 = 6. Then calculate 2 \u00d7 5 = 10. Finally, add: 6 + 10 = 16.",
+                        "answer": "1) 16"
+                    },
+                    {
+                        "question": "When evaluating the expression 12 - (3 + 4) \u00d7 2, what is the first step?",
+                        "options": [
+                            "4) None of the above",
+                            "1) Subtract 2",
+                            "2) Add 3 and 4",
+                            "3) Multiply by 12"
+                        ],
+                        "explanation": "You start with the operation inside the parentheses, so first you add 3 and 4 before proceeding with subtraction and multiplication.",
+                        "answer": "2) Add 3 and 4"
+                    },
+                    {
+                        "question": "What do you get when you calculate 15 - (5 \u00d7 2) + 1?",
+                        "options": [
+                            "1) 6",
+                            "4) 7",
+                            "2) 8",
+                            "3) 11"
+                        ],
+                        "explanation": "First, calculate the parentheses: 5 \u00d7 2 = 10. Then proceed: 15 - 10 + 1 = 6.",
+                        "answer": "1) 6"
+                    },
+                    {
+                        "question": "Which expression gives you the correct result of applying order of operations? 10 + 2 \u00d7 3",
+                        "options": [
+                            "2) 16",
+                            "1) 24",
+                            "4) 18",
+                            "3) 10"
+                        ],
+                        "explanation": "Follow the order of operations: multiply first (2 \u00d7 3 = 6) and then add to 10; hence, 10 + 6 = 16.",
+                        "answer": "2) 16"
+                    }
+                ]
+            },
+            {
+                "quiz_grade": 90.0,
+                "wrong_answers": [
+                    5
+                ],
+                "attempt_number": 4,
+                "quiz": [
+                    {
+                        "question": "What is the result of -7 + 10?",
+                        "options": [
+                            "4) -3",
+                            "3) -17",
+                            "1) 3",
+                            "2) 7"
+                        ],
+                        "explanation": "When adding a positive integer to a negative integer, you can visualize it on a number line. Starting at -7 and moving 10 steps to the right brings you to 3.",
+                        "answer": "1) 3"
+                    },
+                    {
+                        "question": "If you solve the expression 5 \u00d7 (2 + 3), what is the answer?",
+                        "options": [
+                            "4) 35",
+                            "2) 15",
+                            "1) 25",
+                            "3) 5"
+                        ],
+                        "explanation": "According to the order of operations, you first calculate the expression inside the parentheses: 2 + 3 = 5. Then, perform the multiplication: 5 \u00d7 5 = 25.",
+                        "answer": "1) 25"
+                    },
+                    {
+                        "question": "Which of these operations would you perform first in the expression 8 - 2 \u00d7 (3 + 1)?",
+                        "options": [
+                            "4) None of the above",
+                            "3) Subtract",
+                            "1) Multiply",
+                            "2) Add"
+                        ],
+                        "explanation": "According to PEMDAS, the operation inside the parentheses is done first, then multiplication, followed by subtraction. So you would first add 3 + 1.",
+                        "answer": "1) Multiply"
+                    },
+                    {
+                        "question": "What do you get when you calculate 4 \u00d7 3 - 6?",
+                        "options": [
+                            "4) 15",
+                            "1) 12",
+                            "3) 18",
+                            "2) 6"
+                        ],
+                        "explanation": "First, multiply 4 and 3 to get 12. Then, subtract 6 from 12, resulting in 6.",
+                        "answer": "2) 6"
+                    },
+                    {
+                        "question": "What is the value of (7 - 3) \u00d7 2 + 1?",
+                        "options": [
+                            "1) 5",
+                            "4) 9",
+                            "2) 10",
+                            "3) 11"
+                        ],
+                        "explanation": "Start with the parentheses: 7 - 3 = 4. Then, multiply by 2 (4 \u00d7 2 = 8) and finally add 1, giving you 9.",
+                        "answer": "4) 9"
+                    },
+                    {
+                        "question": "In the expression 6 + 3 \u00d7 2 - 1, what is the first operation to perform?",
+                        "options": [
+                            "4) None of the above",
+                            "1) Addition",
+                            "2) Subtraction",
+                            "3) Multiplication"
+                        ],
+                        "explanation": "According to PEMDAS, the multiplication (3 \u00d7 2) is performed first before addition or subtraction.",
+                        "answer": "4) None of the above"
+                    },
+                    {
+                        "question": "What is the result of the expression (10 - 4) + 2 \u00d7 5?",
+                        "options": [
+                            "3) 12",
+                            "4) 20",
+                            "2) 18",
+                            "1) 16"
+                        ],
+                        "explanation": "Calculate inside the parentheses first: 10 - 4 = 6. Then calculate 2 \u00d7 5 = 10. Finally, add: 6 + 10 = 16.",
+                        "answer": "1) 16"
+                    },
+                    {
+                        "question": "When evaluating the expression 12 - (3 + 4) \u00d7 2, what is the first step?",
+                        "options": [
+                            "4) None of the above",
+                            "1) Subtract 2",
+                            "2) Add 3 and 4",
+                            "3) Multiply by 12"
+                        ],
+                        "explanation": "You start with the operation inside the parentheses, so first you add 3 and 4 before proceeding with subtraction and multiplication.",
+                        "answer": "2) Add 3 and 4"
+                    },
+                    {
+                        "question": "What do you get when you calculate 15 - (5 \u00d7 2) + 1?",
+                        "options": [
+                            "1) 6",
+                            "4) 7",
+                            "2) 8",
+                            "3) 11"
+                        ],
+                        "explanation": "First, calculate the parentheses: 5 \u00d7 2 = 10. Then proceed: 15 - 10 + 1 = 6.",
+                        "answer": "1) 6"
+                    },
+                    {
+                        "question": "Which expression gives you the correct result of applying order of operations? 10 + 2 \u00d7 3",
+                        "options": [
+                            "2) 16",
+                            "1) 24",
+                            "4) 18",
+                            "3) 10"
+                        ],
+                        "explanation": "Follow the order of operations: multiply first (2 \u00d7 3 = 6) and then add to 10; hence, 10 + 6 = 16.",
+                        "answer": "2) 16"
+                    }
+                ]
+            }
+        ],
+        "Science+": [
+            {
+                "quiz_grade": 60.0,
+                "wrong_answers": [
+                    0,
+                    3,
+                    5,
+                    7
+                ],
+                "attempt_number": 2,
+                "quiz": [
+                    {
+                        "question": "What particles are found in the nucleus of an atom?",
+                        "options": [
+                            "2) Neutrons and electrons",
+                            "3) Protons and neutrons",
+                            "1) Protons and electrons",
+                            "4) Protons, neutrons, and electrons"
+                        ],
+                        "explanation": "The nucleus of an atom contains protons and neutrons. Electrons orbit around the nucleus but are not found inside it.",
+                        "answer": "3) Protons and neutrons"
+                    },
+                    {
+                        "question": "What is the role of valence electrons in elements that are grouped together in the periodic table?",
+                        "options": [
+                            "3) They affect the physical state of the element",
+                            "1) They determine the atomic mass",
+                            "2) They indicate the number of neutrons",
+                            "4) They influence the chemical behavior of the elements"
+                        ],
+                        "explanation": "Elements in the same group of the periodic table have the same number of valence electrons, which influences how they react chemically with other substances.",
+                        "answer": "4) They influence the chemical behavior of the elements"
+                    },
+                    {
+                        "question": "Why is the study of atomic structure foundational for understanding chemical reactions?",
+                        "options": [
+                            "3) It allows us to classify elements into groups",
+                            "4) It defines the size of the atom",
+                            "1) It helps predict the atomic mass of elements",
+                            "2) It provides insight into how atoms bond and interact"
+                        ],
+                        "explanation": "Understanding atomic structure is crucial for knowing how atoms bond and interact with one another, which is essential for chemical reactions.",
+                        "answer": "2) It provides insight into how atoms bond and interact"
+                    },
+                    {
+                        "question": "What unique property of water is directly related to its atomic structure?",
+                        "options": [
+                            "4) It does not dissolve other substances",
+                            "1) It has a high boiling point",
+                            "3) It is made solely of hydrogen atoms",
+                            "2) It is a gas at room temperature"
+                        ],
+                        "explanation": "Water's unique properties, such as its high boiling point and ability to dissolve many substances, are determined by the arrangement of hydrogen and oxygen atoms in the molecule.",
+                        "answer": "1) It has a high boiling point"
+                    },
+                    {
+                        "question": "Which of the following statements is true about isotopes?",
+                        "options": [
+                            "1) They have the same number of neutrons",
+                            "4) They are chemically identical",
+                            "2) They have the same number of protons",
+                            "3) They have different atomic numbers"
+                        ],
+                        "explanation": "Isotopes are variants of an element that have the same number of protons but different numbers of neutrons, making option 4 correct as they are chemically identical despite their mass differences.",
+                        "answer": "4) They are chemically identical"
+                    },
+                    {
+                        "question": "What aspect of atomic structure is crucial for understanding chemical bonding?",
+                        "options": [
+                            "1) The number of protons in the nucleus",
+                            "3) The mass of the neutron",
+                            "2) The arrangement of electrons",
+                            "4) The speed of electron orbitals"
+                        ],
+                        "explanation": "The arrangement of electrons, specifically valence electrons, is key to understanding how atoms bond with each other to form compounds.",
+                        "answer": "2) The arrangement of electrons"
+                    },
+                    {
+                        "question": "How do trends in the periodic table help scientists?",
+                        "options": [
+                            "4) By predicting chemical behavior based on group properties",
+                            "1) By showing the atomic radius of elements",
+                            "2) By predicting the boiling points of all substances",
+                            "3) By organizing elements by their mass"
+                        ],
+                        "explanation": "Trends in the periodic table allow scientists to predict the chemical behaviors and reactions of elements based on their group properties, particularly the number of valence electrons.",
+                        "answer": "4) By predicting chemical behavior based on group properties"
+                    },
+                    {
+                        "question": "Which of the following can be considered a compound?",
+                        "options": [
+                            "2) He (helium)",
+                            "1) O2 (oxygen gas)",
+                            "4) Na (sodium)",
+                            "3) H2O (water)"
+                        ],
+                        "explanation": "H2O, or water, is a compound made up of more than one type of element (hydrogen and oxygen), making it the correct choice among the options provided.",
+                        "answer": "3) H2O (water)"
+                    },
+                    {
+                        "question": "What does the atomic number of an element signify?",
+                        "options": [
+                            "4) The mass number of the atom",
+                            "1) The total number of protons and neutrons",
+                            "2) The total number of electrons",
+                            "3) The total number of protons in an atom"
+                        ],
+                        "explanation": "The atomic number is defined as the total number of protons in the atom, which determines the element's identity.",
+                        "answer": "3) The total number of protons in an atom"
+                    },
+                    {
+                        "question": "In comparing different elements, what determines their placement in groups within the periodic table?",
+                        "options": [
+                            "4) The number of valence electrons",
+                            "1) Their atomic mass",
+                            "3) Their reactivity with water",
+                            "2) The number of neutrons"
+                        ],
+                        "explanation": "Elements are placed in the same group on the periodic table based on having the same number of valence electrons, which determines their chemical reactivity and properties.",
+                        "answer": "4) The number of valence electrons"
+                    }
+                ]
+            },
+            {
+                "quiz_grade": 50.0,
+                "wrong_answers": [
+                    0,
+                    3,
+                    4,
+                    5,
+                    9
+                ],
+                "attempt_number": 3,
+                "quiz": [
+                    {
+                        "question": "What particles are found in the nucleus of an atom?",
+                        "options": [
+                            "2) Neutrons and electrons",
+                            "3) Protons and neutrons",
+                            "1) Protons and electrons",
+                            "4) Protons, neutrons, and electrons"
+                        ],
+                        "explanation": "The nucleus of an atom contains protons and neutrons. Electrons orbit around the nucleus but are not found inside it.",
+                        "answer": "3) Protons and neutrons"
+                    },
+                    {
+                        "question": "What is the role of valence electrons in elements that are grouped together in the periodic table?",
+                        "options": [
+                            "3) They affect the physical state of the element",
+                            "1) They determine the atomic mass",
+                            "2) They indicate the number of neutrons",
+                            "4) They influence the chemical behavior of the elements"
+                        ],
+                        "explanation": "Elements in the same group of the periodic table have the same number of valence electrons, which influences how they react chemically with other substances.",
+                        "answer": "4) They influence the chemical behavior of the elements"
+                    },
+                    {
+                        "question": "Why is the study of atomic structure foundational for understanding chemical reactions?",
+                        "options": [
+                            "3) It allows us to classify elements into groups",
+                            "4) It defines the size of the atom",
+                            "1) It helps predict the atomic mass of elements",
+                            "2) It provides insight into how atoms bond and interact"
+                        ],
+                        "explanation": "Understanding atomic structure is crucial for knowing how atoms bond and interact with one another, which is essential for chemical reactions.",
+                        "answer": "2) It provides insight into how atoms bond and interact"
+                    },
+                    {
+                        "question": "What unique property of water is directly related to its atomic structure?",
+                        "options": [
+                            "4) It does not dissolve other substances",
+                            "1) It has a high boiling point",
+                            "3) It is made solely of hydrogen atoms",
+                            "2) It is a gas at room temperature"
+                        ],
+                        "explanation": "Water's unique properties, such as its high boiling point and ability to dissolve many substances, are determined by the arrangement of hydrogen and oxygen atoms in the molecule.",
+                        "answer": "1) It has a high boiling point"
+                    },
+                    {
+                        "question": "Which of the following statements is true about isotopes?",
+                        "options": [
+                            "1) They have the same number of neutrons",
+                            "4) They are chemically identical",
+                            "2) They have the same number of protons",
+                            "3) They have different atomic numbers"
+                        ],
+                        "explanation": "Isotopes are variants of an element that have the same number of protons but different numbers of neutrons, making option 4 correct as they are chemically identical despite their mass differences.",
+                        "answer": "4) They are chemically identical"
+                    },
+                    {
+                        "question": "What aspect of atomic structure is crucial for understanding chemical bonding?",
+                        "options": [
+                            "1) The number of protons in the nucleus",
+                            "3) The mass of the neutron",
+                            "2) The arrangement of electrons",
+                            "4) The speed of electron orbitals"
+                        ],
+                        "explanation": "The arrangement of electrons, specifically valence electrons, is key to understanding how atoms bond with each other to form compounds.",
+                        "answer": "2) The arrangement of electrons"
+                    },
+                    {
+                        "question": "How do trends in the periodic table help scientists?",
+                        "options": [
+                            "4) By predicting chemical behavior based on group properties",
+                            "1) By showing the atomic radius of elements",
+                            "2) By predicting the boiling points of all substances",
+                            "3) By organizing elements by their mass"
+                        ],
+                        "explanation": "Trends in the periodic table allow scientists to predict the chemical behaviors and reactions of elements based on their group properties, particularly the number of valence electrons.",
+                        "answer": "4) By predicting chemical behavior based on group properties"
+                    },
+                    {
+                        "question": "Which of the following can be considered a compound?",
+                        "options": [
+                            "2) He (helium)",
+                            "1) O2 (oxygen gas)",
+                            "4) Na (sodium)",
+                            "3) H2O (water)"
+                        ],
+                        "explanation": "H2O, or water, is a compound made up of more than one type of element (hydrogen and oxygen), making it the correct choice among the options provided.",
+                        "answer": "3) H2O (water)"
+                    },
+                    {
+                        "question": "What does the atomic number of an element signify?",
+                        "options": [
+                            "4) The mass number of the atom",
+                            "1) The total number of protons and neutrons",
+                            "2) The total number of electrons",
+                            "3) The total number of protons in an atom"
+                        ],
+                        "explanation": "The atomic number is defined as the total number of protons in the atom, which determines the element's identity.",
+                        "answer": "3) The total number of protons in an atom"
+                    },
+                    {
+                        "question": "In comparing different elements, what determines their placement in groups within the periodic table?",
+                        "options": [
+                            "4) The number of valence electrons",
+                            "1) Their atomic mass",
+                            "3) Their reactivity with water",
+                            "2) The number of neutrons"
+                        ],
+                        "explanation": "Elements are placed in the same group on the periodic table based on having the same number of valence electrons, which determines their chemical reactivity and properties.",
+                        "answer": "4) The number of valence electrons"
+                    }
+                ]
+            },
+            {
+                "quiz_grade": 20.0,
+                "wrong_answers": [
+                    0,
+                    1,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    9
+                ],
+                "attempt_number": 4,
+                "quiz": [
+                    {
+                        "question": "What particles are found in the nucleus of an atom?",
+                        "options": [
+                            "2) Neutrons and electrons",
+                            "3) Protons and neutrons",
+                            "1) Protons and electrons",
+                            "4) Protons, neutrons, and electrons"
+                        ],
+                        "explanation": "The nucleus of an atom contains protons and neutrons. Electrons orbit around the nucleus but are not found inside it.",
+                        "answer": "3) Protons and neutrons"
+                    },
+                    {
+                        "question": "What is the role of valence electrons in elements that are grouped together in the periodic table?",
+                        "options": [
+                            "3) They affect the physical state of the element",
+                            "1) They determine the atomic mass",
+                            "2) They indicate the number of neutrons",
+                            "4) They influence the chemical behavior of the elements"
+                        ],
+                        "explanation": "Elements in the same group of the periodic table have the same number of valence electrons, which influences how they react chemically with other substances.",
+                        "answer": "4) They influence the chemical behavior of the elements"
+                    },
+                    {
+                        "question": "Why is the study of atomic structure foundational for understanding chemical reactions?",
+                        "options": [
+                            "3) It allows us to classify elements into groups",
+                            "4) It defines the size of the atom",
+                            "1) It helps predict the atomic mass of elements",
+                            "2) It provides insight into how atoms bond and interact"
+                        ],
+                        "explanation": "Understanding atomic structure is crucial for knowing how atoms bond and interact with one another, which is essential for chemical reactions.",
+                        "answer": "2) It provides insight into how atoms bond and interact"
+                    },
+                    {
+                        "question": "What unique property of water is directly related to its atomic structure?",
+                        "options": [
+                            "4) It does not dissolve other substances",
+                            "1) It has a high boiling point",
+                            "3) It is made solely of hydrogen atoms",
+                            "2) It is a gas at room temperature"
+                        ],
+                        "explanation": "Water's unique properties, such as its high boiling point and ability to dissolve many substances, are determined by the arrangement of hydrogen and oxygen atoms in the molecule.",
+                        "answer": "1) It has a high boiling point"
+                    },
+                    {
+                        "question": "Which of the following statements is true about isotopes?",
+                        "options": [
+                            "1) They have the same number of neutrons",
+                            "4) They are chemically identical",
+                            "2) They have the same number of protons",
+                            "3) They have different atomic numbers"
+                        ],
+                        "explanation": "Isotopes are variants of an element that have the same number of protons but different numbers of neutrons, making option 4 correct as they are chemically identical despite their mass differences.",
+                        "answer": "4) They are chemically identical"
+                    },
+                    {
+                        "question": "What aspect of atomic structure is crucial for understanding chemical bonding?",
+                        "options": [
+                            "1) The number of protons in the nucleus",
+                            "3) The mass of the neutron",
+                            "2) The arrangement of electrons",
+                            "4) The speed of electron orbitals"
+                        ],
+                        "explanation": "The arrangement of electrons, specifically valence electrons, is key to understanding how atoms bond with each other to form compounds.",
+                        "answer": "2) The arrangement of electrons"
+                    },
+                    {
+                        "question": "How do trends in the periodic table help scientists?",
+                        "options": [
+                            "4) By predicting chemical behavior based on group properties",
+                            "1) By showing the atomic radius of elements",
+                            "2) By predicting the boiling points of all substances",
+                            "3) By organizing elements by their mass"
+                        ],
+                        "explanation": "Trends in the periodic table allow scientists to predict the chemical behaviors and reactions of elements based on their group properties, particularly the number of valence electrons.",
+                        "answer": "4) By predicting chemical behavior based on group properties"
+                    },
+                    {
+                        "question": "Which of the following can be considered a compound?",
+                        "options": [
+                            "2) He (helium)",
+                            "1) O2 (oxygen gas)",
+                            "4) Na (sodium)",
+                            "3) H2O (water)"
+                        ],
+                        "explanation": "H2O, or water, is a compound made up of more than one type of element (hydrogen and oxygen), making it the correct choice among the options provided.",
+                        "answer": "3) H2O (water)"
+                    },
+                    {
+                        "question": "What does the atomic number of an element signify?",
+                        "options": [
+                            "4) The mass number of the atom",
+                            "1) The total number of protons and neutrons",
+                            "2) The total number of electrons",
+                            "3) The total number of protons in an atom"
+                        ],
+                        "explanation": "The atomic number is defined as the total number of protons in the atom, which determines the element's identity.",
+                        "answer": "3) The total number of protons in an atom"
+                    },
+                    {
+                        "question": "In comparing different elements, what determines their placement in groups within the periodic table?",
+                        "options": [
+                            "4) The number of valence electrons",
+                            "1) Their atomic mass",
+                            "3) Their reactivity with water",
+                            "2) The number of neutrons"
+                        ],
+                        "explanation": "Elements are placed in the same group on the periodic table based on having the same number of valence electrons, which determines their chemical reactivity and properties.",
+                        "answer": "4) The number of valence electrons"
+                    }
+                ]
+            },
+            {
+                "quiz_grade": 90.0,
+                "wrong_answers": [
+                    5
+                ],
+                "attempt_number": 2,
+                "quiz": [
+                    {
+                        "question": "What are the three fundamental components of an atom?",
+                        "options": [
+                            "2) Protons, Photons, and Neutrons",
+                            "1) Protons, Electrons, and Neutrons",
+                            "4) Electrons, Positrons, and Neutrons",
+                            "3) Neutrons, Electrons, and Quarks"
+                        ],
+                        "explanation": "The three fundamental components of an atom are protons, neutrons, and electrons, with protons and neutrons located in the nucleus and electrons orbiting around it.",
+                        "answer": "1) Protons, Electrons, and Neutrons"
+                    },
+                    {
+                        "question": "Where in the atom are protons and neutrons located?",
+                        "options": [
+                            "3) In the orbitals",
+                            "4) Spread throughout the entire atom",
+                            "2) In the nucleus",
+                            "1) In the electron cloud"
+                        ],
+                        "explanation": "Protons and neutrons are found in the nucleus of the atom, while electrons orbit around the nucleus in various energy levels.",
+                        "answer": "2) In the nucleus"
+                    },
+                    {
+                        "question": "What role does the number of protons in an atom play?",
+                        "options": [
+                            "4) It specifies the charge of the atom",
+                            "3) It affects the atomic mass",
+                            "1) It determines the atomic weight",
+                            "2) It identifies the element"
+                        ],
+                        "explanation": "The number of protons determines the atomic number of an atom, which identifies the element itself.",
+                        "answer": "2) It identifies the element"
+                    },
+                    {
+                        "question": "Which term describes the vertical columns in the periodic table?",
+                        "options": [
+                            "2) Groups",
+                            "1) Periods",
+                            "4) Series",
+                            "3) Families"
+                        ],
+                        "explanation": "The vertical columns in the periodic table are called groups or families, and elements in the same group have similar chemical properties due to having the same number of valence electrons.",
+                        "answer": "2) Groups"
+                    },
+                    {
+                        "question": "What does the formula H2O represent in terms of atomic structure?",
+                        "options": [
+                            "1) Two hydrogen atoms and one oxygen atom",
+                            "3) One hydrogen atom and two oxygen atoms",
+                            "2) Two oxygen atoms and two hydrogen atoms",
+                            "4) One oxygen atom and one hydrogen atom"
+                        ],
+                        "explanation": "H2O indicates that there are two hydrogen atoms bonded to one oxygen atom, forming water, which has unique properties due to its atomic structure.",
+                        "answer": "1) Two hydrogen atoms and one oxygen atom"
+                    },
+                    {
+                        "question": "How is the boiling point of water influenced according to atomic structure?",
+                        "options": [
+                            "2) By the arrangement and type of atoms",
+                            "1) By the number of oxygen atoms",
+                            "3) By the temperature of the surroundings",
+                            "4) By the pressure applied to the water"
+                        ],
+                        "explanation": "The boiling point of water is influenced by the arrangement and type of atoms (hydrogen and oxygen) that make up the compound, which affect its intermolecular forces.",
+                        "answer": "2) By the arrangement and type of atoms"
+                    },
+                    {
+                        "question": "What is a key concept to understand when predicting how different elements will react?",
+                        "options": [
+                            "4) Electron shells",
+                            "2) Atomic mass",
+                            "3) Valence electrons",
+                            "1) Atomic weight"
+                        ],
+                        "explanation": "Elements in the same group of the periodic table exhibit similar chemical behaviors because they have the same number of valence electrons, which are key in chemical bonding and reactions.",
+                        "answer": "3) Valence electrons"
+                    },
+                    {
+                        "question": "What is the relationship between atomic structure and the properties of materials you interact with daily?",
+                        "options": [
+                            "1) It defines their price",
+                            "3) It has no impact on materials",
+                            "2) It affects their physical and chemical properties",
+                            "4) It dictates their color only"
+                        ],
+                        "explanation": "The atomic structure of materials influences their physical and chemical properties, such as melting and boiling points, reactivity, and solubility, which are crucial for understanding everyday substances.",
+                        "answer": "2) It affects their physical and chemical properties"
+                    },
+                    {
+                        "question": "What is one of the upcoming topics related to atomic structure discussed in the lecture?",
+                        "options": [
+                            "4) Fossilization processes",
+                            "2) Chemical bonds",
+                            "3) Nuclear fusion",
+                            "1) The formation of crystals"
+                        ],
+                        "explanation": "The lecture previewed that one of the upcoming topics would be chemical bonds, exploring how atoms combine to form molecules, which is an extension of understanding atomic structure.",
+                        "answer": "2) Chemical bonds"
+                    },
+                    {
+                        "question": "Why is understanding atomic structure fundamental to chemistry?",
+                        "options": [
+                            "3) It has no relevance",
+                            "2) It forms the basis for understanding chemical reactions and periodic trends",
+                            "1) It helps in creating new elements",
+                            "4) It simplifies complex equations"
+                        ],
+                        "explanation": "Understanding atomic structure is fundamental to chemistry as it lays the groundwork for predicting how elements will behave in reactions and how they interact based on their position in the periodic table.",
+                        "answer": "2) It forms the basis for understanding chemical reactions and periodic trends"
+                    }
+                ]
+            },
+            {
+                "quiz_grade": 100.0,
+                "wrong_answers": [],
+                "attempt_number": 3,
+                "quiz": [
+                    {
+                        "question": "What are the three fundamental components of an atom?",
+                        "options": [
+                            "2) Protons, Photons, and Neutrons",
+                            "1) Protons, Electrons, and Neutrons",
+                            "4) Electrons, Positrons, and Neutrons",
+                            "3) Neutrons, Electrons, and Quarks"
+                        ],
+                        "explanation": "The three fundamental components of an atom are protons, neutrons, and electrons, with protons and neutrons located in the nucleus and electrons orbiting around it.",
+                        "answer": "1) Protons, Electrons, and Neutrons"
+                    },
+                    {
+                        "question": "Where in the atom are protons and neutrons located?",
+                        "options": [
+                            "3) In the orbitals",
+                            "4) Spread throughout the entire atom",
+                            "2) In the nucleus",
+                            "1) In the electron cloud"
+                        ],
+                        "explanation": "Protons and neutrons are found in the nucleus of the atom, while electrons orbit around the nucleus in various energy levels.",
+                        "answer": "2) In the nucleus"
+                    },
+                    {
+                        "question": "What role does the number of protons in an atom play?",
+                        "options": [
+                            "4) It specifies the charge of the atom",
+                            "3) It affects the atomic mass",
+                            "1) It determines the atomic weight",
+                            "2) It identifies the element"
+                        ],
+                        "explanation": "The number of protons determines the atomic number of an atom, which identifies the element itself.",
+                        "answer": "2) It identifies the element"
+                    },
+                    {
+                        "question": "Which term describes the vertical columns in the periodic table?",
+                        "options": [
+                            "2) Groups",
+                            "1) Periods",
+                            "4) Series",
+                            "3) Families"
+                        ],
+                        "explanation": "The vertical columns in the periodic table are called groups or families, and elements in the same group have similar chemical properties due to having the same number of valence electrons.",
+                        "answer": "2) Groups"
+                    },
+                    {
+                        "question": "What does the formula H2O represent in terms of atomic structure?",
+                        "options": [
+                            "1) Two hydrogen atoms and one oxygen atom",
+                            "3) One hydrogen atom and two oxygen atoms",
+                            "2) Two oxygen atoms and two hydrogen atoms",
+                            "4) One oxygen atom and one hydrogen atom"
+                        ],
+                        "explanation": "H2O indicates that there are two hydrogen atoms bonded to one oxygen atom, forming water, which has unique properties due to its atomic structure.",
+                        "answer": "1) Two hydrogen atoms and one oxygen atom"
+                    },
+                    {
+                        "question": "How is the boiling point of water influenced according to atomic structure?",
+                        "options": [
+                            "2) By the arrangement and type of atoms",
+                            "1) By the number of oxygen atoms",
+                            "3) By the temperature of the surroundings",
+                            "4) By the pressure applied to the water"
+                        ],
+                        "explanation": "The boiling point of water is influenced by the arrangement and type of atoms (hydrogen and oxygen) that make up the compound, which affect its intermolecular forces.",
+                        "answer": "2) By the arrangement and type of atoms"
+                    },
+                    {
+                        "question": "What is a key concept to understand when predicting how different elements will react?",
+                        "options": [
+                            "4) Electron shells",
+                            "2) Atomic mass",
+                            "3) Valence electrons",
+                            "1) Atomic weight"
+                        ],
+                        "explanation": "Elements in the same group of the periodic table exhibit similar chemical behaviors because they have the same number of valence electrons, which are key in chemical bonding and reactions.",
+                        "answer": "3) Valence electrons"
+                    },
+                    {
+                        "question": "What is the relationship between atomic structure and the properties of materials you interact with daily?",
+                        "options": [
+                            "1) It defines their price",
+                            "3) It has no impact on materials",
+                            "2) It affects their physical and chemical properties",
+                            "4) It dictates their color only"
+                        ],
+                        "explanation": "The atomic structure of materials influences their physical and chemical properties, such as melting and boiling points, reactivity, and solubility, which are crucial for understanding everyday substances.",
+                        "answer": "2) It affects their physical and chemical properties"
+                    },
+                    {
+                        "question": "What is one of the upcoming topics related to atomic structure discussed in the lecture?",
+                        "options": [
+                            "4) Fossilization processes",
+                            "2) Chemical bonds",
+                            "3) Nuclear fusion",
+                            "1) The formation of crystals"
+                        ],
+                        "explanation": "The lecture previewed that one of the upcoming topics would be chemical bonds, exploring how atoms combine to form molecules, which is an extension of understanding atomic structure.",
+                        "answer": "2) Chemical bonds"
+                    },
+                    {
+                        "question": "Why is understanding atomic structure fundamental to chemistry?",
+                        "options": [
+                            "3) It has no relevance",
+                            "2) It forms the basis for understanding chemical reactions and periodic trends",
+                            "1) It helps in creating new elements",
+                            "4) It simplifies complex equations"
+                        ],
+                        "explanation": "Understanding atomic structure is fundamental to chemistry as it lays the groundwork for predicting how elements will behave in reactions and how they interact based on their position in the periodic table.",
+                        "answer": "2) It forms the basis for understanding chemical reactions and periodic trends"
+                    }
+                ]
+            }
+        ],
+        "Social Studies+": [
+            {
+                "quiz_grade": 70.0,
+                "wrong_answers": [
+                    4,
+                    6,
+                    7
+                ],
+                "attempt_number": 2,
+                "quiz": [
+                    {
+                        "question": "What major agricultural products were primarily cultivated by the Indus Valley civilization?",
+                        "options": [
+                            "2) Rice and corn",
+                            "3) Quinoa and oats",
+                            "4) Potatoes and tomatoes",
+                            "1) Wheat and barley"
+                        ],
+                        "explanation": "The Indus Valley civilization primarily cultivated wheat and barley, which were staple crops that supported their economy and population.",
+                        "answer": "1) Wheat and barley"
+                    },
+                    {
+                        "question": "How did the belief systems of ancient Egyptians influence their daily lives?",
+                        "options": [
+                            "3) By affecting their architecture and monuments",
+                            "2) By dictating their agricultural practices",
+                            "4) By influencing their trade routes",
+                            "1) By determining their political leaders"
+                        ],
+                        "explanation": "The ancient Egyptians were heavily influenced by their belief systems, particularly in relation to the afterlife, which is reflected in their monumental architecture such as the pyramids.",
+                        "answer": "3) By affecting their architecture and monuments"
+                    },
+                    {
+                        "question": "What writing system was developed in Mesopotamia?",
+                        "options": [
+                            "4) Pictographs",
+                            "2) Cuneiform",
+                            "3) Alphabetic script",
+                            "1) Hieroglyphics"
+                        ],
+                        "explanation": "Cuneiform was developed in Mesopotamia and is recognized as one of the earliest writing systems, which significantly contributed to record-keeping and communication in ancient societies.",
+                        "answer": "2) Cuneiform"
+                    },
+                    {
+                        "question": "What term describes the early civilizations collectively recognized for their advancements in social organization and culture?",
+                        "options": [
+                            "3) Complex societies",
+                            "1) Ancient tribes",
+                            "4) Feudal systems",
+                            "2) Nomadic societies"
+                        ],
+                        "explanation": "Early civilizations are characterized as complex societies that exhibited significant advancements in terms of social organization, governance, and culture.",
+                        "answer": "3) Complex societies"
+                    },
+                    {
+                        "question": "What river is associated with ancient Chinese civilizations?",
+                        "options": [
+                            "1) Nile",
+                            "4) Indus",
+                            "2) Tigris",
+                            "3) Yellow River"
+                        ],
+                        "explanation": "The Yellow River is a significant river associated with the development of ancient Chinese civilizations, serving as a vital source for agriculture and settlement.",
+                        "answer": "3) Yellow River"
+                    },
+                    {
+                        "question": "What monumental structure is a symbol of ancient Egyptian culture?",
+                        "options": [
+                            "4) The Pyramids",
+                            "2) The Parthenon",
+                            "1) The Great Wall",
+                            "3) The Colosseum"
+                        ],
+                        "explanation": "The Pyramids are monumental structures that symbolize the ancient Egyptian culture, reflecting their beliefs in the afterlife and their powerful leadership.",
+                        "answer": "4) The Pyramids"
+                    },
+                    {
+                        "question": "Which civilization is known as the 'cradle of civilization'?",
+                        "options": [
+                            "3) Mesopotamia",
+                            "1) Ancient China",
+                            "4) Ancient Egypt",
+                            "2) Indus Valley civilization"
+                        ],
+                        "explanation": "Mesopotamia is referred to as the 'cradle of civilization' due to its early developments in writing, urbanization, and the establishment of laws.",
+                        "answer": "3) Mesopotamia"
+                    },
+                    {
+                        "question": "What is one of the primary focuses of studying early civilizations?",
+                        "options": [
+                            "2) Their military conquests",
+                            "4) Their economic failures",
+                            "1) Their interactions with modern societies",
+                            "3) Their contributions to contemporary culture"
+                        ],
+                        "explanation": "One of the primary focuses of studying early civilizations is understanding their contributions to contemporary culture, governance, and societal structures, which impact present-day societies.",
+                        "answer": "3) Their contributions to contemporary culture"
+                    },
+                    {
+                        "question": "In what way did ancient Egyptians express their beliefs in the afterlife?",
+                        "options": [
+                            "4) By developing written texts",
+                            "3) By building monumental structures",
+                            "2) By constructing temples",
+                            "1) Through elaborate ceremonies"
+                        ],
+                        "explanation": "Ancient Egyptians expressed their beliefs in the afterlife primarily through building monumental structures like pyramids, which served as tombs for their pharaohs.",
+                        "answer": "3) By building monumental structures"
+                    },
+                    {
+                        "question": "What innovations are attributed to early civilizations that remain relevant today?",
+                        "options": [
+                            "1) The development of electricity",
+                            "2) The invention of the internet",
+                            "3) The establishment of written laws",
+                            "4) The creation of modern banking systems"
+                        ],
+                        "explanation": "The establishment of written laws is an innovation attributed to early civilizations that remains relevant today, forming the basis of modern legal systems.",
+                        "answer": "3) The establishment of written laws"
+                    }
+                ]
+            },
+            {
+                "quiz_grade": 90.0,
+                "wrong_answers": [
+                    4
+                ],
+                "attempt_number": 3,
+                "quiz": [
+                    {
+                        "question": "What major agricultural products were primarily cultivated by the Indus Valley civilization?",
+                        "options": [
+                            "2) Rice and corn",
+                            "3) Quinoa and oats",
+                            "4) Potatoes and tomatoes",
+                            "1) Wheat and barley"
+                        ],
+                        "explanation": "The Indus Valley civilization primarily cultivated wheat and barley, which were staple crops that supported their economy and population.",
+                        "answer": "1) Wheat and barley"
+                    },
+                    {
+                        "question": "How did the belief systems of ancient Egyptians influence their daily lives?",
+                        "options": [
+                            "3) By affecting their architecture and monuments",
+                            "2) By dictating their agricultural practices",
+                            "4) By influencing their trade routes",
+                            "1) By determining their political leaders"
+                        ],
+                        "explanation": "The ancient Egyptians were heavily influenced by their belief systems, particularly in relation to the afterlife, which is reflected in their monumental architecture such as the pyramids.",
+                        "answer": "3) By affecting their architecture and monuments"
+                    },
+                    {
+                        "question": "What writing system was developed in Mesopotamia?",
+                        "options": [
+                            "4) Pictographs",
+                            "2) Cuneiform",
+                            "3) Alphabetic script",
+                            "1) Hieroglyphics"
+                        ],
+                        "explanation": "Cuneiform was developed in Mesopotamia and is recognized as one of the earliest writing systems, which significantly contributed to record-keeping and communication in ancient societies.",
+                        "answer": "2) Cuneiform"
+                    },
+                    {
+                        "question": "What term describes the early civilizations collectively recognized for their advancements in social organization and culture?",
+                        "options": [
+                            "3) Complex societies",
+                            "1) Ancient tribes",
+                            "4) Feudal systems",
+                            "2) Nomadic societies"
+                        ],
+                        "explanation": "Early civilizations are characterized as complex societies that exhibited significant advancements in terms of social organization, governance, and culture.",
+                        "answer": "3) Complex societies"
+                    },
+                    {
+                        "question": "What river is associated with ancient Chinese civilizations?",
+                        "options": [
+                            "1) Nile",
+                            "4) Indus",
+                            "2) Tigris",
+                            "3) Yellow River"
+                        ],
+                        "explanation": "The Yellow River is a significant river associated with the development of ancient Chinese civilizations, serving as a vital source for agriculture and settlement.",
+                        "answer": "3) Yellow River"
+                    },
+                    {
+                        "question": "What monumental structure is a symbol of ancient Egyptian culture?",
+                        "options": [
+                            "4) The Pyramids",
+                            "2) The Parthenon",
+                            "1) The Great Wall",
+                            "3) The Colosseum"
+                        ],
+                        "explanation": "The Pyramids are monumental structures that symbolize the ancient Egyptian culture, reflecting their beliefs in the afterlife and their powerful leadership.",
+                        "answer": "4) The Pyramids"
+                    },
+                    {
+                        "question": "Which civilization is known as the 'cradle of civilization'?",
+                        "options": [
+                            "3) Mesopotamia",
+                            "1) Ancient China",
+                            "4) Ancient Egypt",
+                            "2) Indus Valley civilization"
+                        ],
+                        "explanation": "Mesopotamia is referred to as the 'cradle of civilization' due to its early developments in writing, urbanization, and the establishment of laws.",
+                        "answer": "3) Mesopotamia"
+                    },
+                    {
+                        "question": "What is one of the primary focuses of studying early civilizations?",
+                        "options": [
+                            "2) Their military conquests",
+                            "4) Their economic failures",
+                            "1) Their interactions with modern societies",
+                            "3) Their contributions to contemporary culture"
+                        ],
+                        "explanation": "One of the primary focuses of studying early civilizations is understanding their contributions to contemporary culture, governance, and societal structures, which impact present-day societies.",
+                        "answer": "3) Their contributions to contemporary culture"
+                    },
+                    {
+                        "question": "In what way did ancient Egyptians express their beliefs in the afterlife?",
+                        "options": [
+                            "4) By developing written texts",
+                            "3) By building monumental structures",
+                            "2) By constructing temples",
+                            "1) Through elaborate ceremonies"
+                        ],
+                        "explanation": "Ancient Egyptians expressed their beliefs in the afterlife primarily through building monumental structures like pyramids, which served as tombs for their pharaohs.",
+                        "answer": "3) By building monumental structures"
+                    },
+                    {
+                        "question": "What innovations are attributed to early civilizations that remain relevant today?",
+                        "options": [
+                            "1) The development of electricity",
+                            "2) The invention of the internet",
+                            "3) The establishment of written laws",
+                            "4) The creation of modern banking systems"
+                        ],
+                        "explanation": "The establishment of written laws is an innovation attributed to early civilizations that remains relevant today, forming the basis of modern legal systems.",
+                        "answer": "3) The establishment of written laws"
+                    }
+                ]
+            },
+            {
+                "quiz_grade": 90.0,
+                "wrong_answers": [
+                    4
+                ],
+                "attempt_number": 4,
+                "quiz": [
+                    {
+                        "question": "What major agricultural products were primarily cultivated by the Indus Valley civilization?",
+                        "options": [
+                            "2) Rice and corn",
+                            "3) Quinoa and oats",
+                            "4) Potatoes and tomatoes",
+                            "1) Wheat and barley"
+                        ],
+                        "explanation": "The Indus Valley civilization primarily cultivated wheat and barley, which were staple crops that supported their economy and population.",
+                        "answer": "1) Wheat and barley"
+                    },
+                    {
+                        "question": "How did the belief systems of ancient Egyptians influence their daily lives?",
+                        "options": [
+                            "3) By affecting their architecture and monuments",
+                            "2) By dictating their agricultural practices",
+                            "4) By influencing their trade routes",
+                            "1) By determining their political leaders"
+                        ],
+                        "explanation": "The ancient Egyptians were heavily influenced by their belief systems, particularly in relation to the afterlife, which is reflected in their monumental architecture such as the pyramids.",
+                        "answer": "3) By affecting their architecture and monuments"
+                    },
+                    {
+                        "question": "What writing system was developed in Mesopotamia?",
+                        "options": [
+                            "4) Pictographs",
+                            "2) Cuneiform",
+                            "3) Alphabetic script",
+                            "1) Hieroglyphics"
+                        ],
+                        "explanation": "Cuneiform was developed in Mesopotamia and is recognized as one of the earliest writing systems, which significantly contributed to record-keeping and communication in ancient societies.",
+                        "answer": "2) Cuneiform"
+                    },
+                    {
+                        "question": "What term describes the early civilizations collectively recognized for their advancements in social organization and culture?",
+                        "options": [
+                            "3) Complex societies",
+                            "1) Ancient tribes",
+                            "4) Feudal systems",
+                            "2) Nomadic societies"
+                        ],
+                        "explanation": "Early civilizations are characterized as complex societies that exhibited significant advancements in terms of social organization, governance, and culture.",
+                        "answer": "3) Complex societies"
+                    },
+                    {
+                        "question": "What river is associated with ancient Chinese civilizations?",
+                        "options": [
+                            "1) Nile",
+                            "4) Indus",
+                            "2) Tigris",
+                            "3) Yellow River"
+                        ],
+                        "explanation": "The Yellow River is a significant river associated with the development of ancient Chinese civilizations, serving as a vital source for agriculture and settlement.",
+                        "answer": "3) Yellow River"
+                    },
+                    {
+                        "question": "What monumental structure is a symbol of ancient Egyptian culture?",
+                        "options": [
+                            "4) The Pyramids",
+                            "2) The Parthenon",
+                            "1) The Great Wall",
+                            "3) The Colosseum"
+                        ],
+                        "explanation": "The Pyramids are monumental structures that symbolize the ancient Egyptian culture, reflecting their beliefs in the afterlife and their powerful leadership.",
+                        "answer": "4) The Pyramids"
+                    },
+                    {
+                        "question": "Which civilization is known as the 'cradle of civilization'?",
+                        "options": [
+                            "3) Mesopotamia",
+                            "1) Ancient China",
+                            "4) Ancient Egypt",
+                            "2) Indus Valley civilization"
+                        ],
+                        "explanation": "Mesopotamia is referred to as the 'cradle of civilization' due to its early developments in writing, urbanization, and the establishment of laws.",
+                        "answer": "3) Mesopotamia"
+                    },
+                    {
+                        "question": "What is one of the primary focuses of studying early civilizations?",
+                        "options": [
+                            "2) Their military conquests",
+                            "4) Their economic failures",
+                            "1) Their interactions with modern societies",
+                            "3) Their contributions to contemporary culture"
+                        ],
+                        "explanation": "One of the primary focuses of studying early civilizations is understanding their contributions to contemporary culture, governance, and societal structures, which impact present-day societies.",
+                        "answer": "3) Their contributions to contemporary culture"
+                    },
+                    {
+                        "question": "In what way did ancient Egyptians express their beliefs in the afterlife?",
+                        "options": [
+                            "4) By developing written texts",
+                            "3) By building monumental structures",
+                            "2) By constructing temples",
+                            "1) Through elaborate ceremonies"
+                        ],
+                        "explanation": "Ancient Egyptians expressed their beliefs in the afterlife primarily through building monumental structures like pyramids, which served as tombs for their pharaohs.",
+                        "answer": "3) By building monumental structures"
+                    },
+                    {
+                        "question": "What innovations are attributed to early civilizations that remain relevant today?",
+                        "options": [
+                            "1) The development of electricity",
+                            "2) The invention of the internet",
+                            "3) The establishment of written laws",
+                            "4) The creation of modern banking systems"
+                        ],
+                        "explanation": "The establishment of written laws is an innovation attributed to early civilizations that remains relevant today, forming the basis of modern legal systems.",
+                        "answer": "3) The establishment of written laws"
+                    }
+                ]
+            }
+        ],
+        "American History+": [
+            {
+                "quiz_grade": 60.0,
+                "wrong_answers": [
+                    2,
+                    5,
+                    6,
+                    8
+                ],
+                "attempt_number": 2,
+                "quiz": [
+                    {
+                        "question": "What aspect of the southern colonies' agricultural lifestyle sparked ongoing ethical debates?",
+                        "options": [
+                            "1) The role of immigrants",
+                            "2) The use of technology in farming",
+                            "4) The production of cash crops",
+                            "3) The reliance on slavery"
+                        ],
+                        "explanation": "The reliance on slavery in the southern colonies not only shaped their agricultural economy but also sparked debates on ethics and human rights that continue to this day.",
+                        "answer": "3) The reliance on slavery"
+                    },
+                    {
+                        "question": "Which value did the New England colonies prioritize that influenced modern American education?",
+                        "options": [
+                            "2) Industrialization",
+                            "3) The importance of education",
+                            "1) Independence from British rule",
+                            "4) Agricultural advancements"
+                        ],
+                        "explanation": "The New England colonies valued education highly, which played a foundational role in shaping the education systems we rely on today.",
+                        "answer": "3) The importance of education"
+                    },
+                    {
+                        "question": "What foundational concept influenced modern democratic systems derived from colonial practices?",
+                        "options": [
+                            "2) Self-governance",
+                            "1) Federalism",
+                            "4) Global trade",
+                            "3) Monarchial rule"
+                        ],
+                        "explanation": "The concept of self-governance established by the colonies laid an essential foundation for modern democratic systems and practices.",
+                        "answer": "2) Self-governance"
+                    },
+                    {
+                        "question": "What historical struggles are connected to current discussions about rights and freedoms?",
+                        "options": [
+                            "3) The Industrial Revolution",
+                            "4) The War of 1812",
+                            "2) The Revolutionary War",
+                            "1) The civil rights movements"
+                        ],
+                        "explanation": "The struggles for freedom and rights during the colonial era laid the groundwork for future movements, including the American Revolution and the civil rights movements.",
+                        "answer": "1) The civil rights movements"
+                    },
+                    {
+                        "question": "How did colonial trade networks evolve into a modern economic concept?",
+                        "options": [
+                            "2) They diminished the importance of barter",
+                            "3) They became global trade networks",
+                            "1) They increased regional isolation",
+                            "4) They led to the establishment of banks"
+                        ],
+                        "explanation": "The trade networks established in Colonial America evolved into the global trade systems we engage with today, facilitating exchanges of goods and culture across countries.",
+                        "answer": "3) They became global trade networks"
+                    },
+                    {
+                        "question": "What was an essential emotional response noted in the reflections about historical events?",
+                        "options": [
+                            "1) Joy",
+                            "3) Anger",
+                            "4) Curiosity",
+                            "2) Indifference"
+                        ],
+                        "explanation": "Acknowledging emotional responses to historical events can enhance our understanding of the past and its impact on the present.",
+                        "answer": "4) Curiosity"
+                    },
+                    {
+                        "question": "Which principle from the colonial period is relevant to the concept of representation in governance today?",
+                        "options": [
+                            "1) Monarchy",
+                            "2) Taxation without representation",
+                            "4) Economic independence",
+                            "3) Absolute power"
+                        ],
+                        "explanation": "The principle of taxation without representation highlighted the colonists' demand for a say in their governance, a concept that remains relevant in discussions of representation today.",
+                        "answer": "2) Taxation without representation"
+                    },
+                    {
+                        "question": "What educational practice can help deepen the understanding of historical connections to modern society?",
+                        "options": [
+                            "1) Engaging in group projects",
+                            "2) Memorizing dates and events",
+                            "4) Following social media trends",
+                            "3) Keeping a reflective journal"
+                        ],
+                        "explanation": "Maintaining a reflective journal allows individuals to document thoughts and make connections between history and current events, enhancing learning over time.",
+                        "answer": "3) Keeping a reflective journal"
+                    },
+                    {
+                        "question": "What historical element emphasized the significance of community involvement in governance?",
+                        "options": [
+                            "3) Mercantilism",
+                            "2) Town meetings",
+                            "4) Colonial warfare",
+                            "1) Agricultural policies"
+                        ],
+                        "explanation": "Town meetings in New England emphasized the importance of community involvement in governance, laying a framework for participatory democracy.",
+                        "answer": "2) Town meetings"
+                    },
+                    {
+                        "question": "What was a defining characteristic of the cultural diversity in Colonial America?",
+                        "options": [
+                            "2) Segregation of societies",
+                            "3) Interaction among various ethnic groups",
+                            "4) Isolation from Europe",
+                            "1) Uniformity in religion"
+                        ],
+                        "explanation": "The colonial period was marked by cultural diversity, with interactions among various ethnic groups influencing the development of American identity.",
+                        "answer": "3) Interaction among various ethnic groups"
+                    }
+                ]
+            },
+            {
+                "quiz_grade": 80.0,
+                "wrong_answers": [
+                    6,
+                    8
+                ],
+                "attempt_number": 3,
+                "quiz": [
+                    {
+                        "question": "What aspect of the southern colonies' agricultural lifestyle sparked ongoing ethical debates?",
+                        "options": [
+                            "1) The role of immigrants",
+                            "2) The use of technology in farming",
+                            "4) The production of cash crops",
+                            "3) The reliance on slavery"
+                        ],
+                        "explanation": "The reliance on slavery in the southern colonies not only shaped their agricultural economy but also sparked debates on ethics and human rights that continue to this day.",
+                        "answer": "3) The reliance on slavery"
+                    },
+                    {
+                        "question": "Which value did the New England colonies prioritize that influenced modern American education?",
+                        "options": [
+                            "2) Industrialization",
+                            "3) The importance of education",
+                            "1) Independence from British rule",
+                            "4) Agricultural advancements"
+                        ],
+                        "explanation": "The New England colonies valued education highly, which played a foundational role in shaping the education systems we rely on today.",
+                        "answer": "3) The importance of education"
+                    },
+                    {
+                        "question": "What foundational concept influenced modern democratic systems derived from colonial practices?",
+                        "options": [
+                            "2) Self-governance",
+                            "1) Federalism",
+                            "4) Global trade",
+                            "3) Monarchial rule"
+                        ],
+                        "explanation": "The concept of self-governance established by the colonies laid an essential foundation for modern democratic systems and practices.",
+                        "answer": "2) Self-governance"
+                    },
+                    {
+                        "question": "What historical struggles are connected to current discussions about rights and freedoms?",
+                        "options": [
+                            "3) The Industrial Revolution",
+                            "4) The War of 1812",
+                            "2) The Revolutionary War",
+                            "1) The civil rights movements"
+                        ],
+                        "explanation": "The struggles for freedom and rights during the colonial era laid the groundwork for future movements, including the American Revolution and the civil rights movements.",
+                        "answer": "1) The civil rights movements"
+                    },
+                    {
+                        "question": "How did colonial trade networks evolve into a modern economic concept?",
+                        "options": [
+                            "2) They diminished the importance of barter",
+                            "3) They became global trade networks",
+                            "1) They increased regional isolation",
+                            "4) They led to the establishment of banks"
+                        ],
+                        "explanation": "The trade networks established in Colonial America evolved into the global trade systems we engage with today, facilitating exchanges of goods and culture across countries.",
+                        "answer": "3) They became global trade networks"
+                    },
+                    {
+                        "question": "What was an essential emotional response noted in the reflections about historical events?",
+                        "options": [
+                            "1) Joy",
+                            "3) Anger",
+                            "4) Curiosity",
+                            "2) Indifference"
+                        ],
+                        "explanation": "Acknowledging emotional responses to historical events can enhance our understanding of the past and its impact on the present.",
+                        "answer": "4) Curiosity"
+                    },
+                    {
+                        "question": "Which principle from the colonial period is relevant to the concept of representation in governance today?",
+                        "options": [
+                            "1) Monarchy",
+                            "2) Taxation without representation",
+                            "4) Economic independence",
+                            "3) Absolute power"
+                        ],
+                        "explanation": "The principle of taxation without representation highlighted the colonists' demand for a say in their governance, a concept that remains relevant in discussions of representation today.",
+                        "answer": "2) Taxation without representation"
+                    },
+                    {
+                        "question": "What educational practice can help deepen the understanding of historical connections to modern society?",
+                        "options": [
+                            "1) Engaging in group projects",
+                            "2) Memorizing dates and events",
+                            "4) Following social media trends",
+                            "3) Keeping a reflective journal"
+                        ],
+                        "explanation": "Maintaining a reflective journal allows individuals to document thoughts and make connections between history and current events, enhancing learning over time.",
+                        "answer": "3) Keeping a reflective journal"
+                    },
+                    {
+                        "question": "What historical element emphasized the significance of community involvement in governance?",
+                        "options": [
+                            "3) Mercantilism",
+                            "2) Town meetings",
+                            "4) Colonial warfare",
+                            "1) Agricultural policies"
+                        ],
+                        "explanation": "Town meetings in New England emphasized the importance of community involvement in governance, laying a framework for participatory democracy.",
+                        "answer": "2) Town meetings"
+                    },
+                    {
+                        "question": "What was a defining characteristic of the cultural diversity in Colonial America?",
+                        "options": [
+                            "2) Segregation of societies",
+                            "3) Interaction among various ethnic groups",
+                            "4) Isolation from Europe",
+                            "1) Uniformity in religion"
+                        ],
+                        "explanation": "The colonial period was marked by cultural diversity, with interactions among various ethnic groups influencing the development of American identity.",
+                        "answer": "3) Interaction among various ethnic groups"
+                    }
+                ]
+            },
+            {
+                "quiz_grade": 90.0,
+                "wrong_answers": [
+                    6
+                ],
+                "attempt_number": 4,
+                "quiz": [
+                    {
+                        "question": "What aspect of the southern colonies' agricultural lifestyle sparked ongoing ethical debates?",
+                        "options": [
+                            "1) The role of immigrants",
+                            "2) The use of technology in farming",
+                            "4) The production of cash crops",
+                            "3) The reliance on slavery"
+                        ],
+                        "explanation": "The reliance on slavery in the southern colonies not only shaped their agricultural economy but also sparked debates on ethics and human rights that continue to this day.",
+                        "answer": "3) The reliance on slavery"
+                    },
+                    {
+                        "question": "Which value did the New England colonies prioritize that influenced modern American education?",
+                        "options": [
+                            "2) Industrialization",
+                            "3) The importance of education",
+                            "1) Independence from British rule",
+                            "4) Agricultural advancements"
+                        ],
+                        "explanation": "The New England colonies valued education highly, which played a foundational role in shaping the education systems we rely on today.",
+                        "answer": "3) The importance of education"
+                    },
+                    {
+                        "question": "What foundational concept influenced modern democratic systems derived from colonial practices?",
+                        "options": [
+                            "2) Self-governance",
+                            "1) Federalism",
+                            "4) Global trade",
+                            "3) Monarchial rule"
+                        ],
+                        "explanation": "The concept of self-governance established by the colonies laid an essential foundation for modern democratic systems and practices.",
+                        "answer": "2) Self-governance"
+                    },
+                    {
+                        "question": "What historical struggles are connected to current discussions about rights and freedoms?",
+                        "options": [
+                            "3) The Industrial Revolution",
+                            "4) The War of 1812",
+                            "2) The Revolutionary War",
+                            "1) The civil rights movements"
+                        ],
+                        "explanation": "The struggles for freedom and rights during the colonial era laid the groundwork for future movements, including the American Revolution and the civil rights movements.",
+                        "answer": "1) The civil rights movements"
+                    },
+                    {
+                        "question": "How did colonial trade networks evolve into a modern economic concept?",
+                        "options": [
+                            "2) They diminished the importance of barter",
+                            "3) They became global trade networks",
+                            "1) They increased regional isolation",
+                            "4) They led to the establishment of banks"
+                        ],
+                        "explanation": "The trade networks established in Colonial America evolved into the global trade systems we engage with today, facilitating exchanges of goods and culture across countries.",
+                        "answer": "3) They became global trade networks"
+                    },
+                    {
+                        "question": "What was an essential emotional response noted in the reflections about historical events?",
+                        "options": [
+                            "1) Joy",
+                            "3) Anger",
+                            "4) Curiosity",
+                            "2) Indifference"
+                        ],
+                        "explanation": "Acknowledging emotional responses to historical events can enhance our understanding of the past and its impact on the present.",
+                        "answer": "4) Curiosity"
+                    },
+                    {
+                        "question": "Which principle from the colonial period is relevant to the concept of representation in governance today?",
+                        "options": [
+                            "1) Monarchy",
+                            "2) Taxation without representation",
+                            "4) Economic independence",
+                            "3) Absolute power"
+                        ],
+                        "explanation": "The principle of taxation without representation highlighted the colonists' demand for a say in their governance, a concept that remains relevant in discussions of representation today.",
+                        "answer": "2) Taxation without representation"
+                    },
+                    {
+                        "question": "What educational practice can help deepen the understanding of historical connections to modern society?",
+                        "options": [
+                            "1) Engaging in group projects",
+                            "2) Memorizing dates and events",
+                            "4) Following social media trends",
+                            "3) Keeping a reflective journal"
+                        ],
+                        "explanation": "Maintaining a reflective journal allows individuals to document thoughts and make connections between history and current events, enhancing learning over time.",
+                        "answer": "3) Keeping a reflective journal"
+                    },
+                    {
+                        "question": "What historical element emphasized the significance of community involvement in governance?",
+                        "options": [
+                            "3) Mercantilism",
+                            "2) Town meetings",
+                            "4) Colonial warfare",
+                            "1) Agricultural policies"
+                        ],
+                        "explanation": "Town meetings in New England emphasized the importance of community involvement in governance, laying a framework for participatory democracy.",
+                        "answer": "2) Town meetings"
+                    },
+                    {
+                        "question": "What was a defining characteristic of the cultural diversity in Colonial America?",
+                        "options": [
+                            "2) Segregation of societies",
+                            "3) Interaction among various ethnic groups",
+                            "4) Isolation from Europe",
+                            "1) Uniformity in religion"
+                        ],
+                        "explanation": "The colonial period was marked by cultural diversity, with interactions among various ethnic groups influencing the development of American identity.",
+                        "answer": "3) Interaction among various ethnic groups"
+                    }
+                ]
+            }
+        ]
+    }
+}

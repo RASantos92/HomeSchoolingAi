@@ -1,0 +1,251 @@
+[
+    {
+        "days": [
+            {
+                "day_name": "Monday",
+                "subjects": [
+                    {
+                        "subject_name": "Language Arts",
+                        "subject_topic": "Punctuation Marks",
+                        "subject_daily_intro": "Today, we will explore punctuation marks and their importance in writing. We will cover various punctuation marks and their functions in sentences.",
+                        "subject_daily_sub_topics": [
+                            "Types of punctuation marks",
+                            "Common errors in punctuation",
+                            "Punctuation and sentence clarity"
+                        ],
+                        "subject_topic_daily_summary": "By the end of today's lesson, you will have a solid understanding of different punctuation marks used in English and how they enhance the clarity and meaning of your writing."
+                    },
+                    {
+                        "subject_name": "Mathematics",
+                        "subject_topic": "Percentages",
+                        "subject_daily_intro": "In today's math lesson, we will focus on percentages. We will learn how to calculate percentages and understand their real-life applications.",
+                        "subject_daily_sub_topics": [
+                            "Finding percentages of a number",
+                            "Converting fractions to percentages",
+                            "Percentage increase and decrease"
+                        ],
+                        "subject_topic_daily_summary": "You should be able to calculate percentages effectively and understand how percentages are used in everyday life by the end of this lesson."
+                    },
+                    {
+                        "subject_name": "Science",
+                        "subject_topic": "Periodic Table Overview",
+                        "subject_daily_intro": "Today, we'll begin our exploration of the periodic table, focusing on its structure and the significance of the organization of elements.",
+                        "subject_daily_sub_topics": [
+                            "History of the periodic table",
+                            "Understanding groups and periods",
+                            "Elements and their symbols"
+                        ],
+                        "subject_topic_daily_summary": "By the end of this lesson, you will have a fundamental understanding of the periodic table's layout and the information it conveys about elements."
+                    },
+                    {
+                        "subject_name": "Social Studies",
+                        "subject_topic": "Sumer, Egypt, and the Indus Valley",
+                        "subject_daily_intro": "In our social studies class today, we will delve into significant ancient civilizations, starting with Sumer, Egypt, and the Indus Valley.",
+                        "subject_daily_sub_topics": [
+                            "Geography of ancient civilizations",
+                            "Major contributions of these civilizations",
+                            "Daily life in ancient societies"
+                        ],
+                        "subject_topic_daily_summary": "By the close of today's lesson, you will grasp the essential features of these three ancient civilizations and their contributions to human history."
+                    }
+                ]
+            },
+            {
+                "day_name": "Tuesday",
+                "subjects": [
+                    {
+                        "subject_name": "Language Arts",
+                        "subject_topic": "Punctuation Marks",
+                        "subject_daily_intro": "Yesterday, we introduced punctuation marks. Today, we will delve deeper into specific examples of their usage in writing and how to avoid common mistakes.",
+                        "subject_daily_sub_topics": [
+                            "Using commas correctly",
+                            "Quotations and dialogue",
+                            "Punctuation in complex sentences"
+                        ],
+                        "subject_topic_daily_summary": "You will improve your writing skills by understanding and applying punctuation rules accurately in sentences."
+                    },
+                    {
+                        "subject_name": "Mathematics",
+                        "subject_topic": "Percentages",
+                        "subject_daily_intro": "Building on what we learned yesterday about percentages, we will tackle percentage problems involving discounts and tax calculations today.",
+                        "subject_daily_sub_topics": [
+                            "Calculating discounts",
+                            "Tax percentages",
+                            "Real-life scenarios involving percentages"
+                        ],
+                        "subject_topic_daily_summary": "By the end of this lesson, you will confidently handle percentage calculations in practical situations."
+                    },
+                    {
+                        "subject_name": "Science",
+                        "subject_topic": "Periodic Table Overview",
+                        "subject_daily_intro": "Following our introduction to the periodic table, we will explore individual groups of elements today, focusing on their properties and common uses.",
+                        "subject_daily_sub_topics": [
+                            "Metals, nonmetals, and metalloids",
+                            "Group characteristics",
+                            "Common elements and their uses"
+                        ],
+                        "subject_topic_daily_summary": "You will be able to identify different groups of elements on the periodic table and understand their properties."
+                    },
+                    {
+                        "subject_name": "Social Studies",
+                        "subject_topic": "Sumer, Egypt, and the Indus Valley",
+                        "subject_daily_intro": "Yesterday, we explored these ancient civilizations. Today, we will look closely at their major contributions to modern society.",
+                        "subject_daily_sub_topics": [
+                            "Inventions from these civilizations",
+                            "Cultural contributions",
+                            "Impacts on later civilizations"
+                        ],
+                        "subject_topic_daily_summary": "By the end of the lesson, you will recognize the lasting impacts of Sumer, Egypt, and the Indus Valley on contemporary culture and society."
+                    }
+                ]
+            },
+            {
+                "day_name": "Wednesday",
+                "subjects": [
+                    {
+                        "subject_name": "Language Arts",
+                        "subject_topic": "Punctuation Marks",
+                        "subject_daily_intro": "Continuing our punctuation lessons, we will focus on how punctuation affects tone and meaning in various types of writing.",
+                        "subject_daily_sub_topics": [
+                            "Punctuation in poetry",
+                            "Punctuation and tone",
+                            "Sentence mood"
+                        ],
+                        "subject_topic_daily_summary": "You will learn how to use punctuation thoughtfully to convey the desired tone and meaning in your writing."
+                    },
+                    {
+                        "subject_name": "Mathematics",
+                        "subject_topic": "Percentages",
+                        "subject_daily_intro": "After discussing practical applications of percentages, we will review how to solve problems involving percentage change and profit calculations today.",
+                        "subject_daily_sub_topics": [
+                            "Percentage increase and decrease formulas",
+                            "Understanding profit margins",
+                            "Practice problems"
+                        ],
+                        "subject_topic_daily_summary": "By the end of the lesson, you will be adept at calculating percentage changes and understanding their implications in business scenarios."
+                    },
+                    {
+                        "subject_name": "Science",
+                        "subject_topic": "Periodic Table Overview",
+                        "subject_daily_intro": "Today we will take a look at chemical reactions and how they relate to different elements in the periodic table that you've learned about so far.",
+                        "subject_daily_sub_topics": [
+                            "Types of chemical reactions",
+                            "Balancing chemical equations",
+                            "Reactivity differences among elements"
+                        ],
+                        "subject_topic_daily_summary": "You will gain insight into how elements interact during chemical reactions and the role of the periodic table in this process."
+                    },
+                    {
+                        "subject_name": "Social Studies",
+                        "subject_topic": "Sumer, Egypt, and the Indus Valley",
+                        "subject_daily_intro": "As we continue exploring ancient civilizations, today's focus will be their governance systems and social structures.",
+                        "subject_daily_sub_topics": [
+                            "Types of government in ancient civilizations",
+                            "Social hierarchy",
+                            "Role of religion in governance"
+                        ],
+                        "subject_topic_daily_summary": "You will understand how governance and social structures operated in early civilizations and the significance of their systems."
+                    }
+                ]
+            },
+            {
+                "day_name": "Thursday",
+                "subjects": [
+                    {
+                        "subject_name": "Language Arts",
+                        "subject_topic": "Punctuation Marks",
+                        "subject_daily_intro": "Today, you'll engage in practical exercises that will help you apply your knowledge of punctuation in your own writing.",
+                        "subject_daily_sub_topics": [
+                            "Writing practice with punctuation",
+                            "Peer editing for punctuation usage",
+                            "Creating complex sentences"
+                        ],
+                        "subject_topic_daily_summary": "You will enhance your writing skills by practicing punctuation in your written work and editing the work of others."
+                    },
+                    {
+                        "subject_name": "Mathematics",
+                        "subject_topic": "Percentages",
+                        "subject_daily_intro": "Expanding on our knowledge of percentages, we'll explore the concept of ratios today, which are often tied to percentages.",
+                        "subject_daily_sub_topics": [
+                            "Understanding ratios and proportions",
+                            "Ratios in real life",
+                            "Converting ratios to percentages"
+                        ],
+                        "subject_topic_daily_summary": "By the conclusion of today's lesson, you will see how ratios relate to percentages and be able to work with them effectively."
+                    },
+                    {
+                        "subject_name": "Science",
+                        "subject_topic": "Periodic Table Overview",
+                        "subject_daily_intro": "As we delve deeper into the periodic table, today\u2019s focus will be on understanding isotopes and how they differ from regular elements.",
+                        "subject_daily_sub_topics": [
+                            "Definition of isotopes",
+                            "Applications of isotopes",
+                            "Isotopes in medicine"
+                        ],
+                        "subject_topic_daily_summary": "You will gain a deeper appreciation of isotopes in chemistry and their unique properties compared to standard atomic forms."
+                    },
+                    {
+                        "subject_name": "Social Studies",
+                        "subject_topic": "Sumer, Egypt, and the Indus Valley",
+                        "subject_daily_intro": "Today, we will discuss the art and architecture of ancient civilizations and its significance in their culture.",
+                        "subject_daily_sub_topics": [
+                            "Ancient monuments and structures",
+                            "Artistic expression",
+                            "Cultural legacy"
+                        ],
+                        "subject_topic_daily_summary": "You will recognize the contributions of art and architecture in expressing the values and beliefs of early civilizations."
+                    }
+                ]
+            },
+            {
+                "day_name": "Friday",
+                "subjects": [
+                    {
+                        "subject_name": "Language Arts",
+                        "subject_topic": "Punctuation Marks",
+                        "subject_daily_intro": "In our final lesson on punctuation, we will review all the concepts learned this week with enriching activities and assessments.",
+                        "subject_daily_sub_topics": [
+                            "Review and practice",
+                            "Punctuation quiz",
+                            "Creative writing assignments"
+                        ],
+                        "subject_topic_daily_summary": "Today will provide an opportunity to demonstrate your understanding of punctuation through various activities and assessments."
+                    },
+                    {
+                        "subject_name": "Mathematics",
+                        "subject_topic": "Percentages",
+                        "subject_daily_intro": "Today, we will consolidate your understanding of percentages with comprehensive exercises and a challenge quiz.",
+                        "subject_daily_sub_topics": [
+                            "Comprehensive review of percentages",
+                            "Challenge problems",
+                            "Real-life application scenarios"
+                        ],
+                        "subject_topic_daily_summary": "You will solidify your knowledge of percentages with practical exercises that challenge your understanding."
+                    },
+                    {
+                        "subject_name": "Science",
+                        "subject_topic": "Periodic Table Overview",
+                        "subject_daily_intro": "Today we will conclude our overview of the periodic table with a review session, focusing on the major concepts and elements learned this week.",
+                        "subject_daily_sub_topics": [
+                            "Periodic table review",
+                            "Flashcards for elements",
+                            "Practice identifying element groups"
+                        ],
+                        "subject_topic_daily_summary": "You will reinforce your understanding of the periodic table's structure and functions in chemistry through review activities."
+                    },
+                    {
+                        "subject_name": "Social Studies",
+                        "subject_topic": "Sumer, Egypt, and the Indus Valley",
+                        "subject_daily_intro": "In our final social studies lesson this week, we will review all major points discussed about the ancient civilizations and their impacts.",
+                        "subject_daily_sub_topics": [
+                            "Discussion of key points",
+                            "Comparative analysis of civilizations",
+                            "Summary of influence on the future"
+                        ],
+                        "subject_topic_daily_summary": "By the end of the lesson, you will demonstrate a comprehensive understanding of how early civilizations shaped our world today."
+                    }
+                ]
+            }
+        ]
+    }
+]

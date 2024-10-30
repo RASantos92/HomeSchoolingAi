@@ -1,0 +1,622 @@
+[
+    {
+        "assesment_test_number": 1,
+        "subjects": [
+            {
+                "questionNumber": 1,
+                "question": "What is the value of 8 multiplied by 7?",
+                "options": [
+                    "1) 56",
+                    "2) 64",
+                    "3) 72",
+                    "4) 84"
+                ],
+                "explanation": "Multiplication is repeated addition. Here, 8 added together 7 times gives 56.",
+                "answer": "1) 56",
+                "grade_level": "7",
+                "subject": "Mathematics",
+                "subject_topic": "Multiplication"
+            },
+            {
+                "questionNumber": 2,
+                "question": "If x + 3 = 10, what is the value of x?",
+                "options": [
+                    "1) 10",
+                    "2) 7",
+                    "3) 5",
+                    "4) 3"
+                ],
+                "explanation": "To find x, we subtract 3 from both sides of the equation: x = 10 - 3, hence x = 7.",
+                "answer": "2) 7",
+                "grade_level": "7",
+                "subject": "Mathematics",
+                "subject_topic": "Algebra"
+            },
+            {
+                "questionNumber": 3,
+                "question": "What is the area of a rectangle with a length of 10 units and a width of 5 units?",
+                "options": [
+                    "1) 30",
+                    "2) 50",
+                    "3) 60",
+                    "4) 40"
+                ],
+                "explanation": "The area of a rectangle is calculated by multiplying length by width: Area = length \u00d7 width = 10 \u00d7 5 = 50 square units.",
+                "answer": "2) 50",
+                "grade_level": "7",
+                "subject": "Mathematics",
+                "subject_topic": "Geometry"
+            },
+            {
+                "questionNumber": 4,
+                "question": "Which of the following fractions is equivalent to 1/2?",
+                "options": [
+                    "1) 2/4",
+                    "2) 3/4",
+                    "3) 1/3",
+                    "4) 4/5"
+                ],
+                "explanation": "Fractions are equivalent if they represent the same portion of a whole. 2/4 simplifies to 1/2 by dividing both numerator and denominator by 2.",
+                "answer": "1) 2/4",
+                "grade_level": "7",
+                "subject": "Mathematics",
+                "subject_topic": "Fractions"
+            },
+            {
+                "questionNumber": 5,
+                "question": "What is the result of 18 divided by 3?",
+                "options": [
+                    "1) 5",
+                    "2) 6",
+                    "3) 8",
+                    "4) 9"
+                ],
+                "explanation": "When you divide 18 by 3, you are asking how many times 3 can fit into 18, which is 6 times.",
+                "answer": "2) 6",
+                "grade_level": "7",
+                "subject": "Mathematics",
+                "subject_topic": "Division"
+            },
+            {
+                "questionNumber": 6,
+                "question": "Which of the following is the greatest common factor of 12 and 16?",
+                "options": [
+                    "1) 2",
+                    "2) 4",
+                    "3) 6",
+                    "4) 8"
+                ],
+                "explanation": "The greatest common factor (GCF) of 12 and 16 is the largest number that can evenly divide both numbers, which is 4.",
+                "answer": "2) 4",
+                "grade_level": "7",
+                "subject": "Mathematics",
+                "subject_topic": "Factors and Multiples"
+            },
+            {
+                "questionNumber": 7,
+                "question": "What is the perimeter of a square with a side length of 4 units?",
+                "options": [
+                    "1) 8",
+                    "2) 10",
+                    "3) 12",
+                    "4) 16"
+                ],
+                "explanation": "The perimeter of a square is calculated as 4 times the side length: P = 4 \u00d7 side = 4 \u00d7 4 = 16 units.",
+                "answer": "4) 16",
+                "grade_level": "7",
+                "subject": "Mathematics",
+                "subject_topic": "Perimeter"
+            },
+            {
+                "questionNumber": 8,
+                "question": "Which number is a prime number?",
+                "options": [
+                    "1) 4",
+                    "2) 9",
+                    "3) 11",
+                    "4) 12"
+                ],
+                "explanation": "A prime number is a natural number greater than 1 that cannot be formed by multiplying two smaller natural numbers. 11 has only two factors: 1 and 11.",
+                "answer": "3) 11",
+                "grade_level": "7",
+                "subject": "Mathematics",
+                "subject_topic": "Prime Numbers"
+            },
+            {
+                "questionNumber": 9,
+                "question": "What is the value of (4^2) + (3^2)?",
+                "options": [
+                    "1) 16",
+                    "2) 25",
+                    "3) 30",
+                    "4) 10"
+                ],
+                "explanation": "Here, calculate the squares first: 4^2 = 16 and 3^2 = 9. Add them together: 16 + 9 = 25.",
+                "answer": "2) 25",
+                "grade_level": "7",
+                "subject": "Mathematics",
+                "subject_topic": "Exponents"
+            },
+            {
+                "questionNumber": 10,
+                "question": "If a triangle has angles of 60 degrees and 90 degrees, what is the measure of the third angle?",
+                "options": [
+                    "1) 30 degrees",
+                    "2) 40 degrees",
+                    "3) 50 degrees",
+                    "4) 60 degrees"
+                ],
+                "explanation": "In a triangle, the sum of all angles is 180 degrees. So, the third angle is 180 - (60 + 90) = 30 degrees.",
+                "answer": "1) 30 degrees",
+                "grade_level": "7",
+                "subject": "Mathematics",
+                "subject_topic": "Geometry"
+            }
+        ]
+    },
+    {
+        "assesment_test_number": 1,
+        "subjects": [
+            {
+                "questionNumber": 1,
+                "question": "What is the main theme of the poem \"The Road Not Taken\" by Robert Frost?",
+                "options": [
+                    "1) The importance of choices",
+                    "2) The beauty of nature",
+                    "3) The inevitability of time",
+                    "4) The value of friendship"
+                ],
+                "explanation": "The poem explores how choices shape our lives and the significance of the paths we choose.",
+                "answer": "1) The importance of choices",
+                "grade_level": "7",
+                "subject": "Language Arts",
+                "subject_topic": "Poetry"
+            },
+            {
+                "questionNumber": 2,
+                "question": "Which literary device describes the repetition of the same sounds at the beginning of words?",
+                "options": [
+                    "1) Metaphor",
+                    "2) Alliteration",
+                    "3) Hyperbole",
+                    "4) Simile"
+                ],
+                "explanation": "Alliteration is the repetition of initial consonant sounds in words that are close together, often used to create rhythm or emphasis.",
+                "answer": "2) Alliteration",
+                "grade_level": "7",
+                "subject": "Language Arts",
+                "subject_topic": "Literary Devices"
+            },
+            {
+                "questionNumber": 3,
+                "question": "What is the purpose of a thesis statement in an essay?",
+                "options": [
+                    "1) To introduce the author",
+                    "2) To summarize the main points",
+                    "3) To present the main argument or claim",
+                    "4) To provide a conclusion"
+                ],
+                "explanation": "A thesis statement presents the main argument or claim of an essay, guiding the direction of the paper.",
+                "answer": "3) To present the main argument or claim",
+                "grade_level": "7",
+                "subject": "Language Arts",
+                "subject_topic": "Essay Writing"
+            },
+            {
+                "questionNumber": 4,
+                "question": "In the sentence 'The dog barked loudly,' what part of speech is 'loudly'?",
+                "options": [
+                    "1) Noun",
+                    "2) Verb",
+                    "3) Adverb",
+                    "4) Adjective"
+                ],
+                "explanation": "'Loudly' modifies how the dog barked, describing the manner of the action, which makes it an adverb.",
+                "answer": "3) Adverb",
+                "grade_level": "7",
+                "subject": "Language Arts",
+                "subject_topic": "Parts of Speech"
+            },
+            {
+                "questionNumber": 5,
+                "question": "Which of the following is an example of a metaphor?",
+                "options": [
+                    "1) She's as brave as a lion.",
+                    "2) Time is a thief.",
+                    "3) The wind whispered through the trees.",
+                    "4) He ran like the wind."
+                ],
+                "explanation": "A metaphor is a figure of speech that implies a comparison between two unlike things without using 'like' or 'as'.",
+                "answer": "2) Time is a thief.",
+                "grade_level": "7",
+                "subject": "Language Arts",
+                "subject_topic": "Figurative Language"
+            },
+            {
+                "questionNumber": 6,
+                "question": "What type of point of view uses 'I' or 'me'?",
+                "options": [
+                    "1) Second person",
+                    "2) Third person",
+                    "3) First person",
+                    "4) Omniscient"
+                ],
+                "explanation": "First person point of view is characterized by the use of first-person pronouns like 'I' and 'me', as the narrator is part of the story.",
+                "answer": "3) First person",
+                "grade_level": "7",
+                "subject": "Language Arts",
+                "subject_topic": "Point of View"
+            },
+            {
+                "questionNumber": 7,
+                "question": "What is an example of an antonym for 'happy'?",
+                "options": [
+                    "1) Joyful",
+                    "2) Elated",
+                    "3) Sad",
+                    "4) Cheerful"
+                ],
+                "explanation": "An antonym is a word that has the opposite meaning of another word. 'Sad' is the opposite of 'happy'.",
+                "answer": "3) Sad",
+                "grade_level": "7",
+                "subject": "Language Arts",
+                "subject_topic": "Vocabulary"
+            },
+            {
+                "questionNumber": 8,
+                "question": "Identify the main idea of the following sentence: 'The ancient tree stood tall in the clearing, its branches reaching towards the sky.'",
+                "options": [
+                    "1) Trees can reach the sky",
+                    "2) The tree is ancient and prominent",
+                    "3) The clearing is vast",
+                    "4) Branches are important for trees"
+                ],
+                "explanation": "The main idea conveys the significance of the tree and its setting, highlighting its age and the grandeur of its presence.",
+                "answer": "2) The tree is ancient and prominent",
+                "grade_level": "7",
+                "subject": "Language Arts",
+                "subject_topic": "Main Idea"
+            },
+            {
+                "questionNumber": 9,
+                "question": "Which of the following is a compound sentence?",
+                "options": [
+                    "1) I like to read.",
+                    "2) I like tennis, but my sister likes soccer.",
+                    "3) The cat sat on the mat.",
+                    "4) She runs fast."
+                ],
+                "explanation": "A compound sentence contains at least two independent clauses joined by a conjunction. In this case, 'I like tennis, but my sister likes soccer' is a compound sentence.",
+                "answer": "2) I like tennis, but my sister likes soccer.",
+                "grade_level": "7",
+                "subject": "Language Arts",
+                "subject_topic": "Sentence Structure"
+            },
+            {
+                "questionNumber": 10,
+                "question": "In a narrative, what is the term for the introduction of background information?",
+                "options": [
+                    "1) Dialogue",
+                    "2) Exposition",
+                    "3) Climax",
+                    "4) Resolution"
+                ],
+                "explanation": "Exposition is the part of a story that sets up the context by providing background information on characters, settings, and events.",
+                "answer": "2) Exposition",
+                "grade_level": "7",
+                "subject": "Language Arts",
+                "subject_topic": "Narrative Structure"
+            }
+        ]
+    },
+    {
+        "assesment_test_number": 1,
+        "subjects": [
+            {
+                "questionNumber": 1,
+                "question": "What is the process by which plants make their own food using sunlight called?",
+                "options": [
+                    "1) Photosynthesis",
+                    "2) Respiration",
+                    "3) Transpiration",
+                    "4) Germination"
+                ],
+                "explanation": "Photosynthesis is the process where plants use sunlight, carbon dioxide, and water to create glucose and oxygen.",
+                "answer": "1) Photosynthesis",
+                "grade_level": "7",
+                "subject": "Science",
+                "subject_topic": "Photosynthesis"
+            },
+            {
+                "questionNumber": 2,
+                "question": "What does the term 'ecosystem' refer to?",
+                "options": [
+                    "1) A group of organisms of the same species",
+                    "2) The interaction of living and non-living things in an environment",
+                    "3) A method of classification for plants",
+                    "4) A measure of the Earth\u2019s atmosphere"
+                ],
+                "explanation": "An ecosystem includes all of the living (biotic) and non-living (abiotic) elements in a particular area interacting together.",
+                "answer": "2) The interaction of living and non-living things in an environment",
+                "grade_level": "7",
+                "subject": "Science",
+                "subject_topic": "Ecosystems"
+            },
+            {
+                "questionNumber": 3,
+                "question": "Which of the following is NOT one of the three states of matter?",
+                "options": [
+                    "1) Solid",
+                    "2) Liquid",
+                    "3) Plasma",
+                    "4) Energy"
+                ],
+                "explanation": "Energy is not a state of matter; the three states of matter are solid, liquid, and gas.",
+                "answer": "4) Energy",
+                "grade_level": "7",
+                "subject": "Science",
+                "subject_topic": "States of Matter"
+            },
+            {
+                "questionNumber": 4,
+                "question": "What is the main function of the roots of a plant?",
+                "options": [
+                    "1) To absorb sunlight",
+                    "2) To anchor the plant and absorb water and nutrients",
+                    "3) To produce flowers",
+                    "4) To generate seeds"
+                ],
+                "explanation": "The main function of roots is to anchor the plant in the soil and to absorb water and essential nutrients.",
+                "answer": "2) To anchor the plant and absorb water and nutrients",
+                "grade_level": "7",
+                "subject": "Science",
+                "subject_topic": "Plant Biology"
+            },
+            {
+                "questionNumber": 5,
+                "question": "What type of simple machine is a seesaw?",
+                "options": [
+                    "1) Lever",
+                    "2) Screw",
+                    "3) Pulley",
+                    "4) Inclined Plane"
+                ],
+                "explanation": "A seesaw is a lever that consists of a beam resting on a fulcrum, allowing two people to raise and lower on opposite sides.",
+                "answer": "1) Lever",
+                "grade_level": "7",
+                "subject": "Science",
+                "subject_topic": "Simple Machines"
+            },
+            {
+                "questionNumber": 6,
+                "question": "What is the primary gas found in the Earth's atmosphere?",
+                "options": [
+                    "1) Carbon dioxide",
+                    "2) Nitrogen",
+                    "3) Oxygen",
+                    "4) Hydrogen"
+                ],
+                "explanation": "Nitrogen makes up about 78% of the Earth's atmosphere, making it the most abundant gas.",
+                "answer": "2) Nitrogen",
+                "grade_level": "7",
+                "subject": "Science",
+                "subject_topic": "Atmosphere"
+            },
+            {
+                "questionNumber": 7,
+                "question": "Which of the following is the largest organ in the human body?",
+                "options": [
+                    "1) Heart",
+                    "2) Skin",
+                    "3) Liver",
+                    "4) Brain"
+                ],
+                "explanation": "The skin is the largest organ of the body, serving as a protective barrier and playing several vital roles such as temperature regulation and sensation.",
+                "answer": "2) Skin",
+                "grade_level": "7",
+                "subject": "Science",
+                "subject_topic": "Human Body"
+            },
+            {
+                "questionNumber": 8,
+                "question": "In the food chain, what term describes animals that eat only plants?",
+                "options": [
+                    "1) Carnivores",
+                    "2) Omnivores",
+                    "3) Herbivores",
+                    "4) Decomposers"
+                ],
+                "explanation": "Herbivores are animals that primarily consume plants, while carnivores eat other animals and omnivores eat both plants and animals.",
+                "answer": "3) Herbivores",
+                "grade_level": "7",
+                "subject": "Science",
+                "subject_topic": "Food Chains"
+            },
+            {
+                "questionNumber": 9,
+                "question": "What is the chemical formula for water?",
+                "options": [
+                    "1) H2O",
+                    "2) CO2",
+                    "3) O2",
+                    "4) NaCl"
+                ],
+                "explanation": "Water is made up of two hydrogen atoms and one oxygen atom, represented by the chemical formula H2O.",
+                "answer": "1) H2O",
+                "grade_level": "7",
+                "subject": "Science",
+                "subject_topic": "Chemistry"
+            },
+            {
+                "questionNumber": 10,
+                "question": "What type of energy is associated with motion?",
+                "options": [
+                    "1) Potential energy",
+                    "2) Kinetic energy",
+                    "3) Thermal energy",
+                    "4) Chemical energy"
+                ],
+                "explanation": "Kinetic energy is the energy of motion, while potential energy is stored energy waiting to be converted to motion.",
+                "answer": "2) Kinetic energy",
+                "grade_level": "7",
+                "subject": "Science",
+                "subject_topic": "Energy Types"
+            }
+        ]
+    },
+    {
+        "assesment_test_number": 1,
+        "subjects": [
+            {
+                "questionNumber": 1,
+                "question": "What is the primary purpose of the Constitution of the United States?",
+                "options": [
+                    "1) To outline the structure of government and protect citizens' rights",
+                    "2) To establish a national religion",
+                    "3) To declare independence from Britain",
+                    "4) To create a system of taxes"
+                ],
+                "explanation": "The Constitution serves as the foundational document establishing the framework of government and the rights of the citizens.",
+                "answer": "1) To outline the structure of government and protect citizens' rights",
+                "grade_level": "7",
+                "subject": "Social Studies",
+                "subject_topic": "Government"
+            },
+            {
+                "questionNumber": 2,
+                "question": "Which of the following best describes a democracy?",
+                "options": [
+                    "1) A government where a single ruler holds power",
+                    "2) A system where citizens vote on laws and policies",
+                    "3) A government system based on military control",
+                    "4) A form of government with a ruling class"
+                ],
+                "explanation": "A democracy is characterized by the participation of citizens in decisions making, primarily through voting.",
+                "answer": "2) A system where citizens vote on laws and policies",
+                "grade_level": "7",
+                "subject": "Social Studies",
+                "subject_topic": "Politics"
+            },
+            {
+                "questionNumber": 3,
+                "question": "What was one major effect of the Industrial Revolution?",
+                "options": [
+                    "1) Decrease in population",
+                    "2) Urbanization and the growth of factories",
+                    "3) Increase in agricultural production",
+                    "4) Expansion of monarchies"
+                ],
+                "explanation": "The Industrial Revolution led to significant urbanization as people moved to cities for factory jobs.",
+                "answer": "2) Urbanization and the growth of factories",
+                "grade_level": "7",
+                "subject": "Social Studies",
+                "subject_topic": "History"
+            },
+            {
+                "questionNumber": 4,
+                "question": "Which document abolished slavery in the United States?",
+                "options": [
+                    "1) The Declaration of Independence",
+                    "2) The Emancipation Proclamation",
+                    "3) The Bill of Rights",
+                    "4) The Articles of Confederation"
+                ],
+                "explanation": "The Emancipation Proclamation was issued by President Abraham Lincoln in 1863 and declared the freedom of slaves in Confederate-held territories.",
+                "answer": "2) The Emancipation Proclamation",
+                "grade_level": "7",
+                "subject": "Social Studies",
+                "subject_topic": "Civil Rights"
+            },
+            {
+                "questionNumber": 5,
+                "question": "What is the main economic system used in the United States?",
+                "options": [
+                    "1) Socialism",
+                    "2) Capitalism",
+                    "3) Feudalism",
+                    "4) Communism"
+                ],
+                "explanation": "The U.S. primarily operates under capitalism, where private individuals own and control property and businesses.",
+                "answer": "2) Capitalism",
+                "grade_level": "7",
+                "subject": "Social Studies",
+                "subject_topic": "Economics"
+            },
+            {
+                "questionNumber": 6,
+                "question": "During which conflict did the United States gain independence from Britain?",
+                "options": [
+                    "1) The Civil War",
+                    "2) World War I",
+                    "3) The American Revolutionary War",
+                    "4) The War of 1812"
+                ],
+                "explanation": "The American Revolutionary War (1775-1783) was fought to gain independence from British colonial rule.",
+                "answer": "3) The American Revolutionary War",
+                "grade_level": "7",
+                "subject": "Social Studies",
+                "subject_topic": "History"
+            },
+            {
+                "questionNumber": 7,
+                "question": "What is the significance of the Bill of Rights?",
+                "options": [
+                    "1) It outlines the duties of Congress",
+                    "2) It protects individual freedoms",
+                    "3) It establishes the presidency",
+                    "4) It ends all wars"
+                ],
+                "explanation": "The Bill of Rights consists of the first ten amendments to the Constitution and protects the individual rights of American citizens.",
+                "answer": "2) It protects individual freedoms",
+                "grade_level": "7",
+                "subject": "Social Studies",
+                "subject_topic": "Government"
+            },
+            {
+                "questionNumber": 8,
+                "question": "What event triggered the start of World War I?",
+                "options": [
+                    "1) The sinking of the Lusitania",
+                    "2) The assassination of Archduke Franz Ferdinand",
+                    "3) The invasion of Poland",
+                    "4) The attack on Pearl Harbor"
+                ],
+                "explanation": "The assassination of Archduke Franz Ferdinand of Austria in 1914 is widely regarded as the immediate catalyst for the beginning of World War I.",
+                "answer": "2) The assassination of Archduke Franz Ferdinand",
+                "grade_level": "7",
+                "subject": "Social Studies",
+                "subject_topic": "World History"
+            },
+            {
+                "questionNumber": 9,
+                "question": "Which amendment to the Constitution granted women the right to vote?",
+                "options": [
+                    "1) 19th Amendment",
+                    "2) 15th Amendment",
+                    "3) 1st Amendment",
+                    "4) 24th Amendment"
+                ],
+                "explanation": "The 19th Amendment, ratified in 1920, granted women the right to vote in the United States.",
+                "answer": "1) 19th Amendment",
+                "grade_level": "7",
+                "subject": "Social Studies",
+                "subject_topic": "Civil Rights"
+            },
+            {
+                "questionNumber": 10,
+                "question": "What is the name of the economic system where the resources are owned by the government?",
+                "options": [
+                    "1) Free market",
+                    "2) Socialism",
+                    "3) Capitalism",
+                    "4) Militarism"
+                ],
+                "explanation": "In socialism, the government owns the means of production and distribution of goods, aiming to achieve greater economic equality.",
+                "answer": "2) Socialism",
+                "grade_level": "7",
+                "subject": "Social Studies",
+                "subject_topic": "Economics"
+            }
+        ]
+    }
+]

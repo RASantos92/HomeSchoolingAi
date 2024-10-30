@@ -1,0 +1,467 @@
+[
+    {
+        "assesment_test_number": 1,
+        "subjects": [
+            {
+                "questionNumber": 1,
+                "question": "What is the value of x in the equation 2x + 3 = 11?",
+                "options": [
+                    "1) 4",
+                    "2) 5",
+                    "3) 6",
+                    "4) 8"
+                ],
+                "explanation": "To solve for x, subtract 3 from both sides to get 2x = 8. Then divide both sides by 2, giving x = 4.",
+                "answer": "1) 4",
+                "grade_level": "5",
+                "subject": "Mathematics",
+                "subject_topic": "Algebra"
+            },
+            {
+                "questionNumber": 2,
+                "question": "Which number is an integer?",
+                "options": [
+                    "1) -3",
+                    "2) 3.5",
+                    "3) 2/3",
+                    "4) 0.8"
+                ],
+                "explanation": "An integer is a whole number that can be positive, negative, or zero. -3 is the only option that qualifies.",
+                "answer": "1) -3",
+                "grade_level": "5",
+                "subject": "Mathematics",
+                "subject_topic": "Number Operations"
+            },
+            {
+                "questionNumber": 3,
+                "question": "What is 15% of 200?",
+                "options": [
+                    "1) 25",
+                    "2) 30",
+                    "3) 35",
+                    "4) 40"
+                ],
+                "explanation": "To find 15% of 200, multiply 200 by 0.15 which equals 30.",
+                "answer": "2) 30",
+                "grade_level": "5",
+                "subject": "Mathematics",
+                "subject_topic": "Percentages"
+            },
+            {
+                "questionNumber": 4,
+                "question": "What is the next number in the sequence: 2, 4, 8, 16, ___?",
+                "options": [
+                    "1) 20",
+                    "2) 24",
+                    "3) 32",
+                    "4) 36"
+                ],
+                "explanation": "This is a geometric sequence where each number is multiplied by 2. Hence, 16 multiplied by 2 equals 32.",
+                "answer": "3) 32",
+                "grade_level": "5",
+                "subject": "Mathematics",
+                "subject_topic": "Sequences"
+            },
+            {
+                "questionNumber": 5,
+                "question": "What is the area of a rectangle with a length of 10 and a width of 5?",
+                "options": [
+                    "1) 30",
+                    "2) 50",
+                    "3) 70",
+                    "4) 100"
+                ],
+                "explanation": "The area of a rectangle is calculated as length multiplied by width, so 10 * 5 = 50.",
+                "answer": "2) 50",
+                "grade_level": "5",
+                "subject": "Mathematics",
+                "subject_topic": "Geometry"
+            },
+            {
+                "questionNumber": 6,
+                "question": "If a triangle has sides of lengths 3, 4, and 5, what type of triangle is it?",
+                "options": [
+                    "1) Equilateral",
+                    "2) Isosceles",
+                    "3) Right",
+                    "4) Acute"
+                ],
+                "explanation": "A triangle with sides of lengths 3, 4, and 5 is a right triangle, as it follows Pythagoras' theorem (3^2 + 4^2 = 5^2).",
+                "answer": "3) Right",
+                "grade_level": "5",
+                "subject": "Mathematics",
+                "subject_topic": "Geometry"
+            },
+            {
+                "questionNumber": 7,
+                "question": "Which of the following fractions is equivalent to 1/2?",
+                "options": [
+                    "1) 3/6",
+                    "2) 5/10",
+                    "3) 2/4",
+                    "4) All of the above"
+                ],
+                "explanation": "All the options simplify to 1/2, therefore the correct option is All of the above.",
+                "answer": "4) All of the above",
+                "grade_level": "5",
+                "subject": "Mathematics",
+                "subject_topic": "Fractions"
+            },
+            {
+                "questionNumber": 8,
+                "question": "What is the value of 7^2?",
+                "options": [
+                    "1) 14",
+                    "2) 21",
+                    "3) 49",
+                    "4) 64"
+                ],
+                "explanation": "7 squared (7^2) means 7 multiplied by itself, which is 49.",
+                "answer": "3) 49",
+                "grade_level": "5",
+                "subject": "Mathematics",
+                "subject_topic": "Exponents"
+            },
+            {
+                "questionNumber": 9,
+                "question": "If you roll a fair six-sided die, what is the probability of rolling a 4?",
+                "options": [
+                    "1) 1/6",
+                    "2) 1/3",
+                    "3) 1/4",
+                    "4) 1/2"
+                ],
+                "explanation": "The probability of rolling a specific number on a fair six-sided die is 1 out of 6 possible outcomes. Thus, the probability is 1/6.",
+                "answer": "1) 1/6",
+                "grade_level": "5",
+                "subject": "Mathematics",
+                "subject_topic": "Probability"
+            },
+            {
+                "questionNumber": 10,
+                "question": "What is the sum of the angles in a triangle?",
+                "options": [
+                    "1) 90 degrees",
+                    "2) 180 degrees",
+                    "3) 270 degrees",
+                    "4) 360 degrees"
+                ],
+                "explanation": "The sum of the internal angles in any triangle is always 180 degrees.",
+                "answer": "2) 180 degrees",
+                "grade_level": "5",
+                "subject": "Mathematics",
+                "subject_topic": "Geometry"
+            }
+        ]
+    },
+    {
+        "assesment_test_number": 1,
+        "subjects": [
+            {
+                "questionNumber": 1,
+                "question": "What is the main idea of a story?",
+                "options": [
+                    "1) The central thought or concept of the story",
+                    "2) The background of the author",
+                    "3) The chronological order of events",
+                    "4) The conclusion or ending of the tale"
+                ],
+                "explanation": "The main idea of a story is the central thought or concept that the author wants to convey, summarizing the essence of what the story is about.",
+                "answer": "1) The central thought or concept of the story",
+                "grade_level": "5",
+                "subject": "Language Arts",
+                "subject_topic": "Reading Comprehension"
+            },
+            {
+                "questionNumber": 2,
+                "question": "Which of the following sentences uses correct punctuation?",
+                "options": [
+                    "1) She said, 'it will rain tomorrow'",
+                    "2) 'He loves going to the park.'",
+                    "3) Can we go to the store?",
+                    "4) What time is it today!"
+                ],
+                "explanation": "Option 3 uses proper punctuation to form a question, ending in a question mark, which is the correct punctuation for interrogative sentences.",
+                "answer": "3) Can we go to the store?",
+                "grade_level": "5",
+                "subject": "Language Arts",
+                "subject_topic": "Punctuation"
+            },
+            {
+                "questionNumber": 3,
+                "question": "What is a theme in literature?",
+                "options": [
+                    "1) The setting where the story takes place",
+                    "2) A recurring idea or message in a work",
+                    "3) The characters in the story",
+                    "4) The author's biography"
+                ],
+                "explanation": "Theme refers to a recurring idea or message in a literary work that conveys insights about life or human nature.",
+                "answer": "2) A recurring idea or message in a work",
+                "grade_level": "5",
+                "subject": "Language Arts",
+                "subject_topic": "Literary Elements"
+            },
+            {
+                "questionNumber": 4,
+                "question": "What is an antonym for 'happy'?",
+                "options": [
+                    "1) Joyful",
+                    "2) Elated",
+                    "3) Sad",
+                    "4) Cheerful"
+                ],
+                "explanation": "An antonym is a word that has the opposite meaning, and 'sad' is the opposite of 'happy.'",
+                "answer": "3) Sad",
+                "grade_level": "5",
+                "subject": "Language Arts",
+                "subject_topic": "Vocabulary"
+            },
+            {
+                "questionNumber": 5,
+                "question": "Which of these sentences is an example of a simile?",
+                "options": [
+                    "1) The wind howled",
+                    "2) He as brave as a lion",
+                    "3) The stars twinkled",
+                    "4) She is a really nice person"
+                ],
+                "explanation": "A simile compares two unlike things using 'like' or 'as', and option 2 does that by comparing a person's bravery to that of a lion.",
+                "answer": "2) He as brave as a lion",
+                "grade_level": "5",
+                "subject": "Language Arts",
+                "subject_topic": "Figurative Language"
+            },
+            {
+                "questionNumber": 6,
+                "question": "What is the purpose of a thesis statement in an essay?",
+                "options": [
+                    "1) To summarize the essay",
+                    "2) To introduce the topic",
+                    "3) To present the main argument or point of the essay",
+                    "4) To provide examples and evidence"
+                ],
+                "explanation": "A thesis statement presents the main argument or point of the essay, letting the readers know what to expect.",
+                "answer": "3) To present the main argument or point of the essay",
+                "grade_level": "6",
+                "subject": "Language Arts",
+                "subject_topic": "Writing Skills"
+            },
+            {
+                "questionNumber": 7,
+                "question": "What does the term 'characterization' refer to?",
+                "options": [
+                    "1) The setting of the story",
+                    "2) The way an author describes and develops characters",
+                    "3) The events in a story",
+                    "4) The author's style of writing"
+                ],
+                "explanation": "Characterization is the process by which the author describes and develops characters in a story.",
+                "answer": "2) The way an author describes and develops characters",
+                "grade_level": "6",
+                "subject": "Language Arts",
+                "subject_topic": "Literary Elements"
+            },
+            {
+                "questionNumber": 8,
+                "question": "What is a fable?",
+                "options": [
+                    "1) A story that explains a natural phenomenon",
+                    "2) A short story with a moral lesson, often featuring animals",
+                    "3) A factual account of an event",
+                    "4) A lengthy fictional novel"
+                ],
+                "explanation": "A fable is a brief story intended to teach a moral lesson, frequently using animals as characters.",
+                "answer": "2) A short story with a moral lesson, often featuring animals",
+                "grade_level": "5",
+                "subject": "Language Arts",
+                "subject_topic": "Types of Literature"
+            },
+            {
+                "questionNumber": 9,
+                "question": "What is an example of a compound sentence?",
+                "options": [
+                    "1) I like apples and oranges.",
+                    "2) She danced gracefully; the audience applauded.",
+                    "3) Although it was raining, we went outside.",
+                    "4) The dog barked loudly."
+                ],
+                "explanation": "A compound sentence has two independent clauses joined by a conjunction; option 2 fits this definition.",
+                "answer": "2) She danced gracefully; the audience applauded.",
+                "grade_level": "6",
+                "subject": "Language Arts",
+                "subject_topic": "Sentence Structure"
+            },
+            {
+                "questionNumber": 10,
+                "question": "In poetry, what is a stanza?",
+                "options": [
+                    "1) A group of lines forming a unit",
+                    "2) A type of rhyme scheme",
+                    "3) A metaphor used within a poem",
+                    "4) The title of the poem"
+                ],
+                "explanation": "A stanza in poetry is a group of lines that form a unit, similar to a paragraph in prose.",
+                "answer": "1) A group of lines forming a unit",
+                "grade_level": "5",
+                "subject": "Language Arts",
+                "subject_topic": "Poetry Structure"
+            }
+        ]
+    },
+    {
+        "assesment_test_number": 1,
+        "subjects": [
+            {
+                "questionNumber": 1,
+                "question": "What is the process by which plants make their food using sunlight?",
+                "options": [
+                    "1) Photosynthesis",
+                    "2) Respiration",
+                    "3) Digestion",
+                    "4) Fermentation"
+                ],
+                "explanation": "Plants use the process of photosynthesis to convert sunlight, water, and carbon dioxide into glucose and oxygen. This process is essential for plant growth and energy production.",
+                "answer": "1) Photosynthesis",
+                "grade_level": "5",
+                "subject": "Science",
+                "subject_topic": "Photosynthesis"
+            },
+            {
+                "questionNumber": 2,
+                "question": "Which part of the cell contains the genetic material?",
+                "options": [
+                    "1) Nucleus",
+                    "2) Cytoplasm",
+                    "3) Cell Membrane",
+                    "4) Ribosome"
+                ],
+                "explanation": "The nucleus is the organelle in a cell that contains the cell's genetic material, DNA. It acts as the control center for cell activities.",
+                "answer": "1) Nucleus",
+                "grade_level": "5",
+                "subject": "Science",
+                "subject_topic": "Cell Biology"
+            },
+            {
+                "questionNumber": 3,
+                "question": "What is the basic unit of life?",
+                "options": [
+                    "1) Atom",
+                    "2) Molecule",
+                    "3) Cell",
+                    "4) Tissue"
+                ],
+                "explanation": "The cell is the basic unit of life. All living organisms are made up of cells, which perform essential functions for life.",
+                "answer": "3) Cell",
+                "grade_level": "5",
+                "subject": "Science",
+                "subject_topic": "Cell Structure and Function"
+            },
+            {
+                "questionNumber": 4,
+                "question": "What is H2O commonly known as?",
+                "options": [
+                    "1) Oxygen",
+                    "2) Hydrogen Peroxide",
+                    "3) Water",
+                    "4) Ammonia"
+                ],
+                "explanation": "H2O is the chemical formula for water, which is essential for all known forms of life.",
+                "answer": "3) Water",
+                "grade_level": "5",
+                "subject": "Science",
+                "subject_topic": "Chemical Compounds"
+            },
+            {
+                "questionNumber": 5,
+                "question": "Which planet is known as the Red Planet?",
+                "options": [
+                    "1) Earth",
+                    "2) Mars",
+                    "3) Venus",
+                    "4) Jupiter"
+                ],
+                "explanation": "Mars is often referred to as the Red Planet due to its reddish appearance caused by iron oxide (rust) on its surface.",
+                "answer": "2) Mars",
+                "grade_level": "5",
+                "subject": "Science",
+                "subject_topic": "Space Science"
+            },
+            {
+                "questionNumber": 6,
+                "question": "Which force pulls objects toward the center of the Earth?",
+                "options": [
+                    "1) Friction",
+                    "2) Gravity",
+                    "3) Magnetism",
+                    "4) Velocity"
+                ],
+                "explanation": "Gravity is the force that attracts objects toward each other, particularly toward the Earth's center, affecting all objects with mass.",
+                "answer": "2) Gravity",
+                "grade_level": "5",
+                "subject": "Science",
+                "subject_topic": "Forces and Motion"
+            },
+            {
+                "questionNumber": 7,
+                "question": "What gas do humans breathe in that is essential for survival?",
+                "options": [
+                    "1) Nitrogen",
+                    "2) Carbon Dioxide",
+                    "3) Oxygen",
+                    "4) Helium"
+                ],
+                "explanation": "Oxygen is the gas that humans and most other living organisms need to breathe in order to survive, as it is essential for cellular respiration.",
+                "answer": "3) Oxygen",
+                "grade_level": "5",
+                "subject": "Science",
+                "subject_topic": "Human Biology"
+            },
+            {
+                "questionNumber": 8,
+                "question": "What is the main source of energy for the Earth?",
+                "options": [
+                    "1) The Moon",
+                    "2) The Sun",
+                    "3) Wind",
+                    "4) Oil"
+                ],
+                "explanation": "The Sun is the main source of energy for the Earth, providing the necessary light and heat that sustains life and drives weather patterns.",
+                "answer": "2) The Sun",
+                "grade_level": "5",
+                "subject": "Science",
+                "subject_topic": "Solar System"
+            },
+            {
+                "questionNumber": 9,
+                "question": "What type of rock is formed by the cooling and solidification of magma or lava?",
+                "options": [
+                    "1) Sedimentary",
+                    "2) Metamorphic",
+                    "3) Igneous",
+                    "4) Fossil"
+                ],
+                "explanation": "Igneous rocks are formed from the cooling and solidification of magma or lava, which can occur either below Earth's surface or upon eruption.",
+                "answer": "3) Igneous",
+                "grade_level": "5",
+                "subject": "Science",
+                "subject_topic": "Geology"
+            },
+            {
+                "questionNumber": 10,
+                "question": "Which part of the plant is primarily responsible for absorbing water and nutrients from the soil?",
+                "options": [
+                    "1) Stem",
+                    "2) Leaf",
+                    "3) Root",
+                    "4) Flower"
+                ],
+                "explanation": "The root is the part of the plant that anchors it in the soil and is responsible for absorbing water and nutrients necessary for growth.",
+                "answer": "3) Root",
+                "grade_level": "5",
+                "subject": "Science",
+                "subject_topic": "Plant Biology"
+            }
+        ]
+    }
+]

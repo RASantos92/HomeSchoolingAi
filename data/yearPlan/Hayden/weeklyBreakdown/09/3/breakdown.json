@@ -1,0 +1,231 @@
+[
+    {
+        "days": [
+            {
+                "day_name": "Monday",
+                "subjects": [
+                    {
+                        "subject_name": "Language Arts",
+                        "subject_topic": "Review of Parts of Speech",
+                        "subject_daily_intro": "Today, we will start with a refresh on the parts of speech. You will learn about nouns, verbs, adjectives, adverbs, pronouns, prepositions, conjunctions, and interjections. This foundational knowledge will help you understand and analyze sentences better.",
+                        "subject_daily_sub_topics": [
+                            "Identifying parts of speech in sentences",
+                            "Using parts of speech in writing"
+                        ],
+                        "subject_topic_daily_summary": "By the end of today's Language Arts session, you will have a solid understanding of the eight parts of speech and how they function within sentences."
+                    },
+                    {
+                        "subject_name": "Mathematics",
+                        "subject_topic": "Fractions in Real Life",
+                        "subject_daily_intro": "In today's math lesson, we will explore how fractions are used in real life. This includes looking at measurements, cooking, and other everyday activities.",
+                        "subject_daily_sub_topics": [
+                            "Understanding fraction notation",
+                            "Converting improper fractions to mixed numbers"
+                        ],
+                        "subject_topic_daily_summary": "By the end of this lesson, you will be able to recognize and apply fractions in various real-life situations."
+                    },
+                    {
+                        "subject_name": "Science",
+                        "subject_topic": "Review of States of Matter",
+                        "subject_daily_intro": "Today, we will review the three main states of matter: solid, liquid, and gas. We will explore their properties and how matter can change states.",
+                        "subject_daily_sub_topics": [
+                            "Phase changes: melting, freezing, evaporation, condensation",
+                            "Examples of each state of matter in everyday life"
+                        ],
+                        "subject_topic_daily_summary": "You should have a clear understanding of the states of matter and the physical processes that cause changes between them."
+                    },
+                    {
+                        "subject_name": "Social Studies",
+                        "subject_topic": "Introduction to Map Skills",
+                        "subject_daily_intro": "Today marks the beginning of our study on map skills. We will discuss the importance of maps and how to read them effectively.",
+                        "subject_daily_sub_topics": [
+                            "Understanding different types of maps",
+                            "Key elements on a map: scale, legend, compass rose"
+                        ],
+                        "subject_topic_daily_summary": "By the end of today's lesson, you will know the fundamental skills involved in reading and interpreting maps."
+                    }
+                ]
+            },
+            {
+                "day_name": "Tuesday",
+                "subjects": [
+                    {
+                        "subject_name": "Language Arts",
+                        "subject_topic": "Review of Parts of Speech",
+                        "subject_daily_intro": "Building on yesterday's lesson, we will dive deeper into parts of speech today, focusing on how they work together in sentences.",
+                        "subject_daily_sub_topics": [
+                            "Sentence diagramming to identify parts of speech",
+                            "Writing sentences using various parts of speech"
+                        ],
+                        "subject_topic_daily_summary": "You will reinforce your understanding of parts of speech and how they enhance sentence structure."
+                    },
+                    {
+                        "subject_name": "Mathematics",
+                        "subject_topic": "Fractions in Real Life",
+                        "subject_daily_intro": "Today we will continue our exploration of fractions with practical applications and problem-solving.",
+                        "subject_daily_sub_topics": [
+                            "Adding and subtracting fractions with like denominators",
+                            "Real-world scenarios that involve fractions"
+                        ],
+                        "subject_topic_daily_summary": "You will be able to apply your fraction knowledge to practical scenarios and perform operations with fractions."
+                    },
+                    {
+                        "subject_name": "Science",
+                        "subject_topic": "Review of States of Matter",
+                        "subject_daily_intro": "Today, we will conduct a fun activity to revisit the states of matter and how they can change forms through various processes.",
+                        "subject_daily_sub_topics": [
+                            "Conducting simple experiments with ice and steam",
+                            "Concrete examples from nature"
+                        ],
+                        "subject_topic_daily_summary": "You should have hands-on experience with the states of matter and understand the conditions that cause changes."
+                    },
+                    {
+                        "subject_name": "Social Studies",
+                        "subject_topic": "Introduction to Map Skills",
+                        "subject_daily_intro": "Continuing from yesterday, we will work on understanding map symbols and orientation today.",
+                        "subject_daily_sub_topics": [
+                            "Reading coordinates",
+                            "Exploring different types of maps (topographic, political)"
+                        ],
+                        "subject_topic_daily_summary": "You will gain essential skills in comprehending map symbols and orientation, which is vital for further map studies."
+                    }
+                ]
+            },
+            {
+                "day_name": "Wednesday",
+                "subjects": [
+                    {
+                        "subject_name": "Language Arts",
+                        "subject_topic": "Review of Parts of Speech",
+                        "subject_daily_intro": "Today, we will explore how different parts of speech affect the meaning of sentences and enhance our writing.",
+                        "subject_daily_sub_topics": [
+                            "Using adjectives and adverbs effectively in writing",
+                            "Creating a short story using all parts of speech"
+                        ],
+                        "subject_topic_daily_summary": "You will learn how to create more engaging sentences by using various parts of speech skillfully."
+                    },
+                    {
+                        "subject_name": "Mathematics",
+                        "subject_topic": "Fractions in Real Life",
+                        "subject_daily_intro": "Today, we will tackle more complex fraction problems and see how they are used in financial situations, like budgeting or discounts.",
+                        "subject_daily_sub_topics": [
+                            "Calculating discounts and sales tax using fractions",
+                            "Fraction word problems"
+                        ],
+                        "subject_topic_daily_summary": "By the end of the session, you should be comfortable applying fractions to financial contexts."
+                    },
+                    {
+                        "subject_name": "Science",
+                        "subject_topic": "Review of States of Matter",
+                        "subject_daily_intro": "Today, we will relate our knowledge of states of matter to real-world examples, including how temperature affects states.",
+                        "subject_daily_sub_topics": [
+                            "Investigating everyday processes like freezing and boiling",
+                            "The role of pressure in changing states"
+                        ],
+                        "subject_topic_daily_summary": "You will understand the practical implications of states of matter and temperature changes."
+                    },
+                    {
+                        "subject_name": "Social Studies",
+                        "subject_topic": "Introduction to Map Skills",
+                        "subject_daily_intro": "Continuing with map skills, we will learn about scale and distance on maps today.",
+                        "subject_daily_sub_topics": [
+                            "Calculating real-life distance using map scale",
+                            "Using scales to assess journey times"
+                        ],
+                        "subject_topic_daily_summary": "You will learn how to use scale to understand distances on maps, which is critical for navigation."
+                    }
+                ]
+            },
+            {
+                "day_name": "Thursday",
+                "subjects": [
+                    {
+                        "subject_name": "Language Arts",
+                        "subject_topic": "Review of Parts of Speech",
+                        "subject_daily_intro": "Today, we will explore how authors utilize different parts of speech to create tone and style in their writing.",
+                        "subject_daily_sub_topics": [
+                            "Analyzing text for parts of speech usage",
+                            "Creating a descriptive paragraph"
+                        ],
+                        "subject_topic_daily_summary": "You will appreciate the impact of parts of speech on writing and enhance your creative writing skills."
+                    },
+                    {
+                        "subject_name": "Mathematics",
+                        "subject_topic": "Fractions in Real Life",
+                        "subject_daily_intro": "In today's math session, we will examine the relationship between fractions and ratios, including how to convert fractions to percentages.",
+                        "subject_daily_sub_topics": [
+                            "Working with ratios in real-life examples",
+                            "Converting fractions to percentages"
+                        ],
+                        "subject_topic_daily_summary": "By the end of this lesson, you will be able to connect fractions to other numerical representations, deepening your number sense."
+                    },
+                    {
+                        "subject_name": "Science",
+                        "subject_topic": "Review of States of Matter",
+                        "subject_daily_intro": "Today, we will engage with the concept of mixtures and solutions, linking back to our states of matter understanding.",
+                        "subject_daily_sub_topics": [
+                            "Identifying mixtures and solutions in daily life",
+                            "The effects of solubility"
+                        ],
+                        "subject_topic_daily_summary": "You will have a clearer understanding of mixtures, solutions, and their relation to the states of matter."
+                    },
+                    {
+                        "subject_name": "Social Studies",
+                        "subject_topic": "Introduction to Map Skills",
+                        "subject_daily_intro": "Today, we will focus on the compass rose and its importance in reading maps accurately.",
+                        "subject_daily_sub_topics": [
+                            "Understanding cardinal and intermediate directions",
+                            "Navigating using a compass"
+                        ],
+                        "subject_topic_daily_summary": "You will master how to navigate maps using the compass rose, essential for geographical literacy."
+                    }
+                ]
+            },
+            {
+                "day_name": "Friday",
+                "subjects": [
+                    {
+                        "subject_name": "Language Arts",
+                        "subject_topic": "Review of Parts of Speech",
+                        "subject_daily_intro": "In our final session on parts of speech, we will create a mini-project that showcases our understanding of this topic.",
+                        "subject_daily_sub_topics": [
+                            "Creating a poster or digital presentation",
+                            "Collaborating on a parts of speech quiz"
+                        ],
+                        "subject_topic_daily_summary": "By the end of the week, you will demonstrate your comprehensive grasp of parts of speech through a creative project."
+                    },
+                    {
+                        "subject_name": "Mathematics",
+                        "subject_topic": "Fractions in Real Life",
+                        "subject_daily_intro": "Today, we will finalize our week with a project showcasing your understanding of fractions through real-world applications.",
+                        "subject_daily_sub_topics": [
+                            "Creating a practical math project involving fractions",
+                            "Peer review of fraction applications"
+                        ],
+                        "subject_topic_daily_summary": "You will take pride in presenting a project that highlights the relevance of fractions in daily life."
+                    },
+                    {
+                        "subject_name": "Science",
+                        "subject_topic": "Review of States of Matter",
+                        "subject_daily_intro": "In our last science session, we will create a visual representation of our understanding of the states of matter.",
+                        "subject_daily_sub_topics": [
+                            "Crafting diagrams of states and examples",
+                            "Conducting a small presentation of findings"
+                        ],
+                        "subject_topic_daily_summary": "You will consolidate your knowledge of the states of matter through a creative and informative representation."
+                    },
+                    {
+                        "subject_name": "Social Studies",
+                        "subject_topic": "Introduction to Map Skills",
+                        "subject_daily_intro": "To conclude our week on map skills, we will review everything learned and present our map findings and skills acquired.",
+                        "subject_daily_sub_topics": [
+                            "Creating a simple map of your room or neighborhood",
+                            "Presenting learned map skills"
+                        ],
+                        "subject_topic_daily_summary": "You will finish the week with a comprehensive understanding of map skills and the ability to apply what you've learned."
+                    }
+                ]
+            }
+        ]
+    }
+]
